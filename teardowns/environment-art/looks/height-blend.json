@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"lower","shape":"box","size":[1.5,0.12,0.9],"pos":[0,0,0],"color":"#9b7950","material":"matte"},{"slot":"raised","shape":"box","size":[0.72,0.1,0.62],"pos":[0.18,0.1,0.02],"color":"#77776a","material":"matte"},{"slot":"gaps","shape":"particles","count":26,"box":[0.58,0.03,0.45],"pos":[0.18,0.17,0.02],"size":0.025,"color":"#aa8a58","motion":"settle"}]}}

@@ -1,0 +1,44 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "switch",
+        "shape": "cylinder",
+        "radiusTop": 0.16,
+        "radiusBottom": 0.16,
+        "height": 0.08,
+        "pos": [-0.95, 0.23, 0],
+        "rot": [90, 0, 0],
+        "color": "#8f958a",
+        "material": "matte"
+      },
+      {
+        "slot": "encoded",
+        "shape": "plane",
+        "size": [1.5, 0.42],
+        "pos": [0, 0.63, 0],
+        "color": "#8a836f",
+        "material": "matte",
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 150 42'><rect width='150' height='42' fill='#eeeadd'/><rect x='7' y='8' width='22' height='18' fill='#222'/><rect x='35' y='8' width='22' height='18' fill='#555'/><rect x='63' y='8' width='22' height='18' fill='#888'/><rect x='91' y='8' width='22' height='18' fill='#bbb'/><rect x='119' y='8' width='22' height='18' fill='#eee'/><text x='7' y='38' font-family='sans-serif' font-size='9' fill='#292a28'>sRGB encoded</text></svg>"
+      },
+      {
+        "slot": "linear",
+        "shape": "plane",
+        "size": [1.5, 0.42],
+        "pos": [0, 0.12, 0],
+        "color": "#8a836f",
+        "material": "matte",
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 150 42'><rect width='150' height='42' fill='#eeeadd'/><rect x='7' y='8' width='22' height='18' fill='#222'/><rect x='35' y='8' width='22' height='18' fill='#3e3e3e'/><rect x='63' y='8' width='22' height='18' fill='#696969'/><rect x='91' y='8' width='22' height='18' fill='#a0a0a0'/><rect x='119' y='8' width='22' height='18' fill='#eee'/><text x='7' y='38' font-family='sans-serif' font-size='9' fill='#292a28'>linear light</text></svg>"
+      },
+      {
+        "slot": "data",
+        "shape": "plane",
+        "size": [0.84, 0.32],
+        "pos": [0.82, -0.25, 0.01],
+        "color": "#d7d5ca",
+        "material": "screen",
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 84 32'><rect width='84' height='32' rx='3' fill='#d7d5ca'/><text x='7' y='13' font-family='sans-serif' font-size='8' fill='#292a28'>data maps</text><text x='7' y='25' font-family='sans-serif' font-size='8' fill='#292a28'>stay linear</text></svg>"
+      }
+    ]
+  }
+}
