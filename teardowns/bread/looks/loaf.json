@@ -1,0 +1,34 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"board","shape":"box","size":[3.4,0.16,2.1],"pos":[0,-0.08,0],"radius":0.1,"color":"#8b5a3c","material":"matte"},
+      {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.84,0],[1.12,0.1],[1.23,0.31],[1.18,0.56],[0.98,0.77],[0.59,0.92],[0,0.97]],"pos":[-0.35,0,0],"color":"#a9582a","material":"matte"},
+      {"slot":"score","shape":"box","size":[0.85,0.06,0.18],"pos":[-0.35,0.935,0.02],"rot":[0,25,0],"color":"#e6bd84","material":"matte"},
+      {"slot":"ear","shape":"box","size":[0.82,0.1,0.06],"pos":[-0.38,0.98,-0.09],"rot":[-30,25,0],"color":"#5c2c14","material":"matte"},
+      {"slot":"slice","shape":"plane","size":[1.05,0.74],"pos":[1.05,0.37,0.45],"color":"#ffffff","material":"matte","svg":"<svg viewBox=\"0 0 200 140\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Arial, sans-serif\"><path d=\"M6 136 Q4 24 100 10 Q196 24 194 136 Z\" fill=\"#8a4520\"/><path d=\"M14 130 Q14 34 100 20 Q186 34 186 130 Z\" fill=\"#efd7a6\"/><g fill=\"#c49662\"><ellipse cx=\"58\" cy=\"58\" rx=\"10\" ry=\"7\"/><ellipse cx=\"96\" cy=\"46\" rx=\"12\" ry=\"8\"/><ellipse cx=\"138\" cy=\"60\" rx=\"9\" ry=\"7\"/><ellipse cx=\"40\" cy=\"92\" rx=\"9\" ry=\"6\"/><ellipse cx=\"78\" cy=\"84\" rx=\"13\" ry=\"8\"/><ellipse cx=\"120\" cy=\"90\" rx=\"11\" ry=\"7\"/><ellipse cx=\"158\" cy=\"96\" rx=\"9\" ry=\"6\"/><ellipse cx=\"60\" cy=\"116\" rx=\"9\" ry=\"5\"/><ellipse cx=\"102\" cy=\"118\" rx=\"10\" ry=\"6\"/><ellipse cx=\"144\" cy=\"120\" rx=\"8\" ry=\"5\"/></g></svg>"}
+    ]
+  },
+  "items": {
+    "country-sourdough": {"tint":{"loaf":"#9a4c22"}},
+    "baguette": {"look":{"parts":[
+      {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.2,0.02],[0.27,0.22],[0.28,1.2],[0.27,2.18],[0.2,2.38],[0,2.4]],"pos":[0.85,0.28,0.1],"rot":[0,0,90],"color":"#c27a3a","material":"matte"},
+      {"slot":"score","shape":"box","size":[0.5,0.05,0.11],"pos":[0.25,0.55,0.1],"rot":[0,18,0],"color":"#e8c48e","material":"matte"},
+      {"slot":"ear","shape":"box","size":[0.5,0.05,0.11],"pos":[-0.5,0.55,0.1],"rot":[0,18,0],"color":"#e8c48e","material":"matte"}]}},
+    "sandwich-loaf": {"look":{"parts":[
+      {"slot":"loaf","shape":"box","size":[1.7,1.0,1.15],"pos":[-0.35,0.5,0],"radius":0.12,"color":"#c58a51","material":"matte"},
+      {"slot":"score","shape":"box","size":[1.8,0.3,1.2],"pos":[-0.35,1.08,0],"radius":0.14,"color":"#a8682f","material":"matte"},
+      {"slot":"ear","shape":"box","size":[0.01,0.01,0.01],"pos":[-0.35,0.5,0],"opacity":0}]}},
+    "rye": {"look":{"parts":[
+      {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.87,0],[1.12,0.1],[1.2,0.28],[1.15,0.5],[0.95,0.7],[0.56,0.81],[0,0.84]],"pos":[-0.35,0,0],"color":"#5e3a28","material":"matte"},
+      {"slot":"score","shape":"particles","count":50,"box":[1.3,0.06,1.3],"pos":[-0.35,0.83,0],"size":0.035,"color":"#c9a46a","motion":"settle"},
+      {"slot":"ear","shape":"box","size":[0.01,0.01,0.01],"pos":[-0.35,0.4,0],"opacity":0}]}},
+    "enriched": {"look":{"parts":[
+      {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.87,0],[1.12,0.11],[1.18,0.36],[1.04,0.64],[0.7,0.81],[0,0.84]],"pos":[-0.35,0,0],"color":"#b8641c","material":"gloss"},
+      {"slot":"score","shape":"sphere","radius":0.36,"pos":[-0.35,1.0,0],"color":"#b8641c","material":"gloss"},
+      {"slot":"ear","shape":"box","size":[0.01,0.01,0.01],"pos":[-0.35,0.4,0],"opacity":0}]}},
+    "focaccia": {"look":{"parts":[
+      {"slot":"loaf","shape":"box","size":[2.0,0.3,1.6],"pos":[-0.35,0.15,0],"radius":0.14,"color":"#d29447","material":"gloss"},
+      {"slot":"score","shape":"particles","count":36,"box":[1.7,0.04,1.35],"pos":[-0.35,0.33,0],"size":0.05,"color":"#4c733d","motion":"settle"},
+      {"slot":"ear","shape":"box","size":[0.01,0.01,0.01],"pos":[-0.35,0.15,0],"opacity":0}]}}
+  }
+}

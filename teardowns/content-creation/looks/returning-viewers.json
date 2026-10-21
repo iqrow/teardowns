@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.32,0.84,0.014],"pos":[0,0,-0.009],"color":"#20242c","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.32,0.84],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\"><rect width=\"440\" height=\"280\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">NEW VS RETURNING VIEWERS</text><rect x=\"40\" y=\"132\" width=\"52\" height=\"88.56\" fill=\"#3ea6ff\"/><rect x=\"40\" y=\"220.56\" width=\"52\" height=\"19.439999999999998\" fill=\"#ffd23f\"/><text x=\"66\" y=\"262\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" text-anchor=\"middle\">Jun</text><rect x=\"116\" y=\"114.00000000000001\" width=\"52\" height=\"98.27999999999999\" fill=\"#3ea6ff\"/><rect x=\"116\" y=\"212.28\" width=\"52\" height=\"27.719999999999995\" fill=\"#ffd23f\"/><text x=\"142\" y=\"262\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" text-anchor=\"middle\">Jul</text><rect x=\"192\" y=\"105\" width=\"52\" height=\"98.55\" fill=\"#3ea6ff\"/><rect x=\"192\" y=\"203.55\" width=\"52\" height=\"36.45\" fill=\"#ffd23f\"/><text x=\"218\" y=\"262\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" text-anchor=\"middle\">Aug</text><rect x=\"268\" y=\"85.19999999999999\" width=\"52\" height=\"106.812\" fill=\"#3ea6ff\"/><rect x=\"268\" y=\"192.012\" width=\"52\" height=\"47.98800000000001\" fill=\"#ffd23f\"/><text x=\"294\" y=\"262\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" text-anchor=\"middle\">Sep</text><rect x=\"344\" y=\"60\" width=\"52\" height=\"115.2\" fill=\"#3ea6ff\"/><rect x=\"344\" y=\"175.2\" width=\"52\" height=\"64.8\" fill=\"#ffd23f\"/><text x=\"370\" y=\"262\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" text-anchor=\"middle\">Oct</text><rect x=\"300\" y=\"52\" width=\"12\" height=\"12\" fill=\"#3ea6ff\"/><text x=\"318\" y=\"63\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#ffffff\">new</text><rect x=\"360\" y=\"52\" width=\"12\" height=\"12\" fill=\"#ffd23f\"/><text x=\"378\" y=\"63\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#ffffff\">returning</text></svg>"
+      }
+    ]
+  }
+}

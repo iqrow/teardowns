@@ -1,0 +1,90 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.5,0.34,0.26],
+        "color": "#232529",
+        "material": "matte",
+        "pos": [0,0,0],
+        "rot": [24,-50,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.11,
+        "radiusBottom": 0.12,
+        "height": 0.2,
+        "pos": [-0.1532,-0.0614,0.1134],
+        "rot": [114,0,50],
+        "color": "#2c2e33",
+        "material": "metal"
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.62,0.04,0.5],
+        "pos": [-0.3217,-0.3291,0.149],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "rot": [24,-50,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "plane",
+        "size": [0.56,0.36],
+        "pos": [-0.3217,-0.3062,0.1592],
+        "rot": [-66,0,-50],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 260\"><rect width=\"400\" height=\"260\" fill=\"#000\"/><g transform=\"translate(400 0) scale(-1 1)\"><text x=\"200\" y=\"80\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">I read every video</text><text x=\"200\" y=\"140\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">off glass for a month.</text><text x=\"200\" y=\"200\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Here’s what changed.</text></g></svg>"
+      },
+      {
+        "slot": "prompter",
+        "shape": "plane",
+        "size": [0.6,0.66],
+        "pos": [-0.3217,-0.1098,0.2466],
+        "rot": [-33.27,-32.8,-40.12],
+        "color": "#bfe3ff",
+        "material": "glass",
+        "opacity": 0.35
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.02,0.5,0.5],
+        "pos": [-0.521,-0.0041,0.0338],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "opacity": 0.35,
+        "rot": [24,-50,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.02,0.5,0.5],
+        "pos": [-0.1225,-0.1973,0.4676],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "opacity": 0.35,
+        "rot": [24,-50,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.64,0.5,0.02],
+        "pos": [-0.1302,-0.0353,0.1039],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "rot": [24,-50,0]
+      },
+      {
+        "shape": "particles",
+        "count": 40,
+        "box": [0.04,0.04,0.3],
+        "pos": [-0.5516,-0.1882,0.4228],
+        "size": 0.02,
+        "color": "#ffd23f",
+        "motion": "drift",
+        "rot": [24,-50,0]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.22,0.86,0.01],"pos":[0,0,-0.007],"color":"#d9d0bd","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.84],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 280\"><rect width=\"400\" height=\"280\" fill=\"#fbf7ee\"/><rect x=\"28\" y=\"30\" width=\"330\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"48\" width=\"340\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"66\" width=\"300\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"84\" width=\"0\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"102\" width=\"344\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"120\" width=\"0\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"138\" width=\"320\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"156\" width=\"336\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"174\" width=\"250\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"192\" width=\"0\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"210\" width=\"330\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><rect x=\"28\" y=\"228\" width=\"290\" height=\"6\" rx=\"1.5\" fill=\"#c7beae\"/><text x=\"28\" y=\"120\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"13\" fill=\"#2a2530\">clipped under a chipped blue mug that</text><text x=\"28\" y=\"138\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"13\" fill=\"#2a2530\">said WORLD’S BEST DAD. Nobody here</text></svg>"
+      },
+      {
+        "shape": "plane",
+        "size": [0.46,0.46],
+        "pos": [-0.21,0.04,0.15],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"98\" fill=\"#fdf9ef\"/><path d=\"M70 70 h50 v52 a16 16 0 0 1 -16 16 h-18 a16 16 0 0 1 -16 -16 z\" fill=\"#3f73b5\"/><path d=\"M120 82 a14 14 0 0 1 0 28\" fill=\"none\" stroke=\"#3f73b5\" stroke-width=\"7\"/><path d=\"M70 70 l8 10 l7 -10 z\" fill=\"#fdf9ef\"/><text x=\"97\" y=\"108\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">BEST</text><text x=\"97\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">DAD</text><text x=\"100\" y=\"166\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#a16207\" font-weight=\"700\" text-anchor=\"middle\">chipped blue mug</text></svg>"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.24,
+        "radiusBottom": 0.24,
+        "height": 0.008,
+        "pos": [-0.21,0.04,0.16],
+        "rot": [90,0,0],
+        "color": "#dfefff",
+        "material": "glass",
+        "opacity": 0.18
+      },
+      {
+        "shape": "torus",
+        "radius": 0.24,
+        "tube": 0.026,
+        "pos": [-0.21,0.04,0.16],
+        "color": "#3a3a40",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.04,
+        "radiusBottom": 0.04,
+        "height": 0.4525,
+        "pos": [0.13,-0.3,0.16],
+        "rot": [0,0,-135],
+        "color": "#5b3a29",
+        "material": "gloss"
+      }
+    ]
+  }
+}

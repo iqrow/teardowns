@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"engine","shape":"box","size":[0.76,0.18,0.52],"pos":[0,0,0],"material":"metal","color":"#303840"},{"slot":"eval","shape":"box","size":[0.08,0.38,0.10],"pos":[0.24,0.22,0],"material":"glow","color":"#68c4b0"},{"slot":"signal","shape":"particles","count":28,"box":[0.45,0.20,0.20],"pos":[-0.08,0.20,0],"size":0.018,"color":"#f0c45b","motion":"drift"}]}}

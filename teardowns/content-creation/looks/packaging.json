@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.4,1.0818,0.014],"pos":[0,0,-0.009],"color":"#0f0f0f","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.4,1.0818],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 340\"><rect width=\"440\" height=\"340\" rx=\"14\" fill=\"#0f0f0f\"/><rect x=\"20\" y=\"20\" width=\"400\" height=\"225\" rx=\"7.5\" fill=\"#2f6f8f\"/><clipPath id=\"t2020\"><rect x=\"20\" y=\"20\" width=\"400\" height=\"225\" rx=\"7.5\"/></clipPath><g clip-path=\"url(#t2020)\"><path d=\"M-63.125 530.625 C-57.1875 316.875 31.875 263.4375 138.75 263.4375 C245.625 263.4375 334.6875 316.875 340.625 530.625 Z\" fill=\"#1f1f26\"/><rect x=\"112.625\" y=\"186.25\" width=\"52.25\" height=\"83.125\" fill=\"#e0b48f\"/><ellipse cx=\"138.75\" cy=\"138.75\" rx=\"71.25\" ry=\"84.07499999999999\" fill=\"#e0b48f\"/><path d=\"M66.075 132.8125 C60.375 31.875 217.125 24.75 212.1375 129.25 C188.625 74.625 103.125 71.0625 66.075 132.8125 Z\" fill=\"#3a2a20\"/><circle cx=\"112.625\" cy=\"141.125\" r=\"7.125\" fill=\"#1b1b1f\"/><circle cx=\"164.875\" cy=\"141.125\" r=\"7.125\" fill=\"#1b1b1f\"/><path d=\"M98.375 119.75 L124.5 115 M153 115 L179.125 119.75\" stroke=\"#3a2a20\" stroke-width=\"5.9375\" stroke-linecap=\"round\"/><ellipse cx=\"138.75\" cy=\"188.625\" rx=\"15.4375\" ry=\"20.1875\" fill=\"#4a1c1c\"/><rect x=\"270\" y=\"70\" width=\"87.5\" height=\"62.5\" rx=\"5\" fill=\"#d9dde3\" transform=\"rotate(-8 313.75 101.25)\"/><rect x=\"280\" y=\"80\" width=\"67.5\" height=\"10\" fill=\"#5a6270\" transform=\"rotate(-8 313.75 101.25)\"/><text x=\"315\" y=\"180\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"52.5\" font-weight=\"900\" fill=\"#ffffff\" text-anchor=\"middle\" stroke=\"#17171c\" stroke-width=\"7.5\" paint-order=\"stroke\">30</text><text x=\"315\" y=\"230\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"52.5\" font-weight=\"900\" fill=\"#ffd23f\" text-anchor=\"middle\" stroke=\"#17171c\" stroke-width=\"7.5\" paint-order=\"stroke\">DAYS</text></g><rect x=\"356\" y=\"222\" width=\"54\" height=\"22\" rx=\"4\" fill=\"#000\" opacity=\"0.8\"/><text x=\"383\" y=\"238\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">11:42</text><circle cx=\"40\" cy=\"282\" r=\"18\" fill=\"#e0a33a\"/><text x=\"70\" y=\"280\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#f1f1f1\" font-weight=\"700\">I tried a teleprompter for 30 days</text><text x=\"70\" y=\"304\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#aaa\">Your Channel · 286K views · 3 days ago</text></svg>"
+      }
+    ]
+  }
+}

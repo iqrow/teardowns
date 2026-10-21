@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.2,
+    "energy": 0.2,
+    "weight": 0.3,
+    "warmth": 0.5,
+    "grain": 0.2,
+    "motion": "pulse",
+    "why": "Shells inside shells: each one opens and closes round the next."
+  }
+}

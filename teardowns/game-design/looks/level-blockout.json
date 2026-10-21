@@ -1,0 +1,23 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"rough-space","shape":"box","size":[1.28,0.76,0.3],"material":"matte","color":"#8aa7ba"},
+      {
+        "slot": "rough-space",
+        "shape": "box",
+        "size": [0.34,0.5,0.42],
+        "pos": [0.42,0.45,0.2],
+        "material": "matte",
+        "color": "#d9a45c"
+      },
+      {
+        "slot": "player",
+        "shape": "sphere",
+        "radius": 0.1,
+        "pos": [-0.38,0.15,0.48],
+        "material": "glow",
+        "color": "#70d4ad"
+      }
+    ]
+  }
+}

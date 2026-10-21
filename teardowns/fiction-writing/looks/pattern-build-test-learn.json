@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.45,
+    "energy": 0.55,
+    "weight": -0.1,
+    "warmth": 0.5,
+    "grain": 0.2,
+    "motion": "spin",
+    "why": "A wheel that turns again and again, a little better each time."
+  }
+}

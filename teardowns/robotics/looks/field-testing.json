@@ -1,0 +1,29 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.84,1.08,0.03],
+        "pos": [-0.0037,-0.0317,-0.0144],
+        "color": "#a0703f",
+        "material": "matte",
+        "rot": [-6,12,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.72,0.88],
+        "pos": [0,-0.0398,0.0042],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 440\"><rect x=\"0\" y=\"0\" width=\"360\" height=\"440\" rx=\"4\" fill=\"#ffffff\" stroke=\"none\" stroke-width=\"0\"/><text x=\"24\" y=\"44\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#2a2530\" font-weight=\"700\">Field test · Aisle 4</text><text x=\"24\" y=\"68\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#7a7f8c\">14 Oct · build 2.3.1</text><text x=\"24\" y=\"110\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">01</text><text x=\"64\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick mug</text><text x=\"230\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"120\" x2=\"336\" y2=\"120\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"144\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">02</text><text x=\"64\" y=\"144\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick mug</text><text x=\"230\" y=\"144\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"154\" x2=\"336\" y2=\"154\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"178\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">03</text><text x=\"64\" y=\"178\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick box</text><text x=\"230\" y=\"178\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"188\" x2=\"336\" y2=\"188\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"212\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">04</text><text x=\"64\" y=\"212\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick mug</text><text x=\"230\" y=\"212\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#c8463d\" font-weight=\"700\">✗</text><text x=\"254\" y=\"212\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#c8463d\">slipped</text><line x1=\"24\" y1=\"222\" x2=\"336\" y2=\"222\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"246\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">05</text><text x=\"64\" y=\"246\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick cup</text><text x=\"230\" y=\"246\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"256\" x2=\"336\" y2=\"256\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"280\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">06</text><text x=\"64\" y=\"280\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick box</text><text x=\"230\" y=\"280\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"290\" x2=\"336\" y2=\"290\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"314\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">07</text><text x=\"64\" y=\"314\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick mug</text><text x=\"230\" y=\"314\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#c8463d\" font-weight=\"700\">✗</text><text x=\"254\" y=\"314\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#c8463d\">e-stop</text><line x1=\"24\" y1=\"324\" x2=\"336\" y2=\"324\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"348\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#7a7f8c\">08</text><text x=\"64\" y=\"348\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#2a2530\">pick cup</text><text x=\"230\" y=\"348\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#3f9a5b\" font-weight=\"700\">✓</text><line x1=\"24\" y1=\"358\" x2=\"336\" y2=\"358\" stroke=\"#e4e1d8\" stroke-width=\"1\" stroke-linecap=\"round\" /><text x=\"24\" y=\"410\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#1f2430\" font-weight=\"700\">Success 6/8 · interventions 1</text></svg>",
+        "rot": [-6,12,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.34,0.09,0.05],
+        "pos": [0.0025,0.4587,-0.0364],
+        "color": "#b9bcc2",
+        "material": "metal",
+        "rot": [-6,12,0]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "state-plot",
+        "shape": "plane",
+        "size": [1.36,0.88],
+        "material": "screen",
+        "color": "#30244b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 272 176\"><rect x=\"14\" y=\"14\" width=\"244\" height=\"148\" rx=\"10\" fill=\"#241d3b\" stroke=\"#b5a2d4\" stroke-width=\"4\"/><path d=\"M45 141L136 29l91 112z\" fill=\"#3e315b\" stroke=\"#8e7db4\" stroke-width=\"4\"/><path d=\"M80 111L136 76l61 30\" fill=\"none\" stroke=\"#dfb35c\" stroke-width=\"5\"/><circle cx=\"80\" cy=\"111\" r=\"10\" fill=\"#6bc7a1\"/><circle cx=\"136\" cy=\"76\" r=\"10\" fill=\"#e67468\"/><circle cx=\"197\" cy=\"106\" r=\"10\" fill=\"#77a9ce\"/><path d=\"M42 143h188M136 27v118\" stroke=\"#d9cce7\" stroke-width=\"3\" stroke-dasharray=\"5 6\"/></svg>"
+      }
+    ]
+  }
+}

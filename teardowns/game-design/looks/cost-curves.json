@@ -1,0 +1,20 @@
+{
+  "feel": {
+    "shape": 0.68,
+    "energy": 0.44,
+    "weight": 0.26,
+    "warmth": 0.5,
+    "grain": 0.66,
+    "motion": "rise",
+    "why": "A stepped, slightly angular body makes marginal price visible as power climbs."
+  },
+  "plot": {
+    "x": "Power",
+    "y": "Cost units",
+    "series": [
+      {"name":"Linear C=P","item":"cost-linear","points":[[0,0],[1,1],[2,2],[3,3],[4,4],[5,5]]},
+      {"name":"Quadratic C=P²","item":"cost-quadratic","points":[[0,0],[1,1],[2,4],[3,9],[4,16],[5,25]]},
+      {"name":"Thresholded","item":"cost-threshold","points":[[0,0],[1,1],[2,2],[3,3],[4,8],[5,10]]}
+    ]
+  }
+}

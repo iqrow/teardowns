@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.4,0.9545,0.014],"pos":[0,0,-0.009],"color":"#d9cdb5","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.4,0.9545],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" fill=\"#fbf7ee\"/><line x1=\"0\" y1=\"62\" x2=\"440\" y2=\"62\" stroke=\"#e0412f\" stroke-width=\"2\"/><line x1=\"0\" y1=\"114\" x2=\"440\" y2=\"114\" stroke=\"#bcd3e6\" stroke-width=\"1.5\"/><line x1=\"0\" y1=\"166\" x2=\"440\" y2=\"166\" stroke=\"#bcd3e6\" stroke-width=\"1.5\"/><line x1=\"0\" y1=\"218\" x2=\"440\" y2=\"218\" stroke=\"#bcd3e6\" stroke-width=\"1.5\"/><line x1=\"0\" y1=\"270\" x2=\"440\" y2=\"270\" stroke=\"#bcd3e6\" stroke-width=\"1.5\"/><text x=\"20\" y=\"44\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#17171c\" font-weight=\"800\" letter-spacing=\"1\">VIDEO IDEA #47</text><text x=\"20\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#e0412f\" font-weight=\"800\" letter-spacing=\"1\">TOPIC</text><text x=\"96\" y=\"104\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#17171c\" font-style=\"italic\">Teleprompters for solo creators</text><text x=\"20\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#e0412f\" font-weight=\"800\" letter-spacing=\"1\">FOR</text><text x=\"96\" y=\"156\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#17171c\" font-style=\"italic\">Creators who freeze on camera</text><text x=\"20\" y=\"208\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#e0412f\" font-weight=\"800\" letter-spacing=\"1\">ANGLE</text><text x=\"96\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#17171c\" font-style=\"italic\">I used one for 30 days: results</text><text x=\"20\" y=\"260\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#e0412f\" font-weight=\"800\" letter-spacing=\"1\">PROOF</text><text x=\"96\" y=\"260\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#17171c\" font-style=\"italic\">Similar video: 6.2× its channel</text></svg>"
+      }
+    ]
+  }
+}

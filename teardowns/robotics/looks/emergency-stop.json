@@ -1,0 +1,37 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.8,0.6,0.8],
+        "pos": [0,0.3,0],
+        "color": "#e8b82e",
+        "material": "matte",
+        "radius": 0.05
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.22,
+        "radiusBottom": 0.22,
+        "height": 0.12,
+        "pos": [0,0.66,0],
+        "color": "#c8261d",
+        "material": "gloss"
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.26,0],[0.34,0.04],[0.36,0.1],[0.3,0.16],[0,0.18]],
+        "smooth": true,
+        "pos": [0,0.72,0],
+        "color": "#d22a20",
+        "material": "gloss"
+      },
+      {
+        "shape": "plane",
+        "size": [0.6,0.2],
+        "pos": [0,0.3,0.402],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 100\"><rect width=\"300\" height=\"100\" fill=\"#e8b82e\"/><text x=\"150\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"44\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#111\">STOP</text></svg>"
+      }
+    ]
+  }
+}

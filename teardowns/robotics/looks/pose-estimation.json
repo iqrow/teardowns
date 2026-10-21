@@ -1,0 +1,104 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.26,0],[0.28,0.03],[0.28,0.62],[0.26,0.62],[0.26,0.05],[0,0.05]],
+        "pos": [0,0,0],
+        "color": "#f2f2f2",
+        "material": "gloss"
+      },
+      {"shape":"torus","radius":0.14,"tube":0.04,"pos":[0.3,0.33,0],"color":"#f2f2f2","material":"gloss"},
+      {
+        "shape": "lathe",
+        "profile": [[0,0.5],[0.255,0.5],[0.255,0.52],[0,0.52]],
+        "pos": [0,0,0],
+        "color": "#5a3a22",
+        "material": "liquid"
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.26,0],[0.28,0.03],[0.28,0.62],[0.26,0.62],[0.26,0.05],[0,0.05]],
+        "pos": [0.06,0.03,0.02],
+        "color": "#2f6fd6",
+        "material": "glass",
+        "opacity": 0.25
+      },
+      {
+        "shape": "torus",
+        "radius": 0.14,
+        "tube": 0.04,
+        "pos": [0.36,0.36,0.02],
+        "color": "#2f6fd6",
+        "material": "glass",
+        "opacity": 0.25
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0.5],[0.255,0.5],[0.255,0.52],[0,0.52]],
+        "pos": [0.06,0.03,0.02],
+        "color": "#2f6fd6",
+        "material": "glass",
+        "opacity": 0.25
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.016,
+        "radiusBottom": 0.016,
+        "height": 0.5,
+        "pos": [0.2266,0.31,-0.1056],
+        "rot": [-27.22,22.52,-78.85],
+        "color": "#d6453d",
+        "material": "gloss"
+      },
+      {
+        "shape": "cone",
+        "height": 0.07,
+        "pos": [0.4803,0.31,-0.224],
+        "rot": [-27.31,22.57,-78.79],
+        "color": "#d6453d",
+        "material": "gloss",
+        "radius": 0.0384
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.016,
+        "radiusBottom": 0.016,
+        "height": 0.5,
+        "pos": [0,0.56,0],
+        "rot": [0,0,0],
+        "color": "#3f9a5b",
+        "material": "gloss"
+      },
+      {
+        "shape": "cone",
+        "height": 0.07,
+        "pos": [0,0.84,0],
+        "rot": [0,0,0],
+        "color": "#3f9a5b",
+        "material": "gloss",
+        "radius": 0.0384
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.016,
+        "radiusBottom": 0.016,
+        "height": 0.5,
+        "pos": [0.1057,0.31,0.2266],
+        "rot": [78.85,-22.52,-27.22],
+        "color": "#2f6fd6",
+        "material": "gloss"
+      },
+      {
+        "shape": "cone",
+        "height": 0.07,
+        "pos": [0.224,0.31,0.4803],
+        "rot": [78.79,-22.57,-27.31],
+        "color": "#2f6fd6",
+        "material": "gloss",
+        "radius": 0.0384
+      },
+      {"shape":"sphere","radius":0.028800000000000003,"pos":[0,0.31,0],"color":"#f2f2f2"}
+    ]
+  }
+}

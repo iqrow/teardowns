@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[0.95,0.9975,0.014],"pos":[0,0,-0.009],"color":"#d8d0bf","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [0.95,0.9975],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 420\"><rect width=\"400\" height=\"420\" fill=\"#fbf7ee\"/><text x=\"34\" y=\"62\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">“You shouldn’t be here.”</text><text x=\"34\" y=\"98\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">“Neither should you.” Maya held up</text><text x=\"34\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">the list. “Want to explain this?”</text><text x=\"34\" y=\"180\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">He smiled. “Explain what?”</text><text x=\"34\" y=\"216\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">“My name. Bed four. Six names, Adrian.”</text><text x=\"34\" y=\"252\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\" xml:space=\"preserve\">“Go home, Maya,” Voss <tspan fill=\"#a16207\" font-weight=\"700\">said</tspan>.</text><text x=\"34\" y=\"288\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">She didn’t.</text><rect x=\"34\" y=\"340\" width=\"320\" height=\"6\" rx=\"1.5\" fill=\"#cbc2b2\"/><rect x=\"34\" y=\"358\" width=\"300\" height=\"6\" rx=\"1.5\" fill=\"#cbc2b2\"/><rect x=\"34\" y=\"376\" width=\"180\" height=\"6\" rx=\"1.5\" fill=\"#cbc2b2\"/></svg>"
+      }
+    ]
+  }
+}

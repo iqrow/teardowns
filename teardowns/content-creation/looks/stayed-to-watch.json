@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.08,0.9,0.014],"pos":[0,0,-0.009],"color":"#20242c","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.08,0.9],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STAYED TO WATCH</text><circle cx=\"120\" cy=\"170\" r=\"80\" fill=\"none\" stroke=\"#3a4150\" stroke-width=\"34\"/><path d=\"M120 90 A80 80 0 1 1 41.41701994170491 184.99050516685796\" fill=\"none\" stroke=\"#4b9a4f\" stroke-width=\"34\"/><text x=\"120\" y=\"180\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"32\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">72%</text><rect x=\"230\" y=\"128\" width=\"16\" height=\"16\" fill=\"#4b9a4f\"/><text x=\"254\" y=\"142\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\">Stayed</text><rect x=\"230\" y=\"168\" width=\"16\" height=\"16\" fill=\"#3a4150\"/><text x=\"254\" y=\"182\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\">Swiped</text><text x=\"20\" y=\"284\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\">Shorts: past the first seconds</text></svg>"
+      }
+    ]
+  }
+}

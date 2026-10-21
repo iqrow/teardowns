@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.9,0.62],
+        "material": "screen",
+        "color": "#263646",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 124\"><rect x=\"8\" y=\"10\" width=\"164\" height=\"104\" rx=\"10\" fill=\"#1a2735\" stroke=\"#d98b46\" stroke-width=\"5\"/><rect x=\"20\" y=\"27\" width=\"60\" height=\"34\" rx=\"6\" fill=\"#4f7f9b\"/><rect x=\"100\" y=\"27\" width=\"60\" height=\"34\" rx=\"6\" fill=\"#7d566e\"/><path d=\"M33 44h28M47 32v24\" stroke=\"#fff\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"130\" cy=\"44\" r=\"8\" fill=\"#f4c542\"/><path d=\"M20 84h120\" stroke=\"#9ee7ff\" stroke-width=\"5\"/><text x=\"90\" y=\"105\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">A: RISK   B: SAFE</text></svg>"
+      }
+    ]
+  }
+}

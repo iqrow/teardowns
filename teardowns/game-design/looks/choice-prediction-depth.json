@@ -1,0 +1,15 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.25,0.76,0.06],"material":"matte","color":"#354d50"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.7],
+        "pos": [0,0,0.035],
+        "material": "screen",
+        "color": "#354d50",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 175\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"14\" y=\"30\" font-size=\"20\" font-weight=\"bold\">PREDICTION CHAIN</text><text x=\"14\" y=\"67\" font-size=\"19\">Reload → cannot fire</text><text x=\"14\" y=\"104\" font-size=\"19\">Enemy advances → lose cover</text><text x=\"14\" y=\"145\" font-size=\"18\" fill=\"#88d1b4\">Preview direct cost; infer response</text></g></svg>"
+      }
+    ]
+  }
+}

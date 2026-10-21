@@ -1,0 +1,12 @@
+{
+  "plot": {
+    "x": "Output speed (rpm)",
+    "y": "Output torque (N·m)",
+    "series": [
+      {"name":"1:1","item":"ratio-1","points":[[0,1.69],[5600,0]]},
+      {"name":"10:1","item":"ratio-10","points":[[0,16.9],[560,0]]},
+      {"name":"50:1","item":"ratio-50","points":[[0,84.5],[112,0]]},
+      {"name":"100:1","item":"ratio-100","points":[[0,169],[56,0]]}
+    ]
+  }
+}

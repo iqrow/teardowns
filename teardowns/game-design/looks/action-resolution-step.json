@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1,0.68],
+        "material": "gloss",
+        "color": "#293948",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 136\"><rect x=\"9\" y=\"12\" width=\"182\" height=\"112\" rx=\"14\" fill=\"#1d2a3a\" stroke=\"#ef926b\" stroke-width=\"6\"/><rect x=\"31\" y=\"36\" width=\"57\" height=\"34\" rx=\"7\" fill=\"#e58b65\"/><path d=\"M43 53l9-9 9 9-9 9z\" fill=\"#fff\"/><path d=\"M117 53h48M142 40l23 13-23 13\" fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M32 96h136\" stroke=\"#7fc79a\" stroke-width=\"7\" stroke-linecap=\"round\"/><text x=\"100\" y=\"118\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">ACTION → RESULT</text></svg>"
+      }
+    ]
+  }
+}

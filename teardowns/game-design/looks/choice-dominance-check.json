@@ -1,0 +1,15 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.25,0.76,0.06],"material":"matte","color":"#263646"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.7],
+        "pos": [0,0,0.035],
+        "material": "screen",
+        "color": "#263646",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 175\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"14\" y=\"30\" font-size=\"20\" font-weight=\"bold\">STATE / REASON TO PICK</text><text x=\"14\" y=\"70\" font-size=\"18\">Safe cover → reload</text><text x=\"14\" y=\"108\" font-size=\"18\">Enemy rushing → fire</text><text x=\"14\" y=\"146\" font-size=\"17\" fill=\"#88d1b4\">Different states, different picks</text></g></svg>"
+      }
+    ]
+  }
+}

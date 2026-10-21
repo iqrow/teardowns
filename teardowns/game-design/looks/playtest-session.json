@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.2,0.7],
+        "material": "matte",
+        "color": "#cf785c",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 140\"><rect x=\"9\" y=\"9\" width=\"222\" height=\"122\" rx=\"10\" fill=\"#1c2737\" stroke=\"#cf785c\" stroke-width=\"6\"/><rect x=\"25\" y=\"27\" width=\"108\" height=\"70\" fill=\"#254a60\"/><path d=\"M37 84l22-22 18 13 26-31 17 20\" fill=\"none\" stroke=\"#88d1b4\" stroke-width=\"6\"/><circle cx=\"171\" cy=\"52\" r=\"16\" fill=\"#e7b568\"/><circle cx=\"171\" cy=\"52\" r=\"7\" fill=\"#1c2737\"/><path d=\"M158 101h54\" stroke=\"#f0c85a\" stroke-width=\"7\"/></svg>"
+      }
+    ]
+  }
+}

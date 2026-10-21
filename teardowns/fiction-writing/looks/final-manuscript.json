@@ -1,0 +1,21 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.86,1.114,0.1],
+        "pos": [-0.0161,-0.0086,-0.0487],
+        "color": "#f7f5ef",
+        "material": "matte",
+        "rot": [-10,18,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.86,1.114],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 518\"><rect width=\"400\" height=\"518\" fill=\"#ffffff\"/><text x=\"40\" y=\"44\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"10.5\" fill=\"#2a2530\">AUTHOR NAME</text><text x=\"40\" y=\"57\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"10.5\" fill=\"#2a2530\">CONTACT OMITTED</text><text x=\"40\" y=\"70\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"10.5\" fill=\"#2a2530\">CITY, COUNTRY</text><text x=\"40\" y=\"83\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"10.5\" fill=\"#2a2530\">CONTACT OMITTED</text><text x=\"360\" y=\"44\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"10.5\" fill=\"#2a2530\" text-anchor=\"end\">about 86,600 words</text><text x=\"200\" y=\"230\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"14\" fill=\"#2a2530\" text-anchor=\"middle\">THE LAST HOUR</text><text x=\"200\" y=\"256\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\" text-anchor=\"middle\">by AUTHOR NAME</text><text x=\"200\" y=\"300\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\" text-anchor=\"middle\">Chapter One</text><text x=\"40\" y=\"336\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">    The night shift had always suited</text><text x=\"40\" y=\"362\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">Maya Cole. For six years she had</text><text x=\"40\" y=\"388\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">worked the quiet hours, learning which</text><text x=\"40\" y=\"414\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">doors stuck and which doctors lied.</text><text x=\"40\" y=\"440\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">    The list was clipped to the board</text><path d=\"M14 330 v120 M386 330 v120\" stroke=\"#9ca3af\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"392\" y=\"400\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#9ca3af\">1\"</text><text x=\"330\" y=\"486\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#9ca3af\" text-anchor=\"middle\">double-spaced</text></svg>",
+        "rot": [-10,18,0]
+      }
+    ]
+  }
+}

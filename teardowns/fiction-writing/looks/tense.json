@@ -1,0 +1,84 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.26,0.9,0.05],
+        "radius": 0.05,
+        "pos": [-0.0054,-0.0044,-0.025],
+        "color": "#15171c",
+        "material": "matte",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "face",
+        "shape": "plane",
+        "size": [1.2,0.84],
+        "pos": [0.0003,0.0003,0.0014],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 280\"><rect width=\"400\" height=\"280\" rx=\"20\" fill=\"#1f232b\"/><text x=\"200\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"4\">TENSE</text><text x=\"120\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"end\">PAST</text><text x=\"284\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"start\">PRESENT</text><circle cx=\"200\" cy=\"96\" r=\"34\" fill=\"#2c313b\" stroke=\"#454b57\" stroke-width=\"3\"/><rect x=\"24\" y=\"170\" width=\"352\" height=\"86\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"200\" y=\"204\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"18\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">Maya ran. The door was locked.</text></svg>",
+        "rot": [-10,12,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.07,
+        "radiusBottom": 0.08,
+        "height": 0.05,
+        "pos": [0.0052,0.1342,0.0012],
+        "rot": [80,0,-12],
+        "color": "#3a3f4a",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.022,
+        "radiusBottom": 0.022,
+        "height": 0.2119,
+        "pos": [-0.0219,0.1785,0.1082],
+        "rot": [58.21,23.82,18.15],
+        "color": "#c9ccd2",
+        "material": "metal",
+        "slot": "lever"
+      },
+      {
+        "slot": "lever",
+        "shape": "sphere",
+        "radius": 0.045,
+        "pos": [-0.0521,0.2202,0.2008],
+        "color": "#e8c26b",
+        "material": "gloss",
+        "rot": [-10,12,0]
+      }
+    ]
+  },
+  "items": {
+    "tense-present": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.022,
+            "radiusBottom": 0.022,
+            "height": 0.2119,
+            "pos": [0.0759,0.1749,0.0877],
+            "rot": [50.81,-13.34,-40.99],
+            "color": "#c9ccd2",
+            "material": "metal",
+            "slot": "lever"
+          },
+          {
+            "slot": "lever",
+            "shape": "sphere",
+            "radius": 0.045,
+            "pos": [0.1436,0.213,0.1598],
+            "color": "#e8c26b",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 280\"><rect width=\"400\" height=\"280\" rx=\"20\" fill=\"#1f232b\"/><text x=\"200\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"4\">TENSE</text><text x=\"120\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"end\">PAST</text><text x=\"284\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"start\">PRESENT</text><circle cx=\"200\" cy=\"96\" r=\"34\" fill=\"#2c313b\" stroke=\"#454b57\" stroke-width=\"3\"/><rect x=\"24\" y=\"170\" width=\"352\" height=\"86\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"200\" y=\"204\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"18\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">Maya runs. The door is locked.</text></svg>"
+      }
+    }
+  }
+}

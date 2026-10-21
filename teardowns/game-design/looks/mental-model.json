@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.4,
+    "energy": 0.36,
+    "weight": -0.12,
+    "warmth": 0.6,
+    "grain": 0.2,
+    "motion": "drift",
+    "why": "A smooth drifting form suggests an internal model that changes as evidence arrives."
+  }
+}

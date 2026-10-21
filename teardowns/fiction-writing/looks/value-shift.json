@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.32,0.84,0.014],"pos":[0,0,-0.009],"color":"#0f1a24","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.32,0.84],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\"><defs><linearGradient id=\"v\" x1=\"0\" x2=\"1\"><stop offset=\"0\" stop-color=\"#c0392b\"/><stop offset=\"0.5\" stop-color=\"#6b7280\"/><stop offset=\"1\" stop-color=\"#3f8f5a\"/></linearGradient></defs>\n<rect width=\"440\" height=\"280\" rx=\"16\" fill=\"#1b2a36\"/><text x=\"220\" y=\"36\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"2\">VALUE AT STAKE: SAFETY</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"26\" rx=\"13\" fill=\"url(#v)\"/><text x=\"24\" y=\"152\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"26\" fill=\"#f0a59c\" font-weight=\"700\" text-anchor=\"middle\">−</text><text x=\"416\" y=\"152\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"24\" fill=\"#9fd6a9\" font-weight=\"700\" text-anchor=\"middle\">+</text><path d=\"M350 118 l-10 -16 h20 z\" fill=\"#9fd6a9\"/><text x=\"350\" y=\"96\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#9fd6a9\" font-weight=\"700\" text-anchor=\"middle\">START: safe</text><path d=\"M90 172 l-10 16 h20 z\" fill=\"#f0a59c\"/><text x=\"90\" y=\"206\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#f0a59c\" font-weight=\"700\" text-anchor=\"middle\">END: hunted</text><path d=\"M330 108 C 280 60, 150 64, 104 116\" fill=\"none\" stroke=\"#f4f1ea\" stroke-width=\"3\"/><path d=\"M104 116 L106.0267 103.159 L116.294 111.7743 Z\" fill=\"#f4f1ea\"/><text x=\"220\" y=\"244\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f4f1ea\" font-weight=\"700\" text-anchor=\"middle\">The scene turns: + → −</text><text x=\"220\" y=\"266\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12.5\" fill=\"#b9c2cc\" text-anchor=\"middle\">No turn? McKee calls it a non-event.</text></svg>"
+      }
+    ]
+  }
+}

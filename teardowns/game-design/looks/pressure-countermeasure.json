@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1,0.7],
+        "material": "screen",
+        "color": "#2b3745",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 140\"><rect x=\"9\" y=\"10\" width=\"182\" height=\"120\" rx=\"12\" fill=\"#1b2938\" stroke=\"#718ba4\" stroke-width=\"6\"/><path d=\"M42 46l24 24 24-24\" fill=\"none\" stroke=\"#e27b64\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M112 39h48M112 70h48M112 101h32\" stroke=\"#b9d5d9\" stroke-width=\"9\" stroke-linecap=\"round\"/><text x=\"99\" y=\"122\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">COUNTER</text></svg>"
+      }
+    ]
+  }
+}

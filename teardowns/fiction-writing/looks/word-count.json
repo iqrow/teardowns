@@ -1,0 +1,53 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.44,0.51,0.014],
+        "pos": [0,0,-0.009],
+        "color": "#d8d0bf",
+        "material": "matte",
+        "slot": "bar-back"
+      },
+      {
+        "shape": "plane",
+        "size": [1.44,0.51],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 170\"><rect width=\"480\" height=\"170\" rx=\"10\" fill=\"#e9e9ec\"/><rect x=\"60\" y=\"10\" width=\"360\" height=\"70\" fill=\"#ffffff\"/><rect x=\"80\" y=\"26\" width=\"310\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"38\" width=\"300\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"50\" width=\"316\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"62\" width=\"220\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><text x=\"20\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#3a3d45\" font-weight=\"700\">Goal 80,000–89,999</text><text x=\"460\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6d6475\" text-anchor=\"end\">adult fiction</text><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#cfd2d8\"/><rect x=\"411.11545683840933\" y=\"112\" width=\"48.88454316159067\" height=\"10\" fill=\"#bfe3c8\"/><rect x=\"20\" y=\"112\" width=\"423.4411\" height=\"10\" rx=\"5\" fill=\"#3f8f5a\"/><rect y=\"132\" width=\"480\" height=\"38\" rx=\"0\" fill=\"#2b5797\"/><text x=\"16\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\">Page 312 of 330</text><text x=\"240\" y=\"157\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Words: 86,612</text><text x=\"464\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"end\">English (UK)</text></svg>",
+        "slot": "bar"
+      }
+    ]
+  },
+  "plot": {
+    "x": "Words (thousands)",
+    "y": "Category (1 middle grade … 4 SF and fantasy)",
+    "series": [
+      {
+        "name": "Adult: literary, mystery, thriller 80–90k",
+        "item": "norm-adult",
+        "points": [[80,3],[89.999,3]]
+      },
+      {"name":"Science fiction and fantasy 100–115k","item":"norm-sff","points":[[100,4],[115,4]]},
+      {"name":"Young adult 55–80k","item":"norm-ya","points":[[55,2],[79.999,2]]},
+      {"name":"Middle grade 40–55k","item":"norm-middle-grade","points":[[40,1],[55,1]]},
+      {"name":"This draft, 86.6k","points":[[86.6,0],[86.6,4.5]]}
+    ]
+  },
+  "items": {
+    "norm-sff": {
+      "svg": {
+        "bar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 170\"><rect width=\"480\" height=\"170\" rx=\"10\" fill=\"#e9e9ec\"/><rect x=\"60\" y=\"10\" width=\"360\" height=\"70\" fill=\"#ffffff\"/><rect x=\"80\" y=\"26\" width=\"310\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"38\" width=\"300\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"50\" width=\"316\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"62\" width=\"220\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><text x=\"20\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#3a3d45\" font-weight=\"700\">Goal 100,000–115,000</text><text x=\"460\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6d6475\" text-anchor=\"end\">SF and fantasy</text><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#cfd2d8\"/><rect x=\"402.60869565217394\" y=\"112\" width=\"57.391304347826065\" height=\"10\" fill=\"#bfe3c8\"/><rect x=\"20\" y=\"112\" width=\"331.385\" height=\"10\" rx=\"5\" fill=\"#3f8f5a\"/><rect y=\"132\" width=\"480\" height=\"38\" rx=\"0\" fill=\"#2b5797\"/><text x=\"16\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\">Page 312 of 330</text><text x=\"240\" y=\"157\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Words: 86,612</text><text x=\"464\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"end\">English (UK)</text></svg>"
+      }
+    },
+    "norm-ya": {
+      "svg": {
+        "bar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 170\"><rect width=\"480\" height=\"170\" rx=\"10\" fill=\"#e9e9ec\"/><rect x=\"60\" y=\"10\" width=\"360\" height=\"70\" fill=\"#ffffff\"/><rect x=\"80\" y=\"26\" width=\"310\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"38\" width=\"300\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"50\" width=\"316\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"62\" width=\"220\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><text x=\"20\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#3a3d45\" font-weight=\"700\">Goal 55,000–79,999</text><text x=\"460\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6d6475\" text-anchor=\"end\">young adult</text><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#cfd2d8\"/><rect x=\"322.50378129726624\" y=\"112\" width=\"137.49621870273376\" height=\"10\" fill=\"#bfe3c8\"/><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#3f8f5a\"/><rect y=\"132\" width=\"480\" height=\"38\" rx=\"0\" fill=\"#2b5797\"/><text x=\"16\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\">Page 312 of 330</text><text x=\"240\" y=\"157\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Words: 86,612</text><text x=\"464\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"end\">English (UK)</text></svg>"
+      }
+    },
+    "norm-middle-grade": {
+      "svg": {
+        "bar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 170\"><rect width=\"480\" height=\"170\" rx=\"10\" fill=\"#e9e9ec\"/><rect x=\"60\" y=\"10\" width=\"360\" height=\"70\" fill=\"#ffffff\"/><rect x=\"80\" y=\"26\" width=\"310\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"38\" width=\"300\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"50\" width=\"316\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><rect x=\"80\" y=\"62\" width=\"220\" height=\"4\" rx=\"1.5\" fill=\"#a9a3a9\"/><text x=\"20\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#3a3d45\" font-weight=\"700\">Goal 40,000–55,000</text><text x=\"460\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6d6475\" text-anchor=\"end\">middle grade</text><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#cfd2d8\"/><rect x=\"340\" y=\"112\" width=\"120\" height=\"10\" fill=\"#bfe3c8\"/><rect x=\"20\" y=\"112\" width=\"440\" height=\"10\" rx=\"5\" fill=\"#3f8f5a\"/><rect y=\"132\" width=\"480\" height=\"38\" rx=\"0\" fill=\"#2b5797\"/><text x=\"16\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\">Page 312 of 330</text><text x=\"240\" y=\"157\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Words: 86,612</text><text x=\"464\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"end\">English (UK)</text></svg>"
+      }
+    }
+  }
+}

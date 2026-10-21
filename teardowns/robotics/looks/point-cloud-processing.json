@@ -1,0 +1,49 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "particles",
+        "count": 280,
+        "box": [1.6,0.02,1],
+        "pos": [0,0,0],
+        "size": 0.02,
+        "color": "#9aa0aa",
+        "motion": "drift"
+      },
+      {
+        "shape": "particles",
+        "count": 90,
+        "box": [0.26,0.36,0.26],
+        "pos": [-0.3,0.2,0.1],
+        "size": 0.022,
+        "color": "#e07a2d",
+        "motion": "drift"
+      },
+      {
+        "shape": "particles",
+        "count": 70,
+        "box": [0.3,0.22,0.2],
+        "pos": [0.35,0.13,-0.1],
+        "size": 0.022,
+        "color": "#3f9a5b",
+        "motion": "drift"
+      },
+      {
+        "shape": "box",
+        "size": [0.32,0.42,0.32],
+        "pos": [-0.3,0.2,0.1],
+        "color": "#e07a2d",
+        "material": "glass",
+        "opacity": 0.14
+      },
+      {
+        "shape": "box",
+        "size": [0.36,0.28,0.26],
+        "pos": [0.35,0.13,-0.1],
+        "color": "#3f9a5b",
+        "material": "glass",
+        "opacity": 0.14
+      }
+    ]
+  }
+}

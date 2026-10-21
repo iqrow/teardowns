@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "route-map",
+        "shape": "plane",
+        "size": [1.32,0.86],
+        "material": "screen",
+        "color": "#304458",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 264 172\"><rect x=\"13\" y=\"13\" width=\"238\" height=\"146\" fill=\"#e7e2d4\" stroke=\"#d49b5a\" stroke-width=\"5\"/><path d=\"M30 133h54V92h48V53h88\" fill=\"none\" stroke=\"#e7685f\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M83 133v-20M132 93h-25M220 53l-18-11v22z\" fill=\"#e7685f\"/><circle cx=\"30\" cy=\"133\" r=\"11\" fill=\"#68bd96\"/><circle cx=\"84\" cy=\"92\" r=\"11\" fill=\"#e8bb58\"/><circle cx=\"132\" cy=\"53\" r=\"11\" fill=\"#e8bb58\"/><circle cx=\"220\" cy=\"53\" r=\"11\" fill=\"#68bd96\"/><path d=\"M40 28h35M172 135h57\" stroke=\"#6d7f8b\" stroke-width=\"6\" stroke-linecap=\"round\"/></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "plot": {
+    "x": "Years after 1930 (12 = 1930s–40s, 75 = 2000s)",
+    "y": "Average shot length (s)",
+    "series": [{"name":"Hollywood films (Cutting et al.)","points":[[12,10],[75,3.9]]}]
+  }
+}

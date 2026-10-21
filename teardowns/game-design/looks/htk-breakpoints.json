@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.25,0.82],
+        "material": "screen",
+        "color": "#202f40",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 164\"><rect x=\"10\" y=\"10\" width=\"230\" height=\"144\" rx=\"12\" fill=\"#18222f\" stroke=\"#8ab4c6\" stroke-width=\"5\"/><path d=\"M32 126h190M45 30v96\" stroke=\"#9fb0c7\" stroke-width=\"4\"/><path d=\"M45 115h42V91h43V67h42V43h50\" fill=\"none\" stroke=\"#e6b84d\" stroke-width=\"9\" stroke-linejoin=\"round\"/><circle cx=\"87\" cy=\"91\" r=\"7\" fill=\"#fff\"/><circle cx=\"130\" cy=\"67\" r=\"7\" fill=\"#fff\"/><circle cx=\"172\" cy=\"43\" r=\"7\" fill=\"#fff\"/><text x=\"55\" y=\"144\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">6</text><text x=\"98\" y=\"144\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">5</text><text x=\"141\" y=\"144\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">4</text><text x=\"183\" y=\"144\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">3</text><text x=\"129\" y=\"28\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">ONE HIT LESS</text></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.2,0.99,0.014],"pos":[0,0,-0.009],"color":"#0f0f0f","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.99],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 330\"><rect width=\"400\" height=\"330\" rx=\"14\" fill=\"#0f0f0f\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f1f1f1\" font-weight=\"800\">318 Comments</text><circle cx=\"36\" cy=\"72\" r=\"15\" fill=\"#e0a33a\"/><text x=\"60\" y=\"60\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#aaa\">📌 Pinned</text><text x=\"60\" y=\"76\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#aaa\" font-weight=\"700\">@yourchannel</text><text x=\"60\" y=\"96\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f1f1f1\">What should I test next? Pinned.</text><circle cx=\"36\" cy=\"140\" r=\"15\" fill=\"#7d4b7a\"/><text x=\"60\" y=\"144\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#aaa\" font-weight=\"700\">@maya_films</text><text x=\"60\" y=\"164\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f1f1f1\">The cold open got me. What prompter is that?</text><circle cx=\"372\" cy=\"164\" r=\"9\" fill=\"#e0a33a\"/><path d=\"M372 174 l-7 -7 q-3 -4 0 -7 q4 -3 7 2 q3 -5 7 -2 q3 3 0 7 Z\" fill=\"#e0412f\" transform=\"translate(0 -4) scale(1)\"/><circle cx=\"36\" cy=\"208\" r=\"15\" fill=\"#4b7d4a\"/><text x=\"60\" y=\"212\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#aaa\" font-weight=\"700\">@dev_dan</text><text x=\"60\" y=\"232\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f1f1f1\">Week two graph was the best part</text><circle cx=\"36\" cy=\"276\" r=\"15\" fill=\"#2f6f8f\"/><text x=\"60\" y=\"280\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#aaa\" font-weight=\"700\">@sam.k</text><text x=\"60\" y=\"300\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f1f1f1\">Tried it today, my retention went up 8%</text><circle cx=\"372\" cy=\"300\" r=\"9\" fill=\"#e0a33a\"/><path d=\"M372 310 l-7 -7 q-3 -4 0 -7 q4 -3 7 2 q3 -5 7 -2 q3 3 0 7 Z\" fill=\"#e0412f\" transform=\"translate(0 -4) scale(1)\"/></svg>"
+      }
+    ]
+  }
+}

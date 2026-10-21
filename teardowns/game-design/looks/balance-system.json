@@ -1,0 +1,59 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cone",
+        "radius": 0.3,
+        "height": 0.26,
+        "pos": [0,-0.48,0.08],
+        "material": "metal",
+        "color": "#788c9c"
+      },
+      {
+        "shape": "box",
+        "size": [0.12,0.72,0.12],
+        "pos": [0,-0.15,0.08],
+        "radius": 0.03,
+        "material": "metal",
+        "color": "#788c9c"
+      },
+      {
+        "shape": "box",
+        "size": [1.55,0.1,0.1],
+        "pos": [0,0.28,0.1],
+        "rot": [0,0,-8],
+        "radius": 0.04,
+        "material": "metal",
+        "color": "#b88e60"
+      },
+      {
+        "shape": "box",
+        "size": [0.035,0.35,0.035],
+        "pos": [-0.62,0.02,0.08],
+        "material": "metal",
+        "color": "#c7d4db"
+      },
+      {
+        "shape": "box",
+        "size": [0.035,0.35,0.035],
+        "pos": [0.62,0.02,0.08],
+        "material": "metal",
+        "color": "#c7d4db"
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.24,0],[0.3,0.04],[0.26,0.1],[0,0.1]],
+        "pos": [-0.62,-0.18,0.08],
+        "material": "metal",
+        "color": "#d8a55f"
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.24,0],[0.3,0.04],[0.26,0.1],[0,0.1]],
+        "pos": [0.62,-0.18,0.08],
+        "material": "metal",
+        "color": "#e1b766"
+      }
+    ]
+  }
+}

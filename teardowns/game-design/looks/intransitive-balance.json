@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.35,1],
+        "material": "screen",
+        "color": "#202b3b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 270 200\"><rect x=\"10\" y=\"10\" width=\"250\" height=\"180\" rx=\"14\" fill=\"#1b2938\" stroke=\"#8fe0cf\" stroke-width=\"6\"/><path d=\"M72 44l-33 30 20 35 39-8 10-35z\" fill=\"#9a7d64\" stroke=\"#fff\" stroke-width=\"4\"/><rect x=\"105\" y=\"118\" width=\"54\" height=\"40\" rx=\"4\" fill=\"#6c8fbe\" stroke=\"#fff\" stroke-width=\"4\"/><path d=\"M105 118l18 13h36\" fill=\"none\" stroke=\"#fff\" stroke-width=\"4\"/><circle cx=\"207\" cy=\"62\" r=\"12\" fill=\"none\" stroke=\"#e6b84d\" stroke-width=\"5\"/><circle cx=\"231\" cy=\"62\" r=\"12\" fill=\"none\" stroke=\"#e6b84d\" stroke-width=\"5\"/><path d=\"M216 70l-22 32M222 70l22 32\" stroke=\"#e6b84d\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M92 56q24-22 42 2M158 111q31-12 39 15\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M128 71l-12-10M128 71l13-10M194 126l-12-8M194 126l13-8\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"5\" stroke-linecap=\"round\"/><text x=\"70\" y=\"132\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"13\">ROCK</text><text x=\"132\" y=\"177\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"13\">PAPER</text><text x=\"220\" y=\"132\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"13\">SCISSORS</text></svg>"
+      }
+    ]
+  }
+}

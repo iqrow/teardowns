@@ -1,0 +1,39 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.8,1.06,0.03],
+        "pos": [-0.0053,-0.032,-0.0118],
+        "color": "#a0703f",
+        "material": "matte",
+        "rot": [-8,18,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.68,0.88],
+        "pos": [0,-0.0198,0.0028],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 440\"><rect width=\"340\" height=\"440\" fill=\"#fdfbf6\"/><text x=\"24\" y=\"46\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" letter-spacing=\"1\">WARD 6 · NIGHT LIST</text><text x=\"24\" y=\"72\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"14\" fill=\"#6d6475\" font-style=\"italic\">by 06:00 — do not resuscitate</text><line x1=\"24\" y1=\"88\" x2=\"316\" y2=\"88\" stroke=\"#2a2530\" stroke-width=\"2\"/><text x=\"28\" y=\"126\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">Bed 1</text><text x=\"118\" y=\"126\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Okafor, J.</text><line x1=\"24\" y1=\"140\" x2=\"316\" y2=\"140\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><text x=\"28\" y=\"172\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">Bed 2</text><text x=\"118\" y=\"172\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Lindqvist, A.</text><line x1=\"24\" y1=\"186\" x2=\"316\" y2=\"186\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><text x=\"28\" y=\"218\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">Bed 4</text><text x=\"118\" y=\"218\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Reyes, T.</text><line x1=\"24\" y1=\"232\" x2=\"316\" y2=\"232\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><text x=\"28\" y=\"264\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">Bed 7</text><text x=\"118\" y=\"264\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Park, S.</text><line x1=\"24\" y1=\"278\" x2=\"316\" y2=\"278\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><text x=\"28\" y=\"310\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">Bed 9</text><text x=\"118\" y=\"310\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Brennan, M.</text><line x1=\"24\" y1=\"324\" x2=\"316\" y2=\"324\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><text x=\"28\" y=\"356\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#6d6475\" font-weight=\"700\">STAFF</text><text x=\"118\" y=\"356\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"19\" fill=\"#2a2530\">Cole, M.</text><line x1=\"24\" y1=\"370\" x2=\"316\" y2=\"370\" stroke=\"#d9d2c4\" stroke-width=\"1\"/><ellipse cx=\"190\" cy=\"352\" rx=\"118\" ry=\"24\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"3.5\" transform=\"rotate(-3 190 352)\"/><text x=\"240\" y=\"412\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#c0392b\" font-weight=\"700\" text-anchor=\"middle\" font-style=\"italic\" transform=\"rotate(-4 240 412)\">that’s me?!</text></svg>",
+        "rot": [-8,18,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.34,0.09,0.05],
+        "pos": [0.0037,0.4373,-0.0499],
+        "color": "#b9bcc2",
+        "material": "metal",
+        "rot": [-8,18,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.025,
+        "radiusBottom": 0.025,
+        "height": 0.3,
+        "pos": [0.0093,0.4793,-0.0385],
+        "rot": [-8,18,90],
+        "color": "#9da1a8",
+        "material": "metal"
+      }
+    ]
+  }
+}

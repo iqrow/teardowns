@@ -1,0 +1,393 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.5,
+        "radiusBottom": 0.5,
+        "height": 0.7,
+        "pos": [0,0.35,0],
+        "color": "#3a3f47",
+        "material": "matte",
+        "cut": 110,
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0.36,0.35,0],
+        "color": "#b8732e",
+        "rot": [0,0,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0.3118,0.35,-0.18],
+        "color": "#b8732e",
+        "rot": [0,30,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0.18,0.35,-0.3118],
+        "color": "#b8732e",
+        "rot": [0,60,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0,0.35,-0.36],
+        "color": "#b8732e",
+        "rot": [0,90,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [-0.18,0.35,-0.3118],
+        "color": "#b8732e",
+        "rot": [0,120,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [-0.3118,0.35,-0.18],
+        "color": "#b8732e",
+        "rot": [0,150,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [-0.36,0.35,0],
+        "color": "#b8732e",
+        "rot": [0,180,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [-0.3118,0.35,0.18],
+        "color": "#b8732e",
+        "rot": [0,210,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [-0.18,0.35,0.3118],
+        "color": "#b8732e",
+        "rot": [0,240,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0,0.35,0.36],
+        "color": "#b8732e",
+        "rot": [0,270,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0.18,0.35,0.3118],
+        "color": "#b8732e",
+        "rot": [0,300,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.08,0.5,0.09],
+        "pos": [0.3118,0.35,0.18],
+        "color": "#b8732e",
+        "rot": [0,330,0],
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.24,
+        "radiusBottom": 0.24,
+        "height": 0.5,
+        "pos": [0,0.35,0],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.05,
+        "radiusBottom": 0.05,
+        "height": 1.1,
+        "pos": [0,0.5,0],
+        "color": "#c9ccd2",
+        "material": "metal",
+        "motion": "spin",
+        "slot": "body"
+      }
+    ]
+  },
+  "items": {
+    "motor-bldc": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.5,
+            "radiusBottom": 0.5,
+            "height": 0.7,
+            "pos": [0,0.35,0],
+            "color": "#3a3f47",
+            "material": "matte",
+            "cut": 110,
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0.36,0.35,0],
+            "color": "#b8732e",
+            "rot": [0,0,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0.3118,0.35,-0.18],
+            "color": "#b8732e",
+            "rot": [0,30,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0.18,0.35,-0.3118],
+            "color": "#b8732e",
+            "rot": [0,60,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0,0.35,-0.36],
+            "color": "#b8732e",
+            "rot": [0,90,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [-0.18,0.35,-0.3118],
+            "color": "#b8732e",
+            "rot": [0,120,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [-0.3118,0.35,-0.18],
+            "color": "#b8732e",
+            "rot": [0,150,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [-0.36,0.35,0],
+            "color": "#b8732e",
+            "rot": [0,180,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [-0.3118,0.35,0.18],
+            "color": "#b8732e",
+            "rot": [0,210,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [-0.18,0.35,0.3118],
+            "color": "#b8732e",
+            "rot": [0,240,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0,0.35,0.36],
+            "color": "#b8732e",
+            "rot": [0,270,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0.18,0.35,0.3118],
+            "color": "#b8732e",
+            "rot": [0,300,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.08,0.5,0.09],
+            "pos": [0.3118,0.35,0.18],
+            "color": "#b8732e",
+            "rot": [0,330,0],
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.24,
+            "radiusBottom": 0.24,
+            "height": 0.5,
+            "pos": [0,0.35,0],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.05,
+            "radiusBottom": 0.05,
+            "height": 1.1,
+            "pos": [0,0.5,0],
+            "color": "#c9ccd2",
+            "material": "metal",
+            "motion": "spin",
+            "slot": "body"
+          }
+        ]
+      }
+    },
+    "motor-brushed": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.42,
+            "radiusBottom": 0.42,
+            "height": 0.8,
+            "pos": [0,0.4,0],
+            "color": "#9aa0aa",
+            "material": "metal",
+            "cut": 110,
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.43,
+            "radiusBottom": 0.43,
+            "height": 0.12,
+            "pos": [0,0.86,0],
+            "color": "#1d2027",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.24,
+            "radiusBottom": 0.24,
+            "height": 0.6,
+            "pos": [0,0.4,0],
+            "color": "#b8732e",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.05,
+            "radiusBottom": 0.05,
+            "height": 1.2,
+            "pos": [0,0.55,0],
+            "color": "#c9ccd2",
+            "material": "metal",
+            "slot": "body"
+          },
+          {"shape":"box","size":[0.06,0.08,0.06],"pos":[0.2,0.94,0],"color":"#2b2b2b","slot":"body"},
+          {"shape":"box","size":[0.06,0.08,0.06],"pos":[-0.2,0.94,0],"color":"#2b2b2b","slot":"body"}
+        ]
+      }
+    },
+    "motor-stepper": {
+      "look": {
+        "parts": [
+          {
+            "shape": "box",
+            "size": [0.84,0.7,0.84],
+            "pos": [0,0.35,0],
+            "color": "#1d2027",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.86,0.08,0.86],
+            "pos": [0,0.04,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.86,0.08,0.86],
+            "pos": [0,0.66,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.04,
+            "radiusBottom": 0.04,
+            "height": 1,
+            "pos": [0,0.6,0],
+            "color": "#c9ccd2",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.18,
+            "radiusBottom": 0.18,
+            "height": 0.04,
+            "pos": [0,0.72,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          }
+        ]
+      }
+    }
+  }
+}

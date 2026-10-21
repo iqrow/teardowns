@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [2.4,1.5],
+        "material": "screen",
+        "color": "#274b66",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 225\"><rect x=\"10\" y=\"10\" width=\"340\" height=\"205\" rx=\"14\" fill=\"#172b3a\" stroke=\"#79c7db\" stroke-width=\"7\"/><path d=\"M25 164h310M25 128h310M25 92h310M85 25v175M145 25v175M205 25v175M265 25v175\" stroke=\"#2f6c55\" stroke-width=\"3\"/><circle cx=\"101\" cy=\"125\" r=\"15\" fill=\"#f2c14e\"/><path d=\"M245 65l18 31h-36z\" fill=\"#ec6b5f\"/><path d=\"M169 106l8 17 18-3-14 13 5 18-17-10-16 10 5-18-14-13 18 3z\" fill=\"#e26f62\" stroke=\"#fff\" stroke-width=\"3\"/><rect x=\"25\" y=\"27\" width=\"104\" height=\"15\" rx=\"5\" fill=\"#e7c66a\"/><text x=\"264\" y=\"43\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"16\">PLAYFIELD</text></svg>"
+      }
+    ]
+  }
+}

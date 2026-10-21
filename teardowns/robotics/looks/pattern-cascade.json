@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.4,
+    "energy": 0.8,
+    "weight": 0,
+    "warmth": 0.4,
+    "grain": 0.3,
+    "motion": "orbit",
+    "why": "Fast small orbits inside a slow wide one: inner loops race while the outer loop steers."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.1,0.75],
+        "material": "screen",
+        "color": "#7896d1",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 150\"><rect x=\"10\" y=\"10\" width=\"200\" height=\"130\" rx=\"12\" fill=\"#1b2b42\" stroke=\"#a8c7f0\" stroke-width=\"6\"/><circle cx=\"50\" cy=\"42\" r=\"14\" fill=\"#f4c542\"/><circle cx=\"110\" cy=\"72\" r=\"14\" fill=\"#78d6a8\"/><circle cx=\"170\" cy=\"42\" r=\"14\" fill=\"#f4c542\"/><circle cx=\"110\" cy=\"116\" r=\"16\" fill=\"#8fe0cf\"/><path d=\"M62 47l36 18M158 47l-36 18M110 86v14\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M164 35l9 9-9 9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"4\"/><text x=\"110\" y=\"136\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">SKILL TREE</text></svg>"
+      }
+    ]
+  }
+}

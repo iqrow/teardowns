@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"seed","shape":"sphere","radius":0.09,"pos":[0,0.10,0],"material":"glow","color":"#f0c45b"},{"slot":"spiral","shape":"torus","radius":0.22,"tube":0.024,"pos":[0,0.22,0],"rot":[90,0,0],"material":"glow","color":"#68c4b0"},{"slot":"spiral-two","shape":"torus","radius":0.36,"tube":0.018,"pos":[0,0.34,0],"rot":[90,0,0],"material":"glow","color":"#8e82c8"}]}}

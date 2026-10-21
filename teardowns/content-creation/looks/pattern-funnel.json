@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.35,
+    "energy": 0.4,
+    "weight": 0.6,
+    "warmth": 0.5,
+    "grain": 0.6,
+    "motion": "settle",
+    "why": "Many grains enter wide and few reach the narrow end."
+  }
+}

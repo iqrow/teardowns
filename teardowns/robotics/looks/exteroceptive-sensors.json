@@ -1,0 +1,80 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.9,0.24,0.24],
+        "pos": [-0.45,0.4,0],
+        "color": "#2b2f36",
+        "material": "gloss",
+        "radius": 0.1
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.055,
+        "radiusBottom": 0.055,
+        "height": 0.02,
+        "pos": [-0.75,0.4,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.055,
+        "radiusBottom": 0.055,
+        "height": 0.02,
+        "pos": [-0.15000000000000002,0.4,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.04,
+        "radiusBottom": 0.04,
+        "height": 0.02,
+        "pos": [-0.5,0.4,0.125],
+        "color": "#7a2530",
+        "rot": [90,0,0],
+        "material": "glass"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.045,
+        "radiusBottom": 0.045,
+        "height": 0.02,
+        "pos": [-0.31,0.4,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.2,
+        "radiusBottom": 0.2,
+        "height": 0.12,
+        "pos": [0.6,0.06,0],
+        "color": "#22252b"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.18,
+        "radiusBottom": 0.18,
+        "height": 0.18,
+        "pos": [0.6,0.21,0],
+        "color": "#3a6ea5",
+        "material": "glass",
+        "opacity": 0.75
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.2,
+        "radiusBottom": 0.2,
+        "height": 0.08,
+        "pos": [0.6,0.34,0],
+        "color": "#22252b"
+      }
+    ]
+  }
+}

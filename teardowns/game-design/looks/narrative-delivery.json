@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "channels",
+        "shape": "plane",
+        "size": [1.38,0.84],
+        "material": "screen",
+        "color": "#33264b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 276 168\"><rect x=\"14\" y=\"14\" width=\"248\" height=\"140\" rx=\"10\" fill=\"#261d3b\" stroke=\"#b6a0d2\" stroke-width=\"4\"/><rect x=\"31\" y=\"49\" width=\"42\" height=\"45\" rx=\"6\" fill=\"#e5b45d\"/><path d=\"M41 82h22M41 68h22\" stroke=\"#fff0d0\" stroke-width=\"5\"/><circle cx=\"105\" cy=\"72\" r=\"24\" fill=\"#6cc9a2\"/><path d=\"M89 72h32M105 56v32\" stroke=\"#f5eddc\" stroke-width=\"5\"/><path d=\"M158 94l23-42 23 42z\" fill=\"#e67568\"/><path d=\"M158 105h46\" stroke=\"#f5eddc\" stroke-width=\"5\"/><rect x=\"220\" y=\"49\" width=\"28\" height=\"45\" rx=\"5\" fill=\"#77a9ce\"/><path d=\"M226 60h16M226 72h16M226 84h11\" stroke=\"#f5eddc\" stroke-width=\"4\"/><path d=\"M32 30h62M135 30h55M218 30h30\" stroke=\"#d5c9e6\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"
+      }
+    ]
+  }
+}

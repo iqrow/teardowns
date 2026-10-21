@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.4,
+    "energy": 0.45,
+    "weight": 0,
+    "warmth": 0.55,
+    "grain": 0.6,
+    "motion": "orbit",
+    "why": "Many small bodies circle and lean on each other; move one and the rest shift."
+  }
+}

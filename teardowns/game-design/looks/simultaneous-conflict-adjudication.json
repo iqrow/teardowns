@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.44,0.3],
+        "material": "screen",
+        "color": "#382c3b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 132 90\"><rect x=\"7\" y=\"7\" width=\"118\" height=\"76\" rx=\"10\" fill=\"#2b2635\" stroke=\"#d98b46\" stroke-width=\"4\"/><path d=\"M22 24l30 30M52 24L22 54\" stroke=\"#9ee7ff\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M80 24l30 30M110 24L80 54\" stroke=\"#ff8f73\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"66\" cy=\"45\" r=\"14\" fill=\"#f4c542\" stroke=\"#202a39\" stroke-width=\"4\"/><path d=\"M60 45h12M66 39v12\" stroke=\"#202a39\" stroke-width=\"4\" stroke-linecap=\"round\"/><text x=\"66\" y=\"75\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"10\">ADJUDICATE</text></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "table",
+        "shape": "box",
+        "size": [1.3,0.05,0.62],
+        "pos": [0,0,0],
+        "color": "#8a5a36",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "cylinder",
+        "radiusTop": 0.025,
+        "radiusBottom": 0.022,
+        "height": 0.6,
+        "pos": [-0.4749,-0.2244,-0.5073],
+        "color": "#6b4429",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "cylinder",
+        "radiusTop": 0.025,
+        "radiusBottom": 0.022,
+        "height": 0.6,
+        "pos": [0.6527,-0.3098,-0.1058],
+        "color": "#6b4429",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "cylinder",
+        "radiusTop": 0.025,
+        "radiusBottom": 0.022,
+        "height": 0.6,
+        "pos": [-0.6527,-0.326,-0.0293],
+        "color": "#6b4429",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "cylinder",
+        "radiusTop": 0.025,
+        "radiusBottom": 0.022,
+        "height": 0.6,
+        "pos": [0.4749,-0.4114,0.3721],
+        "color": "#6b4429",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "lathe",
+        "profile": [[0,0],[0.05,0],[0.055,0.1],[0.05,0.1]],
+        "pos": [-0.3631,0.0298,-0.02],
+        "color": "#e8e1d5",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "table",
+        "shape": "lathe",
+        "profile": [[0,0],[0.05,0],[0.055,0.1],[0.05,0.1]],
+        "pos": [0.299,0.0129,0.0596],
+        "color": "#c9d7e8",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "hidden",
+        "shape": "sphere",
+        "radius": 0.13,
+        "pos": [0.0299,-0.4828,-0.0371],
+        "color": "#1c1c1f",
+        "material": "gloss",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "hidden",
+        "shape": "cylinder",
+        "radiusTop": 0.012,
+        "radiusBottom": 0.012,
+        "height": 0.1,
+        "pos": [0.0863,-0.3404,0.0141],
+        "rot": [12,-20,-30],
+        "color": "#c9a46a",
+        "material": "matte"
+      },
+      {
+        "slot": "hidden",
+        "shape": "sphere",
+        "radius": 0.022,
+        "pos": [0.1145,-0.2985,0.0335],
+        "color": "#ffb02e",
+        "material": "glow",
+        "rot": [12,-20,0]
+      },
+      {
+        "slot": "clock",
+        "shape": "cylinder",
+        "radiusTop": 0.19,
+        "radiusBottom": 0.19,
+        "height": 0.05,
+        "pos": [0.5084,0.6233,0.0497],
+        "rot": [102,0,20],
+        "color": "#2a2530",
+        "material": "gloss"
+      },
+      {
+        "slot": "clock",
+        "shape": "plane",
+        "size": [0.36,0.36],
+        "pos": [0.4993,0.6181,0.074],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><circle cx=\"100\" cy=\"100\" r=\"96\" fill=\"#fbf9f2\" stroke=\"#2a2530\" stroke-width=\"7\"/><line x1=\"100\" y1=\"16\" x2=\"100\" y2=\"32\" stroke=\"#2a2530\" stroke-width=\"6\"/><line x1=\"142\" y1=\"27.2539\" x2=\"138\" y2=\"34.1821\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"172.7461\" y1=\"58\" x2=\"165.8179\" y2=\"62\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"184\" y1=\"100\" x2=\"168\" y2=\"100\" stroke=\"#2a2530\" stroke-width=\"6\"/><line x1=\"172.7461\" y1=\"142\" x2=\"165.8179\" y2=\"138\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"142\" y1=\"172.7461\" x2=\"138\" y2=\"165.8179\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"100\" y1=\"184\" x2=\"100\" y2=\"168\" stroke=\"#2a2530\" stroke-width=\"6\"/><line x1=\"58\" y1=\"172.7461\" x2=\"62\" y2=\"165.8179\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"27.2539\" y1=\"142\" x2=\"34.1821\" y2=\"138\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"16\" y1=\"100\" x2=\"32\" y2=\"100\" stroke=\"#2a2530\" stroke-width=\"6\"/><line x1=\"27.2539\" y1=\"58\" x2=\"34.1821\" y2=\"62\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"58\" y1=\"27.2539\" x2=\"62\" y2=\"34.1821\" stroke=\"#2a2530\" stroke-width=\"3\"/><line x1=\"100\" y1=\"100\" x2=\"116.8381\" y2=\"59.3493\" stroke=\"#2a2530\" stroke-width=\"8\" stroke-linecap=\"round\"/><line x1=\"100\" y1=\"100\" x2=\"30\" y2=\"100\" stroke=\"#2a2530\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"100\" cy=\"100\" r=\"7\" fill=\"#c0392b\"/></svg>",
+        "rot": [12,-20,0]
+      }
+    ]
+  },
+  "items": {
+    "gap-mystery": {
+      "look": {
+        "parts": [
+          {
+            "slot": "hidden",
+            "shape": "box",
+            "size": [0.34,0.24,0.3],
+            "pos": [0.0299,-0.5073,-0.0423],
+            "color": "#b88a5a",
+            "material": "matte",
+            "rot": [12,-20,0]
+          },
+          {
+            "slot": "hidden",
+            "shape": "box",
+            "size": [0.345,0.03,0.305],
+            "pos": [0.0299,-0.5073,-0.0423],
+            "color": "#e8dcc0",
+            "material": "matte",
+            "rot": [12,-20,0]
+          },
+          {
+            "slot": "hidden",
+            "shape": "plane",
+            "size": [0.13,0.13],
+            "pos": [-0.0219,-0.5222,0.1001],
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><rect x=\"4\" y=\"4\" width=\"92\" height=\"92\" rx=\"8\" fill=\"#f6efe0\" stroke=\"#7a5a3a\" stroke-width=\"3\"/><text x=\"50\" y=\"78\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"70\" fill=\"#c0392b\" font-weight=\"700\" text-anchor=\"middle\">?</text></svg>",
+            "rot": [12,-20,0]
+          }
+        ]
+      }
+    },
+    "gap-surprise": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cloth",
+            "shape": "box",
+            "size": [1.4,0.645,0.72],
+            "pos": [0,-0.2861,-0.0608],
+            "color": "#f7f2ea",
+            "material": "matte",
+            "rot": [12,-20,0]
+          },
+          {
+            "slot": "cloth",
+            "shape": "plane",
+            "size": [1.4,0.72],
+            "pos": [0,0.0298,0.0063],
+            "rot": [-78,0,-20],
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 288\"><defs><linearGradient id=\"f\"><stop offset=\"0\" stop-color=\"#000\" stop-opacity=\"0\"/><stop offset=\"0.5\" stop-color=\"#000\" stop-opacity=\"0.3\"/><stop offset=\"1\" stop-color=\"#000\" stop-opacity=\"0\"/></linearGradient></defs><rect width=\"560\" height=\"288\" fill=\"#f7f2ea\"/><rect x=\"0\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"60\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"120\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"180\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"240\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"300\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"360\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"420\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"480\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"540\" width=\"30\" height=\"288\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"0\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"60\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"120\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"180\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"240\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/></svg>"
+          },
+          {
+            "slot": "cloth",
+            "shape": "plane",
+            "size": [1.4,0.645],
+            "pos": [-0.1233,-0.3565,0.2705],
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 258\"><defs><linearGradient id=\"f\"><stop offset=\"0\" stop-color=\"#000\" stop-opacity=\"0\"/><stop offset=\"0.5\" stop-color=\"#000\" stop-opacity=\"0.3\"/><stop offset=\"1\" stop-color=\"#000\" stop-opacity=\"0\"/></linearGradient></defs><rect width=\"560\" height=\"258\" fill=\"#f7f2ea\"/><rect x=\"0\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"60\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"120\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"180\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"240\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"300\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"360\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"420\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"480\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"540\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"0\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"60\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"120\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"180\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"240\" width=\"560\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"20\" width=\"72\" height=\"258\" fill=\"url(#f)\"/><rect x=\"132\" width=\"72\" height=\"258\" fill=\"url(#f)\"/><rect x=\"244\" width=\"72\" height=\"258\" fill=\"url(#f)\"/><rect x=\"356\" width=\"72\" height=\"258\" fill=\"url(#f)\"/><rect x=\"468\" width=\"72\" height=\"258\" fill=\"url(#f)\"/></svg>",
+            "rot": [12,-20,0]
+          },
+          {
+            "slot": "cloth",
+            "shape": "plane",
+            "size": [0.72,0.645],
+            "pos": [0.6583,-0.3359,0.1735],
+            "rot": [12,70,0],
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 288 258\"><defs><linearGradient id=\"f\"><stop offset=\"0\" stop-color=\"#000\" stop-opacity=\"0\"/><stop offset=\"0.5\" stop-color=\"#000\" stop-opacity=\"0.3\"/><stop offset=\"1\" stop-color=\"#000\" stop-opacity=\"0\"/></linearGradient></defs><rect width=\"288\" height=\"258\" fill=\"#f7f2ea\"/><rect x=\"0\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"60\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"120\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"180\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"240\" width=\"30\" height=\"258\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"0\" width=\"288\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"60\" width=\"288\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"120\" width=\"288\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"180\" width=\"288\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect y=\"240\" width=\"288\" height=\"30\" fill=\"#c8323c\" opacity=\"0.5\"/><rect x=\"36\" width=\"72\" height=\"258\" fill=\"url(#f)\"/><rect x=\"180\" width=\"72\" height=\"258\" fill=\"url(#f)\"/></svg>"
+          }
+        ]
+      }
+    }
+  }
+}

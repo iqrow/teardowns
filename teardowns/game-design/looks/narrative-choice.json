@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "choice-card",
+        "shape": "plane",
+        "size": [1.24,0.82],
+        "material": "screen",
+        "color": "#3b2c50",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 164\"><rect x=\"14\" y=\"14\" width=\"220\" height=\"136\" rx=\"10\" fill=\"#f0e8d6\" stroke=\"#d9a85b\" stroke-width=\"5\"/><path d=\"M38 82h50M88 82l38-35M88 82l38 35M126 47h78M126 117h78\" stroke=\"#76618f\" stroke-width=\"5\"/><circle cx=\"38\" cy=\"82\" r=\"10\" fill=\"#e67368\"/><rect x=\"177\" y=\"30\" width=\"27\" height=\"34\" rx=\"6\" fill=\"#6cc8a1\"/><rect x=\"177\" y=\"100\" width=\"27\" height=\"34\" rx=\"6\" fill=\"#e5b45e\"/><path d=\"M28 36h48M148 31h18M148 132h18\" stroke=\"#70808f\" stroke-width=\"6\" stroke-linecap=\"round\"/></svg>"
+      }
+    ]
+  }
+}

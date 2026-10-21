@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.32,0.84,0.014],"pos":[0,0,-0.009],"color":"#20242c","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.32,0.84],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\"><rect width=\"440\" height=\"280\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">COLLABORATION</text><circle cx=\"170\" cy=\"160\" r=\"90\" fill=\"#2f6f8f\" fill-opacity=\"0.6\"/><circle cx=\"270\" cy=\"160\" r=\"90\" fill=\"#e0a33a\" fill-opacity=\"0.6\"/><text x=\"130\" y=\"166\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">your</text><text x=\"130\" y=\"184\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">viewers</text><text x=\"310\" y=\"166\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">their</text><text x=\"310\" y=\"184\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">viewers</text><text x=\"220\" y=\"166\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">both</text><text x=\"220\" y=\"268\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\" text-anchor=\"middle\">each side meets the other’s audience</text></svg>"
+      }
+    ]
+  }
+}

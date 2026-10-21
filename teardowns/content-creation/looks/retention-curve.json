@@ -1,0 +1,13 @@
+{
+  "plot": {
+    "x": "Video progress (%)",
+    "y": "Viewers still watching (%, sketch)",
+    "series": [
+      {"name":"Flat body","item":"flat","points":[[0,100],[25,82],[50,82],[75,82],[100,78]]},
+      {"name":"Intro drop","item":"intro-drop","points":[[0,100],[10,55],[30,45],[60,38],[100,30]]},
+      {"name":"Gradual decline","item":"decline","points":[[0,100],[25,72],[50,52],[75,38],[100,28]]},
+      {"name":"Spike","item":"spike","points":[[0,100],[25,74],[50,94],[55,83],[100,55]]},
+      {"name":"Dip","item":"dip","points":[[0,100],[25,76],[50,70],[55,43],[100,36]]}
+    ]
+  }
+}

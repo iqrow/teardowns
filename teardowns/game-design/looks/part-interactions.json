@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.1,0.8],
+        "material": "screen",
+        "color": "#263747",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 160\"><rect x=\"10\" y=\"12\" width=\"200\" height=\"136\" rx=\"12\" fill=\"#1c2938\" stroke=\"#9c7d63\" stroke-width=\"6\"/><path d=\"M39 110l49-56 25 20\" fill=\"none\" stroke=\"#d7ae67\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M75 63l-22 7 13 16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M151 43l27 13v31q0 25-27 35-27-10-27-35V56z\" fill=\"#668ec2\" stroke=\"#8fe0cf\" stroke-width=\"5\"/><path d=\"M138 71h26M151 58v38\" stroke=\"#fff\" stroke-width=\"4\"/><path d=\"M106 94l16-10\" stroke=\"#e26f62\" stroke-width=\"7\" stroke-linecap=\"round\"/><text x=\"110\" y=\"138\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">CAUSE → EFFECT</text></svg>"
+      }
+    ]
+  }
+}

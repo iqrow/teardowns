@@ -1,0 +1,43 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.4,0.9545,0.02],
+        "pos": [0,0,-0.012],
+        "color": "#cfccc2",
+        "material": "matte",
+        "slot": "mode-back"
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,0.9545],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><clipPath id=\"cl\"><rect x=\"20\" y=\"50\" width=\"400\" height=\"215\"/></clipPath><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Monitored stop</text><g clip-path=\"url(#cl)\"><circle cx=\"170\" cy=\"170\" r=\"110\" fill=\"#e0705f\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"170\" r=\"22\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"170\" x2=\"210\" y2=\"140\" stroke=\"#1f2430\" stroke-width=\"8\" stroke-linecap=\"round\" /><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"176\" r=\"9\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><rect x=\"240\" y=\"186\" width=\"20\" height=\"26\" rx=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"0\"/></g><text x=\"220\" y=\"286\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">person inside: robot holds a monitored stop</text></svg>",
+        "slot": "mode"
+      }
+    ]
+  },
+  "items": {
+    "collab-sms": {
+      "svg": {
+        "mode": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><clipPath id=\"cl\"><rect x=\"20\" y=\"50\" width=\"400\" height=\"215\"/></clipPath><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Monitored stop</text><g clip-path=\"url(#cl)\"><circle cx=\"170\" cy=\"170\" r=\"110\" fill=\"#e0705f\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"170\" r=\"22\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"170\" x2=\"210\" y2=\"140\" stroke=\"#1f2430\" stroke-width=\"8\" stroke-linecap=\"round\" /><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"176\" r=\"9\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><rect x=\"240\" y=\"186\" width=\"20\" height=\"26\" rx=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"0\"/></g><text x=\"220\" y=\"286\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">person inside: robot holds a monitored stop</text></svg>"
+      }
+    },
+    "collab-hand": {
+      "svg": {
+        "mode": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><clipPath id=\"cl\"><rect x=\"20\" y=\"50\" width=\"400\" height=\"215\"/></clipPath><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Hand guiding</text><g clip-path=\"url(#cl)\"><circle cx=\"170\" cy=\"170\" r=\"22\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"170\" x2=\"210\" y2=\"140\" stroke=\"#1f2430\" stroke-width=\"8\" stroke-linecap=\"round\" /><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"230\" cy=\"146\" r=\"9\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><rect x=\"220\" y=\"156\" width=\"20\" height=\"26\" rx=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"0\"/><line x1=\"214\" y1=\"142\" x2=\"224\" y2=\"150\" stroke=\"#1f2430\" stroke-width=\"4\" stroke-linecap=\"round\" /></g><text x=\"220\" y=\"286\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">person moves the robot by hand</text></svg>"
+      }
+    },
+    "collab-ssm": {
+      "svg": {
+        "mode": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><clipPath id=\"cl\"><rect x=\"20\" y=\"50\" width=\"400\" height=\"215\"/></clipPath><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Speed and separation</text><g clip-path=\"url(#cl)\"><circle cx=\"170\" cy=\"170\" r=\"120\" fill=\"#7fc28f\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"170\" r=\"85\" fill=\"#f0cf5a\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"170\" r=\"50\" fill=\"#e0705f\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"170\" r=\"22\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"170\" x2=\"210\" y2=\"140\" stroke=\"#1f2430\" stroke-width=\"8\" stroke-linecap=\"round\" /><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"360\" cy=\"156\" r=\"9\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><rect x=\"350\" y=\"166\" width=\"20\" height=\"26\" rx=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"0\"/></g><text x=\"220\" y=\"286\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">closer = slower; too close = stop</text></svg>"
+      }
+    },
+    "collab-pfl": {
+      "svg": {
+        "mode": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><clipPath id=\"cl\"><rect x=\"20\" y=\"50\" width=\"400\" height=\"215\"/></clipPath><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Power and force limiting</text><g clip-path=\"url(#cl)\"><circle cx=\"170\" cy=\"170\" r=\"22\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"170\" x2=\"210\" y2=\"140\" stroke=\"#1f2430\" stroke-width=\"8\" stroke-linecap=\"round\" /><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"222\" cy=\"138\" r=\"9\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"2\"/><rect x=\"212\" y=\"148\" width=\"20\" height=\"26\" rx=\"6\" fill=\"#1f2430\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"214\" cy=\"140\" r=\"16\" fill=\"none\" stroke=\"#c8463d\" stroke-width=\"3\"/><text x=\"260\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#c8463d\" font-weight=\"700\">≤ 140 N</text></g><text x=\"220\" y=\"286\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">contact allowed below body-region limits</text></svg>"
+      }
+    }
+  }
+}

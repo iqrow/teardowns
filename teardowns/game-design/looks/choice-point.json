@@ -1,0 +1,46 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.4,0.24],
+        "pos": [0,0.52,0],
+        "material": "screen",
+        "color": "#263646",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 60\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"12\" y=\"23\" font-size=\"19\" font-weight=\"bold\">OPTIONS</text><text x=\"12\" y=\"47\" font-size=\"17\">Reload now / keep firing</text></g></svg>"
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,0.24],
+        "pos": [0,0.26,0],
+        "material": "screen",
+        "color": "#51423a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 60\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"12\" y=\"23\" font-size=\"19\" font-weight=\"bold\">TRADE-OFF</text><text x=\"12\" y=\"47\" font-size=\"17\">Ammo later / exposure now</text></g></svg>"
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,0.24],
+        "pos": [0,0,0],
+        "material": "screen",
+        "color": "#354d50",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 60\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"12\" y=\"23\" font-size=\"19\" font-weight=\"bold\">INFORMATION</text><text x=\"12\" y=\"47\" font-size=\"17\">3 rounds; enemy offscreen</text></g></svg>"
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,0.24],
+        "pos": [0,-0.26,0],
+        "material": "screen",
+        "color": "#49394e",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 60\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"12\" y=\"23\" font-size=\"19\" font-weight=\"bold\">TIMING</text><text x=\"12\" y=\"47\" font-size=\"17\">2 s reload; fight continues</text></g></svg>"
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,0.24],
+        "pos": [0,-0.52,0],
+        "material": "screen",
+        "color": "#3e4b36",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 60\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"12\" y=\"23\" font-size=\"19\" font-weight=\"bold\">CONSEQUENCE</text><text x=\"12\" y=\"47\" font-size=\"17\">Full magazine / lost position?</text></g></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.84,1.06,0.12],
+        "pos": [-0.0209,0,-0.0573],
+        "color": "#2e4a62",
+        "material": "matte",
+        "rot": [0,20,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.08,1.06,0.124],
+        "pos": [-0.4155,0,0.0863],
+        "color": "#22374a",
+        "material": "matte",
+        "rot": [0,20,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.72,0.92],
+        "pos": [0.0193,0,-0.0054],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 460\"><rect width=\"360\" height=\"460\" fill=\"#2e4a62\"/><rect x=\"40\" y=\"36\" width=\"280\" height=\"80\" rx=\"4\" fill=\"#f3ead6\"/><text x=\"180\" y=\"72\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"28\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"2\">WORLD BIBLE</text><text x=\"180\" y=\"100\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"15\" fill=\"#6d6475\" text-anchor=\"middle\" font-style=\"italic\">the rules of this world</text><rect x=\"26\" y=\"140\" width=\"308\" height=\"292\" rx=\"4\" fill=\"#f3ead6\"/><text x=\"44\" y=\"184\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"30\" fill=\"#c0392b\" font-weight=\"700\">1</text><text x=\"76\" y=\"180\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">Magic solves problems only</text><text x=\"76\" y=\"202\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">as far as the reader</text><text x=\"76\" y=\"224\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">understands it.</text><text x=\"44\" y=\"276\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"30\" fill=\"#c0392b\" font-weight=\"700\">2</text><text x=\"76\" y=\"272\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">Limitations &gt; Powers.</text><text x=\"44\" y=\"368\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"30\" fill=\"#c0392b\" font-weight=\"700\">3</text><text x=\"76\" y=\"364\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">Expand what you have before</text><text x=\"76\" y=\"386\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"17\" fill=\"#2a2530\">you add more.</text></svg>",
+        "rot": [0,20,0]
+      }
+    ]
+  }
+}

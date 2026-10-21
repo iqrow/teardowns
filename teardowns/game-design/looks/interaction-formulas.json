@@ -1,0 +1,30 @@
+{
+  "feel": {
+    "shape": 0.8,
+    "energy": 0.5,
+    "weight": 0.34,
+    "warmth": 0.46,
+    "grain": 0.56,
+    "motion": "spin",
+    "why": "A sharp rotating dial suits a formula whose curve changes every interaction."
+  },
+  "plot": {
+    "x": "Armour",
+    "y": "Damage taken (%)",
+    "series": [
+      {"name":"Subtract","item":"subtract","points":[[0,100],[10,90],[20,80],[50,50],[100,0]]},
+      {
+        "name": "League ratio 100/(100+A)",
+        "item": "league-ratio",
+        "points": [[0,100],[10,90.909],[20,83.333],[50,66.667],[100,50]]
+      },
+      {
+        "name": "Warcraft III 1/(1+0.06A)",
+        "item": "warcraft-ratio",
+        "points": [[0,100],[10,62.5],[20,45.455],[50,25],[100,14.286]]
+      },
+      {"name":"Percentage 1−0.02A","item":"percentage","points":[[0,100],[10,80],[20,60],[50,0],[100,0]]},
+      {"name":"Threshold at A=20","item":"threshold","points":[[0,100],[10,100],[20,0],[50,0],[100,0]]}
+    ]
+  }
+}

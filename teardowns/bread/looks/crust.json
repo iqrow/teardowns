@@ -1,0 +1,6 @@
+{"look":{"parts":[
+  {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.52,0],[0.68,0.06],[0.75,0.2],[0.72,0.36],[0.6,0.5],[0.36,0.6],[0,0.63]],"pos":[-0.6,0,0],"color":"#94491f","material":"matte"},
+  {"slot":"cut","shape":"box","size":[0.55,0.04,0.12],"pos":[-0.6,0.615,0.02],"rot":[0,20,0],"color":"#e3b77c","material":"matte"},
+  {"slot":"ear","shape":"box","size":[0.55,0.07,0.05],"pos":[-0.62,0.66,-0.06],"rot":[-30,20,0],"color":"#4d2410","material":"matte"},
+  {"slot":"slice","shape":"plane","size":[1.2,0.84],"pos":[0.75,0.42,0],"color":"#ffffff","material":"matte","svg":"<svg viewBox=\"0 0 200 140\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Arial, sans-serif\"><path d=\"M8 134 Q6 26 100 14 Q194 26 192 134 Z\" fill=\"#7a3a17\"/><path d=\"M22 126 Q22 40 100 30 Q178 40 178 126 Z\" fill=\"#ecd3a1\"/><g fill=\"#c69a63\"><ellipse cx=\"70\" cy=\"70\" rx=\"9\" ry=\"6\"/><ellipse cx=\"110\" cy=\"62\" rx=\"11\" ry=\"7\"/><ellipse cx=\"140\" cy=\"88\" rx=\"8\" ry=\"6\"/><ellipse cx=\"90\" cy=\"98\" rx=\"10\" ry=\"6\"/><ellipse cx=\"52\" cy=\"104\" rx=\"7\" ry=\"5\"/><ellipse cx=\"124\" cy=\"112\" rx=\"7\" ry=\"4\"/></g></svg>"}
+]}}

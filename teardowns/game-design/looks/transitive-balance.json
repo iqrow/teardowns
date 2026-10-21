@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.25,1],
+        "material": "screen",
+        "color": "#273344",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 200\"><rect x=\"10\" y=\"10\" width=\"230\" height=\"180\" rx=\"12\" fill=\"#1b2938\" stroke=\"#b9d5d9\" stroke-width=\"6\"/><path d=\"M31 160V36M31 160h190\" stroke=\"#9fb0c7\" stroke-width=\"5\"/><path d=\"M50 139l48-42 44 12 54-56\" fill=\"none\" stroke=\"#78d6a8\" stroke-width=\"7\"/><path d=\"M196 53l-2 22 19-12\" fill=\"none\" stroke=\"#78d6a8\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"53\" cy=\"137\" r=\"13\" fill=\"#668ec2\"/><path d=\"M43 151q10-18 20 0\" fill=\"#668ec2\"/><circle cx=\"101\" cy=\"98\" r=\"13\" fill=\"#668ec2\"/><path d=\"M91 112q10-18 20 0\" fill=\"#668ec2\"/><circle cx=\"145\" cy=\"109\" r=\"13\" fill=\"#668ec2\"/><path d=\"M135 123q10-18 20 0\" fill=\"#668ec2\"/><rect x=\"37\" y=\"165\" width=\"34\" height=\"16\" rx=\"4\" fill=\"#e6b84d\"/><rect x=\"84\" y=\"165\" width=\"34\" height=\"16\" rx=\"4\" fill=\"#e6b84d\"/><rect x=\"128\" y=\"165\" width=\"34\" height=\"16\" rx=\"4\" fill=\"#e6b84d\"/><text x=\"54\" y=\"178\" text-anchor=\"middle\" fill=\"#604b36\" font-family=\"sans-serif\" font-size=\"12\">$1</text><text x=\"101\" y=\"178\" text-anchor=\"middle\" fill=\"#604b36\" font-family=\"sans-serif\" font-size=\"12\">$3</text><text x=\"145\" y=\"178\" text-anchor=\"middle\" fill=\"#604b36\" font-family=\"sans-serif\" font-size=\"12\">$6</text><text x=\"125\" y=\"28\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">STRONGER → DEARER</text></svg>"
+      }
+    ]
+  }
+}

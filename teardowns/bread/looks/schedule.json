@@ -1,0 +1,7 @@
+{
+  "look":{"parts":[
+    {"slot":"timeline","shape":"plane","size":[3.4,1.2],"pos":[0,0.55,0],"color":"#f4e5bd","material":"screen","svg":"<svg viewBox=\"0 0 680 240\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"Arial, sans-serif\"><rect width=\"680\" height=\"240\" rx=\"18\" fill=\"#fff7dc\" stroke=\"#633f2b\" stroke-width=\"8\"/><path d=\"M70 130H610\" stroke=\"#b36d3d\" stroke-width=\"14\" stroke-linecap=\"round\"/><circle cx=\"110\" cy=\"130\" r=\"27\" fill=\"#7a9f73\"/><circle cx=\"270\" cy=\"130\" r=\"27\" fill=\"#d49b50\"/><circle cx=\"430\" cy=\"130\" r=\"27\" fill=\"#c76f4b\"/><circle cx=\"570\" cy=\"130\" r=\"27\" fill=\"#7b98bf\"/><text x=\"70\" y=\"65\" font-size=\"28\" fill=\"#35251d\">BAKE SCHEDULE</text><text x=\"70\" y=\"195\" font-size=\"22\" fill=\"#35251d\">build</text><text x=\"230\" y=\"195\" font-size=\"22\" fill=\"#35251d\">mix</text><text x=\"390\" y=\"195\" font-size=\"22\" fill=\"#35251d\">rise</text><text x=\"530\" y=\"195\" font-size=\"22\" fill=\"#35251d\">bake</text></svg>"},
+    {"slot":"clock","shape":"cylinder","radiusTop":0.3,"radiusBottom":0.3,"height":0.12,"pos":[-1.5,0.2,0.12],"rot":[90,0,0],"color":"#efe2bf","material":"matte"},
+    {"slot":"fridge","shape":"box","size":[0.72,1.35,0.72],"pos":[1.25,0.2,0],"radius":0.06,"color":"#b7c7c9","material":"metal"}
+  ]}
+}

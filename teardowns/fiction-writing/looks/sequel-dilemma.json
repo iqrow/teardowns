@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[0.8,1,0.014],"pos":[0,0,-0.009],"color":"#0f1a24","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [0.8,1],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 400\"><rect width=\"320\" height=\"400\" rx=\"20\" fill=\"#1b2a36\"/><rect width=\"320\" height=\"56\" rx=\"20\" fill=\"#6cc4b8\"/><rect y=\"34\" width=\"320\" height=\"22\" fill=\"#6cc4b8\"/><text x=\"24\" y=\"39\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"26\" fill=\"#1b2a36\" font-weight=\"700\">5</text><text x=\"296\" y=\"37\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#1b2a36\" font-weight=\"700\" text-anchor=\"end\" letter-spacing=\"3\">SEQUEL</text><line x1=\"160\" y1=\"94\" x2=\"160\" y2=\"220\" stroke=\"#f4efe6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M152 100 H88 L72 120 L88 140 H152 Z\" fill=\"#6cc4b8\"/><path d=\"M168 146 H232 L248 166 L232 186 H168 Z\" fill=\"#f4efe6\"/><text x=\"114\" y=\"126\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#1b2a36\" font-weight=\"700\" text-anchor=\"middle\">RUN</text><text x=\"206\" y=\"172\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#1b2a36\" font-weight=\"700\" text-anchor=\"middle\">STAY</text><text x=\"160\" y=\"268\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"30\" fill=\"#f4efe6\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"2\">DILEMMA</text><text x=\"160\" y=\"310\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#d9d2c5\" text-anchor=\"middle\" font-style=\"italic\">Run home, or stay and</text><text x=\"160\" y=\"336\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"19\" fill=\"#d9d2c5\" text-anchor=\"middle\" font-style=\"italic\">warn bed four?</text></svg>"
+      }
+    ]
+  }
+}

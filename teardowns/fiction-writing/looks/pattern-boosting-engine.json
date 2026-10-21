@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.75,
+    "energy": 0.85,
+    "weight": -0.4,
+    "warmth": 0.8,
+    "grain": 0.3,
+    "motion": "rise",
+    "why": "Each turn feeds the next, so it climbs faster and faster."
+  }
+}

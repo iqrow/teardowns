@@ -1,0 +1,148 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.7,
+        "radiusBottom": 0.72,
+        "height": 0.06,
+        "pos": [0,0,0],
+        "color": "#5e432b",
+        "material": "matte",
+        "rot": [40,0,0]
+      },
+      {
+        "shape": "plane",
+        "size": [1.4,1.4],
+        "pos": [0,0.0234,0.0196],
+        "rot": [-50,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"199\" fill=\"#6f5034\"/><circle cx=\"200\" cy=\"200\" r=\"186\" fill=\"#8d6a48\" stroke=\"#5e432b\" stroke-width=\"3\"/><line x1=\"200\" y1=\"329\" x2=\"77.3137\" y2=\"239.8632\" stroke=\"#e0453a\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"200\" y1=\"329\" x2=\"322.6863\" y2=\"239.8632\" stroke=\"#6fa3e0\" stroke-width=\"5\" stroke-linecap=\"round\"/><line x1=\"200\" y1=\"329\" x2=\"275.8243\" y2=\"95.6368\" stroke=\"#e8c26b\" stroke-width=\"5\" stroke-linecap=\"round\"/><line x1=\"200\" y1=\"329\" x2=\"124.1757\" y2=\"95.6368\" stroke=\"#b994e6\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-dasharray=\"10 7\"/><line x1=\"77.3137\" y1=\"239.8632\" x2=\"124.1757\" y2=\"95.6368\" stroke=\"#efe2c4\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><line x1=\"124.1757\" y1=\"95.6368\" x2=\"275.8243\" y2=\"95.6368\" stroke=\"#efe2c4\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><line x1=\"275.8243\" y1=\"95.6368\" x2=\"322.6863\" y2=\"239.8632\" stroke=\"#efe2c4\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><line x1=\"322.6863\" y1=\"239.8632\" x2=\"77.3137\" y2=\"239.8632\" stroke=\"#efe2c4\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-dasharray=\"8 6\"/><line x1=\"77.3137\" y1=\"239.8632\" x2=\"275.8243\" y2=\"95.6368\" stroke=\"#efe2c4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-dasharray=\"6 6\"/><line x1=\"124.1757\" y1=\"95.6368\" x2=\"322.6863\" y2=\"239.8632\" stroke=\"#efe2c4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-dasharray=\"6 6\"/><circle cx=\"200\" cy=\"329\" r=\"27\" fill=\"#5e432b\" opacity=\"0.6\"/><circle cx=\"77.3137\" cy=\"239.8632\" r=\"27\" fill=\"#5e432b\" opacity=\"0.6\"/><circle cx=\"124.1757\" cy=\"95.6368\" r=\"27\" fill=\"#5e432b\" opacity=\"0.6\"/><circle cx=\"275.8243\" cy=\"95.6368\" r=\"27\" fill=\"#5e432b\" opacity=\"0.6\"/><circle cx=\"322.6863\" cy=\"239.8632\" r=\"27\" fill=\"#5e432b\" opacity=\"0.6\"/><rect x=\"166\" y=\"363\" width=\"68\" height=\"26\" rx=\"6\" fill=\"#4a3522\" opacity=\"0.9\"/><text x=\"200\" y=\"383\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f6ecd6\" font-weight=\"700\" text-anchor=\"middle\">HERO</text><rect x=\"36.8137\" y=\"273.8632\" width=\"81\" height=\"26\" rx=\"6\" fill=\"#4a3522\" opacity=\"0.9\"/><text x=\"77.3137\" y=\"293.8632\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f6ecd6\" font-weight=\"700\" text-anchor=\"middle\">RIVAL</text><rect x=\"90.1757\" y=\"129.6368\" width=\"68\" height=\"26\" rx=\"6\" fill=\"#4a3522\" opacity=\"0.9\"/><text x=\"124.1757\" y=\"149.6368\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f6ecd6\" font-weight=\"700\" text-anchor=\"middle\">FOIL</text><rect x=\"228.8243\" y=\"129.6368\" width=\"94\" height=\"26\" rx=\"6\" fill=\"#4a3522\" opacity=\"0.9\"/><text x=\"275.8243\" y=\"149.6368\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f6ecd6\" font-weight=\"700\" text-anchor=\"middle\">MENTOR</text><rect x=\"288.6863\" y=\"273.8632\" width=\"68\" height=\"26\" rx=\"6\" fill=\"#4a3522\" opacity=\"0.9\"/><text x=\"322.6863\" y=\"293.8632\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" fill=\"#f6ecd6\" font-weight=\"700\" text-anchor=\"middle\">ALLY</text></svg>"
+      },
+      {
+        "shape": "lathe",
+        "profile": [
+          [0,0],
+          [0.108,0],
+          [0.108,0.0216],
+          [0.0864,0.0396],
+          [0.0576,0.0648],
+          [0.0432,0.144],
+          [0.036,0.216],
+          [0.0648,0.2318],
+          [0.0648,0.2462],
+          [0.0396,0.2578],
+          [0.054,0.2772],
+          [0.0619,0.3024],
+          [0.0547,0.3326],
+          [0.0324,0.3528],
+          [0,0.36]
+        ],
+        "smooth": true,
+        "pos": [0,-0.2672,0.3652],
+        "color": "#e2a13b",
+        "material": "gloss",
+        "rot": [40,0,0]
+      },
+      {
+        "shape": "lathe",
+        "profile": [
+          [0,0],
+          [0.096,0],
+          [0.096,0.0192],
+          [0.0768,0.0352],
+          [0.0512,0.0576],
+          [0.0384,0.128],
+          [0.032,0.192],
+          [0.0576,0.2061],
+          [0.0576,0.2189],
+          [0.0352,0.2291],
+          [0.048,0.2464],
+          [0.055,0.2688],
+          [0.0486,0.2957],
+          [0.0288,0.3136],
+          [0,0.32]
+        ],
+        "smooth": true,
+        "pos": [-0.4294,-0.0667,0.1261],
+        "color": "#8e2430",
+        "material": "gloss",
+        "rot": [40,0,0]
+      },
+      {
+        "shape": "lathe",
+        "profile": [
+          [0,0],
+          [0.096,0],
+          [0.096,0.0192],
+          [0.0768,0.0352],
+          [0.0512,0.0576],
+          [0.0384,0.128],
+          [0.032,0.192],
+          [0.0576,0.2061],
+          [0.0576,0.2189],
+          [0.0352,0.2291],
+          [0.048,0.2464],
+          [0.055,0.2688],
+          [0.0486,0.2957],
+          [0.0288,0.3136],
+          [0,0.32]
+        ],
+        "smooth": true,
+        "pos": [-0.2654,0.2578,-0.2606],
+        "color": "#7d5ba6",
+        "material": "gloss",
+        "rot": [40,0,0]
+      },
+      {
+        "shape": "lathe",
+        "profile": [
+          [0,0],
+          [0.096,0],
+          [0.096,0.0192],
+          [0.0768,0.0352],
+          [0.0512,0.0576],
+          [0.0384,0.128],
+          [0.032,0.192],
+          [0.0576,0.2061],
+          [0.0576,0.2189],
+          [0.0352,0.2291],
+          [0.048,0.2464],
+          [0.055,0.2688],
+          [0.0486,0.2957],
+          [0.0288,0.3136],
+          [0,0.32]
+        ],
+        "smooth": true,
+        "pos": [0.2654,0.2578,-0.2606],
+        "color": "#8ea37f",
+        "material": "gloss",
+        "rot": [40,0,0]
+      },
+      {
+        "shape": "lathe",
+        "profile": [
+          [0,0],
+          [0.096,0],
+          [0.096,0.0192],
+          [0.0768,0.0352],
+          [0.0512,0.0576],
+          [0.0384,0.128],
+          [0.032,0.192],
+          [0.0576,0.2061],
+          [0.0576,0.2189],
+          [0.0352,0.2291],
+          [0.048,0.2464],
+          [0.055,0.2688],
+          [0.0486,0.2957],
+          [0.0288,0.3136],
+          [0,0.32]
+        ],
+        "smooth": true,
+        "pos": [0.4294,-0.0667,0.1261],
+        "color": "#3f73b5",
+        "material": "gloss",
+        "rot": [40,0,0]
+      }
+    ]
+  }
+}

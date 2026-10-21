@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.85,0.85],
+        "material": "gloss",
+        "color": "#2e3542",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 170 170\"><rect x=\"10\" y=\"10\" width=\"150\" height=\"150\" rx=\"15\" fill=\"#202a39\" stroke=\"#d98b46\" stroke-width=\"7\"/><rect x=\"22\" y=\"24\" width=\"126\" height=\"42\" rx=\"7\" fill=\"#263f4d\" stroke=\"#63d0aa\" stroke-width=\"3\"/><path d=\"M85 25v40\" stroke=\"#d98b46\" stroke-width=\"3\"/><text x=\"53\" y=\"50\" text-anchor=\"middle\" fill=\"#9ee7ff\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\">PLAN</text><text x=\"116\" y=\"50\" text-anchor=\"middle\" fill=\"#ffcf70\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">RESOLVE</text><path d=\"M29 77h112\" stroke=\"#d98b46\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"85\" cy=\"77\" r=\"8\" fill=\"#f4c542\" stroke=\"#202a39\" stroke-width=\"3\"/><path d=\"M36 91h43v42H36z\" fill=\"#1a3141\" stroke=\"#5c89a5\" stroke-width=\"3\"/><path d=\"M41 123l14-15 8 7 12-14\" fill=\"none\" stroke=\"#76d6ac\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M41 99h24M41 105h16\" stroke=\"#63788a\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M93 91h47v42H93z\" fill=\"#302c38\" stroke=\"#9a6684\" stroke-width=\"3\"/><circle cx=\"116\" cy=\"110\" r=\"13\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"4\"/><path d=\"M116 110V101M116 110l8 5\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><text x=\"116\" y=\"128\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"10\">T-24H</text><text x=\"85\" y=\"151\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">LOCK · PLAY · REVEAL</text></svg>"
+      }
+    ]
+  }
+}

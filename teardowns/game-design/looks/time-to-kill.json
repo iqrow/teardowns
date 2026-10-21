@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.9,0.9],
+        "material": "gloss",
+        "color": "#30384a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 180\"><circle cx=\"90\" cy=\"90\" r=\"63\" fill=\"#222b39\" stroke=\"#d2785b\" stroke-width=\"8\"/><circle cx=\"90\" cy=\"90\" r=\"8\" fill=\"#d2785b\"/><path d=\"M90 90V48M90 90l31 21\" stroke=\"#fff\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M55 16h70\" stroke=\"#d2785b\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"90\" y=\"157\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"17\">TTK</text></svg>"
+      }
+    ]
+  }
+}

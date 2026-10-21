@@ -1,0 +1,641 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.8,0.22,0.6],
+        "pos": [0,0.26,0],
+        "color": "#3a3f47",
+        "material": "matte",
+        "radius": 0.04
+      },
+      {"shape":"box","size":[0.82,0.03,0.62],"pos":[0,0.15,0],"color":"#e8b82e","material":"matte"},
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.13,
+        "radiusBottom": 0.13,
+        "height": 0.08,
+        "pos": [-0.45,0.13,0],
+        "color": "#16181c",
+        "rot": [0,0,90],
+        "material": "matte",
+        "slot": "wheels"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.0585,
+        "radiusBottom": 0.0585,
+        "height": 0.09,
+        "pos": [-0.45,0.13,0],
+        "color": "#9aa0aa",
+        "rot": [0,0,90],
+        "material": "metal",
+        "slot": "wheels"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.13,
+        "radiusBottom": 0.13,
+        "height": 0.08,
+        "pos": [0.45,0.13,0],
+        "color": "#16181c",
+        "rot": [0,0,90],
+        "material": "matte",
+        "slot": "wheels"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.0585,
+        "radiusBottom": 0.0585,
+        "height": 0.09,
+        "pos": [0.45,0.13,0],
+        "color": "#9aa0aa",
+        "rot": [0,0,90],
+        "material": "metal",
+        "slot": "wheels"
+      },
+      {"shape":"sphere","radius":0.05,"pos":[0,0.05,0.24],"color":"#555555","slot":"wheels"},
+      {"shape":"sphere","radius":0.05,"pos":[0,0.05,-0.24],"color":"#555555","slot":"wheels"}
+    ]
+  },
+  "items": {
+    "drive-differential": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [-0.45,0.13,0],
+            "color": "#16181c",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [-0.45,0.13,0],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [0.45,0.13,0],
+            "color": "#16181c",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [0.45,0.13,0],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.05,"pos":[0,0.05,0.24],"color":"#555555","slot":"wheels"},
+          {"shape":"sphere","radius":0.05,"pos":[0,0.05,-0.24],"color":"#555555","slot":"wheels"}
+        ]
+      }
+    },
+    "drive-mecanum": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.12,
+            "radiusBottom": 0.12,
+            "height": 0.1,
+            "pos": [-0.46,0.12,0.22],
+            "color": "#2b2f36",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.054,
+            "radiusBottom": 0.054,
+            "height": 0.11,
+            "pos": [-0.46,0.12,0.22],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.12,0.34],
+            "color": "#e8b82e",
+            "rot": [0,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.2239,0.28],
+            "color": "#e8b82e",
+            "rot": [-60,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.2239,0.16],
+            "color": "#e8b82e",
+            "rot": [-120,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.12,0.1],
+            "color": "#e8b82e",
+            "rot": [-180,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.0161,0.16],
+            "color": "#e8b82e",
+            "rot": [-240,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.0161,0.28],
+            "color": "#e8b82e",
+            "rot": [-300,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.12,
+            "radiusBottom": 0.12,
+            "height": 0.1,
+            "pos": [0.46,0.12,0.22],
+            "color": "#2b2f36",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.054,
+            "radiusBottom": 0.054,
+            "height": 0.11,
+            "pos": [0.46,0.12,0.22],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.12,0.34],
+            "color": "#e8b82e",
+            "rot": [0,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.2239,0.28],
+            "color": "#e8b82e",
+            "rot": [-60,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.2239,0.16],
+            "color": "#e8b82e",
+            "rot": [-120,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.12,0.1],
+            "color": "#e8b82e",
+            "rot": [-180,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.0161,0.16],
+            "color": "#e8b82e",
+            "rot": [-240,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.0161,0.28],
+            "color": "#e8b82e",
+            "rot": [-300,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.12,
+            "radiusBottom": 0.12,
+            "height": 0.1,
+            "pos": [-0.46,0.12,-0.22],
+            "color": "#2b2f36",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.054,
+            "radiusBottom": 0.054,
+            "height": 0.11,
+            "pos": [-0.46,0.12,-0.22],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.12,-0.1],
+            "color": "#e8b82e",
+            "rot": [0,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.2239,-0.16],
+            "color": "#e8b82e",
+            "rot": [-60,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.2239,-0.28],
+            "color": "#e8b82e",
+            "rot": [-120,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.12,-0.34],
+            "color": "#e8b82e",
+            "rot": [-180,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.0161,-0.28],
+            "color": "#e8b82e",
+            "rot": [-240,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [-0.46,0.0161,-0.16],
+            "color": "#e8b82e",
+            "rot": [-300,-45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.12,
+            "radiusBottom": 0.12,
+            "height": 0.1,
+            "pos": [0.46,0.12,-0.22],
+            "color": "#2b2f36",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.054,
+            "radiusBottom": 0.054,
+            "height": 0.11,
+            "pos": [0.46,0.12,-0.22],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.12,-0.1],
+            "color": "#e8b82e",
+            "rot": [0,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.2239,-0.16],
+            "color": "#e8b82e",
+            "rot": [-60,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.2239,-0.28],
+            "color": "#e8b82e",
+            "rot": [-120,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.12,-0.34],
+            "color": "#e8b82e",
+            "rot": [-180,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.0161,-0.28],
+            "color": "#e8b82e",
+            "rot": [-240,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "box",
+            "size": [0.11,0.03,0.03],
+            "pos": [0.46,0.0161,-0.16],
+            "color": "#e8b82e",
+            "rot": [-300,45,0],
+            "material": "matte",
+            "slot": "wheels"
+          }
+        ]
+      }
+    },
+    "drive-ackermann": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [-0.45,0.13,0.24],
+            "color": "#16181c",
+            "rot": [0,20,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [-0.45,0.13,0.24],
+            "color": "#9aa0aa",
+            "rot": [0,20,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [0.45,0.13,0.24],
+            "color": "#16181c",
+            "rot": [0,20,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [0.45,0.13,0.24],
+            "color": "#9aa0aa",
+            "rot": [0,20,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [-0.45,0.13,-0.24],
+            "color": "#16181c",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [-0.45,0.13,-0.24],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.13,
+            "radiusBottom": 0.13,
+            "height": 0.08,
+            "pos": [0.45,0.13,-0.24],
+            "color": "#16181c",
+            "rot": [0,0,90],
+            "material": "matte",
+            "slot": "wheels"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.0585,
+            "radiusBottom": 0.0585,
+            "height": 0.09,
+            "pos": [0.45,0.13,-0.24],
+            "color": "#9aa0aa",
+            "rot": [0,0,90],
+            "material": "metal",
+            "slot": "wheels"
+          }
+        ]
+      }
+    },
+    "drive-legged": {
+      "look": {
+        "parts": [
+          {"shape":"sphere","radius":0.05,"pos":[-0.3,0.22,0.3],"color":"#2b3038","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.035,
+            "radiusBottom": 0.035,
+            "height": 0.1673,
+            "pos": [-0.27,0.17,0.36],
+            "rot": [111.2,-39.72,-27.79],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.035,"pos":[-0.24,0.12,0.42],"color":"#2f6fd6","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.028,
+            "radiusBottom": 0.028,
+            "height": 0.2506,
+            "pos": [-0.27,0,0.44],
+            "rot": [21.87,64.63,146.03],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {
+            "shape": "sphere",
+            "radius": 0.035,
+            "pos": [-0.3,-0.12,0.45999999999999996],
+            "color": "#16181c",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.05,"pos":[0.3,0.22,0.3],"color":"#2b3038","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.035,
+            "radiusBottom": 0.035,
+            "height": 0.1673,
+            "pos": [0.33,0.17,0.36],
+            "rot": [111.2,-39.72,-27.79],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.035,"pos":[0.36,0.12,0.42],"color":"#2f6fd6","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.028,
+            "radiusBottom": 0.028,
+            "height": 0.2506,
+            "pos": [0.33,0,0.44],
+            "rot": [21.87,64.63,146.03],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {
+            "shape": "sphere",
+            "radius": 0.035,
+            "pos": [0.3,-0.12,0.45999999999999996],
+            "color": "#16181c",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.05,"pos":[-0.3,0.22,-0.3],"color":"#2b3038","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.035,
+            "radiusBottom": 0.035,
+            "height": 0.1673,
+            "pos": [-0.27,0.17,-0.36],
+            "rot": [-111.2,39.72,-27.79],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.035,"pos":[-0.24,0.12,-0.42],"color":"#2f6fd6","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.028,
+            "radiusBottom": 0.028,
+            "height": 0.2506,
+            "pos": [-0.27,0,-0.44],
+            "rot": [-21.87,-64.63,146.03],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {
+            "shape": "sphere",
+            "radius": 0.035,
+            "pos": [-0.3,-0.12,-0.45999999999999996],
+            "color": "#16181c",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.05,"pos":[0.3,0.22,-0.3],"color":"#2b3038","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.035,
+            "radiusBottom": 0.035,
+            "height": 0.1673,
+            "pos": [0.33,0.17,-0.36],
+            "rot": [-111.2,39.72,-27.79],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {"shape":"sphere","radius":0.035,"pos":[0.36,0.12,-0.42],"color":"#2f6fd6","slot":"wheels"},
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.028,
+            "radiusBottom": 0.028,
+            "height": 0.2506,
+            "pos": [0.33,0,-0.44],
+            "rot": [-21.87,-64.63,146.03],
+            "color": "#2b3038",
+            "slot": "wheels"
+          },
+          {
+            "shape": "sphere",
+            "radius": 0.035,
+            "pos": [0.3,-0.12,-0.45999999999999996],
+            "color": "#16181c",
+            "slot": "wheels"
+          }
+        ]
+      }
+    }
+  }
+}

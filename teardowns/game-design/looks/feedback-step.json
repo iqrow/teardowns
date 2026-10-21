@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.05,0.75],
+        "material": "glow",
+        "color": "#3a3440",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 210 150\"><path d=\"M105 15l13 33 36-13-14 35 34 17-36 10 10 37-32-19-23 31-7-38-38 8 24-29-29-25 38 1z\" fill=\"#e26f62\" stroke=\"#fff\" stroke-width=\"5\" stroke-linejoin=\"round\"/><text x=\"105\" y=\"91\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"24\">-25</text><text x=\"105\" y=\"128\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">HIT</text></svg>"
+      }
+    ]
+  }
+}

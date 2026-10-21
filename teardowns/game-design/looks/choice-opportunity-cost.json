@@ -1,0 +1,15 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.25,0.76,0.06],"material":"matte","color":"#51423a"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.7],
+        "pos": [0,0,0.035],
+        "material": "screen",
+        "color": "#51423a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 175\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"14\" y=\"30\" font-size=\"20\" font-weight=\"bold\">SHARED TIME BUDGET</text><text x=\"14\" y=\"66\" font-size=\"19\">Reload occupies 2 s</text><path d=\"M15 95h260\" stroke=\"#e6b84d\" stroke-width=\"15\"/><text x=\"14\" y=\"143\" font-size=\"19\">Cannot fire during reload</text></g></svg>"
+      }
+    ]
+  }
+}

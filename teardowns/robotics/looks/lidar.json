@@ -1,0 +1,212 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.32,
+        "radiusBottom": 0.32,
+        "height": 0.25,
+        "pos": [0,0.125,0],
+        "color": "#22252b",
+        "material": "matte",
+        "slot": "body"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.28,
+        "radiusBottom": 0.28,
+        "height": 0.2,
+        "pos": [0,0.35,0],
+        "color": "#3a6ea5",
+        "material": "glass",
+        "opacity": 0.75,
+        "slot": "body"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.3,
+        "radiusBottom": 0.3,
+        "height": 0.1,
+        "pos": [0,0.5,0],
+        "color": "#22252b",
+        "material": "matte",
+        "slot": "body"
+      },
+      {
+        "shape": "particles",
+        "count": 120,
+        "box": [1.8,0.02,1.8],
+        "pos": [0,0.35,0],
+        "size": 0.025,
+        "color": "#ff4d4d",
+        "motion": "orbit",
+        "slot": "body"
+      }
+    ]
+  },
+  "items": {
+    "lidar-2d": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.32,
+            "radiusBottom": 0.32,
+            "height": 0.25,
+            "pos": [0,0.125,0],
+            "color": "#22252b",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.28,
+            "radiusBottom": 0.28,
+            "height": 0.2,
+            "pos": [0,0.35,0],
+            "color": "#3a6ea5",
+            "material": "glass",
+            "opacity": 0.75,
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.3,
+            "radiusBottom": 0.3,
+            "height": 0.1,
+            "pos": [0,0.5,0],
+            "color": "#22252b",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "particles",
+            "count": 120,
+            "box": [1.8,0.02,1.8],
+            "pos": [0,0.35,0],
+            "size": 0.025,
+            "color": "#ff4d4d",
+            "motion": "orbit",
+            "slot": "body"
+          }
+        ]
+      }
+    },
+    "lidar-3d": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.32,
+            "radiusBottom": 0.32,
+            "height": 0.2,
+            "pos": [0,0.1,0],
+            "color": "#22252b",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.3,
+            "radiusBottom": 0.3,
+            "height": 0.55,
+            "pos": [0,0.47,0],
+            "color": "#2b3a4a",
+            "material": "glass",
+            "opacity": 0.85,
+            "slot": "body"
+          },
+          {
+            "shape": "torus",
+            "radius": 0.302,
+            "tube": 0.006,
+            "pos": [0,0.3,0],
+            "rot": [90,0,0],
+            "color": "#5b6476",
+            "slot": "body"
+          },
+          {
+            "shape": "torus",
+            "radius": 0.302,
+            "tube": 0.006,
+            "pos": [0,0.42,0],
+            "rot": [90,0,0],
+            "color": "#5b6476",
+            "slot": "body"
+          },
+          {
+            "shape": "torus",
+            "radius": 0.302,
+            "tube": 0.006,
+            "pos": [0,0.54,0],
+            "rot": [90,0,0],
+            "color": "#5b6476",
+            "slot": "body"
+          },
+          {
+            "shape": "torus",
+            "radius": 0.302,
+            "tube": 0.006,
+            "pos": [0,0.6599999999999999,0],
+            "rot": [90,0,0],
+            "color": "#5b6476",
+            "slot": "body"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.32,
+            "radiusBottom": 0.32,
+            "height": 0.1,
+            "pos": [0,0.8,0],
+            "color": "#22252b",
+            "material": "matte",
+            "slot": "body"
+          },
+          {
+            "shape": "particles",
+            "count": 240,
+            "box": [1.8,0.5,1.8],
+            "pos": [0,0.47,0],
+            "size": 0.02,
+            "color": "#ff4d4d",
+            "motion": "orbit",
+            "slot": "body"
+          }
+        ]
+      }
+    },
+    "lidar-solid": {
+      "look": {
+        "parts": [
+          {
+            "shape": "box",
+            "size": [0.8,0.5,0.5],
+            "pos": [0,0.25,0],
+            "color": "#22252b",
+            "material": "matte",
+            "radius": 0.04,
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.6,0.25,0.01],
+            "pos": [0,0.27,0.252],
+            "color": "#2b3a4a",
+            "material": "glass",
+            "slot": "body"
+          },
+          {
+            "shape": "particles",
+            "count": 140,
+            "box": [0.9,0.4,0.8],
+            "pos": [0,0.3,0.8],
+            "size": 0.02,
+            "color": "#ff4d4d",
+            "motion": "drift",
+            "slot": "body"
+          }
+        ]
+      }
+    }
+  }
+}

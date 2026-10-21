@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.2,0.72],
+        "material": "screen",
+        "color": "#2b3b49",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 144\"><rect x=\"8\" y=\"15\" width=\"224\" height=\"114\" rx=\"10\" fill=\"#1d2a38\" stroke=\"#88d1b4\" stroke-width=\"5\"/><rect x=\"25\" y=\"37\" width=\"70\" height=\"58\" fill=\"#2f5570\"/><rect x=\"145\" y=\"37\" width=\"70\" height=\"58\" fill=\"#315743\"/><circle cx=\"60\" cy=\"69\" r=\"12\" fill=\"#f2c542\"/><circle cx=\"175\" cy=\"69\" r=\"12\" fill=\"#e26f62\"/><path d=\"M60 69l16-18M175 69l18 15\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M108 72h24M123 60l12 12-12 12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"120\" y=\"119\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">BEFORE → AFTER</text></svg>"
+      }
+    ]
+  }
+}

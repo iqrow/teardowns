@@ -1,0 +1,109 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.22,
+        "radiusBottom": 0.22,
+        "height": 0.6,
+        "pos": [-0.42,0,0],
+        "color": "#3a3f47",
+        "rot": [0,0,90],
+        "material": "matte"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.23,
+        "radiusBottom": 0.23,
+        "height": 0.04,
+        "pos": [-0.12,0,0],
+        "color": "#9aa0aa",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.26,
+        "radiusBottom": 0.26,
+        "height": 0.4,
+        "pos": [0.12,0,0],
+        "color": "#8b919b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.2,
+        "radiusBottom": 0.2,
+        "height": 0.06,
+        "pos": [0.35,0,0],
+        "color": "#c9ccd2",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,0,0.14],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,0.1212,0.07],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,0.1212,-0.07],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,0,-0.14],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,-0.1212,-0.07],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.07,
+        "pos": [0.36,-0.1212,0.07],
+        "color": "#5b616b",
+        "rot": [0,0,90],
+        "material": "metal"
+      },
+      {"shape":"box","size":[0.5,0.03,0.34],"pos":[-0.42,0.24,0],"color":"#1b5e3b","material":"matte"},
+      {"shape":"box","size":[0.1,0.04,0.1],"pos":[-0.5,0.275,0],"color":"#15171c"},
+      {"shape":"box","size":[0.08,0.06,0.06],"pos":[-0.3,0.29,0.1],"color":"#9aa0aa","material":"metal"}
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "story-board",
+        "shape": "plane",
+        "size": [3.2,2.18],
+        "material": "screen",
+        "color": "#251d3b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"10\" width=\"300\" height=\"198\" rx=\"14\" fill=\"#251d3b\" stroke=\"#b2a2d8\" stroke-width=\"4\"/><path d=\"M66 76h75M178 76h76M141 76v56M178 132H92M178 132h78\" stroke=\"#756597\" stroke-width=\"5\"/><rect x=\"29\" y=\"48\" width=\"74\" height=\"54\" rx=\"8\" fill=\"#e4b45d\"/><rect x=\"126\" y=\"48\" width=\"74\" height=\"54\" rx=\"8\" fill=\"#6dcaa2\"/><rect x=\"217\" y=\"48\" width=\"74\" height=\"54\" rx=\"8\" fill=\"#e7776b\"/><rect x=\"54\" y=\"132\" width=\"76\" height=\"54\" rx=\"8\" fill=\"#76a8cf\"/><rect x=\"215\" y=\"132\" width=\"76\" height=\"54\" rx=\"8\" fill=\"#c782b6\"/><circle cx=\"141\" cy=\"76\" r=\"8\" fill=\"#f2ead8\"/><circle cx=\"178\" cy=\"132\" r=\"8\" fill=\"#f2ead8\"/><path d=\"M44 29h55M134 29h58M225 29h44\" stroke=\"#f2ead8\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "slot": "story-card",
+        "shape": "box",
+        "size": [0.42,0.64,0.08],
+        "pos": [-0.9,0.38,0.14],
+        "material": "matte",
+        "color": "#e4b45d"
+      },
+      {
+        "slot": "story-card",
+        "shape": "box",
+        "size": [0.42,0.64,0.08],
+        "pos": [0.9,-0.34,0.14],
+        "material": "matte",
+        "color": "#6dcaa2"
+      }
+    ]
+  }
+}

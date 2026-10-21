@@ -1,0 +1,15 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.25,0.76,0.06],"material":"matte","color":"#3e4b36"},
+      {
+        "shape": "plane",
+        "size": [1.2,0.7],
+        "pos": [0,0,0.035],
+        "material": "screen",
+        "color": "#3e4b36",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 175\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"14\" y=\"30\" font-size=\"20\" font-weight=\"bold\">NEXT-STATE RULES</text><text x=\"14\" y=\"69\" font-size=\"18\">Ammo stays full until fired</text><text x=\"14\" y=\"105\" font-size=\"18\">Lost cover changes next fight</text><text x=\"14\" y=\"145\" font-size=\"17\" fill=\"#88d1b4\">Different future options remain</text></g></svg>"
+      }
+    ]
+  }
+}

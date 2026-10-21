@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.15,0.8],
+        "material": "screen",
+        "color": "#2b3745",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 160\"><rect x=\"10\" y=\"12\" width=\"210\" height=\"136\" rx=\"10\" fill=\"#1b2938\" stroke=\"#e4ad55\" stroke-width=\"6\"/><path d=\"M30 103h50V49H30zM39 65h32M39 82h32\" fill=\"#4f7f63\" stroke=\"#9cc89f\" stroke-width=\"4\"/><circle cx=\"157\" cy=\"63\" r=\"23\" fill=\"#f2c14e\" stroke=\"#fff\" stroke-width=\"4\"/><path d=\"M157 45v36M139 63h36\" stroke=\"#6a4f2f\" stroke-width=\"5\"/><path d=\"M85 78h44M114 64l16 14-16 14\" fill=\"none\" stroke=\"#f0c85a\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"142\" y=\"99\" width=\"47\" height=\"23\" rx=\"5\" fill=\"#668ec2\"/><text x=\"115\" y=\"145\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">TRADE / CONVERT</text></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.9,0.04,0.7],
+        "pos": [0,0.0115,0.0164],
+        "color": "#1b5e3b",
+        "material": "matte",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.6,0.06,0.5],
+        "pos": [0,0.0402,0.0573],
+        "color": "#1d2027",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [-0.27,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [-0.21,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [-0.15,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [-0.09,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [-0.03,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [0.03,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [0.09,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [0.15,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [0.21,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.02,0.12,0.46],
+        "pos": [0.27,0.0918,0.1311],
+        "color": "#5b616b",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.18,
+        "radiusBottom": 0.18,
+        "height": 0.04,
+        "pos": [0,0.1491,0.213],
+        "color": "#15171c",
+        "material": "matte",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.32,0.005,0.05],
+        "pos": [0,0.1635,0.2335],
+        "color": "#3a3f47",
+        "rot": [55,0,0],
+        "motion": "spin",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.32,0.005,0.05],
+        "pos": [0,0.1635,0.2335],
+        "color": "#3a3f47",
+        "rot": [55,60,0],
+        "motion": "spin",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.32,0.005,0.05],
+        "pos": [0,0.1635,0.2335],
+        "color": "#3a3f47",
+        "rot": [-125,60,-180],
+        "motion": "spin",
+        "slot": "body"
+      },
+      {
+        "shape": "box",
+        "size": [0.1,0.06,0.08],
+        "pos": [-0.3,-0.2662,0.2474],
+        "color": "#9aa0aa",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.1,0.06,0.08],
+        "pos": [-0.15,-0.2662,0.2474],
+        "color": "#9aa0aa",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.1,0.06,0.08],
+        "pos": [0,-0.2662,0.2474],
+        "color": "#9aa0aa",
+        "material": "metal",
+        "slot": "body",
+        "rot": [55,0,0]
+      }
+    ]
+  },
+  "items": {
+    "cpu-mcu": {
+      "look": {
+        "parts": [
+          {
+            "shape": "box",
+            "size": [0.8,0.04,0.45],
+            "pos": [0,0.0115,0.0164],
+            "color": "#2f6fd6",
+            "material": "matte",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.2,0.04,0.2],
+            "pos": [0,0.0344,0.0491],
+            "color": "#15171c",
+            "material": "gloss",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.36,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.312,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.264,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.216,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.168,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.12,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.072,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.024,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.024,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.072,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.12,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.168,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.216,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.264,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.312,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.36,-0.1212,0.1581],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.36,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.312,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.264,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.216,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.168,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.12,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.072,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [-0.024,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.024,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.072,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.12,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.168,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.216,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.264,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.312,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.025,0.08,0.025],
+            "pos": [0.36,0.1901,-0.0598],
+            "color": "#1d2027",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.1,0.06,0.1],
+            "pos": [-0.33,0.0344,0.0491],
+            "color": "#c9ccd2",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          }
+        ]
+      }
+    },
+    "cpu-pc": {
+      "look": {
+        "parts": [
+          {
+            "shape": "box",
+            "size": [0.8,0.22,0.6],
+            "pos": [0,0.11,0],
+            "color": "#3a3f47",
+            "material": "metal",
+            "radius": 0.02,
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.36,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.3,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.24,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.18,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.12,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [-0.06,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.06,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.12,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.18,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.24,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.3,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.56],
+            "pos": [0.36,0.28,0],
+            "color": "#8b919b",
+            "material": "metal",
+            "slot": "body"
+          },
+          {"shape":"box","size":[0.07,0.04,0.01],"pos":[-0.25,0.1,0.302],"color":"#15171c","slot":"body"},
+          {"shape":"box","size":[0.07,0.04,0.01],"pos":[-0.13,0.1,0.302],"color":"#15171c","slot":"body"},
+          {
+            "shape": "box",
+            "size": [0.07,0.04,0.01],
+            "pos": [-0.010000000000000009,0.1,0.302],
+            "color": "#15171c",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.07,0.04,0.01],
+            "pos": [0.10999999999999999,0.1,0.302],
+            "color": "#15171c",
+            "slot": "body"
+          },
+          {"shape":"box","size":[0.1,0.06,0.01],"pos":[0.28,0.1,0.302],"color":"#2f6fd6","slot":"body"}
+        ]
+      }
+    },
+    "cpu-gpu": {
+      "look": {
+        "parts": [
+          {
+            "shape": "box",
+            "size": [0.9,0.04,0.7],
+            "pos": [0,0.0115,0.0164],
+            "color": "#1b5e3b",
+            "material": "matte",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.6,0.06,0.5],
+            "pos": [0,0.0402,0.0573],
+            "color": "#1d2027",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [-0.27,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [-0.21,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [-0.15,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [-0.09,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [-0.03,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [0.03,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [0.09,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [0.15,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [0.21,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.02,0.12,0.46],
+            "pos": [0.27,0.0918,0.1311],
+            "color": "#5b616b",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.18,
+            "radiusBottom": 0.18,
+            "height": 0.04,
+            "pos": [0,0.1491,0.213],
+            "color": "#15171c",
+            "material": "matte",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.32,0.005,0.05],
+            "pos": [0,0.1635,0.2335],
+            "color": "#3a3f47",
+            "rot": [55,0,0],
+            "motion": "spin",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.32,0.005,0.05],
+            "pos": [0,0.1635,0.2335],
+            "color": "#3a3f47",
+            "rot": [55,60,0],
+            "motion": "spin",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.32,0.005,0.05],
+            "pos": [0,0.1635,0.2335],
+            "color": "#3a3f47",
+            "rot": [-125,60,-180],
+            "motion": "spin",
+            "slot": "body"
+          },
+          {
+            "shape": "box",
+            "size": [0.1,0.06,0.08],
+            "pos": [-0.3,-0.2662,0.2474],
+            "color": "#9aa0aa",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.1,0.06,0.08],
+            "pos": [-0.15,-0.2662,0.2474],
+            "color": "#9aa0aa",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          },
+          {
+            "shape": "box",
+            "size": [0.1,0.06,0.08],
+            "pos": [0,-0.2662,0.2474],
+            "color": "#9aa0aa",
+            "material": "metal",
+            "slot": "body",
+            "rot": [55,0,0]
+          }
+        ]
+      }
+    }
+  }
+}

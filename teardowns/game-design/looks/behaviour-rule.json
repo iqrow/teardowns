@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.05,0.7],
+        "material": "screen",
+        "color": "#27384a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 210 140\"><rect x=\"10\" y=\"12\" width=\"190\" height=\"116\" rx=\"10\" fill=\"#1c2837\" stroke=\"#ee8c5c\" stroke-width=\"5\"/><rect x=\"28\" y=\"31\" width=\"44\" height=\"26\" rx=\"5\" fill=\"#e6b84d\"/><path d=\"M85 44h88M28 84h145M28 105h104\" stroke=\"#b9d5d9\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M153 76l13 13 22-26\" fill=\"none\" stroke=\"#88d1b4\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+      }
+    ]
+  }
+}

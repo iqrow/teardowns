@@ -1,0 +1,241 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "lathe",
+        "profile": [[0,-0.55],[0.22,-0.55],[0.22,-0.2],[0.18,-0.05],[0.07,0.02],[0,0.03]],
+        "smooth": true,
+        "color": "#2f6f8f",
+        "material": "matte",
+        "pos": [0,0,0],
+        "rot": [12,-18,0]
+      },
+      {
+        "shape": "sphere",
+        "radius": 0.13,
+        "pos": [0,0.1565,0.0333],
+        "color": "#e0b48f",
+        "material": "matte",
+        "rot": [12,-18,0]
+      },
+      {
+        "shape": "sphere",
+        "radius": 0.135,
+        "pos": [0.0062,0.1996,0.023],
+        "color": "#3a2a20",
+        "material": "matte",
+        "opacity": 1,
+        "rot": [12,-18,0]
+      },
+      {
+        "slot": "lights",
+        "shape": "box",
+        "size": [0.5060000000000001,0.5060000000000001,0.14],
+        "pos": [-0.8944,0.2838,0.2037],
+        "color": "#1d1e22",
+        "material": "matte",
+        "rot": [12,37,0]
+      },
+      {
+        "slot": "lights",
+        "shape": "plane",
+        "size": [0.462,0.462],
+        "pos": [-0.8512,0.2719,0.26],
+        "color": "#fff6d8",
+        "material": "glow",
+        "rot": [12,37,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.014,
+        "radiusBottom": 0.014,
+        "height": 0.75,
+        "pos": [-0.8524,-0.212,0.1555],
+        "rot": [12,-18,0],
+        "color": "#3a3d45",
+        "slot": "lights",
+        "material": "metal"
+      },
+      {
+        "slot": "lights",
+        "shape": "cone",
+        "radius": 0.12,
+        "height": 0.08,
+        "pos": [-0.8524,-0.5788,0.0776],
+        "color": "#3a3d45",
+        "material": "metal",
+        "rot": [12,-18,0]
+      },
+      {
+        "slot": "lights",
+        "shape": "box",
+        "size": [0.34500000000000003,0.34500000000000003,0.14],
+        "pos": [0.6748,-0.0299,0.7177],
+        "color": "#1d1e22",
+        "material": "matte",
+        "rot": [12,-78,0]
+      },
+      {
+        "slot": "lights",
+        "shape": "plane",
+        "size": [0.315,0.315],
+        "pos": [0.6044,-0.033,0.7323],
+        "color": "#f3efe6",
+        "material": "glow",
+        "rot": [12,-78,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.014,
+        "radiusBottom": 0.014,
+        "height": 0.55,
+        "pos": [0.6063,-0.4193,0.6498],
+        "rot": [12,-18,0],
+        "color": "#3a3d45",
+        "slot": "lights",
+        "material": "metal"
+      },
+      {
+        "slot": "lights",
+        "shape": "cone",
+        "radius": 0.12,
+        "height": 0.08,
+        "pos": [0.6063,-0.6882,0.5926],
+        "color": "#3a3d45",
+        "material": "metal",
+        "rot": [12,-18,0]
+      },
+      {
+        "slot": "lights",
+        "shape": "box",
+        "size": [0.25300000000000006,0.25300000000000006,0.14],
+        "pos": [0.6743,0.6138,-0.3866],
+        "color": "#1d1e22",
+        "material": "matte",
+        "rot": [-168,-12,-180]
+      },
+      {
+        "slot": "lights",
+        "shape": "plane",
+        "size": [0.231,0.231],
+        "pos": [0.6593,0.6284,-0.4555],
+        "color": "#ffe2b0",
+        "material": "glow",
+        "rot": [-168,-12,-180]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.014,
+        "radiusBottom": 0.014,
+        "height": 0.97,
+        "pos": [0.6597,0.0558,-0.5752],
+        "rot": [12,-18,0],
+        "color": "#3a3d45",
+        "slot": "lights",
+        "material": "metal"
+      },
+      {
+        "slot": "lights",
+        "shape": "cone",
+        "radius": 0.12,
+        "height": 0.08,
+        "pos": [0.6597,-0.4186,-0.676],
+        "color": "#3a3d45",
+        "material": "metal",
+        "rot": [12,-18,0]
+      }
+    ]
+  },
+  "items": {
+    "window": {
+      "look": {
+        "parts": [
+          {
+            "slot": "lights",
+            "shape": "box",
+            "size": [0.06,1.1,0.9],
+            "pos": [-0.8869,0.1848,-0.1478],
+            "color": "#e9e2d0",
+            "material": "matte",
+            "rot": [12,-18,0]
+          },
+          {
+            "slot": "lights",
+            "shape": "plane",
+            "size": [0.8,1],
+            "pos": [-0.8488,0.1822,-0.1357],
+            "rot": [12,72,0],
+            "color": "#dff1ff",
+            "material": "glow"
+          },
+          {
+            "slot": "lights",
+            "shape": "box",
+            "size": [0.07,0.04,0.9],
+            "pos": [-0.8678,0.1835,-0.1418],
+            "color": "#e9e2d0",
+            "material": "matte",
+            "rot": [12,-18,0]
+          },
+          {
+            "slot": "lights",
+            "shape": "particles",
+            "count": 80,
+            "box": [0.9,0.9,0.7],
+            "pos": [-0.4589,0.1559,-0.0118],
+            "size": 0.012,
+            "color": "#fff6d8",
+            "motion": "drift",
+            "rot": [12,-18,0]
+          }
+        ]
+      }
+    },
+    "ring-light": {
+      "look": {
+        "parts": [
+          {
+            "slot": "lights",
+            "shape": "torus",
+            "radius": 0.3,
+            "tube": 0.04,
+            "pos": [-0.2781,-0.0215,0.8705],
+            "color": "#fffaf0",
+            "material": "glow",
+            "rot": [12,-18,0]
+          },
+          {
+            "slot": "lights",
+            "shape": "box",
+            "size": [0.16,0.12,0.1],
+            "pos": [-0.2843,-0.0254,0.8891],
+            "color": "#1b1c1f",
+            "material": "matte",
+            "rot": [12,-18,0]
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.014,
+            "radiusBottom": 0.014,
+            "height": 0.35,
+            "pos": [-0.2781,-0.5448,0.7593],
+            "rot": [12,-18,0],
+            "color": "#3a3d45",
+            "slot": "lights",
+            "material": "metal"
+          },
+          {
+            "slot": "lights",
+            "shape": "cone",
+            "radius": 0.12,
+            "height": 0.08,
+            "pos": [-0.2781,-0.7159,0.7229],
+            "color": "#3a3d45",
+            "material": "metal",
+            "rot": [12,-18,0]
+          }
+        ]
+      }
+    }
+  }
+}

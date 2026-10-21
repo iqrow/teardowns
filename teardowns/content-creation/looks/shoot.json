@@ -1,0 +1,120 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.5,0.34,0.26],
+        "color": "#232529",
+        "material": "matte",
+        "pos": [0,0,0],
+        "rot": [12,-35,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.11,
+        "radiusBottom": 0.12,
+        "height": 0.2,
+        "pos": [-0.1147,-0.0438,0.1582],
+        "rot": [102,0,35],
+        "color": "#2c2e33",
+        "material": "metal"
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.62,0.04,0.5],
+        "pos": [-0.2409,-0.3063,0.2866],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "rot": [12,-35,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "plane",
+        "size": [0.56,0.36],
+        "pos": [-0.2409,-0.2818,0.2918],
+        "rot": [-78,0,-35],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 260\"><rect width=\"400\" height=\"260\" fill=\"#000\"/><g transform=\"translate(400 0) scale(-1 1)\"><text x=\"200\" y=\"80\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">I read every video</text><text x=\"200\" y=\"140\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">off glass for a month.</text><text x=\"200\" y=\"200\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"middle\">Here’s what changed.</text></g></svg>"
+      },
+      {
+        "slot": "prompter",
+        "shape": "plane",
+        "size": [0.6,0.66],
+        "pos": [-0.2409,-0.0715,0.3365],
+        "rot": [-38.68,-23.93,-26.34],
+        "color": "#bfe3ff",
+        "material": "glass",
+        "opacity": 0.35
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.02,0.5,0.5],
+        "pos": [-0.4948,-0.0248,0.1647],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "opacity": 0.35,
+        "rot": [12,-35,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.02,0.5,0.5],
+        "pos": [0.013,-0.0987,0.5125],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "opacity": 0.35,
+        "rot": [12,-35,0]
+      },
+      {
+        "slot": "prompter",
+        "shape": "box",
+        "size": [0.64,0.5,0.02],
+        "pos": [-0.0975,-0.0192,0.1383],
+        "color": "#1b1c1f",
+        "material": "matte",
+        "rot": [12,-35,0]
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.03,
+        "radiusBottom": 0.03,
+        "height": 0.3,
+        "pos": [-0.0574,-0.4083,-0.003],
+        "rot": [-168,35,0],
+        "color": "#3a3d45",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.022,
+        "radiusBottom": 0.022,
+        "height": 0.9937,
+        "pos": [-0.3134,-0.9652,-0.1487],
+        "rot": [27.41,18.82,147.02],
+        "color": "#3a3d45",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.022,
+        "radiusBottom": 0.022,
+        "height": 0.9937,
+        "pos": [0.0553,-1.0188,0.1038],
+        "rot": [99.98,-75.42,-64.19],
+        "color": "#3a3d45",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.022,
+        "radiusBottom": 0.022,
+        "height": 1.0124,
+        "pos": [0.1004,-0.9239,-0.3429],
+        "rot": [-129.69,28.79,-20.83],
+        "color": "#3a3d45",
+        "material": "metal"
+      }
+    ]
+  }
+}

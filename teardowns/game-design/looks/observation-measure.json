@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.2,0.75],
+        "material": "screen",
+        "color": "#2f4050",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 150\"><rect x=\"26\" y=\"18\" width=\"166\" height=\"112\" rx=\"10\" fill=\"#e6e0cc\" stroke=\"#dca56a\" stroke-width=\"6\"/><path d=\"M44 48h96M44 72h123M44 96h78\" stroke=\"#6a7080\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M154 43l8 8 15-18M154 67l8 8 15-18\" fill=\"none\" stroke=\"#64a981\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"166\" cy=\"104\" r=\"14\" fill=\"none\" stroke=\"#d86f61\" stroke-width=\"5\"/><path d=\"M166 94v12l8 5\" fill=\"none\" stroke=\"#d86f61\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M41 18v-8M177 18v-8\" stroke=\"#dca56a\" stroke-width=\"6\"/><text x=\"120\" y=\"145\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">DECISION / OUTCOME</text></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.68,0.882,0.12],
+        "pos": [-0.0252,-0.0175,-0.0539],
+        "color": "#f7f5ef",
+        "material": "matte",
+        "rot": [-18,24,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.68,0.882],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 441\"><rect width=\"340\" height=\"441\" fill=\"#ffffff\"/><text x=\"24\" y=\"34\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">AUTHOR NAME</text><text x=\"316\" y=\"34\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\" text-anchor=\"end\">86,600 words</text><text x=\"170\" y=\"180\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"22\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">THE LAST HOUR</text><text x=\"170\" y=\"210\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"14\" fill=\"#2a2530\" text-anchor=\"middle\">a novel</text><text x=\"170\" y=\"260\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#6d6475\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"2\">SECOND DRAFT</text></svg>",
+        "rot": [-18,24,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.24,0.24],
+        "pos": [0.2022,0.287,-0.1845],
+        "rot": [-18,24,8],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\"><rect width=\"120\" height=\"120\" fill=\"#f7e463\"/><text x=\"60\" y=\"34\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"15\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\" font-style=\"italic\">DRAFT 2</text><text x=\"60\" y=\"62\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"26\" fill=\"#c0392b\" font-weight=\"700\" text-anchor=\"middle\" font-style=\"italic\">−10%</text><text x=\"60\" y=\"92\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"14\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">cut Ruth</text></svg>"
+      }
+    ]
+  }
+}

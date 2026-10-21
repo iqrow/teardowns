@@ -1,0 +1,91 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.5,
+        "radiusBottom": 0.5,
+        "height": 0.18,
+        "pos": [0,0.09,0],
+        "color": "#aeb4bd",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.5,
+        "radiusBottom": 0.5,
+        "height": 0.02,
+        "pos": [0,0.19,0],
+        "color": "#5b616b",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.5,
+        "radiusBottom": 0.5,
+        "height": 0.16,
+        "pos": [0,0.28,0],
+        "color": "#c9ccd2",
+        "material": "metal"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [0.38,0.365,0],
+        "color": "#3a3f47"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [0.19,0.365,0.3291],
+        "color": "#3a3f47"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [-0.19,0.365,0.3291],
+        "color": "#3a3f47"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [-0.38,0.365,0],
+        "color": "#3a3f47"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [-0.19,0.365,-0.3291],
+        "color": "#3a3f47"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.02,
+        "pos": [0.19,0.365,-0.3291],
+        "color": "#3a3f47"
+      },
+      {"shape":"box","size":[0.16,0.12,0.16],"pos":[0,0.09,0.55],"color":"#3a3f47","material":"matte"},
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.04,
+        "radiusBottom": 0.04,
+        "height": 0.38,
+        "pos": [0,0.09,0.81],
+        "rot": [90,0,0],
+        "color": "#1d2027"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.32,0.9,0.014],"pos":[0,0,-0.009],"color":"#0b0e14","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.32,0.9],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"16\" fill=\"#141821\"/><line x1=\"30\" y1=\"262\" x2=\"420\" y2=\"262\" stroke=\"#5c6470\" stroke-width=\"2\"/><text x=\"30\" y=\"284\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9aa3ad\">0%</text><text x=\"225\" y=\"284\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9aa3ad\" text-anchor=\"middle\">50%</text><text x=\"420\" y=\"284\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9aa3ad\" text-anchor=\"end\">100%</text><line x1=\"381\" y1=\"46\" x2=\"381\" y2=\"262\" stroke=\"#e8c26b\" stroke-width=\"1.5\" stroke-dasharray=\"5 5\"/><text x=\"372\" y=\"250\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"end\">≈90%</text><polyline points=\"30,250 70,236 100,242 140,214 170,222 210,190 240,200 270,164 300,176 330,128 356,140 384,52 404,150 420,200\" fill=\"none\" stroke=\"#f4efe6\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M384 22 l7 18 l19 -5 l-13 14 l13 14 l-19 -4 l-7 18 l-6 -18 l-19 4 l13 -14 l-13 -14 l19 5 z\" fill=\"#e8c26b\"/><text x=\"330\" y=\"40\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"end\" letter-spacing=\"3\">CLIMAX</text><text x=\"30\" y=\"40\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"13\" fill=\"#c9c2b6\" font-style=\"italic\">the dramatic question</text><text x=\"30\" y=\"58\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"13\" fill=\"#c9c2b6\" font-style=\"italic\">gets its answer</text></svg>"
+      }
+    ]
+  }
+}

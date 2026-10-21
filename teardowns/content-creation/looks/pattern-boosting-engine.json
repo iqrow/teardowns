@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.4,
+    "energy": 0.8,
+    "weight": -0.6,
+    "warmth": 0.8,
+    "grain": 0.2,
+    "motion": "rise",
+    "why": "It climbs and speeds as it goes, feeding on its own motion."
+  }
+}

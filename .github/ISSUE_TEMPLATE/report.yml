@@ -1,0 +1,41 @@
+name: Report a teardown
+description: Report wrong, unsafe, offensive, or copyrighted material in a teardown.
+title: "[Report] "
+labels:
+  - report
+body:
+  - type: input
+    id: teardown
+    attributes:
+      label: Teardown
+      description: The teardown slug, such as bread.
+      placeholder: bread
+    validations:
+      required: true
+  - type: input
+    id: node-or-url
+    attributes:
+      label: Node id or URL
+      description: Identify the node or page that needs review.
+      placeholder: fermentation or https://teardownatlas.com/bread/fermentation
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Wrong or unsafe information
+        - Offensive content
+        - Copyright
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Tell us what needs review and include sources or context where useful.
+      placeholder: Describe the problem.
+    validations:
+      required: true

@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "flow-chart",
+        "shape": "plane",
+        "size": [1.34,0.82],
+        "material": "screen",
+        "color": "#273d50",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 268 164\"><rect x=\"12\" y=\"12\" width=\"244\" height=\"140\" rx=\"12\" fill=\"#1d3041\" stroke=\"#83a8b7\" stroke-width=\"4\"/><path d=\"M33 117C56 90 52 55 86 55s34 56 66 43 39-44 67-64\" fill=\"none\" stroke=\"#f0c75c\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M205 24l16 10-15 8\" fill=\"#f0c75c\"/><circle cx=\"33\" cy=\"117\" r=\"8\" fill=\"#6bd0aa\"/><circle cx=\"86\" cy=\"55\" r=\"8\" fill=\"#e87668\"/><circle cx=\"152\" cy=\"98\" r=\"8\" fill=\"#6bd0aa\"/><circle cx=\"219\" cy=\"34\" r=\"8\" fill=\"#e87668\"/><path d=\"M34 35h64M142 130h82\" stroke=\"#c1d7df\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.38,0.924,0.05],
+        "radius": 0.05,
+        "pos": [-0.0054,-0.0044,-0.025],
+        "color": "#15171c",
+        "material": "matte",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "face",
+        "shape": "plane",
+        "size": [1.32,0.864],
+        "pos": [0.0003,0.0003,0.0014],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 288\"><rect width=\"440\" height=\"288\" rx=\"20\" fill=\"#1f232b\"/><text x=\"220\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">PSYCHIC DISTANCE</text><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"24\" y=\"84\" width=\"72\" height=\"16\" fill=\"#e8eef5\"/><path d=\"M30 84 v-24 h14 v24 M74 84 v-30 h16 v30\" fill=\"#6b7a8c\"/><rect x=\"57\" y=\"76\" width=\"3\" height=\"8\" fill=\"#1f232b\"/><circle cx=\"58.5\" cy=\"74\" r=\"2\" fill=\"#1f232b\"/><rect x=\"21\" y=\"43\" width=\"78\" height=\"60\" fill=\"none\" stroke=\"#e8c26b\" stroke-width=\"4\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"60\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\">1</text><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"104\" y=\"90\" width=\"72\" height=\"10\" fill=\"#e8eef5\"/><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#1f232b\"/><path d=\"M132 68 h16 l3 22 h-22 z\" fill=\"#1f232b\"/><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"140\" y1=\"128\" x2=\"140\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"140\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"220\" cy=\"66\" r=\"11\" fill=\"#1f232b\"/><path d=\"M198 100 Q220 72 242 100 Z\" fill=\"#1f232b\"/><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"220\" y1=\"128\" x2=\"220\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"220\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">3</text><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"300\" cy=\"76\" r=\"22\" fill=\"#1f232b\"/><circle cx=\"292\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><circle cx=\"308\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"300\" y1=\"128\" x2=\"300\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"300\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">4</text><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><ellipse cx=\"380\" cy=\"73\" rx=\"30\" ry=\"14\" fill=\"#f6f1e4\" stroke=\"#1f232b\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"73\" r=\"10\" fill=\"#3f73b5\"/><circle cx=\"380\" cy=\"73\" r=\"4\" fill=\"#1f232b\"/><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"380\" y1=\"128\" x2=\"380\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"380\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">5</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">far</text><text x=\"400\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">close</text><rect x=\"20\" y=\"182\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"220\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">It was winter of the year 1853. A large man</text><text x=\"220\" y=\"231\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">stepped out of a doorway.</text></svg>",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "cap",
+        "shape": "box",
+        "size": [0.07,0.13,0.06],
+        "pos": [-0.4633,0.0461,0.123],
+        "color": "#d9d6cf",
+        "material": "gloss",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "cap",
+        "shape": "box",
+        "size": [0.072,0.012,0.062],
+        "pos": [-0.4633,0.0461,0.123],
+        "color": "#e8c26b",
+        "material": "matte",
+        "rot": [-10,12,0]
+      }
+    ]
+  },
+  "items": {
+    "distance-2": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.07,0.13,0.06],
+            "pos": [-0.2285,0.0374,0.0739],
+            "color": "#d9d6cf",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          },
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.072,0.012,0.062],
+            "pos": [-0.2285,0.0374,0.0739],
+            "color": "#e8c26b",
+            "material": "matte",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 288\"><rect width=\"440\" height=\"288\" rx=\"20\" fill=\"#1f232b\"/><text x=\"220\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">PSYCHIC DISTANCE</text><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"24\" y=\"84\" width=\"72\" height=\"16\" fill=\"#e8eef5\"/><path d=\"M30 84 v-24 h14 v24 M74 84 v-30 h16 v30\" fill=\"#6b7a8c\"/><rect x=\"57\" y=\"76\" width=\"3\" height=\"8\" fill=\"#1f232b\"/><circle cx=\"58.5\" cy=\"74\" r=\"2\" fill=\"#1f232b\"/><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"60\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">1</text><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"104\" y=\"90\" width=\"72\" height=\"10\" fill=\"#e8eef5\"/><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#1f232b\"/><path d=\"M132 68 h16 l3 22 h-22 z\" fill=\"#1f232b\"/><rect x=\"101\" y=\"43\" width=\"78\" height=\"60\" fill=\"none\" stroke=\"#e8c26b\" stroke-width=\"4\"/><line x1=\"140\" y1=\"128\" x2=\"140\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"140\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"220\" cy=\"66\" r=\"11\" fill=\"#1f232b\"/><path d=\"M198 100 Q220 72 242 100 Z\" fill=\"#1f232b\"/><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"220\" y1=\"128\" x2=\"220\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"220\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">3</text><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"300\" cy=\"76\" r=\"22\" fill=\"#1f232b\"/><circle cx=\"292\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><circle cx=\"308\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"300\" y1=\"128\" x2=\"300\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"300\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">4</text><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><ellipse cx=\"380\" cy=\"73\" rx=\"30\" ry=\"14\" fill=\"#f6f1e4\" stroke=\"#1f232b\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"73\" r=\"10\" fill=\"#3f73b5\"/><circle cx=\"380\" cy=\"73\" r=\"4\" fill=\"#1f232b\"/><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"380\" y1=\"128\" x2=\"380\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"380\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">5</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">far</text><text x=\"400\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">close</text><rect x=\"20\" y=\"182\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"220\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">Henry J. Warburton had never much cared for</text><text x=\"220\" y=\"231\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">snowstorms.</text></svg>"
+      }
+    },
+    "distance-3": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.07,0.13,0.06],
+            "pos": [0.0062,0.0287,0.0247],
+            "color": "#d9d6cf",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          },
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.072,0.012,0.062],
+            "pos": [0.0062,0.0287,0.0247],
+            "color": "#e8c26b",
+            "material": "matte",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 288\"><rect width=\"440\" height=\"288\" rx=\"20\" fill=\"#1f232b\"/><text x=\"220\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">PSYCHIC DISTANCE</text><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"24\" y=\"84\" width=\"72\" height=\"16\" fill=\"#e8eef5\"/><path d=\"M30 84 v-24 h14 v24 M74 84 v-30 h16 v30\" fill=\"#6b7a8c\"/><rect x=\"57\" y=\"76\" width=\"3\" height=\"8\" fill=\"#1f232b\"/><circle cx=\"58.5\" cy=\"74\" r=\"2\" fill=\"#1f232b\"/><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"60\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">1</text><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"104\" y=\"90\" width=\"72\" height=\"10\" fill=\"#e8eef5\"/><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#1f232b\"/><path d=\"M132 68 h16 l3 22 h-22 z\" fill=\"#1f232b\"/><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"140\" y1=\"128\" x2=\"140\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"140\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"220\" cy=\"66\" r=\"11\" fill=\"#1f232b\"/><path d=\"M198 100 Q220 72 242 100 Z\" fill=\"#1f232b\"/><rect x=\"181\" y=\"43\" width=\"78\" height=\"60\" fill=\"none\" stroke=\"#e8c26b\" stroke-width=\"4\"/><line x1=\"220\" y1=\"128\" x2=\"220\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"220\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\">3</text><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"300\" cy=\"76\" r=\"22\" fill=\"#1f232b\"/><circle cx=\"292\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><circle cx=\"308\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"300\" y1=\"128\" x2=\"300\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"300\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">4</text><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><ellipse cx=\"380\" cy=\"73\" rx=\"30\" ry=\"14\" fill=\"#f6f1e4\" stroke=\"#1f232b\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"73\" r=\"10\" fill=\"#3f73b5\"/><circle cx=\"380\" cy=\"73\" r=\"4\" fill=\"#1f232b\"/><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"380\" y1=\"128\" x2=\"380\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"380\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">5</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">far</text><text x=\"400\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">close</text><rect x=\"20\" y=\"182\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"220\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">Henry hated snowstorms.</text></svg>"
+      }
+    },
+    "distance-4": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.07,0.13,0.06],
+            "pos": [0.241,0.0201,-0.0244],
+            "color": "#d9d6cf",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          },
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.072,0.012,0.062],
+            "pos": [0.241,0.0201,-0.0244],
+            "color": "#e8c26b",
+            "material": "matte",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 288\"><rect width=\"440\" height=\"288\" rx=\"20\" fill=\"#1f232b\"/><text x=\"220\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">PSYCHIC DISTANCE</text><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"24\" y=\"84\" width=\"72\" height=\"16\" fill=\"#e8eef5\"/><path d=\"M30 84 v-24 h14 v24 M74 84 v-30 h16 v30\" fill=\"#6b7a8c\"/><rect x=\"57\" y=\"76\" width=\"3\" height=\"8\" fill=\"#1f232b\"/><circle cx=\"58.5\" cy=\"74\" r=\"2\" fill=\"#1f232b\"/><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"60\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">1</text><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"104\" y=\"90\" width=\"72\" height=\"10\" fill=\"#e8eef5\"/><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#1f232b\"/><path d=\"M132 68 h16 l3 22 h-22 z\" fill=\"#1f232b\"/><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"140\" y1=\"128\" x2=\"140\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"140\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"220\" cy=\"66\" r=\"11\" fill=\"#1f232b\"/><path d=\"M198 100 Q220 72 242 100 Z\" fill=\"#1f232b\"/><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"220\" y1=\"128\" x2=\"220\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"220\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">3</text><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"300\" cy=\"76\" r=\"22\" fill=\"#1f232b\"/><circle cx=\"292\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><circle cx=\"308\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><rect x=\"261\" y=\"43\" width=\"78\" height=\"60\" fill=\"none\" stroke=\"#e8c26b\" stroke-width=\"4\"/><line x1=\"300\" y1=\"128\" x2=\"300\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"300\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\">4</text><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><ellipse cx=\"380\" cy=\"73\" rx=\"30\" ry=\"14\" fill=\"#f6f1e4\" stroke=\"#1f232b\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"73\" r=\"10\" fill=\"#3f73b5\"/><circle cx=\"380\" cy=\"73\" r=\"4\" fill=\"#1f232b\"/><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"380\" y1=\"128\" x2=\"380\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"380\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">5</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">far</text><text x=\"400\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">close</text><rect x=\"20\" y=\"182\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"220\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">God how he hated these damn snowstorms.</text></svg>"
+      }
+    },
+    "distance-5": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.07,0.13,0.06],
+            "pos": [0.4757,0.0114,-0.0736],
+            "color": "#d9d6cf",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          },
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.072,0.012,0.062],
+            "pos": [0.4757,0.0114,-0.0736],
+            "color": "#e8c26b",
+            "material": "matte",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 288\"><rect width=\"440\" height=\"288\" rx=\"20\" fill=\"#1f232b\"/><text x=\"220\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">PSYCHIC DISTANCE</text><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"24\" y=\"84\" width=\"72\" height=\"16\" fill=\"#e8eef5\"/><path d=\"M30 84 v-24 h14 v24 M74 84 v-30 h16 v30\" fill=\"#6b7a8c\"/><rect x=\"57\" y=\"76\" width=\"3\" height=\"8\" fill=\"#1f232b\"/><circle cx=\"58.5\" cy=\"74\" r=\"2\" fill=\"#1f232b\"/><rect x=\"24\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"60\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">1</text><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><rect x=\"104\" y=\"90\" width=\"72\" height=\"10\" fill=\"#e8eef5\"/><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#1f232b\"/><path d=\"M132 68 h16 l3 22 h-22 z\" fill=\"#1f232b\"/><rect x=\"104\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"140\" y1=\"128\" x2=\"140\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"140\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">2</text><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"220\" cy=\"66\" r=\"11\" fill=\"#1f232b\"/><path d=\"M198 100 Q220 72 242 100 Z\" fill=\"#1f232b\"/><rect x=\"184\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"220\" y1=\"128\" x2=\"220\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"220\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">3</text><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><circle cx=\"300\" cy=\"76\" r=\"22\" fill=\"#1f232b\"/><circle cx=\"292\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><circle cx=\"308\" cy=\"72\" r=\"3\" fill=\"#f6f1e4\"/><rect x=\"264\" y=\"46\" width=\"72\" height=\"54\" fill=\"#1f232b\" opacity=\"0.35\"/><line x1=\"300\" y1=\"128\" x2=\"300\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"300\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"middle\">4</text><rect x=\"344\" y=\"46\" width=\"72\" height=\"54\" fill=\"#cfd9e4\"/><ellipse cx=\"380\" cy=\"73\" rx=\"30\" ry=\"14\" fill=\"#f6f1e4\" stroke=\"#1f232b\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"73\" r=\"10\" fill=\"#3f73b5\"/><circle cx=\"380\" cy=\"73\" r=\"4\" fill=\"#1f232b\"/><rect x=\"341\" y=\"43\" width=\"78\" height=\"60\" fill=\"none\" stroke=\"#e8c26b\" stroke-width=\"4\"/><line x1=\"380\" y1=\"128\" x2=\"380\" y2=\"142\" stroke=\"#6b7280\" stroke-width=\"2\"/><text x=\"380\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\">5</text><rect x=\"40\" y=\"132\" width=\"360\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">far</text><text x=\"400\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">close</text><rect x=\"20\" y=\"182\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"220\" y=\"208\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">Snow. Under your collar, down inside your</text><text x=\"220\" y=\"231\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">shoes, freezing and plugging up your miserable</text><text x=\"220\" y=\"254\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" text-anchor=\"middle\" font-style=\"italic\">soul…</text></svg>"
+      }
+    }
+  }
+}

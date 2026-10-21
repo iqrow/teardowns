@@ -1,0 +1,192 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.9,0.24,0.24],
+        "pos": [0,0,0],
+        "color": "#2b2f36",
+        "material": "gloss",
+        "radius": 0.1
+      },
+      {"shape":"box","size":[0.06,0.1,0.06],"pos":[0,-0.17,0],"color":"#5b616b","material":"metal"},
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.055,
+        "radiusBottom": 0.055,
+        "height": 0.02,
+        "pos": [-0.3,0,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass",
+        "slot": "lenses"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.055,
+        "radiusBottom": 0.055,
+        "height": 0.02,
+        "pos": [0.3,0,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass",
+        "slot": "lenses"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.04,
+        "radiusBottom": 0.04,
+        "height": 0.02,
+        "pos": [-0.05,0,0.125],
+        "color": "#7a2530",
+        "rot": [90,0,0],
+        "material": "glass",
+        "slot": "lenses"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.045,
+        "radiusBottom": 0.045,
+        "height": 0.02,
+        "pos": [0.14,0,0.125],
+        "color": "#3a6ea5",
+        "rot": [90,0,0],
+        "material": "glass",
+        "slot": "lenses"
+      }
+    ]
+  },
+  "items": {
+    "cam-rgb": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.1,
+            "radiusBottom": 0.1,
+            "height": 0.16,
+            "pos": [0,0,0.2],
+            "color": "#15171c",
+            "rot": [90,0,0],
+            "material": "matte",
+            "slot": "lenses"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.075,
+            "radiusBottom": 0.075,
+            "height": 0.02,
+            "pos": [0,0,0.285],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          }
+        ]
+      }
+    },
+    "cam-stereo": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.02,
+            "pos": [-0.3,0,0.125],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.02,
+            "pos": [0.3,0,0.125],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.04,
+            "radiusBottom": 0.04,
+            "height": 0.02,
+            "pos": [-0.05,0,0.125],
+            "color": "#7a2530",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.045,
+            "radiusBottom": 0.045,
+            "height": 0.02,
+            "pos": [0.14,0,0.125],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          }
+        ]
+      }
+    },
+    "cam-tof": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.06,
+            "radiusBottom": 0.06,
+            "height": 0.02,
+            "pos": [-0.12,0,0.125],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          },
+          {
+            "shape": "box",
+            "size": [0.12,0.08,0.01],
+            "pos": [0.15,0,0.125],
+            "color": "#7a2530",
+            "material": "glow",
+            "slot": "lenses"
+          }
+        ]
+      }
+    },
+    "cam-structured": {
+      "look": {
+        "parts": [
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.02,
+            "pos": [-0.28,0,0.125],
+            "color": "#3a6ea5",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          },
+          {
+            "shape": "cylinder",
+            "radiusTop": 0.07,
+            "radiusBottom": 0.07,
+            "height": 0.02,
+            "pos": [0.2,0,0.125],
+            "color": "#7a2530",
+            "rot": [90,0,0],
+            "material": "glass",
+            "slot": "lenses"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.4,0.7,0.02],"pos":[0,0,-0.012],"color":"#cfccc2","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.4,0.7],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 220\"><rect width=\"440\" height=\"220\" rx=\"10\" fill=\"#f6f4ef\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Performance level</text><rect x=\"30\" y=\"80\" width=\"72\" height=\"60\" rx=\"4\" fill=\"hsl(120,55%,72%)\" stroke=\"none\" stroke-width=\"0\"/><text x=\"66\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">PL a</text><rect x=\"108\" y=\"80\" width=\"72\" height=\"60\" rx=\"4\" fill=\"hsl(92,55%,66%)\" stroke=\"none\" stroke-width=\"0\"/><text x=\"144\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">PL b</text><rect x=\"186\" y=\"80\" width=\"72\" height=\"60\" rx=\"4\" fill=\"hsl(64,55%,60%)\" stroke=\"none\" stroke-width=\"0\"/><text x=\"222\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">PL c</text><rect x=\"264\" y=\"80\" width=\"72\" height=\"60\" rx=\"4\" fill=\"hsl(36,55%,54%)\" stroke=\"none\" stroke-width=\"0\"/><text x=\"300\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">PL d</text><rect x=\"342\" y=\"80\" width=\"72\" height=\"60\" rx=\"4\" fill=\"hsl(8,55%,48%)\" stroke=\"none\" stroke-width=\"0\"/><text x=\"378\" y=\"120\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">PL e</text><path d=\"M300 168 L288 150 L312 150 Z\" fill=\"#1f2430\"/><text x=\"300\" y=\"192\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">required here</text><text x=\"30\" y=\"192\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#7a7f8c\">lower</text><text x=\"410\" y=\"192\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#7a7f8c\" text-anchor=\"end\">higher</text></svg>"
+      }
+    ]
+  }
+}

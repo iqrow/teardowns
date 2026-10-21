@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "brief",
+        "shape": "plane",
+        "size": [1.22,0.82],
+        "material": "screen",
+        "color": "#374d63",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect x=\"20\" y=\"18\" width=\"200\" height=\"124\" rx=\"10\" fill=\"#f1ead7\" stroke=\"#e2b65d\" stroke-width=\"5\"/><circle cx=\"72\" cy=\"70\" r=\"25\" fill=\"none\" stroke=\"#e56e61\" stroke-width=\"7\"/><circle cx=\"72\" cy=\"70\" r=\"7\" fill=\"#e56e61\"/><path d=\"M116 48h72M116 72h55M116 96h67\" stroke=\"#718090\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M48 116h48\" stroke=\"#65b991\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+      }
+    ]
+  }
+}

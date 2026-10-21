@@ -1,0 +1,11 @@
+{
+  "plot": {
+    "x": "Displacement (mm)",
+    "y": "Contact force (N)",
+    "series": [
+      {"name":"200 N/m","item":"k-soft","points":[[0,0],[10,2],[20,4]]},
+      {"name":"1000 N/m","item":"k-medium","points":[[0,0],[10,10],[20,20]]},
+      {"name":"3000 N/m","item":"k-stiff","points":[[0,0],[10,30],[20,60]]}
+    ]
+  }
+}

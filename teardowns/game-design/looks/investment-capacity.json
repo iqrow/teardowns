@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1,0.75],
+        "material": "screen",
+        "color": "#2c3b4b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 150\"><rect x=\"10\" y=\"12\" width=\"180\" height=\"126\" rx=\"10\" fill=\"#1b2938\" stroke=\"#edb957\" stroke-width=\"6\"/><path d=\"M29 96h70M29 74h70M29 52h70\" stroke=\"#e1c06a\" stroke-width=\"10\" stroke-linecap=\"round\"/><circle cx=\"147\" cy=\"76\" r=\"23\" fill=\"#e9b951\" stroke=\"#fff\" stroke-width=\"5\"/><circle cx=\"147\" cy=\"76\" r=\"8\" fill=\"#6a4f2f\"/><path d=\"M147 48v-18M147 104v18\" stroke=\"#edb957\" stroke-width=\"6\"/><text x=\"100\" y=\"128\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">MINE → MORE MINE</text></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "plan",
+        "shape": "plane",
+        "size": [1.35,0.92],
+        "material": "screen",
+        "color": "#30445a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 270 184\"><rect x=\"18\" y=\"18\" width=\"234\" height=\"148\" fill=\"#e9e4d6\" stroke=\"#d59d5c\" stroke-width=\"5\"/><path d=\"M28 58h78v45H28zM122 35h113v68H122zM56 122h132v32H56z\" fill=\"none\" stroke=\"#557083\" stroke-width=\"5\"/><path d=\"M44 134c30-50 74 19 109-40s47-34 78-34\" fill=\"none\" stroke=\"#e56e61\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"44\" cy=\"134\" r=\"7\" fill=\"#68c49c\"/><circle cx=\"231\" cy=\"60\" r=\"7\" fill=\"#68c49c\"/></svg>"
+      },
+      {
+        "slot": "pencil",
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.82,
+        "rot": [0,0,28],
+        "pos": [0.68,-0.38,0.14],
+        "material": "matte",
+        "color": "#dca75b"
+      }
+    ]
+  }
+}

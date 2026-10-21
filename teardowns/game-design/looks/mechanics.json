@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1,0.65],
+        "material": "screen",
+        "color": "#26384a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 140\"><rect x=\"10\" y=\"12\" width=\"200\" height=\"116\" rx=\"10\" fill=\"#182431\" stroke=\"#7093b3\" stroke-width=\"5\"/><rect x=\"28\" y=\"32\" width=\"54\" height=\"30\" fill=\"#7093b3\"/><path d=\"M105 47h75M105 71h58M28 94h152\" stroke=\"#b8d3e7\" stroke-width=\"7\" stroke-linecap=\"round\"/><text x=\"28\" y=\"119\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"16\">RULE + INPUT</text></svg>"
+      }
+    ]
+  }
+}

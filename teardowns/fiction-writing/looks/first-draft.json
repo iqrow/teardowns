@@ -1,0 +1,37 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.68,0.882,0.22],
+        "pos": [-0.0456,-0.0316,-0.0973],
+        "color": "#f7f5ef",
+        "material": "matte",
+        "rot": [-18,24,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.68,0.882],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 441\"><rect width=\"340\" height=\"441\" fill=\"#ffffff\"/><text x=\"24\" y=\"34\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\">AUTHOR NAME</text><text x=\"316\" y=\"34\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"12\" fill=\"#2a2530\" text-anchor=\"end\">96,200 words</text><text x=\"170\" y=\"180\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"22\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">THE LAST HOUR</text><text x=\"170\" y=\"210\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"14\" fill=\"#2a2530\" text-anchor=\"middle\">a novel</text><text x=\"170\" y=\"260\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"15\" fill=\"#6d6475\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"2\">FIRST DRAFT</text><circle cx=\"252\" cy=\"352\" r=\"38\" fill=\"none\" stroke=\"#b8875a\" stroke-width=\"6\" opacity=\"0.35\"/><text x=\"60\" y=\"360\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"18\" fill=\"#c0392b\" font-style=\"italic\" transform=\"rotate(-6 60 360)\">TK: fix ch. 6!</text></svg>",
+        "rot": [-18,24,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.68,0.882,0.004],
+        "pos": [0.0071,-0.0369,-0.0489],
+        "rot": [-18,24,4],
+        "color": "#fbfaf6",
+        "material": "matte"
+      },
+      {
+        "shape": "box",
+        "size": [0.68,0.882,0.004],
+        "pos": [-0.0798,-0.0221,-0.1166],
+        "rot": [-18,24,-5],
+        "color": "#fbfaf6",
+        "material": "matte"
+      }
+    ]
+  }
+}

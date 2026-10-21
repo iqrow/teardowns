@@ -1,0 +1,15 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.1,0.76,0.07],"material":"matte","color":"#49394e"},
+      {
+        "shape": "plane",
+        "size": [1.04,0.7],
+        "pos": [0,0,0.04],
+        "material": "screen",
+        "color": "#49394e",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\"><g font-family=\"sans-serif\" fill=\"#fff\"><text x=\"130\" y=\"30\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\">DECISION CLOCK</text><text x=\"130\" y=\"94\" text-anchor=\"middle\" font-size=\"52\" fill=\"#e6b84d\">05.0 s</text><text x=\"130\" y=\"144\" text-anchor=\"middle\" font-size=\"18\">World continues / pauses?</text></g></svg>"
+      }
+    ]
+  }
+}

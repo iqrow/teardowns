@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.2,
+    "energy": 0.35,
+    "weight": 0.2,
+    "warmth": 0.35,
+    "grain": 0.15,
+    "motion": "settle",
+    "why": "A soft body that sways and settles back to rest, as a corrected error does."
+  }
+}

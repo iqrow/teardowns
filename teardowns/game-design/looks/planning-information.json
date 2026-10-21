@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.44,0.3],
+        "material": "screen",
+        "color": "#233b4a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 132 90\"><rect x=\"7\" y=\"7\" width=\"118\" height=\"76\" rx=\"10\" fill=\"#1d3444\" stroke=\"#63d0aa\" stroke-width=\"4\"/><path d=\"M20 62l18-20 14 10 19-25 39 35\" fill=\"none\" stroke=\"#9ee7ff\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M17 70h98\" stroke=\"#63788a\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"95\" cy=\"29\" r=\"12\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"4\"/><path d=\"M95 18v22M84 29h22\" stroke=\"#f4c542\" stroke-width=\"3\"/><path d=\"M31 26c10-10 22-10 32 0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"47\" cy=\"26\" r=\"5\" fill=\"#fff\"/><text x=\"66\" y=\"80\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"10\">SEE · TEST · INFER</text></svg>"
+      }
+    ]
+  }
+}

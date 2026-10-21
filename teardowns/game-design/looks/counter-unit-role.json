@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.36,0.78],
+        "material": "screen",
+        "color": "#202b3b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect x=\"8\" y=\"8\" width=\"304\" height=\"164\" rx=\"12\" fill=\"#1b2938\" stroke=\"#8fe0cf\" stroke-width=\"5\"/><text x=\"24\" y=\"34\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\">UNIT JOB / ROLE</text><rect x=\"22\" y=\"50\" width=\"276\" height=\"32\" rx=\"6\" fill=\"#6c8fbe\"/><text x=\"34\" y=\"72\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">PRIMARY: HOLD SPACE</text><rect x=\"22\" y=\"92\" width=\"132\" height=\"56\" rx=\"6\" fill=\"#344d67\" stroke=\"#8fe0cf\" stroke-width=\"2\"/><text x=\"34\" y=\"113\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">SECONDARY</text><text x=\"34\" y=\"135\" fill=\"#b5c4d4\" font-family=\"sans-serif\" font-size=\"12\">screen / escort</text><rect x=\"166\" y=\"92\" width=\"132\" height=\"56\" rx=\"6\" fill=\"#344d67\" stroke=\"#e6b84d\" stroke-width=\"2\"/><text x=\"178\" y=\"113\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">NOT THE JOB</text><text x=\"178\" y=\"135\" fill=\"#b5c4d4\" font-family=\"sans-serif\" font-size=\"12\">bonus vs one type</text></svg>"
+      }
+    ]
+  }
+}

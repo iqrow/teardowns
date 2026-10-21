@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.44,0.81,0.014],"pos":[0,0,-0.009],"color":"#111111","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.44,0.81],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 270\"><rect width=\"480\" height=\"270\" fill=\"#cfc4b3\"/><rect y=\"221.39999999999998\" width=\"480\" height=\"48.6\" fill=\"#b3a690\"/><path d=\"M134.6 324.6 C137.7 213 184.2 185.1 240 185.1 C295.8 185.1 342.3 213 345.4 324.6 Z\" fill=\"#2f6f8f\"/><rect x=\"226.36\" y=\"144.8\" width=\"27.28\" height=\"43.4\" fill=\"#e0b48f\"/><ellipse cx=\"240\" cy=\"120\" rx=\"37.2\" ry=\"43.896\" fill=\"#e0b48f\"/><path d=\"M202.05599999999998 116.9 C199.07999999999998 64.19999999999999 280.92 60.47999999999999 278.31600000000003 115.04 C266.04 86.52 221.4 84.66 202.05599999999998 116.9 Z\" fill=\"#3a2a20\"/><circle cx=\"226.36\" cy=\"121.24\" r=\"3.7199999999999998\" fill=\"#1b1b1f\"/><circle cx=\"253.64\" cy=\"121.24\" r=\"3.7199999999999998\" fill=\"#1b1b1f\"/><path d=\"M218.92000000000002 110.08 L232.56 107.6 M247.44 107.6 L261.08 110.08\" stroke=\"#3a2a20\" stroke-width=\"3.1\" stroke-linecap=\"round\"/><ellipse cx=\"240\" cy=\"144.8\" rx=\"9.92\" ry=\"6.82\" fill=\"#6b2a2a\"/><line x1=\"160\" y1=\"0\" x2=\"160\" y2=\"270\" stroke=\"#ffffff\" stroke-opacity=\"0.7\" stroke-width=\"1.5\"/><line x1=\"0\" y1=\"90\" x2=\"480\" y2=\"90\" stroke=\"#ffffff\" stroke-opacity=\"0.7\" stroke-width=\"1.5\"/><line x1=\"320\" y1=\"0\" x2=\"320\" y2=\"270\" stroke=\"#ffffff\" stroke-opacity=\"0.7\" stroke-width=\"1.5\"/><line x1=\"0\" y1=\"180\" x2=\"480\" y2=\"180\" stroke=\"#ffffff\" stroke-opacity=\"0.7\" stroke-width=\"1.5\"/><g fill=\"none\" stroke=\"#ffffff\" stroke-width=\"3\"><path d=\"M14 40 V14 H40 M440 14 H466 V40 M466 230 V256 H440 M40 256 H14 V230\"/></g><rect x=\"12\" y=\"236\" width=\"120\" height=\"24\" rx=\"4\" fill=\"#000\" opacity=\"0.6\"/><text x=\"20\" y=\"253\" font-family=\"Liberation Mono, Courier New, monospace\" font-size=\"14\" fill=\"#e0412f\" font-weight=\"700\">REC ● 00:12</text><line x1=\"190\" y1=\"90\" x2=\"290\" y2=\"90\" stroke=\"#ffd23f\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><text x=\"298\" y=\"95\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#17171c\" font-weight=\"700\">eyes on the top third</text><path d=\"M240 20 v16 M232 28 h16\" stroke=\"#ffd23f\" stroke-width=\"3\"/><text x=\"252\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#17171c\">headroom</text></svg>"
+      }
+    ]
+  }
+}

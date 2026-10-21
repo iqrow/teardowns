@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1,0.75],
+        "material": "screen",
+        "color": "#263747",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 150\"><rect x=\"10\" y=\"12\" width=\"180\" height=\"126\" rx=\"10\" fill=\"#1c2938\" stroke=\"#7bb59d\" stroke-width=\"6\"/><path d=\"M42 108V72l18-18 18 18v36z\" fill=\"#e26f62\"/><path d=\"M47 72l13-14 13 14M106 46h32l14 14v48h-46z\" fill=\"#668ec2\" stroke=\"#8fe0cf\" stroke-width=\"5\"/><path d=\"M117 67h22M117 84h22\" stroke=\"#fff\" stroke-width=\"5\"/><path d=\"M81 91h22M94 78l11 13-11 13\" fill=\"none\" stroke=\"#f0c85a\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+      }
+    ]
+  }
+}

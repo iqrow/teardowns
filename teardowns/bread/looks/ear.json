@@ -1,0 +1,6 @@
+{"look":{"parts":[
+  {"slot":"loaf","shape":"lathe","smooth":true,"profile":[[0,0],[0.62,0],[0.82,0.07],[0.9,0.24],[0.86,0.42],[0.72,0.58],[0.44,0.7],[0,0.73]],"pos":[0,0,0],"color":"#a5532a","material":"matte"},
+  {"slot":"cut","shape":"box","size":[0.8,0.05,0.22],"pos":[0,0.72,0.06],"color":"#e8c088","material":"matte"},
+  {"slot":"ear","shape":"box","size":[0.82,0.16,0.06],"pos":[0,0.8,-0.08],"rot":[-35,0,0],"color":"#7a3a17","material":"matte"},
+  {"slot":"edge","shape":"box","size":[0.82,0.03,0.07],"pos":[0,0.88,-0.13],"rot":[-35,0,0],"color":"#3f1c0b","material":"matte"}
+]}}

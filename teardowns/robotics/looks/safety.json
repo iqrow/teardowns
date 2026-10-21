@@ -1,0 +1,64 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.4,0.3,0.4],
+        "pos": [0,0.15,0],
+        "color": "#e8b82e",
+        "material": "matte",
+        "radius": 0.03
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.12,
+        "radiusBottom": 0.12,
+        "height": 0.09,
+        "pos": [0,0.3,0],
+        "color": "#e8b82e",
+        "material": "matte"
+      },
+      {
+        "shape": "lathe",
+        "profile": [[0,0],[0.054,0],[0.054,0.06],[0.102,0.075],[0.108,0.12],[0,0.144]],
+        "smooth": true,
+        "pos": [0,0.336,0],
+        "color": "#c8261d",
+        "material": "gloss"
+      },
+      {
+        "shape": "plane",
+        "size": [0.6,0.525],
+        "pos": [-0.55,0.65,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 210\"><path d=\"M120 10 L230 200 L10 200 Z\" fill=\"#e8b82e\" stroke=\"#111\" stroke-width=\"10\" stroke-linejoin=\"round\"/><circle cx=\"120\" cy=\"110\" r=\"14\" fill=\"#111\" stroke=\"none\" stroke-width=\"2\"/><path d=\"M90 150 L120 124 L150 150\" stroke=\"#111\" stroke-width=\"12\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M120 124 L120 96 L150 84\" stroke=\"#111\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>"
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.02,
+        "radiusBottom": 0.02,
+        "height": 0.39,
+        "pos": [-0.55,0.195,0],
+        "rot": [0,0,0],
+        "color": "#5b616b"
+      },
+      {
+        "shape": "box",
+        "size": [0.36,0.3,0.3],
+        "pos": [0.62,0.15,0],
+        "color": "#e8b82e",
+        "material": "matte",
+        "radius": 0.03
+      },
+      {
+        "shape": "cylinder",
+        "radiusTop": 0.12,
+        "radiusBottom": 0.12,
+        "height": 0.14,
+        "pos": [0.62,0.37,0],
+        "color": "#22252b",
+        "material": "glass",
+        "opacity": 0.9
+      }
+    ]
+  }
+}

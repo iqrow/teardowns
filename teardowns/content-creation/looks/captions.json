@@ -1,0 +1,40 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.66,1.3,0.06],
+        "radius": 0.08,
+        "color": "#16171b",
+        "material": "gloss",
+        "pos": [0,0,0],
+        "rot": [0,-10,0]
+      },
+      {
+        "slot": "cap",
+        "shape": "plane",
+        "size": [0.6,1.0667],
+        "pos": [-0.0054,0,0.0305],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 640\"><rect width=\"360\" height=\"640\" fill=\"#cfc4b3\"/><rect y=\"520\" width=\"360\" height=\"120\" fill=\"#b3a690\"/><path d=\"M18.5 613.5 C23.25 442.5 94.5 399.75 180 399.75 C265.5 399.75 336.75 442.5 341.5 613.5 Z\" fill=\"#2f6f8f\"/><rect x=\"159.1\" y=\"338\" width=\"41.8\" height=\"66.5\" fill=\"#e0b48f\"/><ellipse cx=\"180\" cy=\"300\" rx=\"57\" ry=\"67.25999999999999\" fill=\"#e0b48f\"/><path d=\"M121.86 295.25 C117.3 214.5 242.7 208.8 238.71 292.4 C219.9 248.7 151.5 245.85 121.86 295.25 Z\" fill=\"#3a2a20\"/><circle cx=\"159.1\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><circle cx=\"200.9\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><path d=\"M147.7 284.8 L168.6 281 M191.4 281 L212.3 284.8\" stroke=\"#3a2a20\" stroke-width=\"4.75\" stroke-linecap=\"round\"/><ellipse cx=\"180\" cy=\"338\" rx=\"15.2\" ry=\"10.45\" fill=\"#6b2a2a\"/><text x=\"180\" y=\"470\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"52\" font-weight=\"900\" text-anchor=\"middle\" fill=\"#ffd23f\" stroke=\"#111\" stroke-width=\"10.4\" paint-order=\"stroke\">CHANGED</text></svg>",
+        "rot": [0,-10,0]
+      }
+    ]
+  },
+  "items": {
+    "cap-word": {
+      "svg": {
+        "cap": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 640\"><rect width=\"360\" height=\"640\" fill=\"#cfc4b3\"/><rect y=\"520\" width=\"360\" height=\"120\" fill=\"#b3a690\"/><path d=\"M18.5 613.5 C23.25 442.5 94.5 399.75 180 399.75 C265.5 399.75 336.75 442.5 341.5 613.5 Z\" fill=\"#2f6f8f\"/><rect x=\"159.1\" y=\"338\" width=\"41.8\" height=\"66.5\" fill=\"#e0b48f\"/><ellipse cx=\"180\" cy=\"300\" rx=\"57\" ry=\"67.25999999999999\" fill=\"#e0b48f\"/><path d=\"M121.86 295.25 C117.3 214.5 242.7 208.8 238.71 292.4 C219.9 248.7 151.5 245.85 121.86 295.25 Z\" fill=\"#3a2a20\"/><circle cx=\"159.1\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><circle cx=\"200.9\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><path d=\"M147.7 284.8 L168.6 281 M191.4 281 L212.3 284.8\" stroke=\"#3a2a20\" stroke-width=\"4.75\" stroke-linecap=\"round\"/><ellipse cx=\"180\" cy=\"338\" rx=\"15.2\" ry=\"10.45\" fill=\"#6b2a2a\"/><text x=\"180\" y=\"470\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"52\" font-weight=\"900\" text-anchor=\"middle\" fill=\"#ffd23f\" stroke=\"#111\" stroke-width=\"10.4\" paint-order=\"stroke\">CHANGED</text></svg>"
+      }
+    },
+    "cap-phrase": {
+      "svg": {
+        "cap": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 640\"><rect width=\"360\" height=\"640\" fill=\"#cfc4b3\"/><rect y=\"520\" width=\"360\" height=\"120\" fill=\"#b3a690\"/><path d=\"M18.5 613.5 C23.25 442.5 94.5 399.75 180 399.75 C265.5 399.75 336.75 442.5 341.5 613.5 Z\" fill=\"#2f6f8f\"/><rect x=\"159.1\" y=\"338\" width=\"41.8\" height=\"66.5\" fill=\"#e0b48f\"/><ellipse cx=\"180\" cy=\"300\" rx=\"57\" ry=\"67.25999999999999\" fill=\"#e0b48f\"/><path d=\"M121.86 295.25 C117.3 214.5 242.7 208.8 238.71 292.4 C219.9 248.7 151.5 245.85 121.86 295.25 Z\" fill=\"#3a2a20\"/><circle cx=\"159.1\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><circle cx=\"200.9\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><path d=\"M147.7 284.8 L168.6 281 M191.4 281 L212.3 284.8\" stroke=\"#3a2a20\" stroke-width=\"4.75\" stroke-linecap=\"round\"/><ellipse cx=\"180\" cy=\"338\" rx=\"15.2\" ry=\"10.45\" fill=\"#6b2a2a\"/><text x=\"180\" y=\"450\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" font-weight=\"900\" text-anchor=\"middle\" fill=\"#ffffff\" stroke=\"#111\" stroke-width=\"6.8\" paint-order=\"stroke\">and that changed</text><text x=\"180\" y=\"492\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" font-weight=\"900\" text-anchor=\"middle\" fill=\"#ffffff\" stroke=\"#111\" stroke-width=\"6.8\" paint-order=\"stroke\">how I write</text></svg>"
+      }
+    },
+    "cap-closed": {
+      "svg": {
+        "cap": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 640\"><rect width=\"360\" height=\"640\" fill=\"#cfc4b3\"/><rect y=\"520\" width=\"360\" height=\"120\" fill=\"#b3a690\"/><path d=\"M18.5 613.5 C23.25 442.5 94.5 399.75 180 399.75 C265.5 399.75 336.75 442.5 341.5 613.5 Z\" fill=\"#2f6f8f\"/><rect x=\"159.1\" y=\"338\" width=\"41.8\" height=\"66.5\" fill=\"#e0b48f\"/><ellipse cx=\"180\" cy=\"300\" rx=\"57\" ry=\"67.25999999999999\" fill=\"#e0b48f\"/><path d=\"M121.86 295.25 C117.3 214.5 242.7 208.8 238.71 292.4 C219.9 248.7 151.5 245.85 121.86 295.25 Z\" fill=\"#3a2a20\"/><circle cx=\"159.1\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><circle cx=\"200.9\" cy=\"301.9\" r=\"5.699999999999999\" fill=\"#1b1b1f\"/><path d=\"M147.7 284.8 L168.6 281 M191.4 281 L212.3 284.8\" stroke=\"#3a2a20\" stroke-width=\"4.75\" stroke-linecap=\"round\"/><ellipse cx=\"180\" cy=\"338\" rx=\"15.2\" ry=\"10.45\" fill=\"#6b2a2a\"/><rect x=\"40\" y=\"540\" width=\"280\" height=\"64\" fill=\"#000\" opacity=\"0.75\"/><text x=\"180\" y=\"566\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#ffffff\" text-anchor=\"middle\">and that changed how</text><text x=\"180\" y=\"592\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#ffffff\" text-anchor=\"middle\">I write every script.</text><rect x=\"300\" y=\"14\" width=\"44\" height=\"28\" rx=\"4\" fill=\"#000\" opacity=\"0.7\"/><text x=\"322\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">CC</text></svg>"
+      }
+    }
+  }
+}

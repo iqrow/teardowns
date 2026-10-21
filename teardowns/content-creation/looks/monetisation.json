@@ -1,0 +1,331 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [2,0.04,0.7],
+        "pos": [0,-0.0188,-0.0068],
+        "color": "#5e432b",
+        "material": "matte",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.0733,-0.1138],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.1297,-0.0932],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.1861,-0.0727],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.2425,-0.0522],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.2989,-0.0317],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.3552,-0.0111],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.4116,0.0094],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.468,0.0299],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "ads",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.7485,0.5244,0.0504],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.34,0.1],
+        "pos": [-0.811,-0.1701,0.1749],
+        "rot": [-10.38,-8.65,-5.04],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 100\"><rect width=\"340\" height=\"100\" rx=\"12\" fill=\"#17171c\"/><text x=\"170\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"40\" fill=\"#fff\" font-weight=\"800\" text-anchor=\"middle\">ADS</text></svg>"
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.0508,-0.0517],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.1071,-0.0312],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.1635,-0.0107],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.2199,0.0098],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.2763,0.0303],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.3327,0.0509],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "sponsors",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [-0.3742,0.389,0.0714],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.34,0.1],
+        "pos": [-0.4367,-0.1927,0.2369],
+        "rot": [-10.38,-8.65,-5.04],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 100\"><rect width=\"340\" height=\"100\" rx=\"12\" fill=\"#17171c\"/><text x=\"170\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"40\" fill=\"#fff\" font-weight=\"800\" text-anchor=\"middle\">SPONSORS</text></svg>"
+      },
+      {
+        "slot": "members",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0,0.0282,0.0103],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "members",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0,0.0846,0.0308],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "members",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0,0.141,0.0513],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "members",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0,0.1973,0.0718],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.34,0.1],
+        "pos": [-0.0625,-0.2152,0.2989],
+        "rot": [-10.38,-8.65,-5.04],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 100\"><rect width=\"340\" height=\"100\" rx=\"12\" fill=\"#17171c\"/><text x=\"170\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"40\" fill=\"#fff\" font-weight=\"800\" text-anchor=\"middle\">MEMBERS</text></svg>"
+      },
+      {
+        "slot": "products",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0.3742,0.0056,0.0723],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "products",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0.3742,0.062,0.0928],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "products",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0.3742,0.1184,0.1133],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.34,0.1],
+        "pos": [0.3117,-0.2378,0.361],
+        "rot": [-10.38,-8.65,-5.04],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 100\"><rect width=\"340\" height=\"100\" rx=\"12\" fill=\"#17171c\"/><text x=\"170\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"40\" fill=\"#fff\" font-weight=\"800\" text-anchor=\"middle\">PRODUCTS</text></svg>"
+      },
+      {
+        "slot": "affiliate",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0.7485,-0.0169,0.1343],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "slot": "affiliate",
+        "shape": "cylinder",
+        "radiusTop": 0.14,
+        "radiusBottom": 0.14,
+        "height": 0.055,
+        "pos": [0.7485,0.0394,0.1548],
+        "color": "#c9a227",
+        "material": "metal",
+        "rot": [20,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.34,0.1],
+        "pos": [0.6859,-0.2604,0.423],
+        "rot": [-10.38,-8.65,-5.04],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 100\"><rect width=\"340\" height=\"100\" rx=\"12\" fill=\"#17171c\"/><text x=\"170\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"40\" fill=\"#fff\" font-weight=\"800\" text-anchor=\"middle\">AFFILIATE</text></svg>"
+      }
+    ]
+  },
+  "items": {
+    "ads": {"tint":{"ads":"#ffd23f"}},
+    "sponsors": {"tint":{"sponsors":"#ffd23f"}},
+    "members": {"tint":{"members":"#ffd23f"}},
+    "products": {"tint":{"products":"#ffd23f"}},
+    "affiliate": {"tint":{"affiliate":"#ffd23f"}}
+  }
+}

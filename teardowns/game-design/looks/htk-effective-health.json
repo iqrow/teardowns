@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.12,0.88],
+        "material": "screen",
+        "color": "#202f40",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 224 176\"><rect x=\"10\" y=\"10\" width=\"204\" height=\"156\" rx=\"12\" fill=\"#18222f\" stroke=\"#8ab4c6\" stroke-width=\"5\"/><path d=\"M65 133v-25q0-28 27-28t27 28v25M52 133h80\" fill=\"none\" stroke=\"#79c6a4\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M154 55l16 17 16-17 16 17-32 44-32-44z\" fill=\"#668ec2\" stroke=\"#fff\" stroke-width=\"4\"/><rect x=\"33\" y=\"143\" width=\"157\" height=\"12\" rx=\"6\" fill=\"#526174\"/><rect x=\"33\" y=\"143\" width=\"115\" height=\"12\" rx=\"6\" fill=\"#e26f62\"/><text x=\"112\" y=\"34\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"17\">RAW DAMAGE</text><text x=\"112\" y=\"126\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">ARMOUR → EHP</text></svg>"
+      }
+    ]
+  }
+}

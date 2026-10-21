@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.4,0.9545,0.02],"pos":[0,0,-0.012],"color":"#cfccc2","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.4,0.9545],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Odometry</text><text x=\"20\" y=\"54\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#7a7f8c\">add up small steps; error accumulates</text><path d=\"M50 250 L150 250 L250 250 L330 230 L380 170 L380 90\" stroke=\"#1f2430\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M50 250 L150 246 L250 236 L334 206 L376 140 L364 64\" stroke=\"#e07a2d\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"2 8\"/><circle cx=\"50\" cy=\"250\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"246\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"236\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"334\" cy=\"206\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"376\" cy=\"140\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"364\" cy=\"64\" r=\"4\" fill=\"#e07a2d\" stroke=\"none\" stroke-width=\"2\"/><line x1=\"380\" y1=\"90\" x2=\"364\" y2=\"64\" stroke=\"#c8463d\" stroke-width=\"2\" stroke-linecap=\"round\" /><text x=\"140\" y=\"274\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#1f2430\" font-weight=\"700\">true path</text><text x=\"250\" y=\"220\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#e07a2d\" font-weight=\"700\">odometry</text><text x=\"396\" y=\"80\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#c8463d\" font-weight=\"700\">drift</text></svg>"
+      }
+    ]
+  }
+}

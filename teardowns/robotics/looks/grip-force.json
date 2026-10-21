@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.2,1,0.02],"pos":[0,0,-0.012],"color":"#0d0f14","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.2,1],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" rx=\"10\" fill=\"#161a22\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#9aa3b5\" font-weight=\"700\" letter-spacing=\"2\">GRIPPER</text><text x=\"20\" y=\"80\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#d7dae0\">Force</text><text x=\"340\" y=\"80\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"30\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"end\">50 N</text><rect x=\"20\" y=\"100\" width=\"320\" height=\"14\" rx=\"7\" fill=\"#2c3240\" stroke=\"none\" stroke-width=\"0\"/><rect x=\"20\" y=\"100\" width=\"44.64\" height=\"14\" rx=\"7\" fill=\"#2f6fd6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"64.64\" cy=\"107\" r=\"13\" fill=\"#ffffff\" stroke=\"none\" stroke-width=\"2\"/><text x=\"20\" y=\"140\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9aa3b5\">20 N</text><text x=\"340\" y=\"140\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9aa3b5\" text-anchor=\"end\">235 N</text><text x=\"20\" y=\"190\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#d7dae0\">Width</text><text x=\"340\" y=\"190\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"end\">42 mm</text><text x=\"20\" y=\"236\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#d7dae0\">Speed</text><text x=\"340\" y=\"236\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" fill=\"#ffffff\" font-weight=\"700\" text-anchor=\"end\">60 mm/s</text><rect x=\"20\" y=\"256\" width=\"150\" height=\"32\" rx=\"6\" fill=\"#3f9a5b\" stroke=\"none\" stroke-width=\"0\"/><text x=\"95\" y=\"278\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#fff\" font-weight=\"700\" text-anchor=\"middle\">GRIP</text><rect x=\"190\" y=\"256\" width=\"150\" height=\"32\" rx=\"6\" fill=\"#3a4150\" stroke=\"none\" stroke-width=\"0\"/><text x=\"265\" y=\"278\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#fff\" font-weight=\"700\" text-anchor=\"middle\">RELEASE</text></svg>"
+      }
+    ]
+  }
+}

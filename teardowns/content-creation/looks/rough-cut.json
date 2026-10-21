@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.5,0.75,0.014],"pos":[0,0,-0.009],"color":"#20242c","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.5,0.75],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 250\"><rect width=\"500\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">ASSEMBLY → LOCK</text><text x=\"20\" y=\"82\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"700\">Assembly</text><rect x=\"140\" y=\"62\" width=\"330\" height=\"28\" rx=\"4\" fill=\"#41607a\"/><text x=\"476\" y=\"82\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\">22 min</text><text x=\"20\" y=\"128\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"700\">Rough cut</text><rect x=\"140\" y=\"108\" width=\"230.99999999999997\" height=\"28\" rx=\"4\" fill=\"#2f6f8f\"/><text x=\"377\" y=\"128\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\">15 min</text><text x=\"20\" y=\"174\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"700\">Fine cut</text><rect x=\"140\" y=\"154\" width=\"171.6\" height=\"28\" rx=\"4\" fill=\"#3d7fa0\"/><text x=\"317.6\" y=\"174\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\">11 min</text><text x=\"20\" y=\"220\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"700\">Picture lock</text><rect x=\"140\" y=\"200\" width=\"165\" height=\"28\" rx=\"4\" fill=\"#4b9a4f\"/><text x=\"311\" y=\"220\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#8a8f99\">11 min</text></svg>"
+      }
+    ]
+  }
+}

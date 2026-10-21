@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.2,
+    "energy": 0.2,
+    "weight": 0.4,
+    "warmth": 0.3,
+    "grain": 0.1,
+    "motion": "settle",
+    "why": "It sinks back to rest, however hard you push it."
+  }
+}

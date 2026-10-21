@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.8,1.1],
+        "material": "screen",
+        "color": "#2f4770",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"10\" y=\"10\" width=\"340\" height=\"200\" rx=\"14\" fill=\"#19283a\" stroke=\"#a8c7f0\" stroke-width=\"6\"/><path d=\"M28 92h126M28 92V28\" stroke=\"#8da4c5\" stroke-width=\"4\"/><path d=\"M38 81l25-18 24 9 25-27 34-12\" fill=\"none\" stroke=\"#78d6a8\" stroke-width=\"6\"/><circle cx=\"38\" cy=\"81\" r=\"7\" fill=\"#f4c542\"/><circle cx=\"63\" cy=\"63\" r=\"7\" fill=\"#f4c542\"/><circle cx=\"87\" cy=\"72\" r=\"7\" fill=\"#f4c542\"/><circle cx=\"112\" cy=\"45\" r=\"7\" fill=\"#f4c542\"/><circle cx=\"146\" cy=\"33\" r=\"7\" fill=\"#f4c542\"/><rect x=\"188\" y=\"27\" width=\"53\" height=\"48\" rx=\"8\" fill=\"#e6b84d\"/><path d=\"M199 48V39q0-15 15-15t15 15v9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"7\"/><rect x=\"197\" y=\"47\" width=\"36\" height=\"25\" rx=\"4\" fill=\"#e6b84d\"/><circle cx=\"215\" cy=\"58\" r=\"4\" fill=\"#604b36\"/><path d=\"M58 154h32M74 143v22M83 143l13-13M111 165h18M120 156l12-12\" stroke=\"#89b8c9\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"58\" cy=\"154\" r=\"7\" fill=\"#78d6a8\"/><circle cx=\"111\" cy=\"165\" r=\"7\" fill=\"#78d6a8\"/><rect x=\"185\" y=\"143\" width=\"130\" height=\"24\" rx=\"10\" fill=\"#3b536c\"/><rect x=\"185\" y=\"143\" width=\"88\" height=\"24\" rx=\"10\" fill=\"#78d6a8\"/><text x=\"28\" y=\"112\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">CURVE</text><text x=\"196\" y=\"95\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">GATE</text><text x=\"42\" y=\"188\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">SKILL</text><text x=\"187\" y=\"187\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">XP 7 / 10</text></svg>"
+      }
+    ]
+  }
+}

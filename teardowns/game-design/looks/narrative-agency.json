@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "agency-meter",
+        "shape": "plane",
+        "size": [1.4,0.84],
+        "material": "screen",
+        "color": "#32254a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 168\"><rect x=\"14\" y=\"14\" width=\"252\" height=\"140\" rx=\"10\" fill=\"#261d3b\" stroke=\"#b5a0d3\" stroke-width=\"4\"/><path d=\"M42 88h188\" stroke=\"#d7cbe5\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M42 88h112\" stroke=\"#69c8a0\" stroke-width=\"12\" stroke-linecap=\"round\"/><circle cx=\"154\" cy=\"88\" r=\"17\" fill=\"#e5b35d\" stroke=\"#fff1d0\" stroke-width=\"5\"/><path d=\"M42 54h39M199 54h31M40 121h68M187 121h45\" stroke=\"#d5c9e5\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M42 42v18M230 42v18\" stroke=\"#d5c9e5\" stroke-width=\"4\"/></svg>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "map",
+        "shape": "plane",
+        "size": [3.2,2.2],
+        "material": "screen",
+        "color": "#162a3b",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 220\"><rect x=\"10\" y=\"10\" width=\"300\" height=\"200\" rx=\"14\" fill=\"#162a3b\" stroke=\"#7aa5b7\" stroke-width=\"4\"/><path d=\"M24 55h272M24 110h272M24 165h272M80 24v172M160 24v172M240 24v172\" stroke=\"#28465a\" stroke-width=\"2\"/><path d=\"M42 174C72 148 70 74 112 74s40 73 82 54 43-64 80-70\" fill=\"none\" stroke=\"#f1c75b\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle cx=\"42\" cy=\"174\" r=\"9\" fill=\"#68d0aa\"/><circle cx=\"112\" cy=\"74\" r=\"9\" fill=\"#ef7968\"/><circle cx=\"194\" cy=\"128\" r=\"9\" fill=\"#68d0aa\"/><circle cx=\"274\" cy=\"58\" r=\"9\" fill=\"#ef7968\"/><path d=\"M64 42h34M222 184h52\" stroke=\"#dce8ef\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "slot": "blockout",
+        "shape": "box",
+        "size": [0.9,0.18,0.18],
+        "pos": [-0.82,-0.7,0.14],
+        "material": "matte",
+        "color": "#8aa6b8"
+      },
+      {
+        "slot": "blockout",
+        "shape": "box",
+        "size": [0.6,0.18,0.18],
+        "pos": [0.74,0.62,0.14],
+        "material": "matte",
+        "color": "#d49a5a"
+      }
+    ]
+  }
+}

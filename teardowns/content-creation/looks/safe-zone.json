@@ -1,0 +1,22 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.66,1.3,0.06],
+        "radius": 0.08,
+        "color": "#16171b",
+        "material": "gloss",
+        "pos": [0,0,0],
+        "rot": [0,-10,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.6,1.0667],
+        "pos": [-0.0054,0,0.0305],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 640\"><rect width=\"360\" height=\"640\" fill=\"#2a2f3a\"/><rect x=\"0\" y=\"0\" width=\"360\" height=\"89.60000000000001\" fill=\"#e0412f\" fill-opacity=\"0.45\"/><rect x=\"295.2\" y=\"89.60000000000001\" width=\"64.8\" height=\"422.40000000000003\" fill=\"#e0412f\" fill-opacity=\"0.45\"/><rect x=\"0\" y=\"512\" width=\"360\" height=\"128\" fill=\"#e0412f\" fill-opacity=\"0.45\"/><rect x=\"21.599999999999998\" y=\"102.4\" width=\"266.4\" height=\"396.8\" fill=\"none\" stroke=\"#4b9a4f\" stroke-width=\"4\" stroke-dasharray=\"10 6\"/><text x=\"154.8\" y=\"300.79999999999995\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#4b9a4f\" font-weight=\"800\" text-anchor=\"middle\">SAFE</text><text x=\"180\" y=\"51.2\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">top bar</text><text x=\"327.6\" y=\"300.79999999999995\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\" transform=\"rotate(90 327.6 300.79999999999995)\">buttons</text><text x=\"180\" y=\"576\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" text-anchor=\"middle\">handle, caption, music</text></svg>",
+        "rot": [0,-10,0]
+      }
+    ]
+  }
+}

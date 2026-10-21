@@ -1,0 +1,29 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.8,0.8,0.04],
+        "pos": [-0.0052,-0.005,-0.0187],
+        "color": "#1b5e3b",
+        "material": "matte",
+        "rot": [-15,15,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.8,0.8],
+        "pos": [0.0003,0.0002,0.0009],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><rect x=\"0\" y=\"0\" width=\"200\" height=\"200\" rx=\"6\" fill=\"#1b5e3b\" stroke=\"none\" stroke-width=\"0\"/><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#1f2430\"/></marker><marker id=\"ahb\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#2f6fd6\"/></marker><marker id=\"ahr\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#c8463d\"/></marker></defs><rect x=\"70\" y=\"70\" width=\"60\" height=\"60\" rx=\"4\" fill=\"#15171c\" stroke=\"#2c2f36\" stroke-width=\"2\"/><text x=\"100\" y=\"105\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#c9ccd2\" font-weight=\"700\" text-anchor=\"middle\">IMU</text><line x1=\"30\" y1=\"170\" x2=\"80\" y2=\"170\" stroke=\"#ffffff\" stroke-width=\"3\" stroke-linecap=\"round\" marker-end=\"url(#ah)\"/><line x1=\"30\" y1=\"170\" x2=\"30\" y2=\"120\" stroke=\"#ffffff\" stroke-width=\"3\" stroke-linecap=\"round\" marker-end=\"url(#ah)\"/><text x=\"86\" y=\"175\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#fff\" font-weight=\"700\">X</text><text x=\"24\" y=\"112\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#fff\" font-weight=\"700\">Y</text><circle cx=\"30\" cy=\"170\" r=\"5\" fill=\"#fff\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"58\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"86\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"114\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"142\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"20\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"58\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"86\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"114\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"142\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"180\" r=\"6\" fill=\"#c9a227\" stroke=\"none\" stroke-width=\"2\"/></svg>",
+        "rot": [-15,15,0]
+      },
+      {
+        "shape": "box",
+        "size": [0.24,0.24,0.05],
+        "pos": [0.0065,0.0062,0.0233],
+        "color": "#15171c",
+        "material": "gloss",
+        "rot": [-15,15,0]
+      }
+    ]
+  }
+}

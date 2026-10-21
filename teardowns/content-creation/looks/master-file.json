@@ -1,0 +1,21 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [0.8,1,0.04],
+        "pos": [0,0,0],
+        "color": "#f4f1ea",
+        "material": "matte",
+        "rot": [0,-15,0]
+      },
+      {
+        "shape": "plane",
+        "size": [0.8,1],
+        "pos": [-0.0054,0,0.0203],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 400\"><path d=\"M0 0 H230 L320 90 V400 H0 Z\" fill=\"#f4f1ea\"/><path d=\"M230 0 V90 H320\" fill=\"#d9d2c3\"/><rect x=\"40\" y=\"140\" width=\"240\" height=\"135\" rx=\"8\" fill=\"#17171c\"/><path d=\"M140 175 l50 32 l-50 32 Z\" fill=\"#fff\"/><text x=\"160\" y=\"340\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"34\" fill=\"#17171c\" font-weight=\"800\" text-anchor=\"middle\">final.mp4</text><text x=\"160\" y=\"376\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#666\" text-anchor=\"middle\">1080×1920 · 0:58</text></svg>",
+        "rot": [0,-15,0]
+      }
+    ]
+  }
+}

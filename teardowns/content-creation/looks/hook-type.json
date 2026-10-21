@@ -1,0 +1,53 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.2,0.72,0.014],
+        "pos": [0,0,-0.009],
+        "color": "#20242c",
+        "material": "matte",
+        "slot": "card-back"
+      },
+      {
+        "shape": "plane",
+        "size": [1.2,0.72],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">RESULT FIRST</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">This is me after 30 days with</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">a teleprompter.</text></svg>",
+        "slot": "card"
+      }
+    ]
+  },
+  "items": {
+    "question": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">QUESTION</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">Why do your Shorts die at two</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">seconds?</text></svg>"
+      }
+    },
+    "bold-claim": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">BOLD CLAIM</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">Your intro is costing you half</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">your views.</text></svg>"
+      }
+    },
+    "result-first": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">RESULT FIRST</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">This is me after 30 days with</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">a teleprompter.</text></svg>"
+      }
+    },
+    "stakes-challenge": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">STAKES</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">30 videos, 30 days, no retakes</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">allowed.</text></svg>"
+      }
+    },
+    "in-medias-res": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">IN THE ACTION</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">“…and that’s when the prompter</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">fell over.”</text></svg>"
+      }
+    },
+    "visual": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\"><rect width=\"400\" height=\"240\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">HOOK TYPE</text><rect x=\"20\" y=\"54\" width=\"360\" height=\"40\" rx=\"20\" fill=\"#e0412f\"/><text x=\"200\" y=\"81\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\" letter-spacing=\"1\">VISUAL</text><text x=\"28\" y=\"134\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">[a 3-metre script unrolls off</text><text x=\"28\" y=\"164\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"22\" fill=\"#ffffff\" font-style=\"italic\">the desk]</text></svg>"
+      }
+    }
+  }
+}

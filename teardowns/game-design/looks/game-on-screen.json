@@ -1,0 +1,310 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "device",
+        "shape": "box",
+        "size": [2.6,1.24,0.1],
+        "radius": 0.17,
+        "material": "gloss",
+        "color": "#1d2230"
+      },
+      {
+        "slot": "device",
+        "shape": "cylinder",
+        "radiusTop": 0.035,
+        "radiusBottom": 0.035,
+        "height": 0.01,
+        "rot": [90,0,0],
+        "pos": [-1.13,0,0.057],
+        "material": "matte",
+        "color": "#05070a"
+      },
+      {
+        "slot": "device",
+        "shape": "box",
+        "size": [0.36,0.035,0.05],
+        "pos": [0.55,0.632,0],
+        "material": "metal",
+        "color": "#3a4050"
+      },
+      {
+        "slot": "screen",
+        "shape": "plane",
+        "size": [2.44,1.1],
+        "pos": [0,0,0.051],
+        "material": "screen",
+        "color": "#14233b"
+      }
+    ]
+  },
+  "items": {
+    "device-phone": {
+      "look": {
+        "parts": [
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [2.6,1.24,0.1],
+            "radius": 0.17,
+            "material": "gloss",
+            "color": "#1d2230"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.035,
+            "radiusBottom": 0.035,
+            "height": 0.01,
+            "rot": [90,0,0],
+            "pos": [-1.13,0,0.057],
+            "material": "matte",
+            "color": "#05070a"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.36,0.035,0.05],
+            "pos": [0.55,0.632,0],
+            "material": "metal",
+            "color": "#3a4050"
+          },
+          {
+            "slot": "screen",
+            "shape": "plane",
+            "size": [2.44,1.1],
+            "pos": [0,0,0.051],
+            "material": "screen",
+            "color": "#14233b"
+          }
+        ]
+      }
+    },
+    "device-monitor": {
+      "look": {
+        "parts": [
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [4.2,2.45,0.1],
+            "radius": 0.05,
+            "material": "matte",
+            "color": "#1b1f29"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.34,0.8,0.08],
+            "pos": [0,-1.5,-0.1],
+            "material": "metal",
+            "color": "#4a5060"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [1.7,0.06,0.8],
+            "pos": [0,-1.92,-0.05],
+            "material": "metal",
+            "color": "#4a5060"
+          },
+          {
+            "slot": "screen",
+            "shape": "plane",
+            "size": [4.04,2.28],
+            "pos": [0,0,0.051],
+            "material": "screen",
+            "color": "#14233b"
+          }
+        ]
+      }
+    },
+    "device-tv": {
+      "look": {
+        "parts": [
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [5.6,3.18,0.07],
+            "radius": 0.03,
+            "material": "matte",
+            "color": "#111319"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.06,0.3,0.5],
+            "pos": [-2.3,-1.74,0],
+            "material": "metal",
+            "color": "#2b2f38"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.06,0.3,0.5],
+            "pos": [2.3,-1.74,0],
+            "material": "metal",
+            "color": "#2b2f38"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [6.4,0.7,1.1],
+            "pos": [0,-2.24,-0.1],
+            "material": "matte",
+            "color": "#3b2f2a"
+          },
+          {
+            "slot": "screen",
+            "shape": "plane",
+            "size": [5.5,3.09],
+            "pos": [0,0,0.036],
+            "material": "screen",
+            "color": "#14233b"
+          }
+        ]
+      }
+    },
+    "device-handheld": {
+      "look": {
+        "parts": [
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [2.5,1.48,0.13],
+            "radius": 0.06,
+            "material": "matte",
+            "color": "#2a2d36"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.62,1.48,0.15],
+            "radius": 0.26,
+            "pos": [-1.56,0,0],
+            "material": "gloss",
+            "color": "#2fb7e0"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.62,1.48,0.15],
+            "radius": 0.26,
+            "pos": [1.56,0,0],
+            "material": "gloss",
+            "color": "#ef5b5b"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.11,
+            "radiusBottom": 0.12,
+            "height": 0.08,
+            "rot": [90,0,0],
+            "pos": [-1.56,0.36,0.1],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.3,0.1,0.05],
+            "pos": [-1.56,-0.3,0.085],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "box",
+            "size": [0.1,0.3,0.05],
+            "pos": [-1.56,-0.3,0.085],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.05,
+            "rot": [90,0,0],
+            "pos": [1.56,0.48,0.09],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.05,
+            "rot": [90,0,0],
+            "pos": [1.56,0.24,0.09],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.05,
+            "rot": [90,0,0],
+            "pos": [1.44,0.36,0.09],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.055,
+            "radiusBottom": 0.055,
+            "height": 0.05,
+            "rot": [90,0,0],
+            "pos": [1.68,0.36,0.09],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "device",
+            "shape": "cylinder",
+            "radiusTop": 0.11,
+            "radiusBottom": 0.12,
+            "height": 0.08,
+            "rot": [90,0,0],
+            "pos": [1.56,-0.3,0.1],
+            "material": "matte",
+            "color": "#1a1c22"
+          },
+          {
+            "slot": "screen",
+            "shape": "plane",
+            "size": [2.3,1.29],
+            "pos": [0,0,0.066],
+            "material": "screen",
+            "color": "#14233b"
+          }
+        ]
+      }
+    },
+    "genre-strategy": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect width=\"320\" height=\"180\" fill=\"#193d35\"/><path d=\"M0 45h320M0 90h320M0 135h320M80 0v180M160 0v180M240 0v180\" stroke=\"#2f6c55\"/><circle cx=\"80\" cy=\"90\" r=\"15\" fill=\"#f2c14e\"/><path d=\"M220 45l18 30h-36z\" fill=\"#ec6b5f\"/><rect x=\"15\" y=\"12\" width=\"110\" height=\"12\" rx=\"5\" fill=\"#e7c66a\"/><text x=\"232\" y=\"22\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"13\">STRATEGY</text></svg>"
+      }
+    },
+    "genre-platformer": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect width=\"320\" height=\"180\" fill=\"#72c7e6\"/><circle cx=\"260\" cy=\"35\" r=\"22\" fill=\"#ffe59b\"/><path d=\"M0 155h100M130 120h80M230 85h90\" stroke=\"#5b3b58\" stroke-width=\"14\"/><rect x=\"55\" y=\"118\" width=\"16\" height=\"24\" fill=\"#e55b52\"/><circle cx=\"110\" cy=\"82\" r=\"7\" fill=\"#f4c542\"/><circle cx=\"140\" cy=\"70\" r=\"7\" fill=\"#f4c542\"/><text x=\"14\" y=\"22\" fill=\"#15334a\" font-family=\"sans-serif\" font-size=\"13\">PLATFORMER</text></svg>"
+      }
+    },
+    "genre-rpg": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect width=\"320\" height=\"180\" fill=\"#292449\"/><circle cx=\"85\" cy=\"74\" r=\"22\" fill=\"#e2a06b\"/><path d=\"M52 150q33-54 66 0\" fill=\"#4f83cc\"/><path d=\"M220 58l18 30h-36z\" fill=\"#d65c75\"/><rect x=\"12\" y=\"125\" width=\"180\" height=\"42\" rx=\"5\" fill=\"#17152c\" stroke=\"#c2a8ff\"/><rect x=\"230\" y=\"14\" width=\"78\" height=\"55\" fill=\"#17152c\" stroke=\"#78d6a8\"/><path d=\"M239 29h55M239 42h40M239 55h28\" stroke=\"#78d6a8\"/><text x=\"16\" y=\"22\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"13\">RPG</text></svg>"
+      }
+    },
+    "genre-puzzle": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect width=\"320\" height=\"180\" fill=\"#f2e7d1\"/><g stroke=\"#604f65\" stroke-width=\"3\"><rect x=\"54\" y=\"30\" width=\"42\" height=\"42\" fill=\"#e86e67\"/><rect x=\"99\" y=\"30\" width=\"42\" height=\"42\" fill=\"#75c98b\"/><rect x=\"144\" y=\"30\" width=\"42\" height=\"42\" fill=\"#75c98b\"/><rect x=\"189\" y=\"30\" width=\"42\" height=\"42\" fill=\"#e86e67\"/><rect x=\"54\" y=\"75\" width=\"42\" height=\"42\" fill=\"#f0c85a\"/><rect x=\"99\" y=\"75\" width=\"42\" height=\"42\" fill=\"#75c98b\"/><rect x=\"144\" y=\"75\" width=\"42\" height=\"42\" fill=\"#e86e67\"/><rect x=\"189\" y=\"75\" width=\"42\" height=\"42\" fill=\"#f0c85a\"/></g><rect x=\"246\" y=\"42\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#40344b\" stroke-width=\"5\"/><text x=\"16\" y=\"22\" fill=\"#40344b\" font-family=\"sans-serif\" font-size=\"13\">PUZZLE</text></svg>"
+      }
+    }
+  }
+}

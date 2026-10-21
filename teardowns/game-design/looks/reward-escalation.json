@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [0.9,0.7],
+        "material": "glow",
+        "color": "#3a3440",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 140\"><circle cx=\"58\" cy=\"71\" r=\"25\" fill=\"#f2c14e\" stroke=\"#fff\" stroke-width=\"5\"/><path d=\"M58 49v44M36 71h44\" stroke=\"#8a5d2f\" stroke-width=\"5\"/><path d=\"M98 95l46-46M144 49l-5 20M144 49l-20 5\" fill=\"none\" stroke=\"#e9b951\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"90\" y=\"124\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">REWARD</text></svg>"
+      }
+    ]
+  }
+}

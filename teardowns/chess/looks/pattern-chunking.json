@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"pieces","shape":"particles","count":18,"box":[0.72,0.18,0.55],"pos":[0,0.08,0],"size":0.028,"color":"#f0c45b","motion":"orbit"},{"slot":"chunk-ring","shape":"torus","radius":0.30,"tube":0.024,"pos":[0,0.22,0],"rot":[90,0,0],"material":"glow","color":"#68c4b0"}]}}

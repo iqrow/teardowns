@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.4,0.9545,0.02],"pos":[0,0,-0.012],"color":"#cfccc2","material":"matte"},
+      {
+        "shape": "plane",
+        "size": [1.4,0.9545],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" rx=\"10\" fill=\"#f6f4ef\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#1f2430\" font-weight=\"700\">Planning</text><text x=\"20\" y=\"54\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#7a7f8c\">task: pick mug → place on shelf</text><rect x=\"150\" y=\"90\" width=\"50\" height=\"120\" rx=\"3\" fill=\"#9aa0aa\" stroke=\"none\" stroke-width=\"0\"/><rect x=\"260\" y=\"160\" width=\"60\" height=\"110\" rx=\"3\" fill=\"#9aa0aa\" stroke=\"none\" stroke-width=\"0\"/><path d=\"M60 250 C 110 250, 110 70, 175 70 S 240 140, 290 130 S 370 100, 390 90\" stroke=\"#2f6fd6\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><circle cx=\"60\" cy=\"250\" r=\"10\" fill=\"#3f9a5b\" stroke=\"none\" stroke-width=\"2\"/><text x=\"60\" y=\"280\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">start</text><circle cx=\"390\" cy=\"90\" r=\"10\" fill=\"#c8463d\" stroke=\"none\" stroke-width=\"2\"/><text x=\"390\" y=\"122\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#2a2530\" font-weight=\"700\" text-anchor=\"middle\">goal</text></svg>"
+      }
+    ]
+  }
+}

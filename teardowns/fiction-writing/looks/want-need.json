@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.5,
+    "energy": 0.45,
+    "weight": 0.3,
+    "warmth": 0.6,
+    "grain": 0.3,
+    "motion": "jitter",
+    "why": "Two goals pull against each other inside one person, so the body never quite settles."
+  }
+}

@@ -1,0 +1,10 @@
+{"look":{"parts":[
+  {"slot":"back","shape":"box","size":[1.5,1.9,0.06],"pos":[0,0.95,-0.55],"color":"#dfe7ea","material":"gloss"},
+  {"slot":"left","shape":"box","size":[0.06,1.9,1.1],"pos":[-0.75,0.95,0],"color":"#eef3f5","material":"gloss"},
+  {"slot":"right","shape":"box","size":[0.06,1.9,1.1],"pos":[0.75,0.95,0],"color":"#eef3f5","material":"gloss"},
+  {"slot":"top","shape":"box","size":[1.56,0.08,1.1],"pos":[0,1.92,0],"color":"#eef3f5","material":"gloss"},
+  {"slot":"door","shape":"box","size":[1.5,1.9,0.07],"pos":[-1.35,0.95,0.75],"rot":[0,-55,0],"color":"#f4f7f8","material":"gloss"},
+  {"slot":"shelf","shape":"box","size":[1.4,0.03,1.0],"pos":[0,0.62,0],"color":"#c9d8de","opacity":0.6,"material":"glass"},
+  {"slot":"basket","shape":"lathe","profile":[[0,0],[0.3,0],[0.42,0.1],[0.46,0.22]],"pos":[0,0.64,0.05],"color":"#b07a45","material":"matte"},
+  {"slot":"dough","shape":"lathe","smooth":true,"profile":[[0,0],[0.38,0],[0.43,0.2],[0.36,0.3],[0.2,0.35],[0,0.36]],"pos":[0,0.66,0.05],"color":"#e2c190","material":"matte"}
+]}}

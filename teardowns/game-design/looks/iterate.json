@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.2,0.8],
+        "material": "gloss",
+        "color": "#273345",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect x=\"12\" y=\"16\" width=\"88\" height=\"110\" rx=\"8\" fill=\"#303040\" stroke=\"#de8266\" stroke-width=\"5\"/><path d=\"M27 45h58M27 66h47M27 87h58\" stroke=\"#e7b568\" stroke-width=\"6\"/><rect x=\"140\" y=\"16\" width=\"88\" height=\"110\" rx=\"8\" fill=\"#243c37\" stroke=\"#88d1b4\" stroke-width=\"5\"/><path d=\"M155 45h58M155 66h47M155 87h58\" stroke=\"#88d1b4\" stroke-width=\"6\"/><path d=\"M102 71h36M126 61l12 10-12 10\" fill=\"none\" stroke=\"#f5d27e\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"120\" y=\"149\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"15\">ONE RULE</text></svg>"
+      }
+    ]
+  }
+}

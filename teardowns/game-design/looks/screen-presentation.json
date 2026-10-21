@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [2.2,1.4],
+        "material": "screen",
+        "color": "#1f4160",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\"><rect x=\"10\" y=\"10\" width=\"420\" height=\"260\" rx=\"16\" fill=\"#172b3a\" stroke=\"#79c7db\" stroke-width=\"8\"/><path d=\"M28 206h384M28 160h384M28 114h384M105 28v232M182 28v232M259 28v232\" stroke=\"#2f6c55\" stroke-width=\"3\"/><circle cx=\"118\" cy=\"154\" r=\"17\" fill=\"#f2c14e\"/><path d=\"M292 70l22 38h-44z\" fill=\"#ec6b5f\"/><path d=\"M207 128l9 20 21-4-16 15 6 21-20-11-19 12 6-22-16-14 21 3z\" fill=\"#e26f62\" stroke=\"#fff\" stroke-width=\"4\"/><rect x=\"28\" y=\"29\" width=\"122\" height=\"17\" rx=\"6\" fill=\"#e7c66a\"/><rect x=\"320\" y=\"187\" width=\"84\" height=\"48\" rx=\"7\" fill=\"#17232f\" stroke=\"#f4c542\" stroke-width=\"4\"/><path d=\"M332 201h48M332 216h34\" stroke=\"#78d6a8\" stroke-width=\"5\"/><path d=\"M56 228h70M80 218v20M102 218v20\" stroke=\"#9ee7ff\" stroke-width=\"5\"/><text x=\"320\" y=\"48\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"18\">SCREEN</text></svg>"
+      }
+    ]
+  }
+}

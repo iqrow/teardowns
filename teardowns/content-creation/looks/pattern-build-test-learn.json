@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.45,
+    "energy": 0.5,
+    "weight": 0,
+    "warmth": 0.55,
+    "grain": 0.2,
+    "motion": "orbit",
+    "why": "A steady circuit that comes back to its start a little further on each time."
+  }
+}

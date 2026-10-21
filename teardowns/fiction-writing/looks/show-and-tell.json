@@ -1,0 +1,70 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.332,0.912,0.05],
+        "radius": 0.05,
+        "pos": [-0.0054,-0.0044,-0.025],
+        "color": "#15171c",
+        "material": "matte",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "face",
+        "shape": "plane",
+        "size": [1.272,0.852],
+        "pos": [0.0003,0.0003,0.0014],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 424 284\"><rect width=\"424\" height=\"284\" rx=\"20\" fill=\"#1f232b\"/><text x=\"212\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">SHOW ↔ TELL</text><rect x=\"40\" y=\"70\" width=\"344\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#7b8290\" font-weight=\"700\">TELL</text><text x=\"40\" y=\"125\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">summary</text><text x=\"384\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"end\">SHOW</text><text x=\"384\" y=\"125\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">scene</text><rect x=\"20\" y=\"134\" width=\"186\" height=\"134\" rx=\"8\" fill=\"#2c313b\"/><text x=\"34\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#6b7280\" font-weight=\"700\" letter-spacing=\"2\">TELL</text><text x=\"34\" y=\"184\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#7b8290\" font-style=\"italic\">Maya was scared.</text><rect x=\"218\" y=\"134\" width=\"186\" height=\"134\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"232\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a7f70\" font-weight=\"700\" letter-spacing=\"2\">SHOW</text><text x=\"232\" y=\"184\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" font-style=\"italic\">Her hands shook so</text><text x=\"232\" y=\"206\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" font-style=\"italic\">hard the clipboard</text><text x=\"232\" y=\"228\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" font-style=\"italic\">rattled on the rail.</text></svg>",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "cap",
+        "shape": "box",
+        "size": [0.08,0.13,0.06],
+        "pos": [0.4523,0.1895,-0.0999],
+        "color": "#d9d6cf",
+        "material": "gloss",
+        "rot": [-10,12,0]
+      },
+      {
+        "slot": "cap",
+        "shape": "box",
+        "size": [0.082,0.012,0.062],
+        "pos": [0.4523,0.1895,-0.0999],
+        "color": "#e8c26b",
+        "material": "matte",
+        "rot": [-10,12,0]
+      }
+    ]
+  },
+  "items": {
+    "mode-summary": {
+      "look": {
+        "parts": [
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.08,0.13,0.06],
+            "pos": [-0.4398,0.2225,0.0868],
+            "color": "#d9d6cf",
+            "material": "gloss",
+            "rot": [-10,12,0]
+          },
+          {
+            "slot": "cap",
+            "shape": "box",
+            "size": [0.082,0.012,0.062],
+            "pos": [-0.4398,0.2225,0.0868],
+            "color": "#e8c26b",
+            "material": "matte",
+            "rot": [-10,12,0]
+          }
+        ]
+      },
+      "svg": {
+        "face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 424 284\"><rect width=\"424\" height=\"284\" rx=\"20\" fill=\"#1f232b\"/><text x=\"212\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\" text-anchor=\"middle\" letter-spacing=\"3\">SHOW ↔ TELL</text><rect x=\"40\" y=\"70\" width=\"344\" height=\"8\" rx=\"4\" fill=\"#3a3f4a\"/><text x=\"40\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#e8c26b\" font-weight=\"700\">TELL</text><text x=\"40\" y=\"125\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\">summary</text><text x=\"384\" y=\"110\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#7b8290\" font-weight=\"700\" text-anchor=\"end\">SHOW</text><text x=\"384\" y=\"125\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#7b8290\" text-anchor=\"end\">scene</text><rect x=\"20\" y=\"134\" width=\"186\" height=\"134\" rx=\"8\" fill=\"#f6f1e4\"/><text x=\"34\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a7f70\" font-weight=\"700\" letter-spacing=\"2\">TELL</text><text x=\"34\" y=\"184\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#2a2530\" font-style=\"italic\">Maya was scared.</text><rect x=\"218\" y=\"134\" width=\"186\" height=\"134\" rx=\"8\" fill=\"#2c313b\"/><text x=\"232\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#6b7280\" font-weight=\"700\" letter-spacing=\"2\">SHOW</text><text x=\"232\" y=\"184\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#7b8290\" font-style=\"italic\">Her hands shook so</text><text x=\"232\" y=\"206\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#7b8290\" font-style=\"italic\">hard the clipboard</text><text x=\"232\" y=\"228\" font-family=\"Liberation Serif, Georgia, serif\" font-size=\"16\" fill=\"#7b8290\" font-style=\"italic\">rattled on the rail.</text></svg>"
+      }
+    }
+  }
+}

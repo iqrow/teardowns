@@ -1,0 +1,12 @@
+{
+  "plot": {
+    "x": "Distance travelled (m)",
+    "y": "Position error (m)",
+    "series": [
+      {"name":"Wheel (UMBmark, uncalibrated LabMate) (1.94%)","points":[[0,0],[500,9.7],[1000,19.4]]},
+      {"name":"Stereo visual (KITTI, Stereo DSO) (0.93%)","points":[[0,0],[500,4.65],[1000,9.3]]},
+      {"name":"Visual-inertial (KITTI, VINS-Fusion) (1.09%)","points":[[0,0],[500,5.45],[1000,10.9]]},
+      {"name":"Lidar (KITTI, LOAM) (0.55%)","points":[[0,0],[500,2.75],[1000,5.5]]}
+    ]
+  }
+}

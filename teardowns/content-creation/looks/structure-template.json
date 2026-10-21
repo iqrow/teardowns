@@ -1,0 +1,48 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "box",
+        "size": [1.32,0.75,0.014],
+        "pos": [0,0,-0.009],
+        "color": "#20242c",
+        "material": "matte",
+        "slot": "diagram-back"
+      },
+      {
+        "shape": "plane",
+        "size": [1.32,0.75],
+        "pos": [0,0,0],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: STORY ARC</text><path d=\"M30 220 C120 210 150 160 200 150 S300 70 330 70 S380 160 410 200\" fill=\"none\" stroke=\"#e0412f\" stroke-width=\"5\"/><circle cx=\"30\" cy=\"220\" r=\"7\" fill=\"#ffffff\"/><text x=\"30\" y=\"206\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">setup</text><circle cx=\"200\" cy=\"150\" r=\"7\" fill=\"#ffffff\"/><text x=\"200\" y=\"136\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">but</text><circle cx=\"330\" cy=\"70\" r=\"7\" fill=\"#ffffff\"/><text x=\"330\" y=\"56\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">climax</text><circle cx=\"410\" cy=\"200\" r=\"7\" fill=\"#ffffff\"/><text x=\"410\" y=\"186\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">payoff</text></svg>",
+        "slot": "diagram"
+      }
+    ]
+  },
+  "items": {
+    "list-countdown": {
+      "svg": {
+        "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: LIST</text><rect x=\"40\" y=\"70\" width=\"300\" height=\"22\" rx=\"5\" fill=\"#e0412f\"/><text x=\"30\" y=\"87\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"end\">5</text><rect x=\"40\" y=\"102\" width=\"270\" height=\"22\" rx=\"5\" fill=\"#2f6f8f\"/><text x=\"30\" y=\"119\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"end\">4</text><rect x=\"40\" y=\"134\" width=\"240\" height=\"22\" rx=\"5\" fill=\"#2f6f8f\"/><text x=\"30\" y=\"151\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"end\">3</text><rect x=\"40\" y=\"166\" width=\"210\" height=\"22\" rx=\"5\" fill=\"#2f6f8f\"/><text x=\"30\" y=\"183\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"end\">2</text><rect x=\"40\" y=\"198\" width=\"180\" height=\"22\" rx=\"5\" fill=\"#2f6f8f\"/><text x=\"30\" y=\"215\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"end\">1</text></svg>"
+      }
+    },
+    "story-arc": {
+      "svg": {
+        "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: STORY ARC</text><path d=\"M30 220 C120 210 150 160 200 150 S300 70 330 70 S380 160 410 200\" fill=\"none\" stroke=\"#e0412f\" stroke-width=\"5\"/><circle cx=\"30\" cy=\"220\" r=\"7\" fill=\"#ffffff\"/><text x=\"30\" y=\"206\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">setup</text><circle cx=\"200\" cy=\"150\" r=\"7\" fill=\"#ffffff\"/><text x=\"200\" y=\"136\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">but</text><circle cx=\"330\" cy=\"70\" r=\"7\" fill=\"#ffffff\"/><text x=\"330\" y=\"56\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">climax</text><circle cx=\"410\" cy=\"200\" r=\"7\" fill=\"#ffffff\"/><text x=\"410\" y=\"186\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">payoff</text></svg>"
+      }
+    },
+    "tutorial-steps": {
+      "svg": {
+        "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: TUTORIAL STEPS</text><rect x=\"30\" y=\"180\" width=\"90\" height=\"34\" fill=\"#2f6f8f\" opacity=\"0.55\"/><text x=\"75\" y=\"172\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\">step 1</text><rect x=\"130\" y=\"146\" width=\"90\" height=\"68\" fill=\"#2f6f8f\" opacity=\"0.7000000000000001\"/><text x=\"175\" y=\"138\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\">step 2</text><rect x=\"230\" y=\"112\" width=\"90\" height=\"102\" fill=\"#2f6f8f\" opacity=\"0.8500000000000001\"/><text x=\"275\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\">step 3</text><rect x=\"330\" y=\"78\" width=\"90\" height=\"136\" fill=\"#2f6f8f\" opacity=\"1\"/><text x=\"375\" y=\"70\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\">step 4</text><text x=\"400\" y=\"76\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffd23f\" font-weight=\"800\" text-anchor=\"middle\">result</text></svg>"
+      }
+    },
+    "problem-solution": {
+      "svg": {
+        "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: PROBLEM → SOLUTION</text><rect x=\"30\" y=\"80\" width=\"160\" height=\"120\" rx=\"10\" fill=\"#55303a\"/><rect x=\"250\" y=\"80\" width=\"160\" height=\"120\" rx=\"10\" fill=\"#2f5a3a\"/><text x=\"110\" y=\"148\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">PROBLEM</text><text x=\"330\" y=\"148\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">SOLUTION</text><path d=\"M196 140 h44 m-12 -10 l12 10 l-12 10\" stroke=\"#ffd23f\" stroke-width=\"4\" fill=\"none\"/></svg>"
+      }
+    },
+    "essay-argument": {
+      "svg": {
+        "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\"><rect width=\"440\" height=\"250\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"34\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">STRUCTURE: ESSAY / ARGUMENT</text><rect x=\"160\" y=\"62\" width=\"120\" height=\"40\" rx=\"6\" fill=\"#e0412f\"/><text x=\"220\" y=\"88\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#ffffff\" font-weight=\"800\" text-anchor=\"middle\">CLAIM</text><line x1=\"220\" y1=\"102\" x2=\"90\" y2=\"140\" stroke=\"#8a8f99\" stroke-width=\"2\"/><rect x=\"40\" y=\"140\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#2f6f8f\"/><text x=\"90\" y=\"162\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">evidence</text><line x1=\"220\" y1=\"102\" x2=\"220\" y2=\"140\" stroke=\"#8a8f99\" stroke-width=\"2\"/><rect x=\"170\" y=\"140\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#2f6f8f\"/><text x=\"220\" y=\"162\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">counter</text><line x1=\"220\" y1=\"102\" x2=\"350\" y2=\"140\" stroke=\"#8a8f99\" stroke-width=\"2\"/><rect x=\"300\" y=\"140\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#2f6f8f\"/><text x=\"350\" y=\"162\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#ffffff\" text-anchor=\"middle\">evidence</text><rect x=\"160\" y=\"196\" width=\"120\" height=\"34\" rx=\"6\" fill=\"#4b9a4f\"/><text x=\"220\" y=\"218\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#ffffff\" text-anchor=\"middle\">conclusion</text></svg>"
+      }
+    }
+  }
+}
