@@ -9,7 +9,7 @@ cues:
   - Connected links and joints
   - Rigid links or a flexible backbone
   - Reach, dexterity, payload and stiffness set by geometry
-children: [links-and-joints, degrees-of-freedom, workspace, kinematics, end-effector, drive-base]
+children: [robot-arm, links-and-joints, degrees-of-freedom, workspace, kinematics, end-effector, drive-base]
 at: [0.36, 0.95, 0.05]
 variants:
   - label: Body
@@ -42,4 +42,7 @@ sources:
     page: Ch. 2 §§2.1–2.5; Ch. 4
     quote: "Basically, a mechanism is constructed by connecting rigid bodies, called links, together by means of joints, so that relative motion between adjacent links becomes possible."
     flag: author preprint
+  - work: morphology-cr-intro
+    page: Definition
+    quote: "Continuum robots do not contain rigid links and identifiable rotational joints. Instead the structures bend continuously along their length via elastic deformation and produce motion through the generation of smooth curves, similar to tentacles or tongues of the animal kingdom."
 ---

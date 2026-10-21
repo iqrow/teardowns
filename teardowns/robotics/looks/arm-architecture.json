@@ -1,0 +1,111 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"cylinder","radiusTop":0.2,"radiusBottom":0.2,"height":0.14,"pos":[0,0.07,0],"color":"#343a43","material":"matte","slot":"architecture"},
+      {"shape":"cylinder","radiusTop":0.12,"radiusBottom":0.12,"height":0.06,"pos":[0,0.17,0],"color":"#aeb6c2","material":"metal","slot":"architecture"},
+      {"shape":"box","size":[0.11,0.572,0.1],"pos":[0.17,0.47,0],"rot":[0,0,-36.47],"color":"#c3cad2","material":"metal","slot":"architecture"},
+      {"shape":"box","size":[0.1,0.51,0.09],"pos":[0.59,0.75,0],"rot":[0,0,-78.69],"color":"#c3cad2","material":"metal","slot":"architecture"},
+      {"shape":"box","size":[0.08,0.213,0.08],"pos":[0.91,0.72,0],"rot":[0,0,-138.81],"color":"#c3cad2","material":"metal","slot":"architecture"},
+      {"shape":"cylinder","radiusTop":0.09,"radiusBottom":0.09,"height":0.24,"pos":[0,0.24,0],"rot":[90,0,0],"color":"#d58b31","material":"gloss","slot":"architecture"},
+      {"shape":"cylinder","radiusTop":0.078,"radiusBottom":0.078,"height":0.21,"pos":[0.34,0.7,0],"rot":[90,0,0],"color":"#d58b31","material":"gloss","slot":"architecture"},
+      {"shape":"cylinder","radiusTop":0.062,"radiusBottom":0.062,"height":0.18,"pos":[0.84,0.8,0],"rot":[90,0,0],"color":"#d58b31","material":"gloss","slot":"architecture"},
+      {"shape":"box","size":[0.035,0.195,0.07],"pos":[0.98,0.64,0],"rot":[0,0,131.19],"color":"#343a43","material":"metal","slot":"architecture"},
+      {"shape":"box","size":[0.035,0.093,0.06],"pos":[0.962,0.539,0],"rot":[0,0,-138.81],"color":"#343a43","material":"metal","slot":"architecture"},
+      {"shape":"box","size":[0.035,0.092,0.06],"pos":[1.082,0.645,0],"rot":[0,0,-138.81],"color":"#343a43","material":"metal","slot":"architecture"}
+    ]
+  },
+  "items": {
+    "architecture-hyperredundant": {
+      "look": {
+        "parts": [
+          {"shape":"cylinder","radiusTop":0.2,"radiusBottom":0.2,"height":0.14,"pos":[0,0.07,0],"color":"#343a43","material":"matte","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.052,"radiusBottom":0.052,"height":0.042,"pos":[0.002,0.196,0],"rot":[0,0,-1.77],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.05,"radiusBottom":0.05,"height":0.042,"pos":[0.009,0.308,0],"rot":[0,0,-5.29],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.048,"radiusBottom":0.048,"height":0.042,"pos":[0.022,0.419,0],"rot":[0,0,-8.82],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.047,"radiusBottom":0.047,"height":0.042,"pos":[0.043,0.529,0],"rot":[0,0,-12.35],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.045,"radiusBottom":0.045,"height":0.042,"pos":[0.072,0.637,0],"rot":[0,0,-17.68],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.043,"radiusBottom":0.043,"height":0.042,"pos":[0.119,0.737,0],"rot":[0,0,-32.38],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.041,"radiusBottom":0.041,"height":0.042,"pos":[0.19,0.821,0],"rot":[0,0,-48.41],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.039,"radiusBottom":0.039,"height":0.042,"pos":[0.283,0.882,0],"rot":[0,0,-64.46],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.038,"radiusBottom":0.038,"height":0.042,"pos":[0.388,0.916,0],"rot":[0,0,-80.5],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.042,"pos":[0.498,0.919,0],"rot":[0,0,-96.54],"color":"#b4becb","material":"metal","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.15,"pos":[0.003,0.252,0],"rot":[90,0,0],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.026,"radiusBottom":0.026,"height":0.13,"pos":[0.014,0.363,0],"rot":[0,0,-97.06],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.15,"pos":[0.031,0.474,0],"rot":[90,0,0],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.026,"radiusBottom":0.026,"height":0.13,"pos":[0.055,0.583,0],"rot":[0,0,-104.12],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.15,"pos":[0.089,0.69,0],"rot":[90,0,0],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.026,"radiusBottom":0.026,"height":0.13,"pos":[0.149,0.784,0],"rot":[0,0,-130.39],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.15,"pos":[0.232,0.858,0],"rot":[90,0,0],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.026,"radiusBottom":0.026,"height":0.13,"pos":[0.333,0.907,0],"rot":[0,0,-162.48],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.036,"radiusBottom":0.036,"height":0.15,"pos":[0.443,0.925,0],"rot":[90,0,0],"color":"#3e82d1","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.05,"pos":[0.525,0.92,0],"color":"#b4becb","material":"metal","slot":"architecture"}
+        ]
+      }
+    },
+    "architecture-continuum": {
+      "look": {
+        "parts": [
+          {"shape":"cylinder","radiusTop":0.2,"radiusBottom":0.2,"height":0.14,"pos":[0,0.07,0],"color":"#343a43","material":"matte","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.083,"radiusBottom":0.085,"height":0.051,"pos":[0,0.165,0],"rot":[0,0,-0.8],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.081,"radiusBottom":0.083,"height":0.051,"pos":[0.002,0.216,0],"rot":[0,0,-2.41],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.08,"radiusBottom":0.081,"height":0.051,"pos":[0.005,0.267,0],"rot":[0,0,-4.01],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.078,"radiusBottom":0.08,"height":0.051,"pos":[0.009,0.318,0],"rot":[0,0,-5.61],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.076,"radiusBottom":0.078,"height":0.051,"pos":[0.015,0.368,0],"rot":[0,0,-7.22],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.074,"radiusBottom":0.076,"height":0.051,"pos":[0.022,0.419,0],"rot":[0,0,-8.82],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.072,"radiusBottom":0.074,"height":0.051,"pos":[0.03,0.469,0],"rot":[0,0,-10.43],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.07,"radiusBottom":0.072,"height":0.051,"pos":[0.04,0.519,0],"rot":[0,0,-12.03],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.069,"radiusBottom":0.07,"height":0.051,"pos":[0.051,0.569,0],"rot":[0,0,-13.64],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.067,"radiusBottom":0.069,"height":0.051,"pos":[0.064,0.618,0],"rot":[0,0,-15.33],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.065,"radiusBottom":0.067,"height":0.051,"pos":[0.08,0.666,0],"rot":[0,0,-20.7],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.063,"radiusBottom":0.065,"height":0.051,"pos":[0.101,0.712,0],"rot":[0,0,-28],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.061,"radiusBottom":0.063,"height":0.051,"pos":[0.127,0.756,0],"rot":[0,0,-35.29],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.06,"radiusBottom":0.061,"height":0.051,"pos":[0.159,0.795,0],"rot":[0,0,-42.58],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.058,"radiusBottom":0.06,"height":0.051,"pos":[0.196,0.83,0],"rot":[0,0,-49.87],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.056,"radiusBottom":0.058,"height":0.051,"pos":[0.237,0.861,0],"rot":[0,0,-57.16],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.054,"radiusBottom":0.056,"height":0.051,"pos":[0.281,0.885,0],"rot":[0,0,-64.46],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.052,"radiusBottom":0.054,"height":0.051,"pos":[0.328,0.904,0],"rot":[0,0,-71.75],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.05,"radiusBottom":0.052,"height":0.051,"pos":[0.377,0.917,0],"rot":[0,0,-79.04],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.049,"radiusBottom":0.05,"height":0.051,"pos":[0.428,0.923,0],"rot":[0,0,-86.33],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.047,"radiusBottom":0.049,"height":0.051,"pos":[0.479,0.923,0],"rot":[0,0,-93.62],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.045,"radiusBottom":0.047,"height":0.051,"pos":[0.529,0.917,0],"rot":[0,0,-100.91],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.083,"pos":[0.001,0.191,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.081,"pos":[0.003,0.242,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.08,"pos":[0.006,0.293,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.078,"pos":[0.011,0.343,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.076,"pos":[0.018,0.394,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.074,"pos":[0.026,0.444,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.072,"pos":[0.035,0.494,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.07,"pos":[0.045,0.544,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.069,"pos":[0.057,0.593,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.067,"pos":[0.071,0.642,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.065,"pos":[0.089,0.69,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.063,"pos":[0.113,0.735,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.061,"pos":[0.142,0.776,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.06,"pos":[0.177,0.814,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.058,"pos":[0.215,0.847,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.056,"pos":[0.258,0.874,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.054,"pos":[0.304,0.896,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.052,"pos":[0.352,0.912,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.05,"pos":[0.402,0.922,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.049,"pos":[0.453,0.925,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.047,"pos":[0.504,0.922,0],"color":"#38a6a0","material":"gloss","slot":"architecture"},
+          {"shape":"sphere","radius":0.045,"pos":[0.554,0.912,0],"color":"#38a6a0","material":"gloss","slot":"architecture"}
+        ]
+      }
+    },
+    "architecture-soft-overlap": {
+      "look": {
+        "parts": [
+          {"shape":"cylinder","radiusTop":0.2,"radiusBottom":0.2,"height":0.14,"pos":[0,0.07,0],"color":"#343a43","material":"matte","slot":"architecture"},
+          {"shape":"lathe","profile":[[0,0],[0.1,0],[0.135,0.03],[0.11,0.064],[0.14,0.099],[0.115,0.134],[0.14,0.168],[0.115,0.203],[0.14,0.238],[0.115,0.273],[0.135,0.297],[0.1,0.317],[0,0.317]],"pos":[0,0.14,0],"rot":[0,0,-13.29],"color":"#ef9f8c","material":"gloss","slot":"architecture"},
+          {"shape":"lathe","profile":[[0,0],[0.088,0],[0.119,0.03],[0.097,0.064],[0.123,0.099],[0.101,0.134],[0.123,0.168],[0.101,0.203],[0.123,0.238],[0.101,0.273],[0.119,0.297],[0.088,0.317],[0,0.317]],"pos":[0.073,0.449,0],"rot":[0,0,-39.88],"color":"#ef9f8c","material":"gloss","slot":"architecture"},
+          {"shape":"lathe","profile":[[0,0],[0.076,0],[0.103,0.03],[0.084,0.064],[0.106,0.099],[0.087,0.134],[0.106,0.168],[0.087,0.203],[0.106,0.238],[0.087,0.273],[0.103,0.297],[0.076,0.317],[0,0.317]],"pos":[0.276,0.692,0],"rot":[0,0,-66.46],"color":"#ef9f8c","material":"gloss","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.095,"radiusBottom":0.095,"height":0.03,"pos":[0.073,0.449,0],"rot":[0,0,-26.59],"color":"#f7e2da","material":"matte","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.084,"radiusBottom":0.084,"height":0.03,"pos":[0.276,0.692,0],"rot":[0,0,-53.17],"color":"#f7e2da","material":"matte","slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.016,"radiusBottom":0.016,"height":0.13,"pos":[0.235,0.07,0.12],"rot":[0,0,-90],"color":"#d7e6ea","material":"glass","opacity":0.6,"slot":"architecture"},
+          {"shape":"cylinder","radiusTop":0.016,"radiusBottom":0.016,"height":0.124,"pos":[0.36,0.055,0.12],"rot":[0,0,-104.04],"color":"#d7e6ea","material":"glass","opacity":0.6,"slot":"architecture"}
+        ]
+      }
+    }
+  }
+}

@@ -104,6 +104,26 @@ lists:
     label: OSHA Robotics Standards and related consensus documents (functional safety; mechanism/actuator design)
     url: https://www.osha.gov/robotics/standards
     kind: practitioner
+  - id: cornell-cs4750-arms
+    label: Cornell CS4750 references (serial arms; names Modern Robotics, Robot Modeling and Control, Craig and Springer Handbook)
+    url: https://www.cs.cornell.edu/courses/cs4750/2019fa/syllabus/
+    kind: course
+  - id: houston-servo-arm
+    label: University of Houston ECE 5397/6397 syllabus (servo-arm project; assigns Robot Modeling and Control)
+    url: https://www.ee.uh.edu/sites/www.ece/files/files/robo.pdf
+    kind: course
+  - id: ieee-ras-optimization-books
+    label: IEEE RAS model-based optimization books (arm statics and dynamics; names Modern Robotics and A Mathematical Introduction to Robotic Manipulation)
+    url: https://www.ieee-ras.org/optimization-for-robotics/resources/books/
+    kind: bibliography
+  - id: continuum-101-references
+    label: Jessica Burgner-Kahrs continuum introduction references (Robinson and Davies 1999; Walker 2013; Burgner-Kahrs, Rucker and Choset 2015)
+    url: https://www.opencontinuumrobotics.com/101/2022/10/21/cr-intro.html
+    kind: bibliography
+  - id: tdcr-model-review-references
+    label: Rao, Peyron, Lilge and Burgner-Kahrs tendon-driven modelling bibliography (includes Walker 2013 and Webster and Jones 2010; shares authors with the continuum primer, not an independent consensus vote)
+    url: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.630245/full
+    kind: bibliography
 voices:
   - name: Russ Tedrake
     known: MIT professor who ran the Underactuated Robotics course and publishes executable notes on walking, flying, dynamics, control, and manipulation; practitioners use his notes and lectures to connect theory to working systems.
@@ -257,4 +277,25 @@ voices:
       - label: Imperial robotic-vision lecture
         url: https://www.imperial.ac.uk/events/107364/inaugural-lecture-robotic-vision-professor-andy-davison-imperial-college/
         kind: talk
+  - name: Jessica Burgner-Kahrs
+    known: Leads the Continuum Robotics Laboratory and teaches continuum robot design, modelling and control; her primers distinguish rigid-link snake arms, continuously bending backbones and tendon-routing designs.
+    links:
+      - label: Continuum Robotics 101
+        url: https://www.opencontinuumrobotics.com/101/2022/10/21/cr-intro.html
+        kind: blog
+      - label: Tendon-driven continuum robots
+        url: https://www.opencontinuumrobotics.com/101/2022/11/11/tdcr-intro.html
+        kind: blog
+  - name: Ytec 3D
+    known: Built and documented a three-section cable-driven animatronic tentacle with six base winches, printable parts and notes on cable routing and friction.
+    links:
+      - label: Animatronic tentacle build
+        url: https://ytec3d.com/animatronic-tentacle/
+        kind: blog
+  - name: Jan at Pololu
+    known: Explains hobby-servo pulse commands, calibration, holding behaviour and supply-current measurements for builders.
+    links:
+      - label: Servo control interface in detail
+        url: https://www.pololu.com/blog/17/servo-control-interface-in-detail
+        kind: blog
 ---
