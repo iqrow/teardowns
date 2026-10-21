@@ -1,0 +1,18 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"plane","size":[0.92,0.44],"pos":[-0.04,0.74,-0.04],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 210\"><rect x=\"1\" y=\"1\" width=\"438\" height=\"208\" rx=\"10\" fill=\"#f5f0e6\" stroke=\"#c7bda9\" stroke-width=\"2\"/><text x=\"22\" y=\"36\" font-family=\"Liberation Sans,Arial,sans-serif\" font-size=\"21\" font-weight=\"700\" fill=\"#2d3139\">Torque budget, one joint</text><text x=\"22\" y=\"72\" font-family=\"Liberation Mono,monospace\" font-size=\"19\" fill=\"#2d3139\">τ = Σ m · g · r</text><text x=\"236\" y=\"71\" font-family=\"Liberation Sans,Arial,sans-serif\" font-size=\"14\" fill=\"#59616a\">r: horizontal distance</text><path d=\"M22 88 H418\" stroke=\"#c7bda9\"/><g font-family=\"Liberation Mono,monospace\" font-size=\"16\" fill=\"#59616a\"><text x=\"22\" y=\"114\">payload + tool</text><text x=\"22\" y=\"138\">links beyond the joint</text><text x=\"22\" y=\"162\">servos beyond the joint</text></g><path d=\"M22 176 H418\" stroke=\"#c7bda9\"/><text x=\"22\" y=\"199\" font-family=\"Liberation Sans,Arial,sans-serif\" font-size=\"15\" fill=\"#9a4e3f\">worst pose, then compare with rated torque at your voltage</text></svg>"},
+      {"shape":"box","size":[0.24,0.14,0.24],"pos":[-0.42,0.07,0],"radius":0.02,"color":"#aeb6c2","material":"metal"},
+      {"shape":"box","size":[0.3,0.16,0.18],"pos":[-0.37,0.24,0],"color":"#1f2329","material":"matte"},
+      {"shape":"cylinder","radiusTop":0.06,"radiusBottom":0.06,"height":0.025,"pos":[-0.42,0.24,0.1],"rot":[90,0,0],"color":"#ece9e2","material":"matte"},
+      {"shape":"box","size":[0.045,0.74,0.025],"pos":[-0.05,0.24,0.12],"rot":[0,0,-90],"color":"#c3cad2","material":"metal"},
+      {"shape":"cylinder","radiusTop":0.005,"radiusBottom":0.005,"height":0.11,"pos":[0.32,0.175,0.12],"rot":[0,0,-180],"color":"#d9d4c7","material":"matte"},
+      {"shape":"lathe","profile":[[0,0],[0.07,0],[0.075,0.01],[0.075,0.1],[0.065,0.11],[0.03,0.115],[0.02,0.14],[0,0.145]],"pos":[0.32,-0.03,0.12],"color":"#5d646d","material":"metal"},
+      {"shape":"cylinder","radiusTop":0.012,"radiusBottom":0.012,"height":0.14,"pos":[0.45,0.17,0.12],"rot":[0,0,-180],"color":"#c8463d","material":"gloss"},
+      {"shape":"cone","radius":0.032,"height":0.065,"pos":[0.45,0.07,0.12],"rot":[0,0,-180],"color":"#c8463d","material":"gloss"},
+      {"shape":"cylinder","radiusTop":0.006,"radiusBottom":0.006,"height":0.74,"pos":[-0.05,0.4,0.12],"rot":[0,0,-90],"color":"#d9a84e","material":"matte"},
+      {"shape":"cylinder","radiusTop":0.006,"radiusBottom":0.006,"height":0.06,"pos":[-0.42,0.4,0.12],"color":"#d9a84e","material":"matte"},
+      {"shape":"cylinder","radiusTop":0.006,"radiusBottom":0.006,"height":0.06,"pos":[0.32,0.4,0.12],"color":"#d9a84e","material":"matte"}
+    ]
+  }
+}

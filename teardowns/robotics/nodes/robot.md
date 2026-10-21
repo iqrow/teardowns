@@ -2,7 +2,7 @@
 term: Robot
 aka: [robot at work, mobile manipulator]
 kind: product
-plain: "A robot is a machine of rigid bodies connected by actuated joints that senses, computes and acts on the physical world. This map uses a mobile manipulator: a wheeled base carrying an arm, a gripper and sensors."
+plain: "A robot is a machine that senses, computes and acts on the physical world through actuators. Its body may use rigid links and joints, continuously bending structures, or both. This map uses a mobile manipulator: a wheeled base carrying an arm, a gripper and sensors."
 ask: What task must it do, where, and with what safety and reliability margin?
 cues:
   - Rigid bodies linked by actuated joints
@@ -68,4 +68,7 @@ sources:
     page: Ch. 1 Introduction
     quote: "The figure on the right shows the mobile robot base with an attached manipulator arm."
     flag: publisher sample chapter
+  - work: morphology-cr-intro
+    page: Definition
+    quote: "The boundary that separates continuum robots from other snake-like or hyper-redundant manipulators is sometimes obscured by manipulator designs that use continuously bending elastic elements along with conventional discrete joints in the same structure."
 ---

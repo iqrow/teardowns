@@ -11,9 +11,17 @@ assembly:
     text: Pick the end effector for the objects in the task, then set grip force and check grasp quality.
     adds: [grip-force, grasp-quality]
     makes: end-effector
+  - title: Size and test one arm joint
+    text: Weigh downstream parts and calculate the joint torque budget. Match the servo, horn, bracket and bearing; follow the bring-up sequence from an unpowered mockup to a restrained joint before extending the arm.
+    adds: [joint-torque-budget, servo-joint, arm-bring-up]
+    makes: arm-prototyping
+  - title: Choose and prototype the arm
+    text: Compare discrete joints with a bending backbone. Choose how forces reach the moving parts, mock up the outer shell, and test a restrained joint before assembling a complete powered arm. Follow the arm-prototyping branch for sizing and bring-up; keep people outside the test envelope.
+    adds: [arm-architecture, tendon-drive, arm-shell, arm-prototyping]
+    makes: robot-arm
   - title: Lay out the body
-    text: Choose joints and links for the degrees of freedom the task needs, check the workspace and payload, and put the arm on a drive base.
-    adds: [links-and-joints, degrees-of-freedom, workspace, kinematics, end-effector, drive-base]
+    text: Choose a rigid-link or bending arm for the task, check degrees of freedom, workspace and payload, and mount it to a fixed support or drive base.
+    adds: [robot-arm, links-and-joints, degrees-of-freedom, workspace, kinematics, end-effector, drive-base]
     makes: mechanism
   - title: Size the gearbox
     text: Pick the gear ratio that puts the joint’s torque and speed inside the motor’s curve.
@@ -117,4 +125,4 @@ assembly:
     makes: robot
 ---
 
-A robot is a machine that senses, decides and acts in the physical world, in a loop. Its body is a chain of links and joints moved by actuators and watched by sensors. Software turns sensor data into an estimate of where the robot and the objects around it are, plans a motion, and a controller drives the motors to follow that motion while sensors report the result. The same parts and loops sit under every form: an arm in a factory cell, a warehouse robot, a quadruped, a humanoid, a drone. Practitioners spend most of their time on the gaps between model and reality: calibration, noise, delay, contact and safety.
+A robot is a machine that senses, decides and acts in the physical world, in a loop. Its body may use rigid links and joints, continuously bending structures, or both, moved by actuators and watched by sensors. Software turns sensor data into an estimate of where the robot and the objects around it are, plans a motion, and a controller drives the actuators to follow that motion while sensors report the result. The same parts and loops sit under every form: an arm in a factory cell, a warehouse robot, a quadruped, a humanoid, a drone. Practitioners spend most of their time on the gaps between model and reality: calibration, noise, delay, contact and safety.
