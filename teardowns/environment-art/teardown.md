@@ -8,8 +8,8 @@ assembly:
     adds: [reference, visual-pillars, color-palette, shape-language, cohesion]
     makes: art-direction
   - title: Plan the passes
-    text: Block the space out in simple shapes, finish one small area to the target look, then plan asset production, paintovers and the performance budget.
-    adds: [blockout, look-development, asset-production, paintover, performance-budget]
+    text: Block the space out in simple shapes, finish one small area to the target look, then plan asset production, paintovers, the performance budget and the view each pass is compared in, against the last approved version and against the target.
+    adds: [blockout, look-development, asset-production, paintover, performance-budget, ab-comparison]
     makes: environment-pipeline
   - title: Make the materials
     text: Author each surface's albedo, roughness, metalness and normal detail at one texel density, and check them under neutral light.

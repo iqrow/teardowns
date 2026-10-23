@@ -11,7 +11,7 @@ plain: "The stages an environment goes through: reference, a grey blockout, a pa
 does: "Lets the team change the cheap things (layout, big shapes, palette, mood) before it pays for the expensive things (final assets and polish)."
 ask: "Which pass is this scene in, and what should stay rough until the next one?"
 trouble: "One asset polished to final while the scene around it still does not work; finished art thrown away because the layout changed under it."
-children: [blockout, paintover, look-development, asset-production, performance-budget]
+children: [blockout, paintover, look-development, asset-production, performance-budget, ab-comparison]
 loop:
   type: cycle
   through: [reference, blockout, paintover, look-development, asset-production, set-dressing, lighting]
