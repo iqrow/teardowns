@@ -33,4 +33,8 @@ sources:
     page: Shipping
     url: https://raw.githubusercontent.com/cursor/plugins/9580c23696ac8d7abed0c166f2f9918800afb819/pstack/skills/poteto-mode/playbooks/shipping.md
     quote: "Green CI and an approving bot review are not verdicts, because neither runs the change as a user would."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Hallucination
+    url: https://www.aihero.dev/ai-coding-dictionary/hallucination
+    quote: "Hallucinated code is plausible by construction: it's what the API would look like if it existed, which is exactly what makes it slip past a skim-level review and fail only when run."
 ---

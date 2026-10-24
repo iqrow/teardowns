@@ -4,14 +4,16 @@ aka:
   - owner
   - product decider
   - factory engineer
+  - head chef
 kind: concept
-plain: The work left for people once agents write and prove most changes. People decide what should exist and write the specs. They own the one-way doors and the gates, read the diffs of high-risk changes, watch outcomes and cost, and fix the factory when the same mistake repeats. A person attends to the factory when it stops or asks, the way a Toyota worker attends a machine only when it stops on an abnormality.
+plain: The work left for people once agents write and prove most changes. People decide what should exist and write the specs. They own the one-way doors and the gates, read the diffs of high-risk changes, watch outcomes and cost, and fix the factory when the same mistake repeats. A person attends to the factory when it stops or asks, the way a Toyota worker attends a machine only when it stops on an abnormality. In kitchen terms the person is the head chef, who designs the recipes while agents cook.
 does: Puts scarce human attention on the decisions that only a person can make.
 ask: Which decisions here can only a person make, and where is someone still spending attention on work the factory could prove?
 at: [-0.575, 0.76, 0.06]
 links:
   - {to: human-review, rel: see also}
   - {to: human-re-entry, rel: see also}
+  - {to: pattern-kitchen-brigade, rel: see also}
 pattern: pattern-stop-the-line
 sources:
   - work: kent-c-dodds-you-own-the-outcome
@@ -43,4 +45,12 @@ sources:
   - work: kent-c-dodds-you-own-the-outcome
     page: Watch the outcomes
     quote: "Build self-healing automations. Things will break. Set things up so that failures get noticed and triaged (often by another agent) instead of silently rotting."
+  - work: gene-kim-steve-yegge-vibe-coding
+    url: https://itrevolution.com/articles/from-line-cookto-head-chef-orchestrating-ai-teams/
+    page: "From Line Cook to Head Chef: Orchestrating AI Teams (book excerpt)"
+    quote: "Welcome back, head chefs. You’ve mastered working with your AI sous chef."
+  - work: poppendieck-lean-software-development
+    page: "Introduction, p. xxvi (publisher's sample chapter)"
+    url: https://ptgmedia.pearsoncmg.com/images/0321150783/samplechapter/poppendieckch.pdf
+    quote: "Development is like creating a recipe, while production is like making the dish."
 ---

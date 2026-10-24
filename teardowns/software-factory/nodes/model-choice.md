@@ -13,7 +13,7 @@ cues:
   - Cost and latency split by model choice
 range: Smaller, cost-efficient models for easy or common work; more capable models for hard or unusual work; no model for work already turned into code.
 trouble: A poor route sends distinct task categories to one model, wasting cost or reducing performance.
-at: [0.42, 0.28, 0.12]
+at: [-0.5, 0.28, 0.15]
 links:
   - {to: token-cost, rel: measured by}
   - {to: automated-review, rel: see also}

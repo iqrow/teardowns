@@ -39,6 +39,10 @@ variants:
           - work: dan-shapiro-five-levels
             page: Level 2
             quote: "You are pairing with the AI like a colleague. You get into a flow state; you’re more productive than you’ve ever been."
+          - work: matt-pocock-ai-coding-dictionary
+            page: Human-in-the-loop
+            url: https://www.aihero.dev/ai-coding-dictionary/human-in-the-loop
+            quote: "A working pattern where one or more humans pair with the agent during a session — reviewing, redirecting, or collaborating in real time."
       - id: level-3
         name: "Level 3: human in the loop"
         plain: Agents write the code in several sessions at once, and the human's day is reviewing their diffs. A software factory starts here, with human review on every pull request.
@@ -55,6 +59,10 @@ variants:
           - work: dan-shapiro-five-levels
             page: Level 4
             quote: "You write a spec. You argue with it about the spec. You craft skills (for Claude Code, because most folks at level 4 seem to find their way to Claude Code). You plan schedules. You review plans. Then you leave for 12 hours, and check to see if the tests pass."
+          - work: matt-pocock-ai-coding-dictionary
+            page: AFK
+            url: https://www.aihero.dev/ai-coding-dictionary/afk
+            quote: "Away from keyboard. A working pattern where the user kicks off a session and leaves the agent to run unattended."
       - id: level-5
         name: "Level 5: dark factory"
         plain: Specs go in and software comes out, with no human writing or reviewing the code. It is credible only where agents cannot game the evidence, such as holdout scenarios run against twins of outside services. It may cover only part of a codebase, and only a handful of small teams work this way.
@@ -76,6 +84,10 @@ variants:
           - work: strongdm-software-factory
             page: Software Factories And The Agentic Moment
             quote: "Tests can be reward hacked - we needed validation that was less vulnerable to the model cheating"
+          - work: matt-pocock-ai-coding-dictionary
+            page: Vibe coding
+            url: https://www.aihero.dev/ai-coding-dictionary/vibe-coding
+            quote: "With human review gone, whatever automated verification still runs — tests, types, automated review — is the only gate the code passes through."
 sources:
   - work: dan-shapiro-five-levels
     page: Introduction

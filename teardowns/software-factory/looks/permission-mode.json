@@ -1,0 +1,11 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"plate","shape":"box","size":[1.42,0.82,0.1],"pos":[0,0.48,0],"radius":0.08,"color":"#263345","material":"matte"},
+      {"slot":"track","shape":"box","size":[1.0,0.12,0.04],"pos":[0,0.48,0.08],"radius":0.06,"color":"#7a8798","material":"gloss"},
+      {"slot":"switch","shape":"box","size":[0.24,0.3,0.1],"pos":[0.26,0.48,0.13],"radius":0.05,"color":"#4fc3a1","material":"gloss"},
+      {"slot":"label","shape":"plane","size":[1.05,0.34],"pos":[0,0.92,0.08],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 210 68\"><rect width=\"210\" height=\"68\" rx=\"9\" fill=\"#f4f5f7\" stroke=\"#9aa0aa\" stroke-width=\"3\"/><text x=\"105\" y=\"28\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#333\">PERMISSION MODE</text><text x=\"105\" y=\"51\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#555\">ask  ←  auto</text></svg>"},
+      {"slot":"lock","shape":"torus","radius":0.09,"tube":0.025,"pos":[-0.42,0.2,0.12],"rot":[90,0,0],"color":"#e0a526","material":"metal"}
+    ]
+  }
+}

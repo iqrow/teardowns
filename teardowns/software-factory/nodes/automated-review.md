@@ -44,4 +44,16 @@ sources:
   - work: matt-pocock-software-factory-skill
     page: Start slow
     quote: "a separate run that reads the diff cold against the codebase's standards and the ticket, when there is one."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Automated review
+    url: https://www.aihero.dev/ai-coding-dictionary/automated-review
+    quote: "An agent reviewing another agent's work, often with a different model or system prompt. Non-deterministic: it forms a judgement."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Automated review
+    url: https://www.aihero.dev/ai-coding-dictionary/automated-review
+    quote: "A reviewer with a fresh context window has none of that attachment: it sees the diff the way a stranger would, which is what review depends on."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Sycophancy
+    url: https://www.aihero.dev/ai-coding-dictionary/sycophancy
+    quote: "Biased framing — review skews positive when you signal you wrote it; negative when you signal someone else did. Same artifact, different verdict."
 ---

@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.68,
+    "energy": 0.72,
+    "weight": 0.0,
+    "warmth": 0.55,
+    "grain": 0.78,
+    "motion": "jitter",
+    "why": "Jittering motion carries the idea that identical inputs can land on different trajectories and need repeated trials."
+  }
+}

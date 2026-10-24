@@ -12,4 +12,12 @@ sources:
   - work: matt-pocock-ralph-tips
     page: 4. Track Ralph's Progress
     quote: "AI agents are like super-smart experts who forget everything between tasks. Each new context window starts fresh. Without a progress file, Ralph must explore the entire repo to understand the current state."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Stateless
+    url: https://www.aihero.dev/ai-coding-dictionary/stateless
+    quote: "An agent is stateless across sessions by default: a new session starts empty, with no trace of prior ones."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Memory system
+    url: https://www.aihero.dev/ai-coding-dictionary/memory-system
+    quote: "A system that attempts to make an agent stateful across sessions. Persists information into the environment during a session and reloads it into the context window at the start of future ones, so the agent carries continuity beyond the user clearing the session."
 ---

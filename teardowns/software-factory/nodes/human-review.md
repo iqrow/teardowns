@@ -69,6 +69,10 @@ variants:
           - work: strongdm-software-factory
             page: Software Factories And The Agentic Moment
             quote: "Tests can be reward hacked - we needed validation that was less vulnerable to the model cheating"
+          - work: matt-pocock-ai-coding-dictionary
+            page: Vibe coding
+            url: https://www.aihero.dev/ai-coding-dictionary/vibe-coding
+            quote: "With human review gone, whatever automated verification still runs — tests, types, automated review — is the only gate the code passes through."
 sources:
   - work: matt-pocock-ai-coding-dictionary
     page: Human review

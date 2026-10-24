@@ -22,4 +22,12 @@ sources:
   - work: langfuse-data-model
     page: Observations and Traces
     quote: "A `trace` represents a single request or operation, for example one chatbot interaction from the user's question to the final response."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Tool call
+    url: https://www.aihero.dev/ai-coding-dictionary/tool-call
+    quote: "The model's output naming a tool and its arguments — just structured text. The harness has to read it and execute."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Model provider request
+    url: https://www.aihero.dev/ai-coding-dictionary/model-provider-request
+    quote: "One round-trip from the harness to the model provider. The harness sends the current context; the provider returns one response (a tool call or a final answer)."
 ---

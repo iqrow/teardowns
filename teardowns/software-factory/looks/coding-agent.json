@@ -1,0 +1,14 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"shell","shape":"box","size":[1.8,1.12,0.1],"pos":[0,0.58,0],"radius":0.06,"color":"#202a3a","material":"matte"},
+      {"slot":"screen","shape":"plane","size":[1.62,0.86],"pos":[0,0.62,0.06],"material":"screen","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 324 172\"><rect width=\"324\" height=\"172\" rx=\"10\" fill=\"#101820\"/><text x=\"18\" y=\"31\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#7fe0c8\">CODING AGENT</text><text x=\"18\" y=\"65\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#d7e6ff\">model + harness + tools</text><text x=\"18\" y=\"94\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#9cc4f0\">plan  →  call  →  inspect</text><text x=\"18\" y=\"126\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#9de08a\">task: implement   run: active</text><path d=\"M18 145h288\" stroke=\"#42566f\" stroke-width=\"3\"/></svg>"},
+      {"slot":"model","shape":"sphere","radius":0.16,"pos":[-0.58,0.2,0.14],"color":"#8b6bd6","material":"glow","motion":"bob"},
+      {"slot":"effort-low","shape":"box","size":[0.07,0.08,0.05],"pos":[0.55,0.18,0.14],"color":"#e0a526","material":"glow"},
+      {"slot":"effort-medium","shape":"box","size":[0.07,0.13,0.05],"pos":[0.64,0.205,0.14],"color":"#e0a526","material":"glow"},
+      {"slot":"effort-high","shape":"box","size":[0.07,0.18,0.05],"pos":[0.73,0.23,0.14],"color":"#4a5568","material":"matte"},
+      {"slot":"context","shape":"box","size":[0.9,0.07,0.05],"pos":[0,0.14,0.14],"radius":0.03,"color":"#4fc3a1","material":"glow"},
+      {"slot":"permission","shape":"box","size":[0.3,0.16,0.08],"pos":[0.56,0.84,0.14],"radius":0.04,"color":"#d45a5a","material":"gloss"}
+    ]
+  }
+}
