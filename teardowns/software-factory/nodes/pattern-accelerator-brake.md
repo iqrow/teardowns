@@ -14,5 +14,5 @@ sources:
     quote: "In the evaluator-optimizer workflow, one LLM call generates a response while another provides evaluation and feedback in a loop."
   - work: matt-pocock-software-factories
     page: Software Factories for Real Engineers
-    quote: "So most folks start building accelerators … But I think this is the wrong order."
+    quote: "So most folks start building accelerators … That's why starting with accelerators is backwards."
 ---

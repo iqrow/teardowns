@@ -28,7 +28,7 @@ sources:
     quote: "can require that all pull requests receive a specific number of approving reviews before someone merges the pull request into a protected branch."
   - work: matt-pocock-software-factories
     page: Software Factories for Real Engineers
-    quote: "Before you can trust your agent, you need to know that the quality of work is going to be high. Automated checks, automated review and human review."
+    quote: "Automated checks, automated & human review. Slows the agent down and increases quality. … Before you can trust your agent to go fast, you need to know that the quality of work is going to be high at any speed."
   - work: kent-c-dodds-you-own-the-outcome
     page: Shipping a feature without writing it
     quote: "The agent wrote the implementation, tests, and PR. Automated gates and AI reviewers checked the work."
