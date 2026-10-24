@@ -3,6 +3,7 @@ term: Instructions
 aka:
   - repository guidance
   - agent context
+  - AGENTS.md
 kind: part
 plain: The durable guidance an agent receives about the repository, task boundaries, checks, style, and safety. It may live in AGENTS.md, CLAUDE.md, repository prompts, or equivalent configuration. Keep the root file a short map that points to deeper docs, and write down the "no" decisions so agents stop proposing them again.
 does: Supplies context the agent cannot infer reliably from the ticket or source tree alone.
@@ -37,4 +38,16 @@ sources:
     page: AX
     url: https://www.aihero.dev/ai-coding-dictionary/ax
     quote: "AGENTS.md, skills, and tools kept lean, so most of the context window is available for the task"
+  - work: matt-pocock-ai-coding-dictionary
+    page: AGENTS.md
+    url: https://www.aihero.dev/ai-coding-dictionary/agents-md
+    quote: "A file in the environment that the harness loads into the context window at session start — the project's standing brief to the agent."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Progressive disclosure
+    url: https://www.aihero.dev/ai-coding-dictionary/progressive-disclosure
+    quote: "Loading only the context an agent needs right now, with context pointers to the rest."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Context pointer
+    url: https://www.aihero.dev/ai-coding-dictionary/context-pointer
+    quote: "A mention in one document that points to another, so the agent can pull it into the context window only when the task calls for it."
 ---

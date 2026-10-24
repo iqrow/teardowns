@@ -3,6 +3,8 @@ term: Software factory
 aka:
   - agent factory
   - autopilot
+  - software kitchen
+  - Michelin kitchen
 kind: product
 plain: A system that turns tickets, pull requests, failed checks and timers into coding-agent runs, and turns the runs' output into merged code. It works when agents have a space where they can do the work and prove it, so that human review leaves the critical path for low-risk changes.
 ask: What starts the work, what evidence proves it, and who may merge it?
@@ -12,6 +14,7 @@ cues:
   - Low-risk pull requests merge with no human approval
   - A run page records each ticket from trigger to finish
 children: [ticket-tracker, git-host, orchestrator, runner, agent-ready-codebase, task, verification, brakes, observability, factory-design]
+pattern: pattern-kitchen-brigade
 variants:
   - label: Setup
     items:

@@ -6,7 +6,7 @@ aka:
   - fan-out
   - coordinator and subagents
 kind: concept
-plain: Several runs work at once, each in its own worktree or runner, so they do not fight over files, ports or build output. A coordinator run can split a job, hand the parts to subagents and write no code itself. Merges still happen one at a time. Each extra run adds a pull request to the review queue, so parallel runs pay off only once verification carries most of the review.
+plain: Several runs work at once, each in its own worktree or runner, so they do not fight over files, ports or build output. A coordinator run can split a job, hand the parts to subagents and write no code itself. Each subagent works in its own context window and reports back one result. Merges still happen one at a time. Each extra run adds a pull request to the review queue, so parallel runs pay off only once verification carries most of the review.
 does: Multiplies how much work the factory attempts at once, while each attempt stays isolated.
 ask: Does each run get its own worktree or runner, and who will review everything they produce?
 cues:
@@ -17,6 +17,7 @@ at: [-0.05, 0.95, 0.06]
 links:
   - {to: review-queue, rel: raises}
   - {to: concurrency-limit, rel: controls}
+pattern: pattern-kitchen-brigade
 sources:
   - work: claude-code-worktrees
     page: Run parallel sessions with worktrees
@@ -44,6 +45,18 @@ sources:
     page: docs/concepts/scheduling.md
     url: https://raw.githubusercontent.com/poteto/noodle/82d2921c52370f23f29086de81ccfb600939c037/docs/concepts/scheduling.md
     quote: "Merges are serialized, one at a time, to keep the main branch clean."
+  - work: lauren-tan-noodle
+    page: INSTALL.md
+    url: https://raw.githubusercontent.com/poteto/noodle/82d2921c52370f23f29086de81ccfb600939c037/INSTALL.md
+    quote: "a head chef (the scheduler) reads the backlog, writes orders, and dispatches line cooks (agents) to do the work in isolated worktrees."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Subagent
+    url: https://www.aihero.dev/ai-coding-dictionary/subagent
+    quote: "Runs in its own session with its own context window, and reports a single tool result back."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Subagent
+    url: https://www.aihero.dev/ai-coding-dictionary/subagent
+    quote: "a parent can fan several out at once over independent pieces of work."
   - work: anthropic-multi-agent-research
     page: How we built our multi-agent research system
     quote: "Our Research system uses a multi-agent architecture with an orchestrator-worker pattern, where a lead agent coordinates the process while delegating to specialized subagents that operate in parallel."

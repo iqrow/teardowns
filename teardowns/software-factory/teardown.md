@@ -27,9 +27,13 @@ assembly:
     text: Make types, lint and tests a required check, and add an automated review run with a try cap on rework. Keep human review on every pull request for now.
     adds: [automated-checks, automated-review, review-rework-loop, human-review]
     makes: brakes
+  - title: Configure the coding agent
+    text: Pick the harness, the model and how much reasoning effort it spends. Pre-approve the tools an unattended run needs, because nobody is there to answer a permission request, and let the sandbox limit what they can reach. Size each task so it fits one fresh context window.
+    adds: [agent-harness, model-choice, effort, context-window, permission-mode]
+    makes: coding-agent
   - title: Write the first task
-    text: Pick the agent harness and model, and define the task's trigger, its work, the run it triggers next and where a human re-enters.
-    adds: [run, agent-harness, model-choice, run-chain]
+    text: Define the task's trigger, its work, the run it triggers next and where a human re-enters.
+    adds: [run, coding-agent, run-chain]
     makes: task
   - title: Wire the orchestrator
     text: Map each trigger to a task, record every run's state, and claim work so two runs never do the same job. Set the concurrency limit, the throttle, the try cap and the budget cap low.
@@ -48,8 +52,8 @@ assembly:
     adds: [codebase-health, instructions, shared-vocabulary, verify-command, control-cli, tool-access, ratchet]
     makes: agent-ready-codebase
   - title: Build verification
-    text: Write a spec for each piece of work and turn it into scenarios. Keep some scenarios where the author cannot see them, and stand up twins of outside services. Each run proves its own change, then a separate verifier scores it against the scenarios.
-    adds: [spec, scenario, holdout-scenario, digital-twin, self-verification, satisfaction]
+    text: Write a spec for each piece of work and turn it into scenarios. Keep some scenarios where the author cannot see them, and stand up twins of outside services. Each run proves its own change, then a separate verifier scores it against the scenarios over several trials, because the same ticket can give a different change on each run.
+    adds: [spec, scenario, holdout-scenario, digital-twin, self-verification, satisfaction, non-determinism]
     makes: verification
   - title: Merge by risk
     text: Label each change by what it composes, extends or adds. Let agents merge low-risk work once checks and evidence pass, and keep a person on high-risk changes and on the gates. Widen the policy only as the evidence holds.
@@ -61,4 +65,4 @@ assembly:
     makes: software-factory
 ---
 
-A software factory turns events, such as a new ticket, a pull request, a failed check or a clock, into coding-agent runs, and turns their output into merged code. Each run works on a disposable runner and remembers nothing; the ticket tracker, the git host and the orchestrator hold the state between runs. The factory succeeds by giving agents a space where they can do the work and prove it: an agent-ready codebase with a short map, one verify command and a tool that drives the app, plus verification against scenarios the author never saw. Practitioners start with one throttled trigger and human review on every pull request, turn what review catches into checks, and let evidence earn trust. At level 4, low-risk work merges on checks and evidence, and people spend their review on specs, one-way doors and high-risk changes.
+A software factory turns events, such as a new ticket, a pull request, a failed check or a clock, into coding-agent runs, and turns their output into merged code. Inside each run a harness drives a model through tool calls, the context window fills as it works, and its permissions are set in advance because nobody is watching. Each run works on a disposable runner and remembers nothing; the ticket tracker, the git host and the orchestrator hold the state between runs. The factory succeeds by giving agents a space where they can do the work and prove it: an agent-ready codebase with a short map, one verify command and a tool that drives the app, plus verification against scenarios the author never saw. Practitioners start with one throttled trigger and human review on every pull request, turn what review catches into checks, and let evidence earn trust. At level 4, low-risk work merges on checks and evidence, and people spend their review on specs, one-way doors and high-risk changes.

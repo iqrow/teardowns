@@ -4,6 +4,7 @@ aka:
   - execution
   - agent run
   - session
+  - AFK session
 kind: concept
 plain: One execution of one task. The agent uses tools in a loop, then the run ends and leaves anything needed later in backing services such as the tracker and the git host.
 does: Gives each task a clear start and end, and an outcome that the next step can act on.
@@ -34,4 +35,16 @@ sources:
     page: What an automation is
     url: https://docs.factory.com/software-factory/automations
     quote: "Each automation starts a Droid session when its trigger fires: on a schedule, when a message lands in a Slack channel, on a GitHub event, or when another service sends a webhook."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Session
+    url: https://www.aihero.dev/ai-coding-dictionary/session
+    quote: "One bounded run of interaction with an agent. Starts empty, accumulates messages, tool results, and files read, and ends when cleared, closed, or compacted into a fresh session."
+  - work: matt-pocock-ai-coding-dictionary
+    page: AFK
+    url: https://www.aihero.dev/ai-coding-dictionary/afk
+    quote: "Away from keyboard. A working pattern where the user kicks off a session and leaves the agent to run unattended."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Stateless
+    url: https://www.aihero.dev/ai-coding-dictionary/stateless
+    quote: "An agent is stateless across sessions by default: a new session starts empty, with no trace of prior ones."
 ---

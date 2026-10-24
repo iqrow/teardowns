@@ -14,7 +14,7 @@ cues:
   - A verifier run that is separate from the author run
   - A pass rate against scenarios the author never saw
 at: [1.5, 1.12, 0.3]
-children: [spec, scenario, holdout-scenario, digital-twin, self-verification, satisfaction]
+children: [spec, scenario, holdout-scenario, digital-twin, self-verification, satisfaction, non-determinism]
 links:
   - {to: review-queue, rel: lowers}
   - {to: merge-policy, rel: see also}

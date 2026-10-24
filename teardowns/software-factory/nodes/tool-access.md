@@ -4,6 +4,8 @@ aka:
   - MCP servers
   - skills
   - agent tools
+  - MCP server
+  - skill
 kind: part
 plain: The tools and skills an agent may call during a run. MCP servers let it query or act on outside systems, and skill folders hold repeatable procedures it loads only when a task needs them. Keep the set small, so most of the context window stays free for the task.
 does: Lets an agent reach systems and procedures it cannot rebuild from the source code alone.
@@ -33,4 +35,16 @@ sources:
     page: AX
     url: https://www.aihero.dev/ai-coding-dictionary/ax
     quote: "AGENTS.md, skills, and tools kept lean, so most of the context window is available for the task"
+  - work: matt-pocock-ai-coding-dictionary
+    page: Tool
+    url: https://www.aihero.dev/ai-coding-dictionary/tool
+    quote: "A function the harness exposes for the agent to call — Read, Write, Bash, Search. Tools are how an agent perceives and acts on the environment: it can't see the environment except through tool results, and can't change it except through tool calls."
+  - work: matt-pocock-ai-coding-dictionary
+    page: MCP
+    url: https://www.aihero.dev/ai-coding-dictionary/mcp
+    quote: "The agent never \"calls MCP\"; it calls a tool, and the harness happens to have gotten that tool from an MCP server."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Skill
+    url: https://www.aihero.dev/ai-coding-dictionary/skill
+    quote: "A teachable capability bundled as a unit — instructions and resources for doing one task well, kept in the environment until a context pointer pulls it into the context window for the task at hand."
 ---

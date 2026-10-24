@@ -14,7 +14,7 @@ cues:
   - A trigger rule maps an event to the task
   - A run result links to the next task or handoff
 at: [-1.5, 1.05, 0.31]
-children: [run, agent-harness, model-choice, run-chain]
+children: [run, coding-agent, run-chain]
 variants:
   - label: Task type
     items:
@@ -148,4 +148,12 @@ sources:
     page: What an automation is
     url: https://docs.factory.com/software-factory/automations
     quote: "Each automation starts a Droid session when its trigger fires: on a schedule, when a message lands in a Slack channel, on a GitHub event, or when another service sends a webhook."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Handoff
+    url: https://www.aihero.dev/ai-coding-dictionary/handoff
+    quote: "Transferring agent context from one session to another, with no return path. Carry mechanism varies — artifact, compaction, others."
+  - work: matt-pocock-ai-coding-dictionary
+    page: Handoff artifact
+    url: https://www.aihero.dev/ai-coding-dictionary/handoff-artifact
+    quote: "Specs, tickets, and plan docs are all handoff artifacts."
 ---
