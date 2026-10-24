@@ -12,7 +12,7 @@ cues:
   - A run page names the model and harness
   - A tool trace shows model turns and tool results alternating
   - A final result links to changed files or verification evidence
-at: [0, 0.62, 0.12]
+at: [0, 1.02, 0.39]
 children: [agent-harness, model-choice, effort, context-window, permission-mode]
 links:
   - {to: instructions, rel: see also}

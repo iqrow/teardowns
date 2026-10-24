@@ -14,7 +14,9 @@ cues:
   - A trigger rule maps an event to the task
   - A run result links to the next task or handoff
 at: [-1.5, 1.05, 0.31]
-children: [run, coding-agent, run-chain]
+children: [run, run-chain]
+links:
+  - {to: coding-agent, rel: see also}
 variants:
   - label: Task type
     items:

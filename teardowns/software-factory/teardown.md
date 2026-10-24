@@ -32,8 +32,8 @@ assembly:
     adds: [agent-harness, model-choice, effort, context-window, permission-mode]
     makes: coding-agent
   - title: Write the first task
-    text: Define the task's trigger, its work, the run it triggers next and where a human re-enters.
-    adds: [run, coding-agent, run-chain]
+    text: Define the task's trigger, its work, the coding agent that runs it, the run it triggers next and where a human re-enters.
+    adds: [run, run-chain]
     makes: task
   - title: Wire the orchestrator
     text: Map each trigger to a task, record every run's state, and claim work so two runs never do the same job. Set the concurrency limit, the throttle, the try cap and the budget cap low.
@@ -60,8 +60,8 @@ assembly:
     adds: [risk-class, merge-policy, review-bottleneck]
     makes: brakes
   - title: Open the throttle and run in parallel
-    text: Turn what review catches into checks, instructions and scenarios, and open the throttle as trust grows. Run several tasks at once, each in its own worktree or runner, and rerun the factory's evals after every change to it. People decide what to build and own the one-way doors. The services, tasks and gates now run as one software factory.
-    adds: [ticket-tracker, git-host, orchestrator, runner, agent-ready-codebase, task, verification, brakes, observability, factory-design, parallel-runs, human-role, factory-evals, trust-loop, improvement-loop]
+    text: Turn what review catches into checks, instructions and scenarios, and open the throttle as trust grows. Run several tasks at once, each in its own worktree or runner, and rerun the factory's evals after every change to it. People decide what to build and own the one-way doors. The services, agents, tasks and gates now run as one software factory.
+    adds: [ticket-tracker, git-host, orchestrator, runner, coding-agent, agent-ready-codebase, task, verification, brakes, observability, factory-design, parallel-runs, human-role, factory-evals, trust-loop, improvement-loop]
     makes: software-factory
 ---
 

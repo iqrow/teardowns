@@ -13,7 +13,7 @@ cues:
   - Bot-authored pull requests carry check results and the run's own evidence
   - Low-risk pull requests merge with no human approval
   - A run page records each ticket from trigger to finish
-children: [ticket-tracker, git-host, orchestrator, runner, agent-ready-codebase, task, verification, brakes, observability, factory-design]
+children: [ticket-tracker, git-host, orchestrator, runner, coding-agent, agent-ready-codebase, task, verification, brakes, observability, factory-design]
 pattern: pattern-kitchen-brigade
 variants:
   - label: Setup
