@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "card", "shape": "box", "size": [1.4, 1.0, 0.05], "pos": [0, 0.6, 0], "color": "#f4f5f7", "material": "matte", "radius": 0.04 },
+      { "slot": "map", "shape": "plane", "size": [1.32, 0.92], "pos": [0, 0.6, 0.026],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 264 184\"><rect width=\"264\" height=\"184\" rx=\"6\" fill=\"#f4f5f7\"/><text x=\"14\" y=\"24\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#2a2a2e\">MODULE MAP</text><path d=\"M65 41 V34 H195 V41 M132 117 V110 H65 V104\" fill=\"none\" stroke=\"#2f5d9e\" stroke-width=\"1.5\"/><g fill=\"#7fa7d8\" stroke=\"#2f5d9e\" stroke-width=\"2\"><rect x=\"14\" y=\"48\" width=\"104\" height=\"56\" rx=\"4\"/><rect x=\"142\" y=\"48\" width=\"108\" height=\"56\" rx=\"4\"/><rect x=\"14\" y=\"124\" width=\"236\" height=\"46\" rx=\"4\"/></g><g fill=\"#2f5d9e\"><rect x=\"58\" y=\"41\" width=\"14\" height=\"9\" rx=\"2\"/><rect x=\"188\" y=\"41\" width=\"14\" height=\"9\" rx=\"2\"/><rect x=\"125\" y=\"117\" width=\"14\" height=\"9\" rx=\"2\"/></g><g font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#12324f\"><text x=\"26\" y=\"84\">billing/</text><text x=\"154\" y=\"84\">auth/</text><text x=\"26\" y=\"153\">tickets/</text></g></svg>" }
+    ]
+  }
+}

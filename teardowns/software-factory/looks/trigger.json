@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"event-card","shape":"box","size":[1.1,0.72,0.05],"pos":[0,0.52,0],"radius":0.05,"color":"#e8743b","material":"matte"},
+      {"slot":"event","shape":"plane","size":[1.02,0.64],"pos":[0,0.55,0.035],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 128\"><rect width=\"204\" height=\"128\" rx=\"8\" fill=\"#fffaf7\"/><path d=\"M22 64h40M142 64h40\" stroke=\"#e8743b\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"22\" cy=\"64\" r=\"10\" fill=\"#6b5bd2\"/><circle cx=\"182\" cy=\"64\" r=\"10\" fill=\"#2e9b4f\"/><path d=\"M86 35 70 67h18l-3 27 28-39H95z\" fill=\"#e8743b\"/><text x=\"102\" y=\"117\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#5a2a12\">EVENT</text></svg>"},
+      {"slot":"clock","shape":"torus","radius":0.14,"tube":0.025,"pos":[-0.46,1.02,0.08],"rot":[90,0,0],"color":"#e0a526","material":"metal"},
+      {"slot":"dispatch","shape":"cone","radius":0.12,"height":0.26,"pos":[0.48,0.18,0.04],"rot":[0,0,180],"color":"#2e9b4f","material":"glow"}
+    ]
+  }
+}

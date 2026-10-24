@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "board", "shape": "box", "size": [1.2, 0.9, 0.05], "pos": [0, 0.55, 0], "color": "#f4f5f7", "material": "matte", "radius": 0.04 },
+      { "slot": "results", "shape": "plane", "size": [1.14, 0.84], "pos": [0, 0.55, 0.026],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 228 168\"><rect width=\"228\" height=\"168\" rx=\"8\" fill=\"#f4f5f7\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"12\" y=\"24\" font-size=\"13\" font-weight=\"700\" fill=\"#2a2a2e\">FACTORY EVALS</text><text x=\"120\" y=\"50\" font-size=\"11\" font-weight=\"700\" fill=\"#536887\">v12</text><text x=\"172\" y=\"50\" font-size=\"11\" font-weight=\"700\" fill=\"#536887\">v13</text><text x=\"12\" y=\"76\" font-size=\"11\" fill=\"#333\">regression</text><text x=\"120\" y=\"76\" font-size=\"11\" font-weight=\"700\" fill=\"#1f6b36\">99%</text><text x=\"172\" y=\"76\" font-size=\"11\" font-weight=\"700\" fill=\"#a12a1a\">94%</text><text x=\"12\" y=\"102\" font-size=\"11\" fill=\"#333\">capability</text><text x=\"120\" y=\"102\" font-size=\"11\" font-weight=\"700\" fill=\"#333\">41%</text><text x=\"172\" y=\"102\" font-size=\"11\" font-weight=\"700\" fill=\"#1f6b36\">52%</text></g><rect x=\"12\" y=\"122\" width=\"204\" height=\"30\" rx=\"6\" fill=\"#f8d7d0\"/><text x=\"114\" y=\"142\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#a12a1a\">v13 held back</text></svg>" },
+      { "slot": "tickets", "shape": "box", "size": [0.4, 0.16, 0.28], "pos": [-0.75, 0.08, 0.2], "color": "#f7f4ec", "material": "matte", "radius": 0.02 }
+    ]
+  }
+}

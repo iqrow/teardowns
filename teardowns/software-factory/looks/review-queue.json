@@ -1,0 +1,11 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"tray","shape":"box","size":[1.65,0.18,0.62],"pos":[0,0.18,0],"radius":0.05,"color":"#3a3f47","material":"matte"},
+      {"slot":"pr-1","shape":"plane","size":[0.45,0.3],"pos":[-0.48,0.45,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 90 60\"><rect width=\"90\" height=\"60\" rx=\"7\" fill=\"#fffaf7\" stroke=\"#e8743b\" stroke-width=\"4\"/><circle cx=\"18\" cy=\"22\" r=\"6\" fill=\"#e0a526\"/><path d=\"M31 22h42M18 39h55\" stroke=\"#6b5bd2\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"},
+      {"slot":"pr-2","shape":"plane","size":[0.45,0.3],"pos":[0,0.6,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 90 60\"><rect width=\"90\" height=\"60\" rx=\"7\" fill=\"#fffaf7\" stroke=\"#e8743b\" stroke-width=\"4\"/><circle cx=\"18\" cy=\"22\" r=\"6\" fill=\"#e0a526\"/><path d=\"M31 22h42M18 39h55\" stroke=\"#6b5bd2\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"},
+      {"slot":"pr-3","shape":"plane","size":[0.45,0.3],"pos":[0.48,0.75,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 90 60\"><rect width=\"90\" height=\"60\" rx=\"7\" fill=\"#fffaf7\" stroke=\"#e8743b\" stroke-width=\"4\"/><circle cx=\"18\" cy=\"22\" r=\"6\" fill=\"#c8432f\"/><path d=\"M31 22h42M18 39h55\" stroke=\"#6b5bd2\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"},
+      {"slot":"label","shape":"plane","size":[1.2,0.28],"pos":[0,1.08,0.08],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 56\"><rect width=\"240\" height=\"56\" rx=\"8\" fill=\"#f4f5f7\"/><text x=\"120\" y=\"35\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#333\">WAITING FOR REVIEW</text></svg>"}
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"panel","shape":"box","size":[1.7,1.25,0.08],"pos":[0,0.64,0],"radius":0.04,"color":"#d9e7f4","material":"matte"},
+      {"slot":"tree","shape":"plane","size":[1.48,1.02],"pos":[0,0.7,0.06],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 300\"><rect width=\"440\" height=\"300\" fill=\"#f7fbff\"/><text x=\"18\" y=\"30\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" font-weight=\"800\" fill=\"#252a32\">TRACE / RUN-184</text><line x1=\"46\" y1=\"55\" x2=\"46\" y2=\"245\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><line x1=\"46\" y1=\"99\" x2=\"86\" y2=\"99\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><line x1=\"46\" y1=\"151\" x2=\"86\" y2=\"151\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><line x1=\"86\" y1=\"151\" x2=\"126\" y2=\"151\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><line x1=\"46\" y1=\"203\" x2=\"86\" y2=\"203\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><circle cx=\"46\" cy=\"55\" r=\"9\" fill=\"#e0a526\"/><circle cx=\"86\" cy=\"99\" r=\"9\" fill=\"#2e9b4f\"/><circle cx=\"86\" cy=\"151\" r=\"9\" fill=\"#3b6ea8\"/><circle cx=\"126\" cy=\"151\" r=\"9\" fill=\"#c8432f\"/><circle cx=\"86\" cy=\"203\" r=\"9\" fill=\"#3b6ea8\"/><text x=\"150\" y=\"60\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#252a32\">invoke_agent</text><text x=\"105\" y=\"104\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#252a32\">llm_request</text><text x=\"145\" y=\"156\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#252a32\">execute_tool</text><text x=\"105\" y=\"208\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#252a32\">hook</text></svg>"}
+    ]
+  }
+}

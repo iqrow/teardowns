@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "meter", "shape": "box", "size": [1.2, 0.5, 0.06], "pos": [0, 0.45, 0], "color": "#2a2a2e", "material": "matte", "radius": 0.04 },
+      { "slot": "meter-face", "shape": "plane", "size": [1.14, 0.44], "pos": [0, 0.45, 0.031], "material": "screen",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 228 88\"><rect width=\"228\" height=\"88\" rx=\"8\" fill=\"#1d2a2a\"/><g font-family=\"Liberation Sans, Arial, sans-serif\" font-weight=\"700\"><text x=\"12\" y=\"22\" font-size=\"12\" fill=\"#9aa3ad\">SPEND LIMIT</text><text x=\"216\" y=\"22\" font-size=\"12\" fill=\"#e0c46a\" text-anchor=\"end\">$352 today</text></g><rect x=\"12\" y=\"36\" width=\"196\" height=\"18\" rx=\"9\" fill=\"#3a3f47\"/><rect x=\"12\" y=\"36\" width=\"137\" height=\"18\" rx=\"9\" fill=\"#e0a526\"/><rect x=\"204\" y=\"30\" width=\"5\" height=\"30\" fill=\"#c8432f\"/><text x=\"209\" y=\"76\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#c8432f\" text-anchor=\"end\">hard cap $500</text></svg>" }
+    ]
+  }
+}

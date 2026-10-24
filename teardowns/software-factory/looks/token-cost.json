@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"meter","shape":"cylinder","radiusTop":0.5,"radiusBottom":0.5,"height":0.12,"pos":[0,0.45,0],"rot":[90,0,0],"color":"#e0a526","material":"metal"},
+      {"slot":"needle","shape":"box","size":[0.06,0.38,0.06],"pos":[0.13,0.45,0.08],"rot":[0,0,-35],"color":"#c8432f","material":"gloss"},
+      {"slot":"readout","shape":"plane","size":[1.45,0.48],"pos":[0,0.98,0.08],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 144\"><rect width=\"430\" height=\"144\" rx=\"10\" fill=\"#252a32\"/><text x=\"20\" y=\"48\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#f3efe4\">RUN COST</text><text x=\"20\" y=\"100\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"28\" font-weight=\"800\" fill=\"#e0a526\">$0.42</text><text x=\"188\" y=\"100\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" fill=\"#9cc5ed\">18.4k tokens</text></svg>"}
+    ]
+  }
+}

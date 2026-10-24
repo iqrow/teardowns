@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "dial", "shape": "box", "size": [0.9, 0.7, 0.06], "pos": [0, 0.55, 0], "color": "#2a2a2e", "material": "matte", "radius": 0.04 },
+      { "slot": "dial-face", "shape": "plane", "size": [0.84, 0.64], "pos": [0, 0.55, 0.031],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 168 128\"><rect width=\"168\" height=\"128\" rx=\"8\" fill=\"#f4f5f7\"/><text x=\"84\" y=\"18\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#536887\">SATISFACTION</text><path d=\"M24 96 A60 60 0 0 1 144 96\" fill=\"none\" stroke=\"#d9dbe0\" stroke-width=\"12\"/><path d=\"M141.06 77.46 A60 60 0 0 1 144 96\" fill=\"none\" stroke=\"#2e9b4f\" stroke-width=\"12\"/><line x1=\"129.65\" y1=\"81.17\" x2=\"152.48\" y2=\"73.75\" stroke=\"#c8432f\" stroke-width=\"3\"/><line x1=\"84\" y1=\"96\" x2=\"133.1\" y2=\"86.6\" stroke=\"#222222\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"84\" cy=\"96\" r=\"5\" fill=\"#222222\"/><text x=\"84\" y=\"66\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"22\" font-weight=\"700\" fill=\"#1f6b36\">0.94</text><text x=\"84\" y=\"118\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#c8432f\">threshold 0.90</text></svg>" }
+    ]
+  }
+}

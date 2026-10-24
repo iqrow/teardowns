@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"paper","shape":"box","size":[1.35,1.02,0.05],"pos":[0,0.52,0],"radius":0.04,"color":"#f3efe4","material":"matte"},
+      {"slot":"paper-face","shape":"plane","size":[1.24,0.91],"pos":[0,0.55,0.04],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 182\"><rect width=\"248\" height=\"182\" rx=\"8\" fill=\"#fffdf8\"/><text x=\"18\" y=\"28\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#3a3426\">AGENTS.md</text><text x=\"18\" y=\"55\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6c624e\">setup and checks</text><text x=\"18\" y=\"83\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6c624e\">style and boundaries</text><text x=\"18\" y=\"111\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#6c624e\">evidence to report</text><path d=\"M18 138h210M18 157h170\" stroke=\"#b8ad8f\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"},
+      {"slot":"clip","shape":"torus","radius":0.14,"tube":0.025,"pos":[-0.48,0.99,0.08],"rot":[90,0,0],"color":"#e8743b","material":"metal"},
+      {"slot":"tab","shape":"plane","size":[0.44,0.2],"pos":[0.48,0.1,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 88 40\"><rect width=\"88\" height=\"40\" rx=\"7\" fill=\"#6b5bd2\"/><text x=\"44\" y=\"26\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#fff\">LOADED</text></svg>"}
+    ]
+  }
+}

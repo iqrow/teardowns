@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.1,0.48,0.04],"pos":[0,0,0],"radius":0.08,"color":"#d9dbe0","material":"matte"},
+      {"slot":"chip","shape":"plane","size":[0.82,0.27],"pos":[0,0.04,0.03],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 164 54\"><rect width=\"164\" height=\"54\" rx=\"20\" fill=\"#6b5bd2\"/><text x=\"82\" y=\"34\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#fff\">READY FOR AGENT</text></svg>"},
+      {"slot":"pointer","shape":"cone","radius":0.1,"height":0.22,"pos":[0.48,-0.18,0.02],"rot":[0,0,-90],"color":"#e8743b","material":"gloss"}
+    ]
+  }
+}

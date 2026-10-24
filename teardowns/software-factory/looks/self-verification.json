@@ -1,0 +1,11 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "parcel", "shape": "box", "size": [0.8, 0.55, 0.6], "pos": [0, 0.275, 0], "color": "#c9a46a", "material": "matte", "radius": 0.03 },
+      { "slot": "tag", "shape": "plane", "size": [0.56, 0.34], "pos": [0, 0.29, 0.302],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 168 102\"><rect x=\"2\" y=\"2\" width=\"164\" height=\"98\" rx=\"10\" fill=\"#fdfaf2\" stroke=\"#8a6a3e\" stroke-width=\"3\"/><circle cx=\"20\" cy=\"22\" r=\"7\" fill=\"#8a6a3e\"/><g font-family=\"Liberation Sans, Arial, sans-serif\" fill=\"#3a2a16\"><text x=\"36\" y=\"28\" font-size=\"16\" font-weight=\"700\">EVIDENCE</text><text x=\"14\" y=\"56\" font-size=\"12\">✓ started the app</text><text x=\"14\" y=\"76\" font-size=\"12\">✓ ran the changed path</text><text x=\"14\" y=\"94\" font-size=\"12\">✓ screenshots, logs</text></g></svg>" },
+      { "slot": "camera", "shape": "box", "size": [0.34, 0.22, 0.2], "pos": [0.12, 0.66, 0], "color": "#2a2a2e", "material": "gloss", "radius": 0.03 },
+      { "slot": "lens", "shape": "cylinder", "radiusTop": 0.07, "radiusBottom": 0.08, "height": 0.08, "pos": [0.12, 0.66, 0.13], "rot": [90, 0, 0], "color": "#5a5f68", "material": "metal" }
+    ]
+  }
+}
