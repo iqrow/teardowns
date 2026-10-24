@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "safe", "shape": "box", "size": [0.8, 0.8, 0.7], "pos": [0, 0.4, 0], "color": "#59626e", "material": "metal", "radius": 0.04 },
+      { "slot": "safe-door", "shape": "plane", "size": [0.68, 0.68], "pos": [0, 0.4, 0.351],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 140 140\"><rect x=\"4\" y=\"4\" width=\"132\" height=\"132\" rx=\"8\" fill=\"#6c7682\" stroke=\"#3d444d\" stroke-width=\"4\"/><circle cx=\"70\" cy=\"58\" r=\"26\" fill=\"#3d444d\"/><circle cx=\"70\" cy=\"58\" r=\"18\" fill=\"#9aa3ad\"/><line x1=\"70\" y1=\"58\" x2=\"70\" y2=\"42\" stroke=\"#3d444d\" stroke-width=\"4\" stroke-linecap=\"round\"/><rect x=\"112\" y=\"44\" width=\"10\" height=\"30\" rx=\"3\" fill=\"#3d444d\"/><text x=\"70\" y=\"108\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#f4f5f7\">HOLDOUT</text><text x=\"70\" y=\"124\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#d9dbe0\">VERIFIER ONLY</text></svg>" },
+      { "slot": "card", "shape": "box", "size": [0.42, 0.16, 0.01], "pos": [0, 0.86, 0], "color": "#fdfaf2", "material": "matte" }
+    ]
+  }
+}

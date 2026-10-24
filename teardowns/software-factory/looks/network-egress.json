@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"firewall","shape":"box","size":[1.55,1.0,0.18],"pos":[0,0.62,0],"radius":0.06,"color":"#8a8f98","material":"metal"},
+      {"slot":"allowlist","shape":"plane","size":[1.1,0.56],"pos":[0,0.72,0.11],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 168\"><rect width=\"330\" height=\"168\" rx=\"8\" fill=\"#252a32\"/><text x=\"18\" y=\"36\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"800\" fill=\"#f3efe4\">OUTBOUND</text><circle cx=\"24\" cy=\"70\" r=\"7\" fill=\"#2e9b4f\"/><text x=\"42\" y=\"76\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f3efe4\">api.example.com</text><circle cx=\"24\" cy=\"108\" r=\"7\" fill=\"#c8432f\"/><text x=\"42\" y=\"114\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#f3efe4\">other hosts</text></svg>"},
+      {"slot":"port","shape":"cylinder","radiusTop":0.14,"radiusBottom":0.14,"height":0.2,"pos":[0.73,0.62,0.14],"rot":[0,90,0],"color":"#2e9b4f","material":"gloss"}
+    ]
+  }
+}

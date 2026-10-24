@@ -1,0 +1,11 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"rack","shape":"box","size":[1.35,0.72,0.14],"pos":[0,0.4,0],"radius":0.05,"color":"#3a3f47","material":"matte"},
+      {"slot":"check-1","shape":"sphere","radius":0.11,"pos":[-0.42,0.4,0.1],"color":"#2e9b4f","material":"glow"},
+      {"slot":"check-2","shape":"sphere","radius":0.11,"pos":[0,0.4,0.1],"color":"#2e9b4f","material":"glow"},
+      {"slot":"check-3","shape":"sphere","radius":0.11,"pos":[0.42,0.4,0.1],"color":"#e0a526","material":"glow"},
+      {"slot":"label","shape":"plane","size":[1.15,0.3],"pos":[0,0.9,0.08],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 60\"><rect width=\"230\" height=\"60\" rx=\"10\" fill=\"#f4f5f7\"/><text x=\"115\" y=\"38\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#333\">TYPE · LINT · TEST</text></svg>"}
+    ]
+  }
+}

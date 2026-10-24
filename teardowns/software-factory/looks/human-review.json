@@ -1,0 +1,23 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"approval-card","shape":"box","size":[1.35,0.85,0.06],"pos":[0,0.52,0],"radius":0.05,"color":"#e8743b","material":"matte"},
+      {"slot":"approval-face","shape":"plane","size":[1.24,0.74],"pos":[0,0.55,0.04],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 148\"><rect width=\"248\" height=\"148\" rx=\"8\" fill=\"#fffaf7\"/><text x=\"16\" y=\"28\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#5a2a12\">OWNER REVIEW</text><text x=\"16\" y=\"58\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#555\">risk and intent</text><text x=\"16\" y=\"84\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#555\">evidence inspected</text><rect x=\"16\" y=\"108\" width=\"102\" height=\"24\" rx=\"7\" fill=\"#2e9b4f\"/><text x=\"67\" y=\"125\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">APPROVE</text></svg>"},
+      {"slot":"stamp","shape":"cylinder","radiusTop":0.13,"radiusBottom":0.13,"height":0.1,"pos":[0.56,0.12,0.12],"rot":[90,0,0],"color":"#2e9b4f","material":"gloss"}
+    ]
+  },
+  "items": {
+    "review-every-pr": {
+      "svg": { "approval-face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 148\"><rect width=\"248\" height=\"148\" rx=\"8\" fill=\"#fffaf7\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"16\" y=\"28\" font-size=\"15\" font-weight=\"700\" fill=\"#5a2a12\">EVERY PULL REQUEST</text><text x=\"16\" y=\"58\" font-size=\"12\" fill=\"#555\">diff read before merge</text><text x=\"16\" y=\"84\" font-size=\"12\" fill=\"#555\">9 pull requests waiting</text><rect x=\"16\" y=\"108\" width=\"102\" height=\"24\" rx=\"7\" fill=\"#2e9b4f\"/><text x=\"67\" y=\"125\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">APPROVE</text></g></svg>" }
+    },
+    "review-plan": {
+      "svg": { "approval-face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 148\"><rect width=\"248\" height=\"148\" rx=\"8\" fill=\"#fffaf7\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"16\" y=\"28\" font-size=\"15\" font-weight=\"700\" fill=\"#5a2a12\">PLAN REVIEW</text><text x=\"16\" y=\"58\" font-size=\"12\" fill=\"#555\">spec and plan read</text><text x=\"16\" y=\"84\" font-size=\"12\" fill=\"#555\">before the run starts</text><rect x=\"16\" y=\"108\" width=\"130\" height=\"24\" rx=\"7\" fill=\"#2e9b4f\"/><text x=\"81\" y=\"125\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">APPROVE PLAN</text></g></svg>" }
+    },
+    "review-high-risk": {
+      "svg": { "approval-face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 148\"><rect width=\"248\" height=\"148\" rx=\"8\" fill=\"#fffaf7\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"16\" y=\"28\" font-size=\"15\" font-weight=\"700\" fill=\"#5a2a12\">HIGH RISK ONLY</text><text x=\"16\" y=\"58\" font-size=\"12\" fill=\"#a12a1a\">auth change: diff read</text><text x=\"16\" y=\"84\" font-size=\"12\" fill=\"#1f6b36\">low risk: merged on evidence</text><rect x=\"16\" y=\"108\" width=\"102\" height=\"24\" rx=\"7\" fill=\"#2e9b4f\"/><text x=\"67\" y=\"125\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">APPROVE</text></g></svg>" }
+    },
+    "review-none": {
+      "svg": { "approval-face": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 148\"><rect width=\"248\" height=\"148\" rx=\"8\" fill=\"#fffaf7\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"16\" y=\"28\" font-size=\"15\" font-weight=\"700\" fill=\"#5a2a12\">NO HUMAN REVIEW</text><text x=\"16\" y=\"58\" font-size=\"12\" fill=\"#555\">checks and agent review only</text><text x=\"16\" y=\"84\" font-size=\"12\" fill=\"#555\">people watch outcomes</text><rect x=\"16\" y=\"108\" width=\"130\" height=\"24\" rx=\"7\" fill=\"#9aa0aa\"/><text x=\"81\" y=\"125\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">AUTO-MERGED</text></g></svg>" }
+    }
+  }
+}

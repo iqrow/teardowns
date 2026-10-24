@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"terminal","shape":"box","size":[1.55,0.95,0.08],"pos":[0,0.55,0],"radius":0.04,"color":"#252b35","material":"matte"},
+      {"slot":"screen","shape":"plane","size":[1.42,0.8],"pos":[0,0.58,0.05],"material":"screen","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 284 160\"><rect width=\"284\" height=\"160\" rx=\"8\" fill=\"#101820\"/><text x=\"16\" y=\"26\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#7fe0c8\">HEADLESS RUN</text><text x=\"16\" y=\"58\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#d7e6ff\">$ agent -p \"implement\"</text><text x=\"16\" y=\"86\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9cc4f0\">Read   Edit   Bash</text><text x=\"16\" y=\"114\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#9de08a\">check: passed</text><rect x=\"16\" y=\"132\" width=\"252\" height=\"5\" rx=\"2\" fill=\"#2e9b4f\"/></svg>"},
+      {"slot":"tool-chip","shape":"plane","size":[0.44,0.22],"pos":[-0.42,0.05,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 88 44\"><rect width=\"88\" height=\"44\" rx=\"8\" fill=\"#3b6ea8\"/><text x=\"44\" y=\"28\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">TOOLS</text></svg>"},
+      {"slot":"permission-chip","shape":"plane","size":[0.52,0.22],"pos":[0.42,0.05,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 104 44\"><rect width=\"104\" height=\"44\" rx=\"8\" fill=\"#8a8f98\"/><text x=\"52\" y=\"28\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">PERMISSIONS</text></svg>"}
+    ]
+  }
+}

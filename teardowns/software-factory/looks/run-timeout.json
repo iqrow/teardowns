@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"dial","shape":"cylinder","radiusTop":0.42,"radiusBottom":0.42,"height":0.12,"pos":[0,0.42,0],"rot":[90,0,0],"color":"#3b6ea8","material":"metal"},
+      {"slot":"needle","shape":"box","size":[0.06,0.32,0.06],"pos":[0.14,0.42,0.08],"rot":[0,0,-45],"color":"#e0a526","material":"gloss"},
+      {"slot":"readout","shape":"plane","size":[1.2,0.42],"pos":[0,0.95,0.1],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 126\"><rect width=\"360\" height=\"126\" rx=\"10\" fill=\"#172638\"/><text x=\"24\" y=\"48\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"26\" font-weight=\"800\" fill=\"#f3efe4\">TIMEOUT</text><text x=\"24\" y=\"86\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"20\" fill=\"#e0a526\">30 min</text></svg>"}
+    ]
+  }
+}
