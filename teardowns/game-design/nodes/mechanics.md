@@ -5,6 +5,7 @@ kind: part
 plain: Mechanics are the particular rules, data and actions the game affords.
 does: Supply the designed components from which dynamics arise.
 ask: What rule or control is the player actually given?
+children: [zone-of-control]
 sources:
   - work: robin-hunicke-marc-leblanc-and-robert-zubek-mda
     page: pp. 2–4
