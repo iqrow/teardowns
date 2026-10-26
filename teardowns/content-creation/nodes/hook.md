@@ -17,6 +17,7 @@ trouble: A steep drop in the first seconds of the retention graph.
 children:
   - cold-open
   - hook-type
+  - hook-stack
   - intro-length
   - stayed-to-watch
 at:
