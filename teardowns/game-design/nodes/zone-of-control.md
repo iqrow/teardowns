@@ -33,9 +33,6 @@ variants:
         why: Semi-rigid is the crossing exception, not merely a smaller movement tax or a softer-coloured overlay.
         sources:
           - work: combined-arms-operations-series-caos-manual
-            page: "pp. 9–10: Impulses and Zone of Control"
-            quote: "Both sides issue orders and units then move and fight simultaneously."
-          - work: combined-arms-operations-series-caos-manual
             page: "p. 10: Zone of Control"
             quote: "Under normal circumstances, units can move into and out of enemy Zone of Control hexes, but units cannot move between enemy Zone of Control hexes."
       - id: fluid-elastic-cost
@@ -48,7 +45,7 @@ variants:
             quote: "It costs no Move Points to leave an enemy ZOC, but it does cost to enter one."
           - work: james-f-dunnigan-complete-wargames-handbook
             page: "p. 84: Zone of Control"
-            quote: "Elastic (often called \"Fluid\" ZOC);"
+            quote: "Elastic (often called \"Fluid\" ZOC); units may enter and leave Zones"
       - id: locking-zoc
         name: Locking
         plain: Old World and Battle Brothers use contact that can prevent ordinary departure, keeping units engaged until a release or successful escape.
@@ -62,19 +59,19 @@ variants:
             quote: "If the attack connects, the character is prevented from leaving the hex but still pays action points and fatigue for the movement attempt."
       - id: impulse-slice-wego
         name: Impulse or slice resolution in WEGO
-        plain: "CAOS and WEGO World War II: Overlord recompute movement, collisions and contact as a simultaneous plan resolves in impulses or movement slices."
+        plain: "CAOS resolves simultaneous movement and combat in numbered impulses; WEGO World War II: Overlord repeats a movement check every slice as enemy positions change."
         why: This model answers when the zone is checked; it is a resolution schedule, not by itself a rigid or fluid movement effect.
         sources:
           - work: combined-arms-operations-series-caos-manual
             page: "p. 9: Impulses"
-            quote: "Both sides issue orders and units then move and fight simultaneously."
+            quote: "CAOS uses 10 movement/combat impulses per turn, from impulse 0 to 9, reflecting different times of day, to simulate real time movement in a turn-based environment. Both sides issue orders and units then move and fight simultaneously."
           - work: matrix-games-wego-world-war-ii-overlord-dev
             page: "movement slices and reconnaissance withdrawal"
             quote: "This check repeats every slice, since the enemy’s position changes constantly."
       - id: opt-in-stance-trait
         name: Opt-in stance or trait
-        plain: Battle Brothers, Duelyst, Old World, Polytopia and Total War make projection or stronger control belong to a weapon, skill, stance or unit trait.
-        why: The projection is opt-in; a unit being melee, on a front line or shown inside a ring does not by itself make every unit project.
+        plain: "Battle Brothers makes stronger projection opt-in through an enabled Spearwall skill; Old World gives cavalry and some unique units a trait that can ignore ZOC."
+        why: The defining projection is an enabled skill; the Old World exception shows that a unit trait can alter control.
         sources:
           - work: battle-brothers-tactical-combat-mechanics
             page: "Zone of Control and Spearwall"
@@ -84,19 +81,20 @@ variants:
             quote: "Cavalry units (and some unique units) can ignore ZOC, so while it’s a powerful tool in your arsenal, there are counters to it."
       - id: no-universal-zoc
         name: "No universal ZoC: telegraphing and body blocking"
-        plain: "Into the Breach, Atlas Reactor, Frozen Synapse and Advance Wars carry prediction and screening through telegraphed attacks, occupied spaces, body blocking, cover, traps or phase order instead of a universal adjacency rule. The opened pages verify those substitutes; the absence of a conventional ZoC is unverified."
+        plain: "The cited pages show alternative information and resolution tools: Into the Breach telegraphs attacks; Atlas Reactor gives frontline tanks a body-blocking role; Frozen Synapse executes both turns simultaneously; Advance Wars highlights a unit's movement range. The presence or absence of a conventional ZoC is unverified."
         why: No universal ZoC means another spatial or information tool does the work; telegraphing, terrain or body blocking alone does not secretly make a zone.
         sources:
           - work: nintendo-into-the-breach-switch
             page: "product description"
             quote: "All enemy attacks are telegraphed in minimalistic, turn-based combat. Analyze your opponent's attack and come up with the perfect counter every turn."
+            flag: "unverified absence of a conventional ZoC"
           - work: atlas-reactor-guide
-            page: "pp. 7–8, 17–18: phases, movement lines and body blocking"
-            quote: "In Atlas Reactor, players coordinate tactics with teammates and lock in actions during the same timed ‘Decision Mode.’ Then, they watch their actions resolve on screen together during ‘Resolution Mode.’"
+            page: "pp. 7–8, 17–18: frontline body blocking"
+            quote: "Armored tanks who can defend their allies, body block damage, and inflict punishing attacks too."
             flag: "unverified absence of a conventional ZoC"
           - work: slitherine-frozen-synapse
             page: "product description"
-            quote: "Plan your moves, test them out, then hit the ‘Execute’ button: both you and your enemy’s turns are executed simultaneously."
+            quote: "Plan your moves, test them out, then hit the \"Execute\" button: both you and your enemy's turns are executed simultaneously."
             flag: "unverified absence of a conventional ZoC"
           - work: nintendo-advance-wars-dual-strike-manual
             page: "p. 6: Unit Movement"
@@ -104,12 +102,12 @@ variants:
             flag: "unverified absence of a conventional ZoC"
       - id: diplomacy-standoff
         name: Standoff resolution (Diplomacy)
-        plain: Diplomacy reveals simultaneous orders, compares support strength and leaves equal-strength units in place when they claim the same province.
+        plain: "Diplomacy reveals all players' orders simultaneously, resolves support by strength, and leaves equal-strength units in their original provinces when they claim the same province."
         why: A standoff resolves a destination conflict; it does not model continuous pressure from every adjacent unit.
         sources:
           - work: avalon-hill-the-rules-of-diplomacy
-            page: "p. 8: Standoffs"
-            quote: "Units of equal strength trying to occupy the same province cause all those units to remain in their original provinces."
+            page: "pp. 6–8: order resolution, support and standoffs"
+            quote: "When all players have written their orders, the orders are simultaneously revealed, and then the orders are all resolved. … By supporting each other, attacking or defending units gain increased strength. … Units of equal strength trying to occupy the same province cause all those units to remain in their original provinces."
 sources:
   - work: james-f-dunnigan-complete-wargames-handbook
     page: "p. 84: Zone of Control"
