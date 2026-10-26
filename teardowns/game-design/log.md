@@ -8,8 +8,11 @@ What changed in this teardown and why, newest last. One entry per working sessio
 - 2026-10-14: split from `examples/game.json` into this folder, in the `teardowns` repo.
 
 - 2026-10-20: Second-pass cue trim removed 15 cue blocks and 60 padded cue lines; final cues remain on 50 nodes and why on 7 catalogue items. No new sources or facts added.
+- 2026-10-26: wrote back the misses from a lookup on marking a movement cost along a planned route. Interface layout gains a Placement catalogue (non-diegetic, spatial, diegetic, meta) from Fagerholt and Lorentzon's Beyond the HUD, a `plain` widened to cover where a readout sits, a `range`, and the aka "game-y or UI-y". Planning information gains a Route preview catalogue (reach bands, arrival markers, path marks, waypoints) from the XCOM 2 and Heroes III manuals and the Wesnoth source. Decision information gains the aka "surface information".
 Open:
 
 - Canon cited on no node: Schell, Swink, Fullerton, Brathwaite & Schreiber, Sylvester, Hodent (The Gamer's Brain), Skolnick. Each needs its own text read, not its contents page.
 - A blind topic survey named more specialist canon (Czerkawski for economy and progression, Sylvester for choice, Schreiber & Romero's Game Balance, Zubek). Not tallied into survey.md yet.
 - Unverified: parts-list, choice-availability, choice-dominance-check, counter-matchup-matrix, htk-overkill-rounding, htk-effective-health, time-to-kill.
+- Topic surveys still to run (step 4) for the Placement and Route preview catalogues. Their items cite only the pages the lookup opened.
+- Outside this subject: zone of control, and a movement cost charged on a hexside (a river crossing, leaving enemy control), belong to a strategy or wargame teardown. A map drawn for one purpose (a route planner's traffic and toll layers, toll points on a road map) belongs to cartography.

@@ -2,6 +2,7 @@
   "look": {
     "parts": [
       {
+        "slot": "screen",
         "shape": "plane",
         "size": [1.5,0.55],
         "material": "screen",
@@ -9,5 +10,27 @@
         "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 110\"><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"#17232f\" stroke=\"#91b5c9\" stroke-width=\"5\"/><rect x=\"23\" y=\"28\" width=\"100\" height=\"18\" rx=\"5\" fill=\"#4b7995\"/><rect x=\"23\" y=\"59\" width=\"68\" height=\"13\" rx=\"4\" fill=\"#e6b84d\"/><rect x=\"103\" y=\"59\" width=\"85\" height=\"13\" rx=\"4\" fill=\"#78d6a8\"/><rect x=\"201\" y=\"29\" width=\"66\" height=\"42\" fill=\"none\" stroke=\"#f4c542\" stroke-width=\"5\"/></svg>"
       }
     ]
+  },
+  "items": {
+    "ui-non-diegetic": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 110\"><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"#17232f\"/><rect x=\"12\" y=\"72\" width=\"276\" height=\"26\" fill=\"#2c4636\"/><circle cx=\"150\" cy=\"38\" r=\"8\" fill=\"#d9c9a3\"/><rect x=\"141\" y=\"47\" width=\"18\" height=\"27\" rx=\"5\" fill=\"#4b7995\"/><rect x=\"22\" y=\"19\" width=\"72\" height=\"9\" rx=\"3\" fill=\"#78d6a8\"/><rect x=\"22\" y=\"32\" width=\"46\" height=\"9\" rx=\"3\" fill=\"#e6b84d\"/><rect x=\"238\" y=\"18\" width=\"40\" height=\"30\" fill=\"#17232f\" stroke=\"#f4c542\" stroke-width=\"4\"/><circle cx=\"258\" cy=\"33\" r=\"3\" fill=\"#f4c542\"/><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"none\" stroke=\"#91b5c9\" stroke-width=\"5\"/></svg>"
+      }
+    },
+    "ui-spatial": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 110\"><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"#17232f\"/><rect x=\"12\" y=\"72\" width=\"276\" height=\"26\" fill=\"#2c4636\"/><ellipse cx=\"150\" cy=\"80\" rx=\"30\" ry=\"7\" fill=\"none\" stroke=\"#78d6a8\" stroke-width=\"4\"/><circle cx=\"150\" cy=\"38\" r=\"8\" fill=\"#d9c9a3\"/><rect x=\"141\" y=\"47\" width=\"18\" height=\"27\" rx=\"5\" fill=\"#4b7995\"/><path d=\"M192 79 l9 5 l-9 5 M212 79 l9 5 l-9 5 M232 79 l9 5 l-9 5\" fill=\"none\" stroke=\"#e6b84d\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"none\" stroke=\"#91b5c9\" stroke-width=\"5\"/></svg>"
+      }
+    },
+    "ui-diegetic": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 110\"><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"#17232f\"/><rect x=\"12\" y=\"72\" width=\"276\" height=\"26\" fill=\"#2c4636\"/><rect x=\"222\" y=\"26\" width=\"34\" height=\"46\" fill=\"#3a2f27\"/><circle cx=\"249\" cy=\"50\" r=\"3.5\" fill=\"#78d6a8\"/><circle cx=\"150\" cy=\"38\" r=\"8\" fill=\"#d9c9a3\"/><rect x=\"141\" y=\"47\" width=\"18\" height=\"27\" rx=\"5\" fill=\"#4b7995\"/><rect x=\"146\" y=\"51\" width=\"8\" height=\"5\" rx=\"1\" fill=\"#78d6a8\"/><rect x=\"146\" y=\"58\" width=\"8\" height=\"5\" rx=\"1\" fill=\"#78d6a8\"/><rect x=\"146\" y=\"65\" width=\"8\" height=\"5\" rx=\"1\" fill=\"#2c4636\"/><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"none\" stroke=\"#91b5c9\" stroke-width=\"5\"/></svg>"
+      }
+    },
+    "ui-meta": {
+      "svg": {
+        "screen": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 110\"><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"#17232f\"/><rect x=\"12\" y=\"72\" width=\"276\" height=\"26\" fill=\"#2c4636\"/><circle cx=\"150\" cy=\"38\" r=\"8\" fill=\"#d9c9a3\"/><rect x=\"141\" y=\"47\" width=\"18\" height=\"27\" rx=\"5\" fill=\"#4b7995\"/><rect x=\"206\" y=\"20\" width=\"50\" height=\"76\" rx=\"8\" fill=\"#0d151d\" stroke=\"#91b5c9\" stroke-width=\"3\"/><rect x=\"213\" y=\"29\" width=\"36\" height=\"54\" rx=\"3\" fill=\"#4b7995\"/><rect x=\"218\" y=\"36\" width=\"26\" height=\"5\" rx=\"2\" fill=\"#d9c9a3\"/><rect x=\"218\" y=\"46\" width=\"18\" height=\"5\" rx=\"2\" fill=\"#d9c9a3\"/><circle cx=\"231\" cy=\"89\" r=\"3\" fill=\"#91b5c9\"/><rect x=\"8\" y=\"8\" width=\"284\" height=\"94\" rx=\"10\" fill=\"none\" stroke=\"#91b5c9\" stroke-width=\"5\"/></svg>"
+      }
+    }
   }
 }
