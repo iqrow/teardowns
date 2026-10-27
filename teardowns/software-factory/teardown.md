@@ -4,8 +4,8 @@ prompt: I want agents to turn tickets into merged code while I'm away
 root: software-factory
 assembly:
   - title: Pick the problem and the level
-    text: Start from one problem the team has now, such as untriaged tickets or pull requests waiting for review. Choose how far agents may go without a human, and where the human comes back in. Plan to buy the services and build the tasks.
-    adds: [start-slow, buy-vs-build, autonomy-level, human-re-entry, slop]
+    text: Start from one problem the team has now, such as untriaged tickets or pull requests waiting for review. Choose how far agents may go without a human, where the human comes back in, and how each agent is recognisable. Plan to buy the services and build the tasks.
+    adds: [start-slow, buy-vs-build, autonomy-level, human-re-entry, agent-persona, slop]
     makes: factory-design
   - title: Fill the ticket tracker slot
     text: Choose where tickets live and which labels or statuses route work to a task. Connect the sources that file tickets from outside, and decide what stops each one filing the same ticket twice.
