@@ -24,8 +24,8 @@ sources:
     page: Introduction
     quote: "Repository custom instructions let you provide Copilot with repository-specific guidance and preferences on GitHub."
   - work: anthropic-claude-code-best-practices
-    page: Write an effective CLAUDE.md
-    quote: "CLAUDE.md is a special file that Claude reads at the start of every conversation."
+    page: Keep CLAUDE.md short
+    quote: "That's why the file works best when it only holds what Claude couldn't work out from the code itself"
   - work: kent-c-dodds-kcd-skills
     page: autopilot skill
     url: https://github.com/kentcdodds/kcd-skills/blob/ffa3faf9911210b89b1d9953e025d52247632070/skills/autopilot/SKILL.md

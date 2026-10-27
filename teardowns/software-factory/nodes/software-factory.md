@@ -5,6 +5,7 @@ aka:
   - autopilot
   - software kitchen
   - Michelin kitchen
+  - continuous AI
 kind: product
 plain: A system that turns tickets, pull requests, failed checks and timers into coding-agent runs, and turns the runs' output into merged code. It works when agents have a space where they can do the work and prove it, so that human review leaves the critical path for low-risk changes.
 ask: What starts the work, what evidence proves it, and who may merge it?
@@ -86,4 +87,7 @@ sources:
     page: pstack
     url: https://raw.githubusercontent.com/cursor/plugins/9580c23696ac8d7abed0c166f2f9918800afb819/pstack/README.md
     quote: "throughput without quality is not a goal i aspire to."
+  - work: github-next-continuous-ai
+    page: What is Continuous AI?
+    quote: "Just as CI/CD transformed software development by automating integration and deployment, Continuous AI covers the ways in which AI can be used to automate and enhance collaboration workflows."
 ---

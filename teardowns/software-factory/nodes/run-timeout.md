@@ -1,8 +1,8 @@
 ---
 term: Run timeout
-aka: [execution deadline, wall-clock limit, time budget]
+aka: [execution deadline, wall-clock limit, time budget, heartbeat timeout, dead man's switch]
 kind: knob
-plain: The maximum time a run or one of its steps may execute before the runner cancels it. The limit covers hangs as well as useful work. A timeout only stops a run. To show the work is done, the run still needs a check that can pass or fail.
+plain: The maximum time a run or one of its steps may execute before the runner cancels it. The limit covers hangs as well as useful work. A long or open-ended run uses a heartbeat timeout instead. The run reports progress, and the factory fails it when the reports stop for longer than a grace time. A timeout only stops a run. To show the work is done, the run still needs a check that can pass or fail.
 does: Bounds compute cost and gives the orchestrator a clear failure signal for a stuck task.
 ask: What should happen when this run reaches its deadline?
 cues:
@@ -31,4 +31,11 @@ sources:
     page: Let loops start themselves
     url: https://raw.githubusercontent.com/cursor/plugins/9580c23696ac8d7abed0c166f2f9918800afb819/pstack/docs/guide/07-overnight.md
     quote: 'a duration is not a finish condition. "work on this for 4 hours" gives the agent nothing to check'
+  - work: factory-software-factory
+    page: Run health and alerts
+    url: https://docs.factory.com/software-factory/automations
+    quote: "A run that stops reporting progress is marked failed, and the next scheduled run proceeds as normal."
+  - work: healthchecks-docs
+    page: Concepts
+    quote: "It is the additional time to wait before sending an alert when a check is late."
 ---

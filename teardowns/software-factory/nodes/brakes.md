@@ -18,11 +18,11 @@ children: [automated-checks, automated-review, review-rework-loop, human-review,
 pattern: pattern-accelerator-brake
 sources:
   - work: anthropic-claude-code-best-practices
-    page: Give Claude a way to verify its work
-    quote: "Give Claude a check it can run: tests, a build, a screenshot to compare."
+    page: Give Claude a check to run
+    quote: "If you give it something that comes back pass or fail, Claude can close that loop itself."
   - work: anthropic-claude-code-best-practices
-    page: Give Claude a way to verify its work
-    quote: "By a second opinion: a verification subagent or a dynamic workflow that checks its own findings has a fresh model try to refute the result"
+    page: Give Claude a check to run
+    quote: "reviews the diff in a fresh subagent that never saw your conversation. It isn't swayed by the reasoning that produced the code."
   - work: github-protected-branches
     page: Require pull request reviews before merging
     quote: "can require that all pull requests receive a specific number of approving reviews before someone merges the pull request into a protected branch."

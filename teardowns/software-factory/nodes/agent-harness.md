@@ -22,8 +22,8 @@ sources:
     page: Run Claude Code programmatically
     quote: "To run Claude Code in non-interactive mode, pass `-p` with your prompt and the CLI options you need:"
   - work: anthropic-claude-code-best-practices
-    page: Give Claude a way to verify its work
-    quote: "Claude does the work, runs the check, reads the result, and iterates until the check passes."
+    page: Give Claude a check to run
+    quote: "It makes the change, runs the check, and if something broke it reads the output and fixes it before running the check again."
   - work: theo-browne-what-is-a-harness
     page: LLMs use harnesses
     quote: "A system that parses the message to identify that syntax and run the code … A method to give the response from the tool back to the LLM"
