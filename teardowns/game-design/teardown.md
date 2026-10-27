@@ -76,8 +76,8 @@ assembly:
     adds: [level-experience-goal, level-layout, level-blockout, level-flow, level-critical-path, level-pacing, level-readability]
     makes: level-design
   - title: Build the narrative-design branch
-    text: Choose structure, choices, state, world, delivery and agency, then inspect the story–mechanics fit.
-    adds: [narrative-structure, narrative-choice, narrative-state, narrative-worldbuilding, narrative-delivery, narrative-agency, ludonarrative-dissonance]
+    text: Choose structure, choices, state, world, delivery, barks and agency, then inspect the story–mechanics fit.
+    adds: [narrative-structure, narrative-choice, narrative-state, narrative-worldbuilding, narrative-delivery, barks, narrative-agency, ludonarrative-dissonance]
     makes: narrative-design
   - title: Ship the whole game
     text: Join what the player sees and does to the parts, loops, systems, progression, balance, experience and designer practice.
