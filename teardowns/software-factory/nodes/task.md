@@ -65,8 +65,8 @@ variants:
         plain: "Trigger: a new or updated pull request. Does: checks it with a fresh model and posts a review finding. Next: rework or human review."
         sources:
           - work: anthropic-claude-code-best-practices
-            page: Give Claude a way to verify its work
-            quote: "By a second opinion: a verification subagent or a dynamic workflow that checks its own findings has a fresh model try to refute the result"
+            page: Give Claude a check to run
+            quote: "reviews the diff in a fresh subagent that never saw your conversation. It isn't swayed by the reasoning that produced the code."
           - work: factory-software-factory
             page: Popular use cases
             url: https://docs.factory.com/software-factory/automations

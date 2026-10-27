@@ -18,8 +18,8 @@ links:
   - {to: ratchet, rel: see also}
 sources:
   - work: anthropic-claude-code-best-practices
-    page: Give Claude a way to verify its work
-    quote: "Give Claude a check it can run: tests, a build, a screenshot to compare."
+    page: Give Claude a check to run
+    quote: "If you give it something that comes back pass or fail, Claude can close that loop itself."
   - work: github-protected-branches
     page: Require status checks before merging
     quote: "After enabling required status checks, all required status checks must pass before collaborators can merge changes into the protected branch."

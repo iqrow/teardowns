@@ -17,8 +17,8 @@ links:
   - {to: review-rework-loop, rel: see also}
 sources:
   - work: anthropic-claude-code-best-practices
-    page: Give Claude a way to verify its work
-    quote: "a verification subagent or a dynamic workflow that checks its own findings has a fresh model try to refute the result"
+    page: Give Claude a check to run
+    quote: "reviews the diff in a fresh subagent that never saw your conversation. It isn't swayed by the reasoning that produced the code."
   - work: addy-osmani-agentic-code-review
     page: The tools are good, but not always for the reason they advertise
     quote: "A second model with different priors genuinely catches real bugs, and it catches a lot of them"
