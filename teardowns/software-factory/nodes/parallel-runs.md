@@ -3,6 +3,7 @@ term: Parallel runs
 aka:
   - parallel agents
   - background agents
+  - ambient agents
   - fan-out
   - coordinator and subagents
 kind: concept
@@ -19,6 +20,9 @@ links:
   - {to: concurrency-limit, rel: controls}
 pattern: pattern-kitchen-brigade
 sources:
+  - work: langchain-ambient-agents
+    page: What is an ambient agent?
+    quote: "Ambient agents listen to an event stream and act on it accordingly, potentially acting on multiple events at a time"
   - work: claude-code-worktrees
     page: Run parallel sessions with worktrees
     quote: "A git worktree is a separate working directory with its own files and branch"

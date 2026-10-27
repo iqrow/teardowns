@@ -5,6 +5,7 @@ aka:
   - job definition
   - job
   - workflow
+  - automation
 kind: part
 plain: A repeatable work definition that names its trigger, action, and next handoff.
 does: Turns a broad request into a bounded run that can be selected and repeated by an orchestrator.
@@ -48,6 +49,17 @@ variants:
             page: Popular use cases
             url: https://docs.factory.com/software-factory/automations
             quote: "Picks up ready tickets from Linear or Jira one at a time and drives each to an open pull request."
+      - id: explore-as-user
+        name: Explore as a user
+        plain: "Trigger: a schedule or a person. Does: drives the running product through its interface as a user would, captures screenshots or recordings, and reports each problem with its evidence. Next: triage."
+        sources:
+          - work: factory-software-factory
+            page: Automated QA
+            url: https://docs.factory.com/software-factory/automated-qa
+            quote: "it tests your application the way a real user would and produces a structured report with visual evidence."
+          - work: cursor-automations
+            page: Computer use
+            quote: "That means automations can operate a browser, produce screenshots or recordings, or use your internal services."
       - id: automated-review-task
         name: Automated review
         plain: "Trigger: a new or updated pull request. Does: checks it with a fresh model and posts a review finding. Next: rework or human review."

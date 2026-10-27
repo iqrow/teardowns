@@ -3,8 +3,9 @@ term: Human re-entry
 aka:
   - escalation point
   - handoff boundary
+  - agent inbox
 kind: concept
-plain: The point where a person comes back after a run ends or a gate blocks progress. The person's change or decision becomes a new event that starts another run.
+plain: The point where a person comes back after a run ends or a gate blocks progress. The person's change or decision becomes a new event that starts another run. A factory with many unattended agents can gather these points in one inbox that lists every open question, review and notice.
 does: Keeps automated work bounded while preserving a clear path for judgement, clarification, and recovery.
 ask: What exact evidence or failure brings a person back, and what event starts after their change?
 cues:
@@ -27,4 +28,7 @@ sources:
   - work: github-copilot-task-practices
     page: Using comments to iterate on a pull request
     quote: "After a user with write access mentions `@copilot` in a comment, Copilot will start to make any required changes, and will update the pull request when it's done."
+  - work: langchain-ambient-agents
+    page: Agent Inbox
+    quote: "It displays all open lines of communication between you and an agent - making it easy to track any outstanding actions."
 ---
