@@ -1,0 +1,34 @@
+{
+ "look": {
+  "parts": [
+   {
+    "shape": "box",
+    "size": [
+     1.32,
+     0.78,
+     0.014
+    ],
+    "pos": [
+     0,
+     0,
+     -0.009
+    ],
+    "color": "#20242c",
+    "material": "matte"
+   },
+   {
+    "shape": "plane",
+    "size": [
+     1.32,
+     0.78
+    ],
+    "pos": [
+     0,
+     0,
+     0
+    ],
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 260\"><rect width=\"440\" height=\"260\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">MOTION BLUR</text>\n   <line x1=\"40\" y1=\"102\" x2=\"92\" y2=\"102\" stroke=\"#ff9db5\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\"0.2\"/>\n   <line x1=\"70\" y1=\"110\" x2=\"140\" y2=\"110\" stroke=\"#ff9db5\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\"0.35\"/>\n   <line x1=\"104\" y1=\"118\" x2=\"186\" y2=\"118\" stroke=\"#ff9db5\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\"0.5\"/>\n   <line x1=\"140\" y1=\"110\" x2=\"210\" y2=\"110\" stroke=\"#ff9db5\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\"0.7\"/>\n   <circle cx=\"252\" cy=\"110\" r=\"21\" fill=\"#ff5f81\"/>\n   <circle cx=\"245\" cy=\"104\" r=\"9\" fill=\"#ff87a6\"/>\n   <circle cx=\"330\" cy=\"186\" r=\"34\" fill=\"#1b2028\" stroke=\"#2a313d\" stroke-width=\"2\"/>\n   <path d=\"M330 186 L330 152 A34 34 0 0 1 330 220 Z\" fill=\"#ff5f81\" opacity=\"0.16\"/>\n   <line x1=\"296\" y1=\"186\" x2=\"364\" y2=\"186\" stroke=\"#2a313d\" stroke-width=\"2\"/>\n   <line x1=\"330\" y1=\"186\" x2=\"330\" y2=\"220\" stroke=\"#ff5f81\" stroke-width=\"3\"/>\n   <circle cx=\"330\" cy=\"186\" r=\"3.5\" fill=\"#ff5f81\"/>\n   <text x=\"330\" y=\"146\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#8a8f99\" text-anchor=\"middle\">0°</text>\n   <text x=\"370\" y=\"190\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#8a8f99\">90°</text>\n   <text x=\"330\" y=\"228\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#ff5f81\" font-weight=\"800\" text-anchor=\"middle\">180°</text>\n   <text x=\"290\" y=\"190\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#8a8f99\" text-anchor=\"end\">270°</text>\n   <text x=\"330\" y=\"128\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#8a8f99\" font-weight=\"700\" letter-spacing=\"1\" text-anchor=\"middle\">SHUTTER ANGLE</text>\n   <text x=\"40\" y=\"248\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\">shutter angle sets how long each frame is exposed: more degrees, more smear</text>\n</svg>"
+   }
+  ]
+ }
+}

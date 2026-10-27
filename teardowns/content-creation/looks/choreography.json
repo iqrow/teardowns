@@ -1,0 +1,34 @@
+{
+ "look": {
+  "parts": [
+   {
+    "shape": "box",
+    "size": [
+     1.32,
+     0.78,
+     0.014
+    ],
+    "pos": [
+     0,
+     0,
+     -0.009
+    ],
+    "color": "#20242c",
+    "material": "matte"
+   },
+   {
+    "shape": "plane",
+    "size": [
+     1.32,
+     0.78
+    ],
+    "pos": [
+     0,
+     0,
+     0
+    ],
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 260\"><rect width=\"440\" height=\"260\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">CHOREOGRAPHY</text><rect x=\"60\" y=\"92\" width=\"150\" height=\"20\" rx=\"6\" fill=\"#54a0ff\"/><circle cx=\"64\" cy=\"102\" r=\"5\" fill=\"#ffffff\" opacity=\"0.85\"/>\n   <rect x=\"90\" y=\"138\" width=\"150\" height=\"20\" rx=\"6\" fill=\"#7ab3ff\"/><circle cx=\"94\" cy=\"148\" r=\"5\" fill=\"#ffffff\" opacity=\"0.85\"/>\n   <rect x=\"120\" y=\"184\" width=\"150\" height=\"20\" rx=\"6\" fill=\"#3a5a8c\"/><circle cx=\"124\" cy=\"194\" r=\"5\" fill=\"#ffffff\" opacity=\"0.85\"/>\n   <line x1=\"60\" y1=\"66\" x2=\"60\" y2=\"226\" stroke=\"#2a313d\" stroke-width=\"1.5\" stroke-dasharray=\"3 4\"/>\n   <line x1=\"90\" y1=\"66\" x2=\"90\" y2=\"226\" stroke=\"#2a313d\" stroke-width=\"1.5\" stroke-dasharray=\"3 4\"/>\n   <line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"226\" stroke=\"#2a313d\" stroke-width=\"1.5\" stroke-dasharray=\"3 4\"/>\n   <text x=\"60\" y=\"78\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">0 f</text><text x=\"86\" y=\"78\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">2 f</text><text x=\"112\" y=\"78\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">4 f</text>\n   <text x=\"60\" y=\"248\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\">each row starts 2 frames after the last: the eye is led row by row</text></svg>"
+   }
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "look": {
+  "parts": [
+   {
+    "shape": "box",
+    "size": [
+     1.32,
+     0.78,
+     0.014
+    ],
+    "pos": [
+     0,
+     0,
+     -0.009
+    ],
+    "color": "#20242c",
+    "material": "matte"
+   },
+   {
+    "shape": "plane",
+    "size": [
+     1.32,
+     0.78
+    ],
+    "pos": [
+     0,
+     0,
+     0
+    ],
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 260\"><rect width=\"440\" height=\"260\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">KEYFRAME</text><rect x=\"20\" y=\"46\" width=\"130\" height=\"96\" rx=\"6\" fill=\"#1b2028\"/>\n   <path d=\"M35 132 C 52 84, 92 74, 116 100\" fill=\"none\" stroke=\"#54a0ff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/>\n   <circle cx=\"46\" cy=\"120\" r=\"2.5\" fill=\"#9cc4ff\"/><circle cx=\"66\" cy=\"101\" r=\"2.5\" fill=\"#9cc4ff\"/><circle cx=\"91\" cy=\"90\" r=\"2.5\" fill=\"#9cc4ff\"/><circle cx=\"112\" cy=\"98\" r=\"4\" fill=\"#ff5f81\"/>\n   <text x=\"70\" y=\"168\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" font-weight=\"700\">POSITION</text>\n   <text x=\"70\" y=\"204\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"12\" fill=\"#8a8f99\" font-weight=\"700\">OPACITY</text>\n   <path d=\"M110,172 L118,180 L110,188 L102,180 Z\" fill=\"#54a0ff\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><path d=\"M190,172 L198,180 L190,188 L182,180 Z\" fill=\"#20242c\" stroke=\"#6f7890\" stroke-width=\"2.5\"/><path d=\"M270,172 L278,180 L270,188 L262,180 Z\" fill=\"#20242c\" stroke=\"#6f7890\" stroke-width=\"2.5\"/>\n   <path d=\"M110,208 L118,216 L110,224 L102,216 Z\" fill=\"#20242c\" stroke=\"#6f7890\" stroke-width=\"2.5\"/><path d=\"M270,208 L278,216 L270,224 L262,216 Z\" fill=\"#20242c\" stroke=\"#6f7890\" stroke-width=\"2.5\"/>\n   <line x1=\"24\" y1=\"238\" x2=\"416\" y2=\"238\" stroke=\"#2a313d\" stroke-width=\"2\"/>\n   <path d=\"M30 238 v6 M70 238 v4 M110 238 v6 M150 238 v4 M190 238 v6 M230 238 v4 M270 238 v6 M310 238 v4 M350 238 v6 M390 238 v4\" stroke=\"#2a313d\" stroke-width=\"2\"/>\n   <text x=\"26\" y=\"252\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">0s</text><text x=\"106\" y=\"252\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">1s</text><text x=\"186\" y=\"252\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#8a8f99\">2s</text></svg>"
+   }
+  ]
+ }
+}

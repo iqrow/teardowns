@@ -19,6 +19,7 @@ children:
   - jump-cut
   - pacing
   - pattern-interrupt
+  - meme-insert
   - captions
   - motion-graphics
   - color-grade
