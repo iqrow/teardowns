@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"fill","shape":"sphere","radius":0.28,"pos":[0,0.3,0],"color":"#a9c8d8","material":"glow"},{"slot":"screen","shape":"plane","size":[1.1,0.65],"pos":[0,0.45,0],"color":"#9dbdce","opacity":0.38,"material":"glow"},{"slot":"shadow","shape":"box","size":[0.9,0.06,0.5],"pos":[0,-0.02,0],"color":"#49475a","material":"matte"}]}}

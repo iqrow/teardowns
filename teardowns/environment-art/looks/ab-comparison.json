@@ -1,0 +1,46 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "bezel", "shape": "box", "size": [1.72, 1.12, 0.06], "radius": 0.06, "pos": [0, 0.74, -0.04], "color": "#26272b", "material": "matte" },
+      { "slot": "screen", "shape": "plane", "size": [1.6, 1.0], "pos": [0, 0.74, 0.0], "color": "#ffffff", "material": "screen",
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><defs><clipPath id='r'><rect x='160' width='160' height='200'/></clipPath></defs><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#6f8a4e'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/><g clip-path='url(#r)'><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#9db872'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/></g><rect x='158.5' width='3' height='200' fill='#ffffff'/><circle cx='160' cy='100' r='11' fill='#ffffff' stroke='#26272b' stroke-width='2'/><text x='12' y='24' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#26272b'>A</text><text x='296' y='24' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#26272b'>B</text></svg>" },
+      { "slot": "neck", "shape": "box", "size": [0.12, 0.16, 0.05], "pos": [0, 0.1, -0.07], "color": "#3a3b40", "material": "matte" },
+      { "slot": "base", "shape": "box", "size": [0.62, 0.03, 0.3], "pos": [0, 0.015, -0.07], "color": "#3a3b40", "material": "matte" },
+      { "slot": "key", "shape": "box", "size": [0.24, 0.1, 0.24], "radius": 0.03, "pos": [1.14, 0.05, 0.22], "color": "#e9e9e4", "material": "matte" },
+      { "slot": "key-label", "shape": "plane", "size": [0.18, 0.18], "pos": [1.14, 0.102, 0.22], "rot": [-90, 0, 0], "color": "#ffffff", "material": "matte",
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 60'><rect width='60' height='60' fill='#e9e9e4'/><text x='30' y='38' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='20' font-weight='700' fill='#26272b'>A/B</text></svg>" }
+    ]
+  },
+  "items": {
+    "flip": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#9db872'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/><rect x='10' y='10' width='66' height='26' rx='13' fill='#26272b'/><rect x='43' y='13' width='30' height='20' rx='10' fill='#ffffff'/><text x='22' y='28' font-family='Helvetica, Arial, sans-serif' font-size='14' font-weight='700' fill='#9a9a9a'>A</text><text x='53' y='28' font-family='Helvetica, Arial, sans-serif' font-size='14' font-weight='700' fill='#26272b'>B</text></svg>"
+      }
+    },
+    "wipe": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><defs><clipPath id='r'><rect x='160' width='160' height='200'/></clipPath></defs><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#6f8a4e'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/><g clip-path='url(#r)'><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#9db872'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/></g><rect x='158.5' width='3' height='200' fill='#ffffff'/><circle cx='160' cy='100' r='11' fill='#ffffff' stroke='#26272b' stroke-width='2'/><text x='12' y='24' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#26272b'>A</text><text x='296' y='24' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#26272b'>B</text></svg>"
+      }
+    },
+    "side-by-side": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect width='320' height='200' fill='#1d1e22'/><g transform='translate(4,52) scale(0.4875)'><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#6f8a4e'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/></g><g transform='translate(160,52) scale(0.4875)'><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#9db872'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/></g><text x='6' y='42' font-family='Helvetica, Arial, sans-serif' font-size='14' font-weight='700' fill='#ffffff'>A</text><text x='162' y='42' font-family='Helvetica, Arial, sans-serif' font-size='14' font-weight='700' fill='#ffffff'>B</text></svg>"
+      }
+    },
+    "onion-skin": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect width='320' height='200' fill='#bcd3e6'/><circle cx='270' cy='40' r='14' fill='#f3d98b'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#6f8a4e'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#b49a74' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/><g opacity='0.5' transform='translate(16,0)'><rect x='70' y='96' width='50' height='34' fill='#d9c8a5'/><polygon points='64,98 95,74 126,98' fill='#a5533c'/></g></svg>"
+      }
+    },
+    "difference": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect width='320' height='200' fill='#000000'/><path d='M0 118 C80 102 200 126 320 110 V200 H0Z' fill='#2e4320'/><path d='M150 200 C160 170 190 150 232 128' fill='none' stroke='#000000' stroke-width='14' stroke-linecap='round'/><rect x='70' y='96' width='50' height='34' fill='#000000'/><path d='M0 118 C80 102 200 126 320 110' fill='none' stroke='#5cff5c' stroke-width='2.5'/></svg>"
+      }
+    },
+    "wedge": {
+      "svg": {
+        "screen": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect width='320' height='200' fill='#1d1e22'/><g transform='translate(6,50)'><rect width='56' height='80' fill='#bcd3e6'/><path d='M0 46 C20 40 36 50 56 44 V80 H0Z' fill='#5f7944'/><rect x='14' y='34' width='16' height='14' fill='#d9c8a5'/><polygon points='12,35 22,27 32,35' fill='#a5533c'/></g><g transform='translate(68,50)'><rect width='56' height='80' fill='#bcd3e6'/><path d='M0 46 C20 40 36 50 56 44 V80 H0Z' fill='#6f8a4e'/><rect x='14' y='34' width='16' height='14' fill='#d9c8a5'/><polygon points='12,35 22,27 32,35' fill='#a5533c'/></g><g transform='translate(130,50)'><rect width='56' height='80' fill='#bcd3e6'/><path d='M0 46 C20 40 36 50 56 44 V80 H0Z' fill='#839d5d'/><rect x='14' y='34' width='16' height='14' fill='#d9c8a5'/><polygon points='12,35 22,27 32,35' fill='#a5533c'/></g><g transform='translate(192,50)'><rect width='56' height='80' fill='#bcd3e6'/><path d='M0 46 C20 40 36 50 56 44 V80 H0Z' fill='#9db872'/><rect x='14' y='34' width='16' height='14' fill='#d9c8a5'/><polygon points='12,35 22,27 32,35' fill='#a5533c'/></g><g transform='translate(254,50)'><rect width='56' height='80' fill='#bcd3e6'/><path d='M0 46 C20 40 36 50 56 44 V80 H0Z' fill='#b3cc84'/><rect x='14' y='34' width='16' height='14' fill='#d9c8a5'/><polygon points='12,35 22,27 32,35' fill='#a5533c'/></g><rect x='189.5' y='47.5' width='61' height='85' fill='none' stroke='#ffffff' stroke-width='3'/><g font-family='Helvetica, Arial, sans-serif' font-size='13' font-weight='700' fill='#ffffff' text-anchor='middle'><text x='34' y='152'>-2</text><text x='96' y='152'>-1</text><text x='158' y='152'>0</text><text x='220' y='152'>+1</text><text x='282' y='152'>+2</text></g></svg>"
+      }
+    }
+  }
+}

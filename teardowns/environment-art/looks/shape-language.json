@@ -1,0 +1,1 @@
+{"look":{"parts":[{"slot":"round","shape":"sphere","radius":0.24,"pos":[-0.55,0,0],"color":"#c98e68","material":"matte"},{"slot":"square","shape":"box","size":[0.42,0.42,0.42],"pos":[0,0,0],"color":"#c49460","material":"matte"},{"slot":"triangle","shape":"cone","radius":0.27,"height":0.52,"pos":[0.56,0,0],"color":"#c36b52","material":"matte"}]}}
