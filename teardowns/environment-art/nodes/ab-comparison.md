@@ -16,7 +16,6 @@ cues:
   - "Two copies of the same frame next to each other"
   - "Only the changed pixels shown or highlighted"
 trouble: "A brief blank or a gradual fade between the versions can hide the change, and so can brief, high-contrast shapes flashed over the frame at the moment of the change. Copies scaled down to fit side by side are hard to compare. The eye adapts to the adjusted version, so the original is forgotten unless the view can return to it."
-unverified: "That a fade lasting a fraction of a second hides a change the way the tested 12-second dissolve did; that motion in a live scene at the moment of the swap, such as foliage in the wind, hides a change the way brief distracting shapes did."
 links:
   - {to: pattern-set-point, rel: see also}
   - {to: paintover, rel: see also}

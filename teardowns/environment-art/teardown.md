@@ -28,12 +28,12 @@ assembly:
     adds: [grass-clump, trees, foliage-color, foliage-shading, wind, scatter, scatter-density]
     makes: foliage
   - title: Light the scene
-    text: Set the key light, the sky fill and the shadows, then the bounce light and occlusion that tie objects to the ground.
-    adds: [key-light, fill-light, shadows, global-illumination, ambient-occlusion]
+    text: Set the sky and key light, then fill, shadows, bounce, occlusion and volumetric light so the scene shares one light field.
+    adds: [key-light, sky, fill-light, shadows, global-illumination, ambient-occlusion, volumetric-light]
     makes: lighting
   - title: Add atmosphere and grade
-    text: Add fog and aerial perspective for depth, choose a tone mapper, grade the colour and, where the style wants it, set depth of field.
-    adds: [fog, tone-mapping, color-grading, depth-of-field]
+    text: Add fog and exposure for depth and range, then choose a tone mapper, grade the colour and, where the style wants it, set depth of field.
+    adds: [fog, exposure, tone-mapping, color-grading, depth-of-field]
     makes: atmosphere-and-post
   - title: Check the read
     text: Look from the game camera and in greyscale. Group the values, keep detail where the eye should go, keep scale cues consistent, keep the playable layer clear and give the edge of each team's vision a narrow, soft line.

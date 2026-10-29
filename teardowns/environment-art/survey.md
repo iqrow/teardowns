@@ -212,6 +212,173 @@ lists:
     label: "Wargames Delivered, A Multitude of Ways to Make Your Own Wargaming Terrain"
     url: https://wargamesdelivered.com/blogs/wargamesdelivered/a-multitude-of-ways-to-make-your-own-wargaming-terrain
     kind: publisher
+# Exposure and eye adaptation topic survey
+  - id: exposure-hdr-book-bibliography
+    label: "Advanced High Dynamic Range Imaging, bibliography"
+    url: https://www.oreilly.com/library/view/advanced-high-dynamic/9781351645836/xhtml/ref01.xhtml
+    kind: bibliography
+  - id: exposure-cmu-hdr-reading
+    label: "Carnegie Mellon, High dynamic range imaging and tonemapping lecture reading list"
+    url: https://graphics.cs.cmu.edu/courses/15-463/2018_fall/lectures/lecture5.pdf
+    kind: course
+  - id: exposure-rochester-hdr-schedule
+    label: "University of Rochester, Computer Imaging and Graphics HDR and tone-mapping readings"
+    url: https://cs.rochester.edu/courses/259/fall2025/schedule.html
+    kind: course
+  - id: exposure-portland-state-hdr-syllabus
+    label: "Portland State, Computational Photography HDR reading list"
+    url: https://web.cecs.pdx.edu/~fliu/courses/cs510/
+    kind: course
+  - id: exposure-hdr-practitioner-recommendations
+    label: "Mighty Professional Tutorials, post-processing and exposure recommendations"
+    url: https://mightyprofessionalgaming.com/tutorials/postfx-from-scratch
+    kind: practitioner
+# Volumetric light topic survey
+  - id: volumetric-volume-graphics-book-list
+    label: "Real-Time Rendering, volume-rendering book and reference list"
+    url: https://www.realtimerendering.com/books.html
+    kind: bibliography
+  - id: volumetric-siggraph-2015-course
+    label: "SIGGRAPH 2015 Advances in Real-Time Rendering, volumetric-lighting course"
+    url: https://www.realtimerendering.com/advances/s2015/index.html
+    kind: course
+  - id: volumetric-siggraph-2014-wronski-course
+    label: "SIGGRAPH 2014 Advances in Real-Time Rendering, volumetric-fog course"
+    url: https://advances.realtimerendering.com/s2014/
+    kind: course
+  - id: volumetric-clouds-curated-resources
+    label: "Pixelsnafu, Useful Resources for Rendering Volumetric Clouds"
+    url: https://gist.github.com/pixelsnafu/e3904c49cbd8ff52cb53d95ceda3980e
+    kind: community
+  - id: volumetric-rendering-practitioner-guide
+    label: "Real-Time Rendering Resources, volume-rendering recommendations"
+    url: https://www.realtimerendering.com/
+    kind: practitioner
+# Sky and atmosphere topic survey
+  - id: sky-models-reference-list
+    label: "Diharaw, OpenGL sky-model implementations"
+    url: https://github.com/diharaw/sky-models
+    kind: community
+  - id: sky-atmosphere-reference-bibliography
+    label: "vTerrain, atmospheric-rendering references"
+    url: http://vterrain.org/Atmosphere/
+    kind: bibliography
+  - id: sky-siggraph-2016-course
+    label: "SIGGRAPH 2016 Physically Based Sky, Atmosphere and Cloud Rendering in Frostbite"
+    url: https://blog.selfshadow.com/publications/s2016-shading-course/
+    kind: course
+  - id: sky-atmosphere-curated-resources
+    label: "Real-Time Rendering Resources, sky and atmosphere references"
+    url: https://www.realtimerendering.com/refs.html
+    kind: bibliography
+  - id: sky-atmosphere-practitioner-guide
+    label: "Tristam, Atmosphere Rendering reading path"
+    url: https://trist.am/blog/2024/atmosphere-rendering/
+    kind: practitioner
+  - id: level-design-book-metrics
+    label: "The Level Design Book, metrics and player-scale chapter"
+    url: https://book.leveldesignbook.com/process/blockout/metrics
+    kind: bibliography
+  - id: fullsail-concept-art-techniques
+    label: "Full Sail University, Concept Art Workshop techniques"
+    url: https://fullsail.libguides.com/CAW/techniques
+    kind: course
+# Familiar-size scale cues topic survey
+# Searches run: "familiar-size scale cues book"; "familiar-size scale cues best books"; and the synonym searches "scale cues book" and "scale cues best books".
+# Lists tallied: awesome-level-design-readability (An Architectural Approach to Level Design; Level Design for Games; Level Design: Concept, Theory, and Practice); level-design-book-recommended-books (An Architectural Approach to Level Design; Level Design Processes and Experiences; A Game Design Vocabulary; How and Whys of Level Design; Let's Design Combat; Building Game Worlds; Raising the Bar; The Art of Dishonored 2; Virtual Cities; 101 Things I Learned in Architecture School; Architecture: Form, Space, and Order; A Pattern Language); mattepaint-environment-composition-books (Composition of Outdoor Painting; Vision; Framed Perspective 1 and 2; How to Draw; Color and Light); 80lv-11-books-game-artists (How to Draw; How to Render; Color and Light; Imaginative Realism; Framed Ink; The Visual Story; Alla Prima; Drawing the Head and Hands; Framed Perspective 1 and 2); fullsail-concept-art-techniques (Drawing Perspective Methods for Artists; Perspective Drawing; Framed Perspective 2; Framed Ink; The Fantasy Illustrator's Technique Book; Illustration That Works).
+# Tally: An Architectural Approach to Level Design (2 lists); How to Draw (2); Color and Light (2); Framed Perspective 1 (2); Framed Perspective 2 (3); Framed Ink (2). These repeated works are canon for familiar-size scale cues; existing work records carry the ISBNs and canon entries.
+# Long-tail names occur once in the listed sources; no additional scale-cues canon is inferred from them.
+# Miniature or diorama presentation in games topic survey
+# Searches run: "miniature or diorama presentation games book"; "miniature or diorama presentation games best books"; and the synonym searches "game diorama book" and "game diorama best books".
+# Lists tallied: state-of-play-miniature-books (Minipedia; FAQ Dioramas; Terrain Essentials; How to Make Wargames Terrain; How to Work with Color; Color Harmony; Airbrushing Scale Modelers; Airbrush and Weathering); 73reviews-model-train-books (Building Realistic Model Railroad Scenery; Wiring Your Model Railroad; 101 Track Plans for Model Railroaders; Basic Model Railroad Benchwork; DCC and Model Railroading; HO Layouts for Every Space; Build Your First Layout; Model Railroader's Handbook; Designing & Operating Yards; How to Build Structures); 80lv-diorama-blender-tutorials (seven Blender diorama tutorials); game-art-style-miniature-dioramas (Tiny Glade; Dorfromantik; Townscaper); thumbsticks-video-game-dioramas (Captain Toad: Treasure Tracker; Animal Crossing; Link's Awakening; A Link to the Past; Tunic; The Witness; Return of the Obra Dinn; The Gardens Between; I Am Dead; Bad North; Townscaper); wargames-delivered-terrain-resources (terrain-making resources).
+# Tally: Townscaper (2 game-reference lists) is canon for miniature and diorama look; existing oskar-stalberg-townscaper carries the canon entry. The other named games and books occur once in these lists.
+# Set point and braking engine in art review topic survey
+# Searches run: "set point art review book"; "set point art review best books"; "braking engine art review book"; and "braking engine art review best books".
+  - id: tame-systems-required-reading
+    label: "TAME Systems, Required Reading"
+    url: https://tamesystems.org/reading/
+    kind: practitioner
+  - id: systems-building-leader-recommended-reading
+    label: "The Systems-Building Leader, Recommended Reading"
+    url: https://systemsbuildingleader.org/recommended-reading/
+    kind: practitioner
+  - id: donella-meadows-must-reads
+    label: "Donella Meadows Project, Dana Meadows Must-Reads"
+    url: https://donellameadows.org/must-reads/
+    kind: practitioner
+# Lists tallied: tame-systems-required-reading (Thinking in Systems; Business Dynamics; How Systems Work and Especially How They Fail; The Systems Thinking Playbook; Lean Thinking; The Goal; Managing the Design Factory; Work the System; The Toyota Way; Workflow Modeling; Real-Life BPMN); systems-building-leader-recommended-reading (Out of the Crisis; The Fifth Discipline; Thinking in Systems; High Output Management; Thinking, Fast and Slow; The Checklist Manifesto; Sources of Power; Turn the Ship Around!; An Everyone Culture; Radical Candor; Switch; Leading Change; Immunity to Change); donella-meadows-must-reads (Thinking in Systems; Leverage Points; Limits to Growth; Dancing with Systems; A Reaction from a Multitude; Problems are Connected; Indicators and Information Systems for Sustainable Development; Dana's principles for impact; History of the Ideas Underlying the Balaton Group).
+# Tally: Thinking in Systems (3 lists) is canon for set point and braking engine. Leverage Points occurs in the Meadows list and is already the opened source work; all other titles occur once in these lists.
+# L* (lightness) topic survey
+# Searches run: "L* lightness book"; "L* lightness best books"; and the synonym searches "CIE lightness book" and "CIE lightness best books".
+  - id: icc-color-measurement-books
+    label: "ICC, color management and color measurement book recommendations"
+    url: https://www.color.org/faqs/
+    kind: bibliography
+  - id: webexhibits-color-bibliography
+    label: "WebExhibits, Causes of Color recommended books"
+    url: https://www.webexhibits.org/causesofcolor/bibliography.html
+    kind: bibliography
+# Lists tallied: icc-color-measurement-books (Understanding Digital Colour; Digital Color Management; Colour Management for Printing and Publishing; Real World Color Management; Understanding Color Management; Color Management for Photographers; Measuring Colour; Billmeyer and Saltzman's Principles of Color Technology; Color Science); webexhibits-color-bibliography (The Physics and Chemistry of Color; Light and Color in Nature and Art; Billmeyer and Saltzman's Principles of Color Technology; Color and Light in Nature; Light and Color in the Outdoors; Color in Nature; How to Use Your Eyes; QED; Light: A Very Short Introduction; Catching the Light; Vision and Art; Color for Philosophers; Mauve; Bright Earth; Color; The Secret Lives of Color).
+# Tally: Billmeyer and Saltzman's Principles of Color Technology (2 lists) is canon for L* (lightness). All other titles occur once.
+# Colour space topic survey
+# Searches run: "colour space book"; "colour space best books"; and the synonym searches "color space book" and "color space best books".
+# Lists tallied: mattdesl-graphics-resources (GPU Gems 3: The Importance of Being Linear); kostas-anagnostou-pbr-readings (Physically Based Rendering; Real-Time Rendering; High Dynamic Range Imaging; GPU Gems 3: The Importance of Being Linear); icc-color-measurement-books (the color-management and color-measurement titles listed above); webexhibits-color-bibliography (the color-science titles listed above). The general performance book pages are recorded under frame time/draw calls/stress-test scenes rather than treated as colour-space lists.
+# Tally: GPU Gems 3 is named by mattdesl-graphics-resources and kostas-anagnostou-pbr-readings and is canon for colour space; hubert-nguyen-gpu-gems-3 now carries that canon entry. The other colour-space titles occur once in these lists.
+# Blend mode topic survey
+# Searches run: "blend mode book"; "blend mode best books"; and the synonym searches "blending modes book" and "blending modes best books".
+  - id: miracosta-mat110-blend-bibliography
+    label: "MiraCosta College MAT 110 Photoshop bibliography"
+    url: https://home.miracosta.edu/gkelley/110/bibliography110.html
+    kind: bibliography
+# Lists tallied: miracosta-mat110-blend-bibliography names Photoshop Blending Modes Cookbook; The Hidden Power of Blend Modes in Adobe Photoshop; Photoshop Masking & Compositing; Layers; Photoshop Compositing Secrets; Digital Color Management; and related Photoshop titles. The opened publisher page for Hidden Power is a book record, not a second independent recommendation list, so no blend-mode canon is inferred.
+# Frame time topic survey
+# Searches run: "frame time book"; "frame time best books"; and the synonym searches "game frame time book" and "game frame time best books".
+  - id: gamedevpensieve-books
+    label: "GameDev Pensieve, game-development book reference"
+    url: https://www.gamedevpensieve.com/reference/books
+    kind: practitioner
+  - id: realtime-rendering-books
+    label: "Real-Time Rendering, graphics books page"
+    url: https://www.realtimerendering.com/books.html
+    kind: bibliography
+# Lists tallied: gamedevpensieve-books (Game Engine Architecture; GPU Gems; GPU Gems 2; GPU Gems 3; Game Programming Gems; GPU Pro; ShaderX and engine/graphics titles); realtime-rendering-books (Real-Time Rendering; Game Engine Architecture; GPU Gems; GPU Gems 2; GPU Gems 3; Game Programming Gems; GPU Pro and other graphics titles).
+# Tally: Game Engine Architecture, GPU Gems, GPU Gems 2, GPU Gems 3, Game Programming Gems, GPU Pro and ShaderX are repeated; each now has a canon entry for frame time. Other named titles occur once or are covered under colour space/draw calls.
+# Draw calls topic survey
+# Searches run: "draw calls book"; "draw calls best books"; and the synonym searches "rendering draw calls book" and "rendering draw calls best books".
+  - id: level-design-book-optimization
+    label: "The Level Design Book, environment-art optimization"
+    url: https://book.leveldesignbook.com/process/env-art/optimization
+    kind: bibliography
+# Lists tallied: level-design-book-optimization (profiling, draw calls, batching, budgets); gamedevpensieve-books (Game Engine Architecture; GPU Gems; GPU Gems 2; GPU Gems 3; Game Programming Gems; GPU Pro; ShaderX); realtime-rendering-books (Real-Time Rendering; Game Engine Architecture; GPU Gems; GPU Gems 2; GPU Gems 3; Game Programming Gems; GPU Pro).
+# Tally: Game Engine Architecture, GPU Gems, GPU Gems 2, GPU Gems 3, Game Programming Gems, GPU Pro and ShaderX repeat across the technical book lists; each now has a performance canon entry. The Level Design Book chapter is a practitioner resource rather than a book list and adds no repeated work.
+# Stress-test scenes topic survey
+# Searches run: "stress test scene game art book"; "stress test scene game art best books"; and the synonym searches "worst-case scene book" and "worst-case scene best books".
+# Lists tallied: level-design-book-metrics (metrics zoo/playground and playtest checks); level-design-book-optimization (profiling, budgets, draw calls and bottleneck checks); gamedevpensieve-books; realtime-rendering-books. The two technical lists repeat Game Engine Architecture, GPU Gems, GPU Gems 2, GPU Gems 3, Game Programming Gems, GPU Pro and ShaderX; these are the available performance canons, while the Level Design Book pages provide the stress-scene practice.
+# Paintover methods topic survey
+# Searches run: "paintover methods book"; "paintover methods best books"; and the synonym searches "environment paintover book" and "environment paintover best books".
+# Lists tallied: concept-art-empire-environment-books (Imaginative Realism; Color and Light; Light for Visual Artists; How to Draw and Paint Fantasy Architecture; Drawing and Painting Fantasy Landscapes and Cityscapes; Digital Painting Techniques; The Digital Matte Painting Handbook; OtherWorlds; Beyond Art Fundamentals; Art Fundamentals; Master the Art of Speed Painting); 80lv-11-books-game-artists (How to Draw; How to Render; Color and Light; Imaginative Realism; Framed Ink; The Visual Story; Alla Prima; Drawing the Head and Hands; Framed Perspective 1 and 2); mattepaint-environment-composition-books (Composition of Outdoor Painting; Vision; Framed Perspective 1 and 2; How to Draw; Color and Light); fullsail-concept-art-techniques (Drawing Perspective Methods; Perspective Drawing; Framed Perspective 2; Framed Ink; The Fantasy Illustrator's Technique Book; Illustration That Works).
+# Tally: Imaginative Realism (2 lists), Color and Light (3), Framed Perspective 1 (2), Framed Perspective 2 (3), Framed Ink (2), and How to Draw (2) are repeated and canon for paintover methods; their existing work records now carry the topic in specialism. All other titles occur once.
+# A/B comparison and approval practice in art review topic survey
+# Searches run: "A/B comparison art review book"; "A/B comparison art review best books"; and the synonym searches "art approval practice book" and "art approval practice best books".
+  - id: asmp-visual-story-video-reading
+    label: "ASMP, My Summer Reading List for People Adding Video to their Workflow"
+    url: https://www.asmp.org/strictly-business-blog/summer-reading-list-people-adding-video-workflow/
+    kind: practitioner
+  - id: utep-art-criticism-books
+    label: "University of Texas at El Paso, art criticism book list"
+    url: https://libguides.utep.edu/ceramics/art_criticism
+    kind: course
+  - id: aiga-graphic-design-books
+    label: "AIGA Design Teaching Resource, graphic-design book list"
+    url: https://teachingresource.aiga.org/resources/graphic-design/
+    kind: course
+# Lists tallied: asmp-visual-story-video-reading (The Visual Story; How Video Works; Color Correction Handbook; Producing Great Sound for Film and Video; From Still to Motion); utep-art-criticism-books (What Happened to Art Criticism?; Art Criticism and Education; New Feminist Art Criticism; Language of Art & Art Criticism; Art in America; But Is It Art?; Design and Art; Art Is Not What You Think It Is; Modern Painters); aiga-graphic-design-books (2D: Visual Basics for Designers; Design School Reader; How Design Makes the World; Graphic Design: The New Basics; Graphic Design School; Graphic Design Solutions; The Language of Graphic Design; Visual Communication Design; Design Fundamentals: Notes on Color; The Designer's Dictionary of Color; Making and Breaking the Grid; Grid Systems in Graphic Design; Layout Essentials; Graphic Design Theory; Participate).
+# Tally: The Visual Story is named by asmp-visual-story-video-reading and 80lv-11-books-game-artists and is canon for A/B comparison and approval practice; the remaining titles occur once across these lists. The lists provide critique vocabulary and visual-structure practice, not a universal approval protocol.
+# Value structure topic survey
+# Searches run: "value structure book"; "value structure best books"; and the synonym searches "value study environment art book" and "value study environment art best books".
+# Lists tallied: 80lv-11-books-game-artists (The Visual Story; Color and Light; Framed Ink; Framed Perspective 1 and 2; How to Draw; How to Render; Imaginative Realism; Alla Prima; Drawing the Head and Hands); asmp-visual-story-video-reading (The Visual Story; How Video Works; Color Correction Handbook; Producing Great Sound for Film and Video; From Still to Motion); mattepaint-environment-composition-books (Composition of Outdoor Painting; Vision; Framed Perspective 1 and 2; How to Draw; Color and Light); concept-art-empire-environment-books (the environment-concept titles listed under paintover methods).
+# Tally: The Visual Story (2 lists), Color and Light (3), Framed Perspective 1 (2), Framed Perspective 2 (2), and How to Draw (2) are repeated. The Visual Story is the value-structure canon used by the node; the other repeated works are shared art-fundamentals canons.
+# Note: the technical performance lists above also cover performance-budget as a stress-test topic; no extra title is promoted where the list evidence only names a general engine or rendering reference.
 voices:
   - name: "Oskar Stålberg"
     known: "Technical artist turned indie developer; credits include Ubisoft Massive/The Division, procedural projects Brick Block and Night Call, and the shipped diorama-like games Bad North and Townscaper."

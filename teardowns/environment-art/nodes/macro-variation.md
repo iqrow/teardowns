@@ -14,8 +14,7 @@ cues:
   - "Noise changes slowly, with smaller marks still visible on top"
   - "Ground of one flat colour loses scale and depth cues"
 range: "Macro map scale, noise frequency, amplitude and material mix."
-trouble: "The same patch repeats across the map, noise becomes cloudy airbrush, or broad variation fights the path and focal areas. Ground of one flat colour loses scale and depth cues; viewers may call it shiny or plastic even when it has no highlight."
-unverified: "No opened source says viewers describe flat-coloured ground as shiny or plastic."
+trouble: "The same patch repeats across the map, noise becomes cloudy airbrush, or broad variation fights the path and focal areas. Ground of one flat colour loses scale and depth cues."
 at: [-0.15, 0.08, -0.1]
 pattern: pattern-detail-scales
 links:

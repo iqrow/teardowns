@@ -24,9 +24,12 @@ variants:
     items:
       - id: front
         name: Front
-        plain: "The key points from the camera side. It exposes faces evenly and gives short readable shadows behind forms."
-        why: "It counts as front light because the dominant direction comes from the camera side, whatever the scene's genre or time of day."
-        unverified: "The opened pages did not directly define a front key direction."
+        plain: "The key sits on the camera-facing side of the subject."
+        why: "It counts as front light because the key is on the camera's side of the subject."
+        sources:
+          - work: peter-freedman-three-point-lighting
+            page: Three-point lighting
+            quote: "the key forty-five degrees off the camera axis on the camera's side and raised"
       - id: side-three-quarter
         name: Side or three-quarter
         plain: "The key crosses the view from the side. It gives planes and relief a clear value break."

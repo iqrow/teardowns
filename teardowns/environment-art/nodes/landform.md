@@ -6,7 +6,6 @@ aka:
   - slopes and erosion
 kind: part
 plain: "The large and medium shape of the ground: heightfields, slopes, banks, ridges and eroded cuts. It is the geometry that materials and plants must follow."
-unverified: "The opened pages support heightfields, slope parameters and procedural mountains, but do not directly cover erosion or drainage forms."
 does: "Sets elevation, traversal shape and the normals used by terrain shading and placement rules."
 ask: "Where does height change, how steep is the surface, and does the form support the path and the view?"
 cues:
@@ -28,4 +27,12 @@ sources:
     url: https://thebookofshaders.com/13/
     page: Fractal Brownian Motion
     quote: "This technique is commonly used to construct procedural landscapes. The self-similarity of the fBM is perfect for mountains"
+  - work: sidefx-houdini-heightfield-erosion
+    page: HeightField Erode
+    url: https://www.sidefx.com/docs/houdini/nodes/sop/heightfield_erode.html
+    quote: "Larger scaled erosion can reshape terrain into broader landforms. Smaller scaled erosion can carve finer details."
+  - work: sidefx-houdini-heightfield-erosion
+    page: Flow fields
+    url: https://www.sidefx.com/docs/houdini/heightfields/flowfields.html
+    quote: "The first layer represents the cumulative material flow in voxel space. The second layer shows the average direction of flow at each voxel."
 ---

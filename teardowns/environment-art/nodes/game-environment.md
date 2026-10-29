@@ -100,6 +100,12 @@ variants:
           - work: held-using-blur-perceived-distance-size
             page: 1. Introduction
             quote: "The opposite effect is created in a photographic manipulation known as the tilt-shift effect: A full-size scene is made to look smaller by adding blur with either a special lens or postprocessing software tools."
+          - work: game-art-style-miniature-dioramas
+            page: Miniature dioramas
+            quote: "Elevated framing, small rounded architecture and soft shadows make worlds resemble models arranged on a tabletop."
+          - work: thumbsticks-video-game-dioramas
+            page: "Captain Toad: Treasure Tracker"
+            quote: "What makes Treasure Tracker such a joy is the fact its levels are restricted to diorama format."
       - id: toon-cel
         name: Toon or cel
         plain: The scene uses designed silhouettes and discrete light bands instead of continuous shading.

@@ -31,6 +31,8 @@ sources:
   - work: riot-games-a-story-of-fog-and-war
     page: A Story of Fog and War
     quote: "The old code was actually darkening areas of the map that were totally clear of the fog of war. This means that every texture created by artists was being rendered ever-so-slightly darker than intended. And nobody had noticed!"
-unverified: "The look shows a third state, ground seen earlier and kept dimmed rather than dark, which many strategy games use; the opened source covers only visible and fogged areas."
+  - work: blizzard-starcraft-2-map-elements
+    page: "Game Guide: Map Elements"
+    quote: "Dark areas have not yet been explored, while the grayed-out areas have (they simply are not within sight range of friendly units or structures)."
 deeper: "Vision states (visible, seen earlier, never seen), edge treatment (blur width, upscaling, antialiasing) and how fog colour and value sit inside the art direction."
 ---

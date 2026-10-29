@@ -5,20 +5,19 @@ aka:
   - busy board
   - busiest view
 kind: measure
-plain: "A fixed, repeatable camera view used to test the fullest expected on-screen load, captured through the game camera at the target screen size."
-does: "Gives readability checks and frame budgets one stable view for comparing peak load."
-ask: "At the busiest repeatable camera view, does the play read and does the frame stay inside budget?"
+plain: "A fixed, repeatable camera view used to test a stressful expected on-screen load, captured through the game camera at the target screen size."
+does: "Gives a reproducible performance case at target resolution and a visual clarity check for chaotic load."
+ask: "In a reproducible stressful scenario at target resolution, does the play remain clear and does performance stay within budget?"
 cues:
   - "The camera frame shows a dense, stressful scenario"
   - "The same camera view repeats at the target screen size"
   - "Routes, objects and threats remain distinct amid the crowded view"
-  - "A frame-time or profiler trace sits beside the scene capture"
+  - "A profiler trace records the same stressful run"
 range: "Use the game camera, target screen size and a repeatable capture of a stressful real-world scenario."
 at: [0.62, 0.05, 0.03]
 links:
   - {to: greyscale-check, rel: see also}
   - {to: performance-budget, rel: see also}
-unverified: "The opened sources support reproducible profiling, target-resolution capture, stressful real-world scenarios and clarity during chaotic fights. They do not explicitly define this as the busiest ground with every gameplay element, effect and interface, identify maximum entities or effects as required, or prescribe judging readability and frame budgets together because both fail first when the screen is fullest."
 sources:
   - work: epic-games-ue-performance-overview
     page: General Tips
