@@ -15,6 +15,7 @@ cues:
   - "Objects outside the focus plane soften without hiding the route"
 children:
   - fog
+  - exposure
   - tone-mapping
   - color-grading
   - depth-of-field

@@ -46,7 +46,10 @@ variants:
         name: Vertex colour
         plain: "Vertex colour stores blend data on terrain mesh vertices so the shader can mix materials without a separate full-resolution mask."
         why: "The method is data carried by mesh vertices. The visible colour of the ground is not the blend control."
-        unverified: "No opened page explicitly explains vertex-colour blending for terrain layers."
+        sources:
+          - work: epic-games-vertex-weight-painting
+            page: Vertex Color
+            quote: "You can use vertex color data in a material to blend between different texture layers based on a color value painted onto the mesh."
       - id: blend-height-based
         name: Height-based blend
         plain: "A layer's height map changes the blend edge so raised grains and stones sit above a filling material."

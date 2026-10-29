@@ -4,7 +4,7 @@ kind: book
 url: https://publishing.andrewsmcmeel.com/book/imaginative-realism/
 isbn: "9780740785504"
 canon:
-  why: "How to make an invented world believable with reference, maquettes and observed light. It teaches painting an invented scene, which comes before building one, and no page of the book could be opened, so no node cites it."
+  why: "How to make an invented world believable with reference, maquettes and observed light. It is named by both the environment-book and game-art lists, so it is canon for paintover methods; no page of the book could be opened, so the paintover node cites opened game sources."
   named: [80lv-11-books-game-artists, concept-art-empire-environment-books]
-  specialism: art fundamentals
+  specialism: paintover methods
 ---

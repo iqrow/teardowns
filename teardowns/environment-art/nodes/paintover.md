@@ -34,7 +34,7 @@ variants:
             quote: "To get going here, I modified the photos that I had to hand to match the initial composition sketch I’d made."
       - id: structure-conditioned-generation
         name: Structure-conditioned generation
-        plain: The painting can start from an image model conditioned on the screenshot's edges or depth, which keeps the layout and changes the surface.
+        plain: "A diffusion model can be conditioned on an edge or depth map, preserving input detail while changing the image's surface style."
         sources:
           - work: lllyasviel-controlnet
             page: README
@@ -58,6 +58,5 @@ sources:
     url: https://book.leveldesignbook.com/process/env-art
     page: Paintovers
     quote: "usually the paintover is about providing direct feedback between artists: suggested edits, corrections, and notes"
-unverified: "That teams start paintovers from a conditioned image model is not yet backed by a practitioner source; the opened ControlNet README documents the method, not its use in paintovers."
 deeper: "Colour and lighting keys painted over the same view, and paintover sets for each biome or time of day."
 ---

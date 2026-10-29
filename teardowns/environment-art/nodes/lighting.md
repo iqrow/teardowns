@@ -18,6 +18,8 @@ children:
   - shadows
   - ambient-occlusion
   - global-illumination
+  - sky
+  - volumetric-light
 at: [-1.7, 2.1, -1.1]
 links:
   - {to: surface-materials, rel: controls}

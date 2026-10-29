@@ -44,8 +44,18 @@ variants:
             quote: "Lumen is Unreal Engine's fully dynamic global illumination and reflections system"
       - id: flat-ambient
         name: Flat ambient
-        plain: "A broad constant lift used when a full bounce solution is unavailable or deliberately abstracted."
-        unverified: "The opened engine pages describe baked, probe and dynamic methods, but do not define flat ambient as a GI method."
+        plain: "A constant ambient-light term: one colour for all ambient light in the scene, useful for lifting overall brightness without adjusting individual lights."
+        sources:
+          - work: unity-ambient-light
+            page: Lighting window, Environment Lighting
+            url: https://docs.unity3d.com/ru/2020.1/Manual/lighting-window.html
+            quote: "Color: Use a flat color for all ambient light."
+          - work: unity-ambient-light
+            page: Ambient light
+            quote: "Ambient light, also known as diffuse environmental light, is light that is present all around the Scene and doesn’t come from any specific source object."
+          - work: unity-ambient-light
+            page: Ambient light
+            quote: "Ambient light can also be useful if you need to increase the overall brightness of a scene without adjusting individual lights."
 sources:
   - work: epic-games-lumen-global-illumination
     page: "Lumen Global Illumination"

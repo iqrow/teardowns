@@ -17,7 +17,6 @@ cues:
   - "Light and dark hierarchy remains visible"
 links:
   - {to: value-structure, rel: measured by}
-unverified: The opened sources do not specify the hue-removal step of a greyscale view.
 sources:
   - work: robert-yang-the-level-design-book
     page: Environment Art
@@ -27,4 +26,7 @@ sources:
     page: Environment Art
     url: https://book.leveldesignbook.com/process/env-art
     quote: "as we add additional visual details to the world, the level geometry becomes less distinct and more noisy."
+  - work: zurab-barisashvili-lovecraftian-environment
+    page: "A monochromatic pass is very important for figuring out the values and focus"
+    quote: "A monochromatic pass is very important for figuring out the values and focus"
 ---

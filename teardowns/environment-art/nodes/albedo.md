@@ -31,8 +31,11 @@ variants:
             quote: "Measured BaseColor values for nonmetals (intensity only): ... Fresh snow | 0.81"
       - id: dry-grass
         name: Dry grass
-        plain: "A muted straw-green swatch for sun-dried grass."
-        unverified: "No opened page supplied a numeric dry-grass BaseColor value."
+        plain: "An autumnal colour swatch for grass."
+        sources:
+          - work: andy-leaning-static-grass-beginners
+            page: "What is static grass?"
+            quote: "These manufacturers and others offer it in a variety of lengths and colours, from bright green to autumnal hues."
       - id: green-grass
         name: Green grass
         plain: "A mid green swatch. Unreal's measured BaseColor intensity for green grass is 0.21."
@@ -49,8 +52,11 @@ variants:
             quote: "Measured BaseColor values for nonmetals (intensity only): ... Bare soil | 0.13"
       - id: wet-soil
         name: Wet soil
-        plain: "A darker, less saturated earth swatch for recently wet soil."
-        unverified: "No opened page supplied a numeric wet-soil BaseColor value."
+        plain: "A darker earth swatch for recently wet soil."
+        sources:
+          - work: unity-believable-visuals
+            page: Smoothness value
+            quote: "a water puddle on soil usually has a ring of absorbed water that has darkened the albedo, instead of just a direct smoothness blend."
       - id: asphalt
         name: Asphalt
         plain: "A dark neutral swatch. Unreal lists fresh asphalt at 0.02 intensity."

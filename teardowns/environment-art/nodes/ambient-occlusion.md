@@ -38,13 +38,25 @@ variants:
             page: "Introduction to screen space ambient occlusion in URP"
             quote: "The Screen Space Ambient Occlusion effect darkens creases, holes, intersections and surfaces that are close to each other in real-time."
       - id: ground-truth-ao
-        name: Ground-truth AO (GTAO or HBAO)
-        plain: "A horizon or ray-based estimate that samples more of the surrounding geometry for a broader result."
-        unverified: "The opened pages did not provide a direct GTAO or HBAO definition."
+        name: Horizon/ground-truth AO (HBAO or GTAO)
+        plain: "A screen-space ambient-occlusion estimate from depth-buffer samples: HBAO approximates the AO integral, while GTAO's formulation is designed to match a ground-truth reference."
+        sources:
+          - work: nvidia-hbao-plus
+            page: Horizon-Based Ambient Occlusion
+            quote: "Unlike previous SSAO variants, HBAO uses a physically based algorithm that approximates an integral with depth buffer sampling."
+          - work: activision-gtao-practical-realtime-strategies
+            page: Abstract
+            quote: "In this work we introduce a new formulation of ambient occlusion, GTAO, which is able to match a ground truth reference in half a millisecond on current console hardware."
       - id: contact-shadows
         name: Contact shadows
-        plain: "A short-range shadow trace that closes the gap at a contact or crease."
-        unverified: "The opened pages did not provide a direct contact-shadow definition."
+        plain: "A per-light screen-space depth-buffer ray march toward the light source; its length controls how far the contact-shadow trace reaches."
+        sources:
+          - work: epic-games-contact-shadows
+            page: Contact Shadows
+            quote: "When you turn on Contact Shadows, you're directing the renderer to execute a per-pixel screen space algorithm on a per-light basis."
+          - work: epic-games-contact-shadows
+            page: Contact Shadows
+            quote: "By setting the Contact Shadow's length to a value greater than 0, you're directing the renderer to trace rays from a pixel's position toward the light source through the scene's depth buffer."
 sources:
   - work: unity-ssao
     page: "Introduction to screen space ambient occlusion in URP"

@@ -38,6 +38,10 @@ sources:
   - work: unity-static-batching
     page: Introduction to static batching
     quote: "Static batching can improve performance, memory efficiency, and reduce CPU overhead, leading to a smoother frame rate and better player experience."
+  - work: randima-fernando-gpu-gems
+    url: https://developer.nvidia.com/gpugems/gpugems/part-v-performance-and-practicalities/chapter-28-graphics-pipeline-performance
+    page: Chapter 28, Graphics Pipeline Performance
+    quote: "Every API function call to draw geometry has an associated CPU cost, so maximizing the number of triangles submitted with every draw call will minimize the CPU work done for a given number of triangles rendered."
 unverified: "The opened documentation does not establish that CPU overhead is fixed across hardware, drivers, materials or render states."
 deeper: "Batching and instancing; culling; merged materials and atlases."
 ---
