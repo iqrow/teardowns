@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"dial","shape":"cylinder","radiusTop":0.38,"radiusBottom":0.38,"height":0.12,"pos":[0,0.12,0],"rot":[90,0,0],"color":"#d9dbe0","material":"matte"},
+      {"slot":"face","shape":"plane","size":[0.62,0.62],"pos":[0,0.15,0.07],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 124 124\"><circle cx=\"62\" cy=\"62\" r=\"58\" fill=\"#f4f5f7\" stroke=\"#3b6ea8\" stroke-width=\"4\"/><path d=\"M62 62 91 30\" stroke=\"#c8432f\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"62\" cy=\"62\" r=\"8\" fill=\"#3a3f47\"/><text x=\"62\" y=\"103\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#3a3f47\">MAX 2</text></svg>"},
+      {"slot":"queue","shape":"box","size":[0.82,0.16,0.22],"pos":[0,0.62,0],"radius":0.04,"color":"#e0a526","material":"gloss"},
+      {"shape":"particles","count":24,"box":[0.65,0.18,0.24],"pos":[0,0.9,0],"size":0.025,"color":"#3b6ea8","motion":"settle"}
+    ]
+  }
+}

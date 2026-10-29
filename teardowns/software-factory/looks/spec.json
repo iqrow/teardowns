@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "clipboard", "shape": "box", "size": [0.8, 1.05, 0.04], "pos": [0, 0.55, 0], "color": "#8a6a3e", "material": "matte", "radius": 0.03 },
+      { "slot": "clip", "shape": "box", "size": [0.3, 0.08, 0.06], "pos": [0, 1.05, 0.03], "color": "#8a8f98", "material": "metal", "radius": 0.01 },
+      { "slot": "sheet", "shape": "plane", "size": [0.72, 0.9], "pos": [0, 0.52, 0.021],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 144 180\"><rect width=\"144\" height=\"180\" fill=\"#fdfaf2\"/><g font-family=\"Liberation Sans, Arial, sans-serif\" fill=\"#3a2a16\"><text x=\"10\" y=\"24\" font-size=\"14\" font-weight=\"700\">SPEC</text><text x=\"10\" y=\"40\" font-size=\"9\">Retry failed payments</text><text x=\"10\" y=\"62\" font-size=\"9.5\" font-weight=\"700\">Acceptance criteria</text><text x=\"24\" y=\"80\" font-size=\"9\">user can retry once</text><text x=\"24\" y=\"96\" font-size=\"9\">error is logged</text><text x=\"24\" y=\"112\" font-size=\"9\">no double charge</text><text x=\"10\" y=\"136\" font-size=\"9.5\" font-weight=\"700\">Out of scope</text><text x=\"10\" y=\"150\" font-size=\"9\">new payment page</text><text x=\"10\" y=\"170\" font-size=\"9.5\" font-weight=\"700\">Open: refund rule?</text></g><g fill=\"none\" stroke=\"#3a2a16\" stroke-width=\"1.1\"><rect x=\"10\" y=\"72\" width=\"9\" height=\"9\"/><rect x=\"10\" y=\"88\" width=\"9\" height=\"9\"/><rect x=\"10\" y=\"104\" width=\"9\" height=\"9\"/></g></svg>" }
+    ]
+  }
+}

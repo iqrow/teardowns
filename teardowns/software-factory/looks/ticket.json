@@ -1,0 +1,8 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.1,0.72,0.05],"pos":[0,0,0],"radius":0.05,"color":"#d8cfbf","material":"matte"},
+      {"slot":"card","shape":"plane","size":[1.03,0.65],"pos":[0,0.02,0.035],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 206 130\"><rect width=\"206\" height=\"130\" rx=\"9\" fill=\"#fff\" stroke=\"#6b5bd2\" stroke-width=\"3\"/><text x=\"16\" y=\"26\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#332d74\">TICKET</text><rect x=\"16\" y=\"38\" width=\"54\" height=\"16\" rx=\"8\" fill=\"#6b5bd2\"/><text x=\"43\" y=\"50\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" fill=\"#fff\">READY</text><line x1=\"16\" y1=\"73\" x2=\"190\" y2=\"73\" stroke=\"#c9c5ee\" stroke-width=\"3\"/><line x1=\"16\" y1=\"91\" x2=\"150\" y2=\"91\" stroke=\"#ddd\" stroke-width=\"3\"/><text x=\"16\" y=\"116\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#5b5590\">owner  ·  links  ·  state</text></svg>"}
+    ]
+  }
+}

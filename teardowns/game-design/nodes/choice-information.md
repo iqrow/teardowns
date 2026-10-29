@@ -1,6 +1,6 @@
 ---
 term: Decision information
-aka: [what I know before choosing]
+aka: [what I know before choosing, surface information]
 kind: concept
 plain: Decision information is the evidence available before commitment, including the current state, known rules and clues about other players. Uncertainty can be intentional; missing rule explanations are a different problem.
 does: Makes choices reasoned bets rather than guesses with no learnable basis.

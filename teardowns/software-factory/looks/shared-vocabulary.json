@@ -1,0 +1,12 @@
+{
+  "look": {
+    "parts": [
+      { "slot": "book", "shape": "box", "size": [0.62, 0.9, 0.14], "pos": [-0.35, 0.47, 0], "color": "#6b5bd2", "material": "gloss", "radius": 0.03 },
+      { "slot": "book-title", "shape": "plane", "size": [0.5, 0.2], "pos": [-0.35, 0.68, 0.071],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 125 50\"><text x=\"62\" y=\"32\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"19\" font-weight=\"700\" fill=\"#ffffff\">GLOSSARY</text></svg>" },
+      { "slot": "entry-card", "shape": "box", "size": [0.86, 0.6, 0.02], "pos": [0.42, 0.42, 0.1], "color": "#fdfaf2", "material": "matte", "radius": 0.03 },
+      { "slot": "entry", "shape": "plane", "size": [0.82, 0.56], "pos": [0.42, 0.42, 0.111],
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 205 140\"><rect width=\"205\" height=\"140\" rx=\"6\" fill=\"#fdfaf2\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"12\" y=\"34\" font-size=\"20\" font-weight=\"700\" fill=\"#2a2a2e\">Run</text><text x=\"12\" y=\"64\" font-size=\"11\" fill=\"#333\">One execution of one task.</text><text x=\"12\" y=\"84\" font-size=\"11\" fill=\"#333\">Ends when the agent stops.</text><text x=\"12\" y=\"118\" font-size=\"11\" font-weight=\"700\" fill=\"#c8432f\">Avoid: session</text></g></svg>" }
+    ]
+  }
+}

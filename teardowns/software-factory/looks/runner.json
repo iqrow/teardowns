@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"shell","shape":"box","size":[2.2,1.4,1.3],"pos":[0,0.7,0],"radius":0.08,"color":"#3b6ea8","material":"matte"},
+      {"slot":"screen","shape":"plane","size":[1.45,0.75],"pos":[0,0.85,0.66],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 220\"><rect width=\"420\" height=\"220\" fill=\"#172638\"/><text x=\"24\" y=\"38\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"19\" font-weight=\"800\" fill=\"#f3efe4\">RUNNER / RUN-184</text><text x=\"24\" y=\"78\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" fill=\"#9cc5ed\">clean image · 4 vCPU · 16 GB</text><rect x=\"24\" y=\"106\" width=\"150\" height=\"24\" rx=\"12\" fill=\"#2e9b4f\"/><text x=\"42\" y=\"123\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#fff\">IN PROGRESS</text><text x=\"24\" y=\"170\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" fill=\"#f3efe4\">workspace: /work/run-184</text></svg>"},
+      {"slot":"cache","shape":"box","size":[0.62,0.18,0.22],"pos":[-0.67,0.28,0.69],"radius":0.03,"color":"#e0a526","material":"metal"},
+      {"slot":"timeout","shape":"cylinder","radiusTop":0.16,"radiusBottom":0.16,"height":0.08,"pos":[0.7,0.28,0.69],"rot":[90,0,0],"color":"#f3efe4","material":"metal"},
+      {"slot":"egress","shape":"box","size":[0.28,0.52,0.08],"pos":[0.94,0.9,0.68],"radius":0.03,"color":"#2e9b4f","material":"gloss"},
+      {"slot":"secret","shape":"box","size":[0.28,0.52,0.06],"pos":[-0.94,0.9,0.7],"radius":0.02,"color":"#f3efe4","material":"gloss"},
+      {"slot":"sandbox","shape":"box","size":[2.6,1.75,1.7],"pos":[0,0.875,0],"color":"#9cc4f0","material":"glass","opacity":0.15}
+    ]
+  }
+}

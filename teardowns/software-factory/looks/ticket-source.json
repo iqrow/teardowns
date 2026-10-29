@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.15,0.72,0.1],"pos":[0,0.1,0],"radius":0.06,"color":"#8a8f98","material":"matte"},
+      {"slot":"inbox","shape":"plane","size":[1.06,0.58],"pos":[0,0.14,0.06],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 212 116\"><rect width=\"212\" height=\"116\" rx=\"8\" fill=\"#f4f5f7\" stroke=\"#8a8f98\" stroke-width=\"3\"/><text x=\"14\" y=\"24\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#3a3f47\">INTAKE</text><circle cx=\"29\" cy=\"57\" r=\"13\" fill=\"#e8743b\"/><path d=\"M54 57h36M118 57h36\" stroke=\"#6b5bd2\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle cx=\"176\" cy=\"57\" r=\"13\" fill=\"#2e9b4f\"/><text x=\"14\" y=\"94\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#5a5f68\">feedback · alert · report</text></svg>"},
+      {"slot":"signal","shape":"particles","count":32,"box":[0.7,0.22,0.05],"pos":[-0.7,0.48,0.08],"size":0.025,"color":"#e8743b","motion":"drift"}
+    ]
+  }
+}

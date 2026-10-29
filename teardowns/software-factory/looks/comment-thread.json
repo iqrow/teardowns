@@ -1,0 +1,8 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[1.05,1.0,0.05],"pos":[0,0.5,0],"radius":0.04,"color":"#d8cfbf","material":"matte"},
+      {"slot":"thread","shape":"plane","size":[0.96,0.9],"pos":[0,0.52,0.035],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 180\"><rect width=\"192\" height=\"180\" fill=\"#fff\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"12\" y=\"22\" font-size=\"13\" font-weight=\"700\" fill=\"#332d74\">DISCUSSION</text><path d=\"M14 48h90v30H14z\" fill=\"#efeefa\" stroke=\"#aaa4dd\"/><path d=\"M88 92h88v30H88z\" fill=\"#fdf1ea\" stroke=\"#e8743b\"/><path d=\"M26 61h56M100 105h54\" stroke=\"#5b5590\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"28\" cy=\"148\" r=\"10\" fill=\"#6b5bd2\"/><circle cx=\"56\" cy=\"148\" r=\"10\" fill=\"#e8743b\"/></g></svg>"}
+    ]
+  }
+}

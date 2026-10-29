@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"boundary","shape":"box","size":[2.2,1.35,0.16],"pos":[0,0.68,0],"radius":0.08,"color":"#8a8f98","material":"metal"},
+      {"slot":"layers","shape":"plane","size":[1.65,0.9],"pos":[0,0.78,0.1],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260\"><rect width=\"480\" height=\"260\" rx=\"12\" fill=\"#252a32\"/><rect x=\"22\" y=\"26\" width=\"436\" height=\"54\" rx=\"8\" fill=\"#3b6ea8\"/><text x=\"42\" y=\"61\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#fff\">RUNNER ISOLATION</text><rect x=\"22\" y=\"96\" width=\"210\" height=\"54\" rx=\"8\" fill=\"#e0a526\"/><text x=\"40\" y=\"129\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" font-weight=\"800\" fill=\"#252a32\">UNTRUSTED INPUT</text><rect x=\"248\" y=\"96\" width=\"210\" height=\"54\" rx=\"8\" fill=\"#c8432f\"/><text x=\"266\" y=\"129\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">SIDE EFFECTS</text><rect x=\"22\" y=\"166\" width=\"436\" height=\"54\" rx=\"8\" fill=\"#2e9b4f\"/><text x=\"42\" y=\"199\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"17\" font-weight=\"800\" fill=\"#fff\">GATES · IDENTITY · EGRESS</text></svg>"},
+      {"slot":"prompt","shape":"box","size":[0.3,0.5,0.1],"pos":[-0.75,0.35,0.17],"radius":0.03,"color":"#e0a526","material":"gloss"},
+      {"slot":"least","shape":"box","size":[0.3,0.5,0.1],"pos":[0.75,0.35,0.17],"radius":0.03,"color":"#2e9b4f","material":"gloss"}
+    ]
+  }
+}

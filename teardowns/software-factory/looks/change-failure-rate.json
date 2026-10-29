@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"dial","shape":"cylinder","radiusTop":0.45,"radiusBottom":0.45,"height":0.1,"pos":[0,0.5,0],"rot":[90,0,0],"color":"#f4f5f7","material":"matte"},
+      {"slot":"red-zone","shape":"torus","radius":0.3,"tube":0.08,"pos":[0,0.5,0.08],"rot":[90,0,0],"color":"#c8432f","material":"gloss"},
+      {"slot":"needle","shape":"box","size":[0.04,0.33,0.04],"pos":[-0.12,0.68,0.14],"rot":[0,0,-30],"color":"#3a3f47","material":"metal"},
+      {"slot":"label","shape":"plane","size":[1.2,0.3],"pos":[0,1.04,0.08],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 60\"><rect width=\"240\" height=\"60\" rx=\"9\" fill=\"#fff4f1\"/><text x=\"120\" y=\"38\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#8f2f24\">PROD FAILURES / DEPLOYS</text></svg>"}
+    ]
+  }
+}

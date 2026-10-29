@@ -1,0 +1,12 @@
+{
+  "look": {
+    "parts": [
+      {"slot":"housing","shape":"box","size":[1.18,1.55,0.1],"pos":[0,0.78,0],"radius":0.05,"color":"#e8743b","material":"matte"},
+      {"slot":"screen","shape":"plane","size":[1.06,1.4],"pos":[0,0.8,0.06],"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 212 280\"><rect width=\"212\" height=\"280\" fill=\"#fdf6f1\"/><g font-family=\"Liberation Sans, Arial, sans-serif\"><text x=\"14\" y=\"25\" font-size=\"14\" font-weight=\"700\" fill=\"#5a2a12\">REPOSITORY</text><path d=\"M30 72v90M30 102h70M100 102v70M100 140h64\" stroke=\"#e8743b\" stroke-width=\"5\" fill=\"none\"/><circle cx=\"30\" cy=\"72\" r=\"9\" fill=\"#6b5bd2\"/><circle cx=\"30\" cy=\"102\" r=\"9\" fill=\"#e8743b\"/><circle cx=\"100\" cy=\"102\" r=\"9\" fill=\"#2e9b4f\"/><circle cx=\"100\" cy=\"172\" r=\"9\" fill=\"#3b6ea8\"/><circle cx=\"164\" cy=\"140\" r=\"9\" fill=\"#c8432f\"/><text x=\"14\" y=\"225\" font-size=\"11\" fill=\"#5a2a12\">branch · diff · checks · merge</text></g></svg>"},
+      {"slot":"pr","shape":"plane","size":[0.42,0.32],"pos":[-0.3,0.55,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 84 64\"><rect width=\"84\" height=\"64\" rx=\"5\" fill=\"#fff\" stroke=\"#e8743b\" stroke-width=\"2\"/><text x=\"8\" y=\"18\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#5a2a12\">PR</text><circle cx=\"14\" cy=\"37\" r=\"5\" fill=\"#2e9b4f\"/><circle cx=\"30\" cy=\"37\" r=\"5\" fill=\"#2e9b4f\"/><rect x=\"46\" y=\"31\" width=\"30\" height=\"12\" rx=\"4\" fill=\"#2e9b4f\"/></svg>"},
+      {"slot":"identity","shape":"plane","size":[0.32,0.22],"pos":[0.24,1.02,0.1],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 44\"><rect width=\"64\" height=\"44\" rx=\"7\" fill=\"#3a3f47\"/><circle cx=\"21\" cy=\"22\" r=\"10\" fill=\"#f3efe4\"/><path d=\"M37 15h18M37 23h12M37 31h16\" stroke=\"#fff\" stroke-width=\"3\"/></svg>"},
+      {"slot":"gate","shape":"box","size":[0.1,0.46,0.1],"pos":[0.32,0.42,0.1],"color":"#c8432f","material":"gloss"},
+      {"slot":"hook","shape":"torus","radius":0.16,"tube":0.025,"pos":[0.34,0.82,0.1],"rot":[90,0,0],"color":"#f3efe4","material":"metal"}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"cylinder","radiusTop":0.42,"radiusBottom":0.42,"height":0.32,"pos":[0,0.16,0],"rot":[90,0,0],"color":"#3a3f47","material":"metal"},
+      {"slot":"receiver","shape":"box","size":[0.62,0.7,0.42],"pos":[0,0.55,0],"radius":0.08,"color":"#8a8f98","material":"matte"},
+      {"slot":"header","shape":"plane","size":[0.52,0.32],"pos":[0,0.57,0.23],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 104 64\"><rect width=\"104\" height=\"64\" rx=\"6\" fill=\"#f4f5f7\"/><text x=\"8\" y=\"20\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#3a3f47\">X-HUB-SIGNATURE</text><text x=\"8\" y=\"40\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"10\" fill=\"#c8432f\">sha256=...</text></svg>"},
+      {"slot":"packet","shape":"particles","count":28,"box":[0.4,0.24,0.25],"pos":[0,0.95,0.28],"size":0.025,"color":"#e8743b","motion":"drift"}
+    ]
+  }
+}

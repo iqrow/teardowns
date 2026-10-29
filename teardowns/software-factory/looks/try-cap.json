@@ -1,0 +1,9 @@
+{
+  "look": {
+    "parts": [
+      {"shape":"box","size":[0.9,0.82,0.08],"pos":[0,0.42,0],"radius":0.08,"color":"#c8432f","material":"matte"},
+      {"slot":"counter","shape":"plane","size":[0.74,0.66],"pos":[0,0.45,0.05],"face":"camera","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 148 132\"><rect width=\"148\" height=\"132\" rx=\"10\" fill=\"#fff4f1\"/><text x=\"74\" y=\"33\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#8f2f24\">ATTEMPTS</text><text x=\"74\" y=\"89\" text-anchor=\"middle\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"42\" font-weight=\"700\" fill=\"#c8432f\">3 / 3</text></svg>"},
+      {"slot":"stop","shape":"box","size":[0.62,0.12,0.12],"pos":[0,0.02,0.08],"radius":0.04,"color":"#3a3f47","material":"gloss"}
+    ]
+  }
+}

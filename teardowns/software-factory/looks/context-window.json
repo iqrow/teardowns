@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.22,
+    "energy": 0.45,
+    "weight": 0.15,
+    "warmth": 0.38,
+    "grain": 0.68,
+    "motion": "pulse",
+    "why": "A finite, crowded working surface pulses as each turn adds another token."
+  }
+}
