@@ -8,7 +8,7 @@ plain: The deliberate work of choosing a problem, adding triggers and services i
 does: Turns an automation idea into a small system that earns more autonomy as evidence comes in.
 ask: What is the smallest useful loop, what can stop it, and what evidence earns the next level?
 at: [2.55, 0.21, 0.85]
-children: [start-slow, buy-vs-build, autonomy-level, human-re-entry, slop, human-role, factory-evals, trust-loop, improvement-loop]
+children: [start-slow, buy-vs-build, autonomy-level, human-re-entry, agent-persona, slop, human-role, factory-evals, trust-loop, improvement-loop]
 sources:
   - work: anthropic-building-effective-agents
     page: When (and when not to) use agents

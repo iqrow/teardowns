@@ -1,0 +1,11 @@
+{
+  "feel": {
+    "shape": 0.55,
+    "energy": 0.78,
+    "weight": -0.08,
+    "warmth": 0.55,
+    "grain": 0.5,
+    "motion": "jitter",
+    "why": "A bark is a quick, bright burst that punctuates play when hidden state changes."
+  }
+}
