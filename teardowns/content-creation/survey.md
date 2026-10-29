@@ -152,6 +152,154 @@ lists:
     label: "BFI, All about… film sound and how we restore it (Reuben Library reading list)"
     url: "https://www.bfi.org.uk/features/all-about-film-sound-how-we-restore-it"
     kind: publisher
+  - id: md-school-of-motion-books
+    label: "School of Motion, 10 Great Books for After Effects Artists"
+    url: https://schoolofmotion.com/blog/books-for-after-effects
+    kind: practitioner
+  - id: md-guvi-motion-books
+    label: "HCL GUVI, 8 Best Books to Learn Motion Graphics Design"
+    url: https://www.guvi.in/blog/best-books-to-learn-motion-graphics-design/
+    kind: practitioner
+  - id: md-routledge-motion-graphics
+    label: "Routledge, Motion Graphics Books catalogue"
+    url: https://www.routledge.com/arts/filmmaking-and-postproduction/motion-graphics
+    kind: publisher
+  - id: md-uppsala-motion-graphics
+    label: "Uppsala University, Motion Graphics: An Introduction reading list"
+    url: https://www.uu.se/en/study/reading-list?query=20938
+    kind: course
+  - id: md-citytech-motion-design
+    label: "New York City College of Technology, COMD 3521 Motion Design syllabus"
+    url: https://www.citytech.cuny.edu/communication-design/docs/courses/COMD3521.pdf
+    kind: course
+  - id: md-westminster-motion-graphics
+    label: "Westminster College, 2D Motion Graphics + Visual Effects syllabus"
+    url: https://www4.westminster.edu/resources/dean/view_course_syllabus.cfm?id=1335
+    kind: course
+  - id: md-kapiolani-motion-design
+    label: "Kapiolani Community College, ART 257 Motion Graphic Design course"
+    url: https://nma.kapiolani.hawaii.edu/gargiulo/v4/motion.html
+    kind: course
+  - id: md-goodreads-motion-design
+    label: "Goodreads Listopia, Motion Design shelf"
+    url: https://www.goodreads.com/shelf/show/motion-design
+    kind: community
+  - id: md-art-of-title
+    label: "Art of the Title, title sequence design publication and educational resource"
+    url: https://www.artofthetitle.com/about/
+    kind: practitioner
+  - id: md-tiff-title-design
+    label: "TIFF Higher Learning, Master Class with Film Title Designer Karin Fong selected bibliography"
+    url: https://s3.amazonaws.com/content.tiff.net/uploads/original/1b51adbbbb5aa67acbc77d01ef6fc80b.pdf
+    kind: conference
+  - id: md-skidmore-infographics
+    label: "Skidmore College, Books on Infographics subject guide"
+    url: https://libguides.skidmore.edu/c.php?g=35936&p=227979
+    kind: bibliography
+  - id: md-vmv-motion-guidelines
+    label: "VMV Studio, Motion in Brand Guidelines: How to Document the Way Your Brand Moves"
+    url: https://www.vmv.studio/post/motion-brand-guidelines
+    kind: practitioner
+  - id: md-ibm-carbon-motion
+    label: "IBM Carbon Design System, Motion guidelines"
+    url: https://www.carbondesignsystem.com/building-blocks/foundations/motion/overview
+    kind: publisher
+  - id: md-material-motion-guidelines
+    label: "Google Material Design, Duration and easing motion guidelines"
+    url: https://m1.material.io/motion/duration-easing.html
+    kind: publisher
+  - id: md-microsoft-fluent-motion
+    label: "Microsoft Fluent 2 Design System, Motion guidelines"
+    url: https://fluent2.microsoft.design/motion
+    kind: publisher
+  - id: md-dropbox-motion-guidelines
+    label: "Dropbox Brand Guidelines, Motion"
+    url: https://brand.dropbox.com/motion
+    kind: publisher
+  - id: md-indeed-motion-guidelines
+    label: "Indeed Design, Motion brand guidelines"
+    url: https://indeed.design/brand/motion/
+    kind: publisher
+  - id: md-romaniuk-distinctive-assets
+    label: "Jenni Romaniuk, Building Distinctive Brand Assets book page"
+    url: https://www.jenniromaniuk.com/books
+    kind: bibliography
+  - id: md-ehrenberg-distinctive-assets
+    label: "Ehrenberg-Bass Institute, Brands of Distinction"
+    url: https://marketingscience.info/news-and-insights/brands-of-distinction
+    kind: community
+  - id: gfx-vandelay-motion-books
+    label: "Vandelay Design, Best Motion Graphics Books For Designers: The Ultimate Collection"
+    url: https://www.vandelaydesign.com/motion-graphics-books/
+    kind: practitioner
+  - id: gfx-ravensbourne-motion-typography
+    label: "Ravensbourne University, Motion Typography unit specification"
+    url: https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-09/MGR-type-in-motion_1.pdf
+    kind: course
+  - id: gfx-vcu-motion-graphics
+    label: "Virginia Commonwealth University Libraries, Motion Graphics subject guide"
+    url: https://guides.library.vcu.edu/graphic-design/motion-graphics
+    kind: bibliography
+  - id: gfx-qut-motion-graphics
+    label: "Queensland University of Technology, Motion Graphics visual communication guide"
+    url: https://libguides.library.qut.edu.au/Visual_Communication/MotionGraphics
+    kind: bibliography
+  - id: gfx-deanza-preproduction
+    label: "De Anza College, F/TV 72G Animated Film Pre-Production Workshop"
+    url: https://www.deanza.edu/schedule/_download.php?id=2422+target%3D
+    kind: course
+  - id: gfx-deanza-storyboard
+    label: "De Anza College, F/TV 70A Storyboard and Visual Development for Animation"
+    url: https://www.deanza.edu/schedule/_download.php?id=5901+target%3D
+    kind: course
+  - id: gfx-broadcast-design-syllabus
+    label: "International University of Sarajevo, Television Broadcast Design syllabus"
+    url: https://ecampus.ius.edu.ba/syllabus/va449-television-broadcast-design
+    kind: course
+  - id: gfx-animationhappyhour-resources
+    label: "Animation Happy Hour, Animation resources and recommended books"
+    url: https://www.animationhappyhour.com/animation-resources
+    kind: practitioner
+  - id: gfx-rgu-animation-syllabus
+    label: "Robert Gordon University, Animation and Visual Effects detailed syllabus"
+    url: https://www.rgu.ac/mobile-assets/department-all/dept-communication-media/new-updated-syllabus/bsc-animation-and-visualeffects-detailed-syllabus.pdf
+    kind: course
+  - id: gfx-suu-kinetic-typography
+    label: "Southern Utah University, ART 4260 Kinetic Typography syllabus"
+    url: https://my.suu.edu/syllabus/202530/ART-4260-01/
+    kind: course
+  - id: gfx-storyboardart-books
+    label: "StoryboardArt.org, Storyboarding books"
+    url: https://storyboardart.org/books/
+    kind: community
+  - id: md-oxford-brookes-brand-management
+    label: "Oxford Brookes University, MARK7010 Strategic Brand Management reading list"
+    url: https://brookes.rl.talis.com/lists/28200C19-2181-C207-4457-63071F9C2E3A/bibliography.pdf?style=harvard-cite-them-right
+    kind: course
+  - id: anim-animationapprentice-reading-list
+    label: "Animation Apprentice, Recommended Reading for Animators and Animation Students"
+    url: https://www.animationapprentice.org/reading-list.html
+    kind: course
+  - id: anim-bfi-30-essential-animation-books
+    label: "BFI (British Film Institute), 30 essential books about animation"
+    url: https://www.bfi.org.uk/features/30-essential-books-about-animation
+    kind: publisher
+  - id: anim-cityu-sm2713
+    label: "City University of Hong Kong, SM2713 2D Animation I course reading list"
+    url: https://www.cityu.edu.hk/ug/202526/course/SM2713.pdf
+    kind: course
+  - id: anim-creativebloq-animation-books
+    label: "Creative Bloq, The best animation books for artists"
+    url: https://www.creativebloq.com/buying-guides/best-animation-books
+    kind: practitioner
+  - id: anim-crishdesign-books
+    label: "Crish Design (Trish and Chris Meyer), The books behind the After Effects guides"
+    url: https://www.crishdesign.com/books.html
+    kind: practitioner
+  - id: anim-nyfa-12-principles
+    label: "New York Film Academy, Disney's 12 Principles of Animation"
+    url: https://www.nyfa.edu/student-resources/12-principles-of-animation/
+    kind: publisher
 voices:
   - name: Jimmy Donaldson (MrBeast)
     known: MrBeast is the creator behind large-scale YouTube challenge and entertainment videos and the Feastables business; his public interview covers idea outliers, packaging, story, thumbnail tests, production, and product decisions.
@@ -345,4 +493,124 @@ voices:
       - label: Designing A Movie For Sound
         url: https://www.asoundeffect.com/designing-a-movie-for-sound/
         kind: blog
+  - name: Ben Marriott
+    known: Motion designer and educator who has worked with Buck and brands including Google, Adobe and Coca-Cola; he teaches animation and design through YouTube, courses and public talks.
+    links:
+      - label: Ben Marriott about page
+        url: https://www.benmarriott.com/about
+        kind: site
+      - label: Ben Marriott YouTube channel
+        url: https://www.youtube.com/@BenMarriott
+        kind: video
+  - name: Jake Bartlett
+    known: Professional motion designer and educator who teaches After Effects and animation through Skillshare, School of Motion and his Jake In Motion YouTube channel.
+    links:
+      - label: Jake In Motion about page
+        url: https://www.jakeinmotion.com/about
+        kind: site
+      - label: Jake In Motion YouTube channel
+        url: https://www.youtube.com/jakeinmotion
+        kind: video
+  - name: Sander van Dijk
+    known: Motion designer who teaches advanced motion methods, technical workflows and freelance practice through courses for motion designers.
+    links:
+      - label: Sander van Dijk courses
+        url: https://www.sandervandijk.tv/courses
+        kind: site
+      - label: Advanced Motion Methods at School of Motion
+        url: https://www.schoolofmotion.com/courses/advanced-motion-methods
+        kind: site
+  - name: Austin Shaw
+    known: Motion designer and educator with client work for Spotify, Ralph Lauren and Apple; he teaches as an associate professor and wrote Design for Motion.
+    links:
+      - label: Austin Shaw about page
+        url: https://www.austinshaw.com/about
+        kind: site
+  - name: Emanuele Colombo
+    known: Award-winning motion designer working across brand identities, product motion and visual storytelling; he teaches Motion Secrets and speaks at design festivals.
+    links:
+      - label: Emanuele Colombo about page
+        url: https://www.emanuelecolombo.it/about-1
+        kind: site
+      - label: Motion Secrets at Motion Design School
+        url: https://motiondesign.school/courses/motion-secrets-with-emanuele-colombo/
+        kind: video
+  - name: Sarah Beth Morgan
+    known: Animation director, illustrator and online educator whose commercial work includes Chipotle, Ecobee and Google; she teaches illustration for motion and public workshops.
+    links:
+      - label: Sarah Beth Morgan about page
+        url: https://www.sarahbethmorgan.com/about
+        kind: site
+      - label: Sarah Beth Morgan on the School of Motion podcast
+        url: https://schoolofmotion.com/blog/podcast-illustration-for-motion-course-sarah-beth-morgan
+        kind: podcast
+  - name: Angie Taylor
+    known: Motion graphics artist, author and trainer who has delivered software demonstrations, seminars and custom training for organisations including the BBC, Channel 4 and MTV.
+    links:
+      - label: Angie Taylor author profile
+        url: https://www.peachpit.com/authors/bio/d2660c0f-f33a-4fac-bf89-6e342c4e3d3d
+        kind: site
+  - name: Joey Korenman
+    known: Motion designer, studio creative director and founder of School of Motion who teaches motion design, freelancing and professional practice through public videos and podcasts.
+    links:
+      - label: Motion Design Student Q&A with Joey Korenman
+        url: https://schoolofmotion.com/blog/motion-design-career-advice
+        kind: video
+      - label: The State of the Motion Design Industry podcast
+        url: https://schoolofmotion.com/blog/podcast-motion-design-industry
+        kind: podcast
+  - name: Lola Landekic
+    known: Art director, graphic designer and writer who edits Art of the Title, teaches communication design and typography in motion, and speaks at design conferences.
+    links:
+      - label: Art of the Title about page
+        url: https://www.artofthetitle.com/about/
+        kind: site
+      - label: Art of the Title publication
+        url: https://www.artofthetitle.com/
+        kind: blog
+  - name: Liz Blazer
+    known: Animator, filmmaker and educator who wrote Animated Storytelling and teaches visual storytelling, storyboarding and motion graphics.
+    links:
+      - label: Liz Blazer about page
+        url: https://www.lizblazer.com/about
+        kind: site
+      - label: Animated Storytelling
+        url: https://www.lizblazer.com/animated-storytelling
+        kind: site
+  - name: Barbara Brownie
+    known: Academic author and researcher whose work analyses kinetic typography, transforming letterforms and moving type in film titles, television idents and motion graphics.
+    links:
+      - label: Transforming Type at Bloomsbury
+        url: https://www.bloomsbury.com/us/transforming-type-9780857857675/
+        kind: site
+      - label: Barbara Brownie research profile
+        url: https://uhra.herts.ac.uk/id/eprint/16446/
+        kind: site
+  - name: Jeff Bellantoni
+    known: Designer and educator who co-authored Type in Motion and Moving Type, influential surveys of kinetic typography and digital graphics.
+    links:
+      - label: Type in Motion portfolio
+        url: https://typeinmotion.com/portfolio/bellantoni_portfolio.html
+        kind: site
+  - name: Matt Woolman
+    known: Designer, author and educator who co-authored Type in Motion and Moving Type and teaches typography, sequential design and motion.
+    links:
+      - label: Matt Woolman author archive
+        url: https://mattwoolman.com/about/
+        kind: site
+      - label: Kinetic typography article
+        url: https://mattwoolman.com/wp-content/uploads/2017/05/Kinetic-typography-AccessScience-from-McGraw-Hill-Education.pdf
+        kind: blog
+  - name: Jon Krasner
+    known: "Graphic design professor and practising artist who wrote Motion Graphic Design: Applied History and Aesthetics and teaches motion literacy, composition and sequencing."
+    links:
+      - label: Motion Graphic Design author page
+        url: https://www.routledge.com/Motion-Graphic-Design-Applied-History-and-Aesthetics/Krasner/p/book/9780240821139
+        kind: site
+  - name: Richard Harrington
+    known: Photographer, video and motion graphics educator who co-authored Broadcast Graphics On the Spot and teaches broadcast production.
+    links:
+      - label: Richard Harrington about page
+        url: https://www.richardharrington.com/about
+        kind: site
 ---
