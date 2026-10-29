@@ -1,0 +1,34 @@
+{
+ "look": {
+  "parts": [
+   {
+    "shape": "box",
+    "size": [
+     1.32,
+     0.78,
+     0.014
+    ],
+    "pos": [
+     0,
+     0,
+     -0.009
+    ],
+    "color": "#20242c",
+    "material": "matte"
+   },
+   {
+    "shape": "plane",
+    "size": [
+     1.32,
+     0.78
+    ],
+    "pos": [
+     0,
+     0,
+     0
+    ],
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 260\"><rect width=\"440\" height=\"260\" rx=\"14\" fill=\"#141922\"/><text x=\"20\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"16\" fill=\"#ffffff\" font-weight=\"800\" letter-spacing=\"1\">GRAPH EDITOR</text><rect x=\"248\" y=\"16\" width=\"64\" height=\"24\" rx=\"12\" fill=\"#20242c\" stroke=\"#54a0ff\" stroke-width=\"1.5\"/><text x=\"280\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#9cc4ff\" font-weight=\"700\" text-anchor=\"middle\">VALUE</text>\n   <rect x=\"320\" y=\"16\" width=\"64\" height=\"24\" rx=\"12\" fill=\"#1b2028\" stroke=\"#2a313d\" stroke-width=\"1.5\"/><text x=\"352\" y=\"32\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\" font-weight=\"700\" text-anchor=\"middle\">SPEED</text>\n   <rect x=\"40\" y=\"52\" width=\"168\" height=\"146\" rx=\"6\" fill=\"#1b2028\" stroke=\"#2a313d\" stroke-width=\"1.5\"/>\n   <path d=\"M52 178 C 88 178 118 66 196 62\" fill=\"none\" stroke=\"#54a0ff\" stroke-width=\"3\"/>\n   <line x1=\"52\" y1=\"178\" x2=\"88\" y2=\"178\" stroke=\"#54a0ff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" opacity=\"0.6\"/>\n   <path d=\"M52,171 L59,178 L52,185 L45,178 Z\" fill=\"#20242c\" stroke=\"#54a0ff\" stroke-width=\"2.5\"/><path d=\"M196,55 L203,62 L196,69 L189,62 Z\" fill=\"#20242c\" stroke=\"#54a0ff\" stroke-width=\"2.5\"/>\n   <text x=\"48\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\" font-weight=\"700\">VALUE</text>\n   <rect x=\"232\" y=\"52\" width=\"168\" height=\"146\" rx=\"6\" fill=\"#1b2028\" stroke=\"#2a313d\" stroke-width=\"1.5\"/>\n   <path d=\"M244 180 C 264 66 304 60 310 102 C 316 144 356 152 388 150\" fill=\"none\" stroke=\"#ff5f81\" stroke-width=\"3\"/>\n   <text x=\"240\" y=\"66\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\" font-weight=\"700\">SPEED</text>\n   <text x=\"40\" y=\"248\" font-family=\"Liberation Sans, Arial, sans-serif\" font-size=\"11\" fill=\"#8a8f99\">the speed graph peaks where the move is fastest</text></svg>"
+   }
+  ]
+ }
+}

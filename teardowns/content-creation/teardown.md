@@ -19,9 +19,13 @@ assembly:
     text: Set the frame shape, light and camera, put the mic close, and record clean takes of every line, reading from the prompter.
     adds: [script, aspect-ratio, framing, lighting, camera-settings, microphone, mic-distance, teleprompter, b-roll]
     makes: footage
+  - title: Make the graphics
+    text: Write down how your graphics move, design a few style frames to fix the look, and time each graphic to the recorded voice in an animatic. Then animate with keyframes, easing, timing and choreography, build the text and transitions, and save the pieces that recur as templates in the graphics package.
+    adds: [motion-identity, style-frame, animatic, kinetic-typography, transition, animation, graphics-package]
+    makes: motion-graphics
   - title: Edit
     text: Assemble, cut to a rough cut, tighten with jump cuts and lay room tone under them, add B-roll, graphics and captions inside the safe zone, split the edits where sound should lead or trail the picture, lay music and effects on their sync points, grade, mix to the loudness target, and export.
-    adds: [footage, rough-cut, jump-cut, room-tone, pacing, pattern-interrupt, motion-graphics, captions, safe-zone, split-edit, music-bed, sound-effects, silence, color-grade, loudness, export-settings]
+    adds: [footage, rough-cut, jump-cut, room-tone, pacing, pattern-interrupt, meme-insert, motion-graphics, captions, safe-zone, split-edit, music-bed, sound-effects, silence, color-grade, loudness, export-settings]
     makes: master-file
   - title: Screen it
     text: Show the cut to a few people, note where they get lost or bored, and fix those places.
