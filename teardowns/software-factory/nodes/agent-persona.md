@@ -18,6 +18,7 @@ cues:
   - A distinct reaction on success versus failure
 trouble: "The persona costs a person's attention: it interrupts, distracts from the work, or plays for engagement. Without a designed persona, status lines could be any agent's."
 at: [0.75, 0.45, 0.12]
+children: [silhouette]
 links:
   - {to: bot-identity, rel: see also}
   - {to: human-re-entry, rel: see also}
