@@ -44,7 +44,7 @@ variants:
         sources:
           - work: github-copilot-task-practices
             page: Researching, planning, and iterating before opening a pull request
-            quote: "you can use Copilot cloud agent to research a repository, create an implementation plan, and make iterative code changes on a branch first."
+            quote: "you can use Copilot to research a repository, create an implementation plan, and make iterative code changes on a branch first."
           - work: factory-software-factory
             page: Popular use cases
             url: https://docs.factory.com/software-factory/automations

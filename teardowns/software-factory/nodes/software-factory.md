@@ -50,7 +50,7 @@ variants:
         sources:
           - work: github-copilot-task-practices
             page: Pre-installing dependencies in GitHub Copilot's environment
-            quote: "While working on a task, Copilot has access to its own ephemeral development environment, powered by GitHub Actions, where it can explore your code, make changes, execute automated tests and linters and more."
+            quote: "Copilot has access to its own ephemeral development environment, either in a cloud sandbox or on GitHub Actions, where it can explore your code, make changes, execute automated tests and linters and more."
           - work: github-copilot-task-practices
             page: Adding custom instructions to your repository
             quote: "By adding custom instructions to your repository, you can guide Copilot on how to understand your project and how to build, test and validate its changes."
