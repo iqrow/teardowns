@@ -16,6 +16,6 @@ sources:
     quote: Let’s say the start of the video wasn’t well-lit, I didn’t match the expectations of the clickbait, I didn’t pre plan what I’d say, and we didn’t front load some interesting stuff for the first minute of content, we would have lost much less then 21 million people.
     flag: Circulated copy presented as a MrBeast production guide.
   - work: goteleprompter-average-speaking-rate-words-per
-    page: speaking-rate table and script-length formula
-    quote: For video content, 140–160 WPM is the range that sounds natural to most audiences.
+    page: Average Speaking Rate by Context; FAQ
+    quote: For video, 140–160 WPM sounds natural to most viewers.
 ---

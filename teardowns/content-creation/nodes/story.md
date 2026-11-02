@@ -19,6 +19,7 @@ trouble: "Retention slides steadily: points follow each other with no question
 children:
   - script
   - but-therefore
+  - foil
   - open-loop
   - payoff
   - structure-template
