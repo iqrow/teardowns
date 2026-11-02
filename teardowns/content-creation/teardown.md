@@ -12,8 +12,8 @@ assembly:
     adds: [idea, title, thumbnail, curiosity-gap]
     makes: packaging
   - title: Write the script
-    text: Open with the strongest moment, then link beats with “but” and “therefore”, keep a question open, and pay off the package. Cut to the shortest length that delivers.
-    adds: [packaging, hook, structure-template, but-therefore, open-loop, payoff, runtime]
+    text: Open with the strongest moment, then link beats with “but” and “therefore”, answer the strongest case against your point fairly, keep a question open, and pay off the package. Cut to the shortest length that delivers.
+    adds: [packaging, hook, structure-template, but-therefore, foil, open-loop, payoff, runtime]
     makes: script
   - title: Shoot
     text: Set the frame shape, light and camera, put the mic close, and record clean takes of every line, reading from the prompter.
