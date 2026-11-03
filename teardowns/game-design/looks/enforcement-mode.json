@@ -1,0 +1,5 @@
+{
+  "look": {"parts": [
+    {"shape":"plane","size":[1.65,1.08],"material":"screen","color":"#1e3242","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 216\"><rect x=\"12\" y=\"12\" width=\"306\" height=\"192\" rx=\"12\" fill=\"#1e3242\" stroke=\"#d9745f\" stroke-width=\"5\"/><path d=\"M55 160V75h55v85M138 160V95h55v65M221 160V52h55v108\" fill=\"#69a9c1\"/><path d=\"M45 160h245\" stroke=\"#fff\" stroke-width=\"5\"/><text x=\"165\" y=\"37\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#fff\">BREACH COST</text></svg>"}
+  ]}
+}

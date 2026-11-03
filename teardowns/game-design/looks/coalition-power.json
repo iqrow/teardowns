@@ -1,0 +1,5 @@
+{
+  "look": {"parts": [
+    {"shape":"plane","size":[1.6,1.1],"material":"screen","color":"#1e3242","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 220\"><rect x=\"15\" y=\"15\" width=\"290\" height=\"190\" rx=\"12\" fill=\"#1e3242\" stroke=\"#69a9c1\" stroke-width=\"5\"/><path d=\"M48 165h225M65 145V70M125 145V95M185 145V50M245 145V115\" stroke=\"#e6b84d\" stroke-width=\"18\"/><text x=\"160\" y=\"40\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#fff\">MARGINAL VALUE</text></svg>"}
+  ]}
+}

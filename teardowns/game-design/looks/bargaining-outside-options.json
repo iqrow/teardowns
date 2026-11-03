@@ -1,0 +1,7 @@
+{
+  "look": {"parts": [
+    {"shape":"box","size":[1.7,0.11,0.82],"pos":[0,-0.45,0],"color":"#263b4c","material":"matte"},
+    {"shape":"plane","size":[0.72,0.48],"pos":[-0.46,0.06,0.06],"material":"screen","color":"#e6b84d","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 144 96\"><text x=\"72\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" fill=\"#182838\">OFFER</text><path d=\"M25 62h94\" stroke=\"#182838\" stroke-width=\"5\"/></svg>"},
+    {"shape":"plane","size":[0.72,0.48],"pos":[0.46,0.06,0.06],"material":"screen","color":"#69a9c1","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 144 96\"><text x=\"72\" y=\"42\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" fill=\"#142635\">FALLBACK</text><path d=\"M25 62h94\" stroke=\"#142635\" stroke-width=\"5\"/></svg>"}
+  ]}
+}

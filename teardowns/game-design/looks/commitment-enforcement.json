@@ -1,0 +1,8 @@
+{
+  "look": {"parts": [
+    {"shape":"box","size":[1.56,0.22,0.96],"pos":[0,0,0],"color":"#263b4c","material":"metal"},
+    {"shape":"torus","radius":0.3,"tube":0.065,"rot":[90,0,0],"pos":[0,0.22,0.5],"color":"#e6b84d","material":"metal"},
+    {"shape":"box","size":[0.18,0.52,0.12],"pos":[0,0.04,0.5],"color":"#d9745f","material":"metal"},
+    {"shape":"plane","size":[1.35,0.26],"pos":[0,-0.45,0.5],"material":"screen","color":"#1d3040","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 270 52\"><text x=\"135\" y=\"33\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#fff\">PROMISE → COST</text></svg>"}
+  ]}
+}

@@ -252,4 +252,37 @@ voices:
       - label: Levelling The Playing Field newsletter
         url: https://ltpf.ramiismail.com/levelling-the-playing-field/
         kind: newsletter
+  - name: Branislav L. Slantchev
+    known: UC San Diego political scientist whose public game-theory lectures explain bargaining power, credible commitments, costly signals and screening.
+    links:
+      - label: Bargaining and Dynamic Commitment lecture
+        url: https://pages.ucsd.edu/~bslantchev/courses/ps12/04-bargaining-dynamic-commitment.pdf
+        kind: site
+  - name: Vincent Conitzer
+    known: Carnegie Mellon game-theory researcher and educator whose public lectures explain coalitional stability, repeated games and enforceable cooperation.
+    links:
+      - label: Cooperative/coalitional game theory lecture
+        url: https://www.cs.cmu.edu/~15784-s25/coalitional_games.pdf
+        kind: site
+      - label: Repeated games lecture
+        url: https://www.cs.cmu.edu/~15784-f22/repeated_games.pdf
+        kind: site
+  - name: Alexander Wolitzky
+    known: MIT economist and game-theory educator whose public lecture notes explain signaling, private information and receiver beliefs.
+    links:
+      - label: Signaling Games lecture
+        url: https://ocw.mit.edu/courses/14.126-game-theory-spring-2024/mit14_126_s24_lecture_3_signaling.pdf
+        kind: site
+  - name: Dave Eng
+    known: Educator, designer and researcher at Dave Eng Design and Ludogogy; practitioners listen for accessible analyses of agency, negotiation and kingmaking.
+    links:
+      - label: What is Kingmaking?
+        url: https://ludogogy.professorgame.com/what-is-kingmaking/
+        kind: blog
+  - name: Jay Kyburz
+    known: Iron Helmet developer of Neptune's Pride; practitioners can inspect his maker-authored alliance rules for fees, shared information and delayed exit.
+    links:
+      - label: Formal Alliances help
+        url: https://triton.ironhelmet.com/help/alliances
+        kind: site
 ---

@@ -1,0 +1,8 @@
+{
+  "look": {"parts": [
+    {"shape":"cylinder","radiusTop":0.48,"radiusBottom":0.48,"height":0.08,"pos":[0,-0.42,0],"color":"#293f50","material":"matte"},
+    {"shape":"torus","radius":0.4,"tube":0.06,"rot":[90,0,0],"pos":[0,0.03,0],"color":"#69a9c1","material":"metal"},
+    {"shape":"box","size":[0.08,0.38,0.08],"pos":[0,0.24,0.04],"color":"#e6b84d","material":"metal"},
+    {"shape":"box","size":[0.08,0.08,0.34],"pos":[0,0.24,0.04],"color":"#e6b84d","material":"metal"}
+  ]}
+}

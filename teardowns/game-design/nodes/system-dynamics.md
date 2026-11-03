@@ -5,7 +5,7 @@ kind: part
 plain: System dynamics are interacting loops of resources and rules—sources, drains, converters, traders and feedback—that shape play over time.
 does: Turns repeated actions into growth, pressure, scarcity and counterplay.
 ask: Which resource flows amplify, brake or constrain the core loop?
-children: [boosting-engine-instance, braking-engine-instance, economy-instance, ecology-instance, reinforcing-loop, balancing-loop]
+children: [boosting-engine-instance, braking-engine-instance, economy-instance, ecology-instance, reinforcing-loop, balancing-loop, multiplayer-incentives]
 at: [0.37, 0.18, 0.06]
 sources:
   - work: michael-sellers-advanced-game-design-a-systems

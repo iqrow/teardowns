@@ -1,0 +1,5 @@
+{
+  "look": {"parts": [
+    {"shape":"plane","size":[1.5,1.12],"material":"screen","color":"#233849","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 224\"><rect x=\"14\" y=\"14\" width=\"272\" height=\"196\" rx=\"12\" fill=\"#233849\" stroke=\"#69a9c1\" stroke-width=\"5\"/><path d=\"M40 64h220M40 104h220M40 144h145\" stroke=\"#c7d7df\" stroke-width=\"6\"/><path d=\"M214 160l18 18 30-36\" fill=\"none\" stroke=\"#e6b84d\" stroke-width=\"8\"/><text x=\"150\" y=\"39\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#fff\">DUTY</text></svg>"}
+  ]}
+}

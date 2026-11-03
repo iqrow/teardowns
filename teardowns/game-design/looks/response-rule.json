@@ -1,0 +1,5 @@
+{
+  "look": {"parts": [
+    {"shape":"plane","size":[1.6,1.08],"material":"screen","color":"#1f3344","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 216\"><rect x=\"12\" y=\"12\" width=\"296\" height=\"192\" rx=\"12\" fill=\"#1f3344\" stroke=\"#e6b84d\" stroke-width=\"5\"/><path d=\"M56 55h70v43H56zM194 55h70v43h-70zM56 130h70v43H56zM194 130h70v43h-70z\" fill=\"#69a9c1\"/><path d=\"M126 77h68M229 98v31M194 151h-68M91 130V98\" fill=\"none\" stroke=\"#fff\" stroke-width=\"5\"/><text x=\"160\" y=\"38\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#fff\">IF HISTORY, THEN RESPONSE</text></svg>"}
+  ]}
+}

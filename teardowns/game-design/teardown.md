@@ -35,9 +35,13 @@ assembly:
     text: Join goal, choice, action resolution, feedback and the changed state into the repeatable play cycle.
     adds: [goal-state, choice-point, action-resolution-step, feedback-step, state-change]
     makes: core-gameplay-loop
+  - title: Model multiplayer incentives
+    text: Set payoff preferences apart from victory labels, then define coalition membership, bargaining fallbacks, commitment rules, remembered responses, signals and externalities.
+    adds: [payoff-preferences, victory-aggregation, coalition-formation-rule, coalition-stability, coalition-power, bargaining-procedure, outside-option, bargaining-power, commitment-device, treaty-capabilities, treaty-obligations, treaty-transfers, treaty-duration, enforcement-mode, deviation-test, repeated-interaction, history-memory, response-rule, reputation-update, information-asymmetry, signal-design, signal-credibility, externality-structure, free-riding, balance-of-power, kingmaking]
+    makes: multiplayer-incentives
   - title: Add engines, economy and ecology
     text: Layer investment, brakes, resource exchanges and counter-pressure over the core loop.
-    adds: [boosting-engine-instance, braking-engine-instance, economy-instance, ecology-instance, reinforcing-loop, balancing-loop]
+    adds: [boosting-engine-instance, braking-engine-instance, economy-instance, ecology-instance, reinforcing-loop, balancing-loop, multiplayer-incentives]
     makes: system-dynamics
   - title: Shape progression
     text: Choose a curve, place gates and add capabilities at moments the player can understand.
