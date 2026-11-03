@@ -64,8 +64,8 @@ assembly:
     adds: [design-intent, playtest, observed-experience, iterate]
     makes: designer-loop
   - title: Put the system on screen
-    text: Render state and feedback in a readable layout on the selected device.
-    adds: [screen-surface, feedback-signals, interface-layout]
+    text: Give state and feedback distinct visual encodings, then arrange them in a readable layout on the selected device.
+    adds: [screen-surface, feedback-signals, interface-layout, visual-encoding]
     makes: screen-presentation
   - title: Assemble the simultaneous-turn window
     text: Join the WEGO plan–commit–resolve cycle, the commitment rule, conflict adjudication, planning information and asynchronous deadline into one decision window.

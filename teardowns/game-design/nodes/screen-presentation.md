@@ -9,7 +9,7 @@ cues:
   - Scene, controls and HUD in one view
   - Feedback beside the changing state
   - A next action the player can identify
-children: [screen-surface, feedback-signals, interface-layout]
+children: [screen-surface, feedback-signals, interface-layout, visual-encoding]
 at: [0.75, 0.38, 0.06]
 sources:
   - work: celia-hodent-cognitive-psychology-applied-to

@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.6, 0.9],
+        "material": "screen",
+        "color": "#29475a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\"><rect x=\"8\" y=\"8\" width=\"304\" height=\"164\" rx=\"12\" fill=\"#172b3a\" stroke=\"#88c9d9\" stroke-width=\"4\"/><text x=\"22\" y=\"31\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">FOREGROUND / BACKGROUND</text><rect x=\"22\" y=\"50\" width=\"126\" height=\"91\" rx=\"8\" fill=\"#0b1219\"/><text x=\"34\" y=\"76\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">READABLE</text><circle cx=\"55\" cy=\"105\" r=\"12\" fill=\"#e4b84d\" stroke=\"#fff\" stroke-width=\"3\"/><path d=\"M87 105h42\" stroke=\"#72c4db\" stroke-width=\"7\"/><rect x=\"172\" y=\"50\" width=\"126\" height=\"91\" rx=\"8\" fill=\"#a6aa9a\"/><text x=\"184\" y=\"76\" fill=\"#162a39\" font-family=\"sans-serif\" font-size=\"14\">READABLE</text><circle cx=\"205\" cy=\"105\" r=\"12\" fill=\"#4d7895\" stroke=\"#162a39\" stroke-width=\"3\"/><path d=\"M237 105h42\" stroke=\"#713b61\" stroke-width=\"7\"/><path d=\"M22 151h276\" stroke=\"#f4d36e\" stroke-width=\"3\"/><text x=\"93\" y=\"164\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"10\">LIGHT / DARK SUPPORT</text></svg>"
+      }
+    ]
+  }
+}

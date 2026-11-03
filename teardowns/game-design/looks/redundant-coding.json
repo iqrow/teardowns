@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.65, 0.9],
+        "material": "screen",
+        "color": "#29475a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 180\"><rect x=\"8\" y=\"8\" width=\"314\" height=\"164\" rx=\"12\" fill=\"#172b3a\" stroke=\"#88c9d9\" stroke-width=\"4\"/><text x=\"22\" y=\"32\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">REDUNDANT CODING</text><rect x=\"22\" y=\"49\" width=\"132\" height=\"92\" rx=\"8\" fill=\"#2b5b4d\"/><rect x=\"174\" y=\"49\" width=\"130\" height=\"92\" rx=\"8\" fill=\"#223847\"/><circle cx=\"53\" cy=\"84\" r=\"12\" fill=\"#e4b84d\"/><text x=\"73\" y=\"89\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">ALLY</text><path d=\"M42 118h24\" stroke=\"#e4b84d\" stroke-width=\"4\"/><text x=\"73\" y=\"123\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">DASHED</text><path d=\"M191 84h24\" stroke=\"#e4b84d\" stroke-width=\"6\"/><text x=\"225\" y=\"89\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">ALLY</text><path d=\"M191 118h24\" stroke=\"#e4b84d\" stroke-width=\"4\" stroke-dasharray=\"7 5\"/><text x=\"225\" y=\"123\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"12\">DASHED</text><text x=\"87\" y=\"158\" fill=\"#f4d36e\" font-family=\"sans-serif\" font-size=\"11\">COLOUR + TEXT + LINE</text></svg>"
+      }
+    ]
+  }
+}
