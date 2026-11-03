@@ -28,8 +28,8 @@ assembly:
     adds: [ai-personality, ai-difficulty]
     makes: ai-opponent
   - title: Open diplomacy
-    text: Add a trade screen and show the reasons each rival likes or dislikes the player.
-    adds: [relation-modifiers, deal-table]
+    text: Add formal deals and readable attitudes. Set the audience and timing of diplomatic messages, distinguish speech from enforced agreements, and ground AI dialogue in its plans.
+    adds: [relation-modifiers, deal-table, diplomatic-messaging, message-audience, negotiation-window, agreement-enforcement, strategy-grounded-dialogue, conversation-memory, message-attention, communication-controls]
     makes: diplomacy
   - title: Seat the rivals
     text: Put AI and human rivals on the map with diplomacy between them.
