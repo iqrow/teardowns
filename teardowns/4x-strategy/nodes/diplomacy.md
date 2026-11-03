@@ -6,7 +6,7 @@ plain: Talking and dealing with rivals through peace, war, trades, alliances and
 does: Gives ways to gain or lose without fighting.
 ask: Why would this rival accept the deal, and can the player see the reason?
 cues: [A leader screen with deal options, Treaty icons between empires]
-children: [relation-modifiers, deal-table]
+children: [relation-modifiers, deal-table, treaty-benefits, military-obligations, treaty-payments, treaty-lifecycle, diplomatic-information, coalition-victory]
 sources:
   - work: 2k-civ4-manual
     page: Diplomacy
