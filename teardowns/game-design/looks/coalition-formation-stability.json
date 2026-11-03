@@ -1,0 +1,9 @@
+{
+  "look": {"parts": [
+    {"shape":"sphere","radius":0.2,"pos":[-0.55,0.2,0],"color":"#e6b84d","material":"metal"},
+    {"shape":"sphere","radius":0.2,"pos":[0,0.48,0],"color":"#69a9c1","material":"metal"},
+    {"shape":"sphere","radius":0.2,"pos":[0.55,0.2,0],"color":"#d9745f","material":"metal"},
+    {"shape":"cylinder","radiusTop":0.035,"radiusBottom":0.035,"height":0.68,"rot":[0,0,57],"pos":[-0.28,0.34,0],"color":"#c7d7df","material":"metal"},
+    {"shape":"cylinder","radiusTop":0.035,"radiusBottom":0.035,"height":0.68,"rot":[0,0,-57],"pos":[0.28,0.34,0],"color":"#c7d7df","material":"metal"}
+  ]}
+}

@@ -1,0 +1,7 @@
+{
+  "look": {"parts": [
+    {"shape":"box","size":[0.54,0.8,0.1],"pos":[-0.5,0,0],"color":"#e6b84d","material":"metal"},
+    {"shape":"box","size":[0.54,0.5,0.1],"pos":[0.5,-0.15,0],"color":"#69a9c1","material":"metal"},
+    {"shape":"plane","size":[0.86,0.24],"pos":[0,0.55,0.04],"material":"screen","color":"#1d3141","svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 172 48\"><text x=\"86\" y=\"31\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" fill=\"#fff\">PRIVATE ≠ PUBLIC</text></svg>"}
+  ]}
+}

@@ -1,0 +1,8 @@
+{
+  "look": {"parts": [
+    {"shape":"torus","radius":0.52,"tube":0.07,"rot":[90,0,0],"color":"#69a9c1","material":"metal"},
+    {"shape":"sphere","radius":0.11,"pos":[0,0.52,0.01],"color":"#e6b84d","material":"glow","motion":"bob"},
+    {"shape":"sphere","radius":0.11,"pos":[0.45,-0.25,0.01],"color":"#d9745f","material":"glow","motion":"bob"},
+    {"shape":"sphere","radius":0.11,"pos":[-0.45,-0.25,0.01],"color":"#d9745f","material":"glow","motion":"bob"}
+  ]}
+}

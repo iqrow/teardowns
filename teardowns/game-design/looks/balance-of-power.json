@@ -1,0 +1,9 @@
+{
+  "look": {"parts": [
+    {"shape":"box","size":[1.45,0.09,0.08],"pos":[0,0.08,0],"color":"#ffffff","material":"metal"},
+    {"shape":"cylinder","radiusTop":0.08,"radiusBottom":0.08,"height":0.64,"pos":[0,-0.3,0],"color":"#69a9c1","material":"metal"},
+    {"shape":"box","size":[0.88,0.08,0.38],"pos":[-0.37,0.23,0],"color":"#e6b84d","material":"metal"},
+    {"shape":"box","size":[0.54,0.08,0.38],"pos":[0.37,0.23,0],"color":"#d9745f","material":"metal"},
+    {"shape":"sphere","radius":0.13,"pos":[0,0.52,0],"color":"#ffffff","material":"glow","motion":"bob"}
+  ]}
+}
