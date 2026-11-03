@@ -31,6 +31,18 @@ assembly:
     text: Add a trade screen and show the reasons each rival likes or dislikes the player.
     adds: [relation-modifiers, deal-table]
     makes: diplomacy
+  - title: Separate treaty benefits
+    text: Split map snapshots from live vision, direct technology from research assistance, and passage from every other promise.
+    adds: [treaty-benefits, map-sharing, one-time-map, live-vision, knowledge-sharing, direct-tech-transfer, research-assistance, passage-rights, treaty-payments, upfront-payment, recurring-payment, escrow-and-default]
+    makes: diplomacy
+  - title: Bind military promises
+    text: Specify nonaggression, defense triggers, target-specific joint wars, and whether an offensive binds the ally automatically.
+    adds: [military-obligations, nonaggression-pact, defense-trigger, joint-war, automatic-war-entanglement, treaty-lifecycle, duration-renewal, notice-war-escape]
+    makes: diplomacy
+  - title: Expose and enforce the bargain
+    text: Set public and private information, then define binding terms, defaults, notice, renewal, and war escape.
+    adds: [diplomatic-information, public-private-information, treaty-enforcement, coalition-victory, victory-membership-models]
+    makes: diplomacy
   - title: Seat the rivals
     text: Put AI and human rivals on the map with diplomacy between them.
     adds: [ai-opponent, diplomacy]
@@ -56,7 +68,7 @@ assembly:
     adds: [victory-conditions, late-game, catch-up, endgame-crisis, game-length]
     makes: victory
   - title: Play the whole game
-    text: Explore, expand, exploit and exterminate, turn by turn, until one empire wins.
+    text: Explore, expand, exploit and exterminate, turn by turn, until one empire or a qualifying coalition wins.
     adds: [map, expansion, economy, tech-tree, military, rivals, factions, turn, interface, victory, four-x-arc]
     makes: four-x-game
 ---

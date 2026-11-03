@@ -96,6 +96,10 @@ lists:
     label: "Escape Studios EXGD5002, Applied Games Design indicative reading list"
     url: "https://a.storyblok.com/f/181110/x/216d741c57/exgd5002-applied-games-design.pdf"
     kind: course
+  - id: wpi-imgd2500-strategy-games
+    label: "WPI IMGD 2500, Design of Tabletop Strategy Games syllabus"
+    url: "https://users.wpi.edu/~phillies/imgd2500D15.pdf"
+    kind: course
 voices:
   - name: "Soren Johnson"
     known: "Lead designer on Civilization IV and designer of Offworld Trading Company and Old World; he writes and interviews strategy designers about decisions, economies, and AI."
