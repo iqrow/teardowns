@@ -6,7 +6,7 @@ plain: "Curves that map a normalised input to a 0 to 1 consideration score."
 does: "Controls when a consideration becomes important, how sharply it changes, and where it saturates."
 ask: "Should this input matter steadily, suddenly, around a midpoint, or only past a threshold?"
 cues: ["A plotted input-to-score curve in a tuning tool", "A score that rises slowly then sharply near a danger point", "Several candidate actions with different curve shapes"]
-range: "Linear, quadratic, logistic and hand-tuned step-like curves are common choices."
+range: "Linear, quadratic, logistic, exponential and hand-tuned step-like curves are common choices."
 trouble: "A curve reacts too early, never becomes urgent, saturates too soon, or creates a hidden discontinuity."
 at: [-0.24, 0.82, 0.08]
 variants:
@@ -36,6 +36,14 @@ variants:
           - work: graham-utility-theory
             page: "Section 9.5.3"
             quote: "It’s one of several sigmoid functions that place the largest rate of change in the center of the input … range, trailing off at both ends as they approach 0 and 1."
+      - id: curve-exponential
+        name: Exponential
+        plain: "A saturating or decaying curve whose marginal change shrinks as the input grows, such as 1 - e^(-x/k) or e^(-kx)."
+        why: "It counts as exponential when an exponent controls the response's rate of change, producing a fast early change that tapers as the input grows."
+        sources:
+          - work: aitchison-utility-functions
+            page: "Exponential Decay section"
+            quote: "When the independent variable is small, a little increase leads to a substantial decrease in marginal utility. As the independent variable increases, the marginal utility decrease diminishes."
       - id: curve-step
         name: Step or piecewise
         plain: "A thresholded or hand-tuned curve made from selected points and segments."

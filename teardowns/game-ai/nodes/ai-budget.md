@@ -1,6 +1,6 @@
 ---
 term: AI budget
-aka: [think budget, CPU budget, time slice, level of detail]
+aka: [think budget, CPU budget, time slice, level of detail, compute load]
 kind: knob
 plain: "The time and computation allowed for sensing, scoring, planning and search in each update or turn."
 does: "Keeps the opponent inside its performance envelope by spending more effort where it matters and degrading gracefully elsewhere."
