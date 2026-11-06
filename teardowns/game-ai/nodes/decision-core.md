@@ -7,7 +7,7 @@ does: "Balances reactivity, authorial control, adaptability, clarity and computa
 ask: "What structure selects actions here, and what does it make easy or difficult to tune?"
 cues: ["A graph, tree, score table, plan chain, rule list or learned network in a debug view", "A visible decision trace that names the selected action", "Different actions selected when the same evidence changes"]
 trouble: "The structure is hard to inspect, cannot express a needed choice, or produces valid actions that look foolish to the player."
-children: [evaluation-function, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget]
+children: [evaluation-function, forward-model, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
 variants:
   - label: Architecture
     items:
@@ -65,7 +65,7 @@ variants:
             quote: "To achieve this, we're going to implement a rule-based system with a learning capability. We will achieve this learning by weighting each rule to reinforce some while suppressing others."
       - id: arch-search
         name: Game-tree search
-        plain: "A search through possible future game states, including minimax with alpha-beta pruning or Monte Carlo tree search."
+        plain: "A search through possible future game states, including minimax with alpha-beta pruning, Monte Carlo tree search, and variants that branch on both sides' orders at once."
         why: "It counts as game-tree search when the controller explores future action branches rather than only evaluating the current state."
         sources:
           - work: yannakakis-togelius-ai-and-games
@@ -74,6 +74,9 @@ variants:
           - work: yannakakis-togelius-ai-and-games
             page: "ch. 2, p. 45"
             quote: "The core loop of the MCTS algorithm can be divided into four steps: Selection, Expansion (the first two steps are also known as tree policy), Simulation and Back-propagation. The steps are also depicted in Fig. 2.7."
+          - work: tak-mcts-simultaneous-move
+            page: "Abstract, p. 1"
+            quote: "The extension to simultaneous move games, where all players choose moves simultaneously each turn, is non-trivial due to the complexity of this class of games."
       - id: arch-learned
         name: Learned policy
         plain: "A policy learned from examples, rewards or demonstrations that maps state information to actions."

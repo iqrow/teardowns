@@ -72,6 +72,78 @@ lists:
     label: "GDC Vault, AI talks browse list"
     url: "https://gdcvault.com/browse/?categories=Ai&media=v"
     kind: conference
+  - id: wego-oxford-cgt-2026
+    label: "University of Oxford, Computational Game Theory course"
+    url: "https://www.cs.ox.ac.uk/teaching/courses/2026-2027/cgt/"
+    kind: course
+  - id: wego-cmu-electronic-marketplaces-2013
+    label: "Carnegie Mellon, Foundations of Electronic Marketplaces course"
+    url: "https://www.cs.cmu.edu/~sandholm/cs15-892F13/cs15-892.htm"
+    kind: course
+  - id: wego-edinburgh-agta-2026
+    label: "University of Edinburgh, Algorithmic Game Theory and Applications course materials"
+    url: "https://opencourse.inf.ed.ac.uk/agta/course-materials"
+    kind: course
+  - id: wego-stanford-cs224m-2014
+    label: "Stanford CS224M, Multi-Agent Systems course"
+    url: "https://web.stanford.edu/class/cs224m/"
+    kind: course
+  - id: wego-upenn-cgt-course
+    label: "University of Pennsylvania, Computational Game Theory course"
+    url: "https://www.cis.upenn.edu/~mkearns/teaching/cgt/"
+    kind: course
+  - id: wego-wisconsin-cs540-games
+    label: "University of Wisconsin CS540, Games I lecture"
+    url: "https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/documents/lec21.pdf"
+    kind: course
+  - id: wego-bosansky-2016-bibliography
+    label: "Bošanský et al., Algorithms for Computing Strategies in Two-Player Simultaneous Move Games bibliography"
+    url: "https://dke.maastrichtuniversity.nl/m.winands/documents/sm-journal.pdf"
+    kind: bibliography
+  - id: wego-tak-2014-bibliography
+    label: "Tak, Lanctot and Winands, Monte Carlo Tree Search Variants for Simultaneous Move Games bibliography"
+    url: "https://mlanctot.info/files/papers/cig14-smmctsggp.pdf"
+    kind: bibliography
+  - id: wego-gray-2021-bibliography
+    label: "Gray et al., Human-Level Performance in No-Press Diplomacy via Equilibrium Search bibliography"
+    url: "https://arxiv.org/pdf/2010.02923"
+    kind: bibliography
+  - id: wego-lanctot-publications
+    label: "Marc Lanctot, research publications list"
+    url: "https://mlanctot.info/"
+    kind: bibliography
+  - id: wego-winands-publications
+    label: "Mark Winands, scientific publications list"
+    url: "https://dke.maastrichtuniversity.nl/m.winands/publications.html"
+    kind: bibliography
+  - id: wego-noam-brown-publications
+    label: "Noam Brown, research and publications page"
+    url: "https://noambrown.com/"
+    kind: bibliography
+  - id: wego-mikerah-awesome-agt
+    label: "Mikerah, Awesome Algorithmic Game Theory"
+    url: "https://github.com/Mikerah/awesome-algorithmic-game-theory"
+    kind: community
+  - id: wego-lifrordi-agt
+    label: "lifrordi, Modern Algorithmic Game Theory course repository"
+    url: "https://github.com/lifrordi/algorithmic_game_theory"
+    kind: community
+  - id: wego-chuangyc-awesome-marl
+    label: "chuangyc, Awesome Multiagent Learning"
+    url: "https://github.com/chuangyc/awesome-multiagent-learning"
+    kind: community
+  - id: wego-pjschnei-marl-tutorials
+    label: "pjschneiCMU, Multi-Agent Reinforcement Learning tutorials"
+    url: "https://github.com/pjschneiCMU/marl-tutorials"
+    kind: community
+  - id: wego-manjunath-game-theory-books
+    label: "manjunath5496, Game Theory Books"
+    url: "https://github.com/manjunath5496/Game-Theory-Books"
+    kind: community
+  - id: wego-weichengtseng-awesome-multi-agent
+    label: "WeiChengTseng, Awesome Multi-Agent Learning"
+    url: "https://github.com/WeiChengTseng/awesome-multi-agent"
+    kind: community
 voices:
   - name: "Tommy Thompson"
     known: "AI and Games host and game-AI educator who explains practical game AI, research, and production examples."
@@ -151,4 +223,34 @@ voices:
       - label: "Craig Reynolds site"
         url: "https://www.red3d.com/cwr/"
         kind: site
+  - name: "Marc Lanctot"
+    known: "Multiagent-learning and game-theory researcher who helped develop OpenSpiel and simultaneous-move MCTS, and teaches through public seminars."
+    links:
+      - label: "Marc Lanctot research site"
+        url: "https://mlanctot.info/"
+        kind: site
+      - label: "COMARL seminar"
+        url: "https://www.youtube.com/watch?v=ycQqCT7FFRw"
+        kind: video
+  - name: "Noam Brown"
+    known: "Researcher who co-created Libratus, Pluribus and CICERO, the Diplomacy agent, and explains search and self-play in public lectures."
+    links:
+      - label: "Noam Brown research site"
+        url: "https://noambrown.com/"
+        kind: site
+      - label: "Parables on the Power of Planning in AI"
+        url: "https://www.youtube.com/watch?v=eaAonE58sLU"
+        kind: talk
+  - name: "David Churchill"
+    known: "StarCraft AI researcher, UAlbertaBot author and AIIDE competition organiser who teaches practical RTS search and game AI."
+    links:
+      - label: "David Churchill research site"
+        url: "https://davechurchill.ca/"
+        kind: site
+      - label: "COMP 4303 lecture archive"
+        url: "https://davechurchill.ca/teaching/"
+        kind: site
+      - label: "Dave Churchill YouTube channel"
+        url: "https://www.youtube.com/@DaveChurchill"
+        kind: video
 ---

@@ -7,7 +7,7 @@ does: "Turns vague reports such as dumb or unfair into repeatable failures, comp
 ask: "Which test would distinguish a weak decision from a bad presentation or an exploit in the rules?"
 cues: ["A dashboard of matches and rating movement", "A debug overlay showing the active decision", "A playtest note beside a parameter revision"]
 trouble: "Only win rate is measured, test opponents are too narrow, or tuning fixes one matchup while creating another blind spot."
-children: [ai-vs-ai, skill-rating, playtesting, exploit-search, debug-visualisation, parameter-tuning, tuning-loop]
+children: [ai-vs-ai, skill-rating, playtesting, exploit-search, exploitability, debug-visualisation, parameter-tuning, tuning-loop]
 sources:
   - work: dill-what-is-game-ai
     page: "p. 4, Simplicity and Scalability"

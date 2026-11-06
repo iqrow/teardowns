@@ -56,6 +56,17 @@ variants:
           - work: shannon-programming-computer-chess
             page: "Section 2, General Considerations"
             quote: "In chess there is no chance element apart from the original choice of which player has the first move. This is in contrast with card games, backgammon, etc. Furthermore, in chess each of the two opponents has \"perfect information\" at each move as to all previous moves (in contrast with Kriegspiel, for example)."
+      - id: genre-simultaneous
+        name: Simultaneous turns
+        plain: "Every side writes its orders in secret at the same time, then the game reveals and resolves them all together. The AI must commit before it sees the player's orders, just as the player must."
+        why: "It counts as simultaneous when every side commits hidden orders before any are revealed and one resolution applies them all. How the turn ends (a timer, everyone ready, a deadline days away) and the setting do not decide it."
+        sources:
+          - work: avalon-hill-the-rules-of-diplomacy
+            page: "p. 6, How to Play: Overview"
+            quote: "Immediately following this period of “diplomacy,” each player secretly writes an order for each of his or her units on a slip of paper. When all players have written their orders, the orders are simultaneously revealed, and then the orders are all resolved."
+          - work: matrix-games-wego-world-war-ii-overlord-dev
+            page: "Dev Diary #1"
+            quote: "in a WEGO system both players issue their orders during the planning phase, and then the game executes them simultaneously in a resolution phase"
   - label: Platform
     items:
       - id: platform-computer

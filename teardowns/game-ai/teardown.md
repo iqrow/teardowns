@@ -11,9 +11,13 @@ assembly:
     text: Build a navigation graph of the map, find routes with A*, price routes by distance, terrain and danger, and steer single units and groups along them.
     adds: [navigation-graph, pathfinding, path-cost, steering, group-movement]
     makes: movement
+  - title: Plan against hidden orders
+    text: "Where both sides order at once, list a few whole plans for each side, predict the opponent's likely orders, score every pairing in a payoff table, and search for a mix of plans the opponent cannot easily exploit. Keep the mix close to human play where people must read it, then roll for this turn's plan."
+    adds: [candidate-orders, order-prediction, payoff-matrix, equilibrium-search, mixed-strategy, prediction-layers, human-regularisation]
+    makes: simultaneous-moves
   - title: Choose how it decides
-    text: Pick a decision architecture and write the scores and curves it chooses with. Then set how often it decides again, how long it sticks with a choice, how much chance it uses, how far it looks ahead and how much time it may spend.
-    adds: [evaluation-function, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget]
+    text: Pick a decision architecture, write the scores and curves it chooses with, and give search a fast copy of the rules to try orders on. Then set how often it decides again, how long it sticks with a choice, how much chance it uses, how far it looks ahead and how much time it may spend, and add the simultaneous-move planner where both sides order at once.
+    adds: [evaluation-function, forward-model, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
     makes: decision-core
   - title: Fight the battles
     text: Map where each side is strong, score places to stand, choose targets, give squads roles, and set when they pull back.
@@ -40,8 +44,8 @@ assembly:
     adds: [difficulty-levels, handicaps, reaction-time, dynamic-difficulty, deliberate-mistakes, win-rate, rubber-band-loop]
     makes: difficulty
   - title: Test and tune
-    text: Draw the AI's reasoning on screen, run batches of AI-versus-AI matches, rate the versions, hunt for exploits, tune the numbers and watch people play.
-    adds: [debug-visualisation, ai-vs-ai, skill-rating, exploit-search, parameter-tuning, playtesting, tuning-loop]
+    text: Draw the AI's reasoning on screen, run batches of AI-versus-AI matches, rate the versions, hunt for exploits and measure what a perfect counter would win, tune the numbers and watch people play.
+    adds: [debug-visualisation, ai-vs-ai, skill-rating, exploit-search, exploitability, parameter-tuning, playtesting, tuning-loop]
     makes: evaluation
   - title: Seat the opponent
     text: Run the sense, think and act loop through every layer, and put the finished opponent across the table from the player.
@@ -49,4 +53,4 @@ assembly:
     makes: ai-opponent
 ---
 
-An AI opponent is a program that plays a game against a person. It runs one loop many times a second or once a turn: it reads what it knows of the game, decides, and acts through units that must move and fight. Its decisions sit in layers. A strategic layer picks goals, the army to field and the economy to pay for it, a tactical layer runs each fight, and movement carries out the orders. The goal is the player's experience, not the win, so difficulty, personality and legibility make the AI a rival people can read, beat and want to face again, and testing against other AIs and against people finds the blind spots a player could exploit every game.
+An AI opponent is a program that plays a game against a person. It runs one loop many times a second or once a turn: it reads what it knows of the game, decides, and acts through units that must move and fight. Its decisions sit in layers. A strategic layer picks goals, the army to field and the economy to pay for it, a tactical layer runs each fight, and movement carries out the orders. Where both sides order at once, it must also predict the other side's sealed orders and mix its own plans, because a plan that never varies can be countered before it lands. The goal is the player's experience, not the win, so difficulty, personality and legibility make the AI a rival people can read, beat and want to face again, and testing against other AIs and against people finds the blind spots a player could exploit every game.

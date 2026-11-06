@@ -8,6 +8,8 @@ ask: "What hidden plan best explains the evidence, and how much uncertainty rema
 cues: ["A belief panel ranks candidate strategies", "A predicted technology or attack appears before full confirmation", "Scouting updates the confidence of a plan rather than replacing it blindly"]
 trouble: "The model treats a noisy observation as certainty, confuses a decoy with the plan or cannot represent a new strategy."
 deeper: "Observations, latent strategies, plan recognition, belief updates, uncertainty, prediction horizon and model failure."
+links:
+  - {to: order-prediction, rel: see also}
 sources:
   - work: hostetler-limited-reconnaissance
     page: "Abstract, p. 1"

@@ -9,6 +9,8 @@ cues: ["Two good options chosen in different runs", "A weighted-choice trace sho
 range: "Deterministic top choice, weighted choice among the best few options, or stochastic search with a bounded random seed."
 trouble: "The opponent repeats a solved script, or randomness selects an action that the player can see is wrong."
 at: [-0.68, 0.3, 0.08]
+links:
+  - {to: mixed-strategy, rel: see also}
 sources:
   - work: graham-utility-theory
     page: "Section 9.6"
