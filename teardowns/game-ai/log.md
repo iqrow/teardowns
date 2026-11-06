@@ -19,3 +19,7 @@ Open:
 - The Ontañón survey copy at cs.mun.ca timed out; the cited copy is the one at davechurchill.ca.
 - Canon cited on no node: Osborne and Rubinstein's A Course in Game Theory and Maschler, Solan and Zamir's Game Theory. The publisher pages opened showed metadata only.
 - The simultaneous-move branch has no shipped commercial game whose AI is documented in depth. Combat Mission's designer-written plans and Melis's Planet Wars bot are the closest; Solium Infernum's developer notes were found but not cited.
+- 2026-11-06: Added Exponential response curves to the Curve catalogue, covering saturating and decaying shapes. The topic survey is still to run.
+- 2026-11-06: Added Transposition table under Decision-making architecture, with cached search results, hash keys, collision handling and stale-entry controls. The topic survey is still to run.
+- 2026-11-06: Added an A/A test null control to AI versus AI, where identical builds should score even. The topic survey is still to run.
+- 2026-11-06: Added holdout validation to Parameter tuning, checking seeds, maps or positions kept out of selection. The topic survey is still to run.

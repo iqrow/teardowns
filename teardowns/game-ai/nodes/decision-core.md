@@ -7,7 +7,7 @@ does: "Balances reactivity, authorial control, adaptability, clarity and computa
 ask: "What structure selects actions here, and what does it make easy or difficult to tune?"
 cues: ["A graph, tree, score table, plan chain, rule list or learned network in a debug view", "A visible decision trace that names the selected action", "Different actions selected when the same evidence changes"]
 trouble: "The structure is hard to inspect, cannot express a needed choice, or produces valid actions that look foolish to the player."
-children: [evaluation-function, forward-model, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
+children: [evaluation-function, forward-model, transposition-table, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
 variants:
   - label: Architecture
     items:

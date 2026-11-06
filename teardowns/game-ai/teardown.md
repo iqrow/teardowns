@@ -17,7 +17,7 @@ assembly:
     makes: simultaneous-moves
   - title: Choose how it decides
     text: Pick a decision architecture, write the scores and curves it chooses with, and give search a fast copy of the rules to try orders on. Then set how often it decides again, how long it sticks with a choice, how much chance it uses, how far it looks ahead and how much time it may spend, and add the simultaneous-move planner where both sides order at once.
-    adds: [evaluation-function, forward-model, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
+    adds: [evaluation-function, forward-model, transposition-table, response-curves, decision-frequency, commitment, randomness, planning-horizon, ai-budget, simultaneous-moves]
     makes: decision-core
   - title: Fight the battles
     text: Map where each side is strong, score places to stand, choose targets, give squads roles, and set when they pull back.
