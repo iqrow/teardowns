@@ -8,7 +8,7 @@ ask: "Which threat can cause the most irreversible loss before the next decision
 cues: ["A danger gauge rises near a base or route", "Enemy forces carry a projected reach or threat radius", "The strategic plan changes when a high-risk force is detected"]
 range: "Relative risk can be represented as a signed or normalised value over space, time and asset importance."
 trouble: "The measure ignores reach, timing or target value, so a distant army receives the wrong response."
-deeper: "Threat sources, reach and timing, target value, uncertainty, aggregation and confidence decay."
+deeper: "Threat sources, reach and timing, target value, uncertainty, aggregation and confidence decay; base defence can size defenders per enemy in each owned region while discounting one likely worker scout."
 sources:
   - work: mark-modular-influence-maps
     page: "Section 30.1, p. 2"
@@ -16,5 +16,13 @@ sources:
   - work: mark-modular-influence-maps
     page: "Section 30.4.2, p. 8"
     quote: "This differs from the location map in that it represents not where an agent could go, but what it could potentially threaten."
+  - work: ualbertabot-source
+    page: "CombatCommander.cpp, updateDefenseSquads()"
+    url: "https://raw.githubusercontent.com/davechurchill/ualbertabot/master/UAlbertaBot/Source/CombatCommander.cpp"
+    quote: "// start off assuming all enemy units in region are just workers int numDefendersPerEnemyUnit = 2;"
+  - work: ualbertabot-source
+    page: "CombatCommander.cpp, updateDefenseSquads()"
+    url: "https://raw.githubusercontent.com/davechurchill/ualbertabot/master/UAlbertaBot/Source/CombatCommander.cpp"
+    quote: "// we can ignore the first enemy worker in our region since we assume it is a scout"
 at: [0.15, -0.25, 0.03]
 ---
