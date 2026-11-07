@@ -8,7 +8,7 @@ ask: "What should be remembered between matches, how stable is that evidence, an
 cues: ["A match ledger records outcomes by opponent or strategy", "The next opening distribution changes after prior results", "Old policies remain available as alternatives instead of being forgotten"]
 trouble: "The record overfits one opponent, becomes stale when the opponent adapts or collapses variety into one predictable answer."
 pattern: pattern-explore-exploit
-deeper: "Experience records, payoff matrices, opponent identity, recency, decay, portfolio choice and exploration schedules."
+deeper: "Experience records, payoff matrices, opponent identity, recency, decay, portfolio choice and exploration schedules; a per-opponent opening ledger can choose a high-performing opening while reserving probability for exploration."
 sources:
   - work: ontanon-rts-survey
     page: "Section II-B, p. 3"
@@ -16,5 +16,16 @@ sources:
   - work: tavares-strategy-selection
     page: "Section 3.2, p. 3"
     quote: "A metagame player can adopt a Nash Equilibrium strategy so that it has theoretical guarantees in its expected payoff over a sequence of matches."
+  - work: steamhammer-opening-selection
+    page: "Opening selection, paragraphs 1–4"
+    quote: "once it has played a given opponent enough times it prefers to choose openings that have won in past games."
+  - work: steamhammer-opponent-model-source
+    page: "OpponentModel.cpp, considerOpenings()"
+    url: "https://raw.githubusercontent.com/kant2002/steamhammer/master/Steamhammer/Source/OpponentModel.cpp"
+    quote: "OpeningInfoType & info = _summary.openingInfo[record->getOpeningName()]; if (record->getMapName() == BWAPI::Broodwar->mapFileName())"
+  - work: steamhammer-opponent-model-source
+    page: "OpponentModel.cpp, singleStrategyEnemyOpenings()"
+    url: "https://raw.githubusercontent.com/kant2002/steamhammer/master/Steamhammer/Source/OpponentModel.cpp"
+    quote: "// We're not exploring. Choose an opening with the best weighted win rate."
 at: [-0.35, -0.20, 0.03]
 ---

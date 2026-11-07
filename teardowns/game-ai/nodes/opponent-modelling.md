@@ -7,7 +7,7 @@ does: "Provides a belief about what the opponent is likely to do next, so the AI
 ask: "What hidden plan best explains the evidence, and how much uncertainty remains between its plausible alternatives?"
 cues: ["A belief panel ranks candidate strategies", "A predicted technology or attack appears before full confirmation", "Scouting updates the confidence of a plan rather than replacing it blindly"]
 trouble: "The model treats a noisy observation as certainty, confuses a decoy with the plan or cannot represent a new strategy."
-deeper: "Observations, latent strategies, plan recognition, belief updates, uncertainty, prediction horizon and model failure."
+deeper: "Observations, latent strategies, plan recognition, belief updates, uncertainty, prediction horizon and model failure; opening prediction can use a Bayesian model learned from replay-labelled openings."
 links:
   - {to: order-prediction, rel: see also}
 sources:
@@ -21,5 +21,13 @@ sources:
     page: "Book excerpt, Fighting Game Strike Prediction"
     url: "https://www.gamedeveloper.com/programming/book-excerpt-ai-for-game-developers"
     quote: "We want the computer opponent to somehow learn to anticipate which strike the player will throw next given the most recently thrown strikes and some history of the player's strike patterns."
+  - work: synnaeve-bessiere-opening-prediction
+    page: "Abstract, p. 1"
+    url: "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-00607277&fl=title_s,abstract_s&wt=json"
+    quote: "This paper presents a Bayesian model to predict the opening (first strategy) of opponents in real-time strategy (RTS) games."
+  - work: synnaeve-bessiere-opening-prediction
+    page: "Abstract, p. 1"
+    url: "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-00607277&fl=title_s,abstract_s&wt=json"
+    quote: "The parameters of this model are learned from replays (game logs), labeled with openings."
 at: [-0.48, 0.30, 0.03]
 ---
