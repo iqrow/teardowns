@@ -7,7 +7,29 @@ does: "Reaches a chosen economic or military state quickly, while leaving enough
 ask: "What should be started next so prerequisites, income and timing reach the intended state before the opponent can answer?"
 cues: ["A visible queue follows a repeatable opening sequence", "Prerequisite structures appear before advanced units", "A first force or expansion arrives at a deliberate time"]
 trouble: "A fixed opening reaches the wrong technology or army when the opponent takes a different line."
-deeper: "Goal states, prerequisite graphs, concurrent actions, makespan, replanning windows and safe deviations; a supply deadlock check queues a supply provider first when the next item lacks supply and none is in progress."
+children: [opening-book-exits, build-order-search]
+variants:
+  - label: Timing
+    items:
+      - id: timing-absolute
+        name: Absolute time
+        plain: "A step scheduled against the game clock, whether it happens immediately or at a named time."
+        why: "It counts as absolute-time timing when the command is keyed to a clock value rather than to a game event."
+        sources:
+          - work: wraitii-build-order-workbench
+            page: "README, Commands"
+            quote: "Commands tell villagers what to do and when. They can be immediate (happen right away or `at` a specific time) or triggered `after` an in-game event."
+      - id: timing-event
+        name: Event trigger
+        plain: "A step released by a condition in the running game, such as a completed building, a trained villager or a depleted resource."
+        why: "It counts as event-triggered timing when the next command waits for an observed state change instead of a fixed clock value."
+        sources:
+          - work: wraitii-build-order-workbench
+            page: "README, Reacting to events with `after`"
+            quote: "Instead of hard-coding a time, `after` lets you react to things that happen during the build."
+          - work: wraitii-build-order-workbench
+            page: "README, Reacting to events with `after`"
+            quote: "`after villager 18` | When your 18th villager finishes training"
 sources:
   - work: churchill-build-order-optimization
     page: "Introduction, p. 1"

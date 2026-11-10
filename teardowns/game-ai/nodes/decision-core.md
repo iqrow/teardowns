@@ -77,6 +77,20 @@ variants:
           - work: tak-mcts-simultaneous-move
             page: "Abstract, p. 1"
             quote: "The extension to simultaneous move games, where all players choose moves simultaneously each turn, is non-trivial due to the complexity of this class of games."
+      - id: arch-case-based
+        name: Case-based planning
+        plain: "A planner that retrieves plans learned from human demonstrations and adapts them through a dependency graph."
+        why: "It counts as case-based when reuse and adaptation of stored plans organise the decision rather than only generating a plan from scratch."
+        sources:
+          - work: ontanon-darmok2
+            page: "Abstract, p. 1"
+            quote: "One of the main bottlenecks in deploying case-based planning systems is authoring the case-base of plans. In this paper we will present a collection of algorithms that can be used to automatically learn plans from human demonstrations."
+          - work: ontanon-darmok2
+            page: "Abstract, p. 1"
+            quote: "Our algorithms are based on the basic idea of a plan dependency graph, which is a graph that captures the dependencies among actions in a plan."
+          - work: ontanon-darmok-plan-adaptation
+            page: "Abstract, p. 1"
+            quote: "when a plan is retrieved, a plan dependency graph is inferred to capture the relations between actions in the plan. The plan is then adapted in real-time using its plan dependency graph."
       - id: arch-learned
         name: Learned policy
         plain: "A policy learned from examples, rewards or demonstrations that maps state information to actions."
