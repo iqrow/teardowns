@@ -1,0 +1,31 @@
+{
+  "look": {
+    "parts": [
+      {
+        "slot": "card",
+        "shape": "plane",
+        "size": [1.75, 0.95],
+        "material": "screen",
+        "color": "#29475a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 190\"><rect x=\"8\" y=\"8\" width=\"334\" height=\"174\" rx=\"12\" fill=\"#172b3a\" stroke=\"#88c9d9\" stroke-width=\"4\"/><text x=\"22\" y=\"34\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">PALETTE TYPE</text><text x=\"22\" y=\"69\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">qualitative</text><rect x=\"101\" y=\"56\" width=\"32\" height=\"18\" fill=\"#e76565\"/><rect x=\"137\" y=\"56\" width=\"32\" height=\"18\" fill=\"#72c4db\"/><rect x=\"173\" y=\"56\" width=\"32\" height=\"18\" fill=\"#e4b84d\"/><text x=\"22\" y=\"108\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">sequential</text><rect x=\"101\" y=\"95\" width=\"25\" height=\"18\" fill=\"#d6edf4\"/><rect x=\"129\" y=\"95\" width=\"25\" height=\"18\" fill=\"#78b3c9\"/><rect x=\"157\" y=\"95\" width=\"25\" height=\"18\" fill=\"#34718b\"/><rect x=\"185\" y=\"95\" width=\"25\" height=\"18\" fill=\"#17394d\"/><text x=\"22\" y=\"147\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">diverging</text><rect x=\"101\" y=\"134\" width=\"30\" height=\"18\" fill=\"#4d8fb4\"/><rect x=\"135\" y=\"134\" width=\"30\" height=\"18\" fill=\"#edf0e6\"/><rect x=\"169\" y=\"134\" width=\"30\" height=\"18\" fill=\"#dc715f\"/><path d=\"M226 134v18\" stroke=\"#f4d36e\" stroke-width=\"3\"/></svg>"
+      }
+    ]
+  },
+  "items": {
+    "palette-qualitative": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 190\"><rect x=\"8\" y=\"8\" width=\"334\" height=\"174\" rx=\"12\" fill=\"#172b3a\" stroke=\"#e4b84d\" stroke-width=\"4\"/><text x=\"22\" y=\"36\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"17\">QUALITATIVE</text><text x=\"22\" y=\"58\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">categories, no order</text><rect x=\"27\" y=\"86\" width=\"54\" height=\"44\" rx=\"6\" fill=\"#e76565\"/><rect x=\"91\" y=\"86\" width=\"54\" height=\"44\" rx=\"6\" fill=\"#72c4db\"/><rect x=\"155\" y=\"86\" width=\"54\" height=\"44\" rx=\"6\" fill=\"#e4b84d\"/><rect x=\"219\" y=\"86\" width=\"54\" height=\"44\" rx=\"6\" fill=\"#78c997\"/><path d=\"M35 151h220\" stroke=\"#88c9d9\" stroke-width=\"2\" stroke-dasharray=\"4 5\"/></svg>"
+      }
+    },
+    "palette-sequential": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 190\"><rect x=\"8\" y=\"8\" width=\"334\" height=\"174\" rx=\"12\" fill=\"#172b3a\" stroke=\"#72c4db\" stroke-width=\"4\"/><text x=\"22\" y=\"36\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"17\">SEQUENTIAL</text><text x=\"22\" y=\"58\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">low to high</text><rect x=\"27\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#d6edf4\"/><rect x=\"91\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#8cc4d4\"/><rect x=\"155\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#4d96b3\"/><rect x=\"219\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#1c4e68\"/><path d=\"M33 151h238\" stroke=\"#f4d36e\" stroke-width=\"3\"/><path d=\"M265 145l9 6-9 6\" fill=\"none\" stroke=\"#f4d36e\" stroke-width=\"3\"/></svg>"
+      }
+    },
+    "palette-diverging": {
+      "svg": {
+        "card": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 190\"><rect x=\"8\" y=\"8\" width=\"334\" height=\"174\" rx=\"12\" fill=\"#172b3a\" stroke=\"#e76565\" stroke-width=\"4\"/><text x=\"22\" y=\"36\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"17\">DIVERGING</text><text x=\"22\" y=\"58\" fill=\"#dce9ee\" font-family=\"sans-serif\" font-size=\"11\">critical midpoint</text><rect x=\"27\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#4d8fb4\"/><rect x=\"91\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#a8ced7\"/><rect x=\"155\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#edf0e6\"/><rect x=\"219\" y=\"86\" width=\"58\" height=\"44\" rx=\"5\" fill=\"#dc715f\"/><path d=\"M184 78v60\" stroke=\"#f4d36e\" stroke-width=\"3\" stroke-dasharray=\"5 4\"/><text x=\"179\" y=\"157\" fill=\"#f4d36e\" font-family=\"sans-serif\" font-size=\"11\">MID</text></svg>"
+      }
+    }
+  }
+}

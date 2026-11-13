@@ -1,0 +1,13 @@
+{
+  "look": {
+    "parts": [
+      {
+        "shape": "plane",
+        "size": [1.55, 0.9],
+        "material": "screen",
+        "color": "#29475a",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 310 180\"><rect x=\"8\" y=\"8\" width=\"294\" height=\"164\" rx=\"12\" fill=\"#172b3a\" stroke=\"#88c9d9\" stroke-width=\"4\"/><path d=\"M28 64h254M28 112h254\" stroke=\"#34566b\" stroke-width=\"2\"/><text x=\"22\" y=\"34\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">IDENTITY</text><circle cx=\"92\" cy=\"51\" r=\"10\" fill=\"#e4b84d\"/><circle cx=\"143\" cy=\"51\" r=\"10\" fill=\"#e4b84d\"/><path d=\"M102 51h31\" stroke=\"#f1d782\" stroke-width=\"3\"/><text x=\"22\" y=\"82\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">RELATION</text><circle cx=\"91\" cy=\"99\" r=\"9\" fill=\"#e76565\"/><circle cx=\"143\" cy=\"99\" r=\"9\" fill=\"#e76565\"/><path d=\"M100 99h34\" stroke=\"#e76565\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><text x=\"22\" y=\"130\" fill=\"#fff\" font-family=\"sans-serif\" font-size=\"14\">STATUS / FOCUS</text><circle cx=\"93\" cy=\"150\" r=\"10\" fill=\"#72c4db\"/><circle cx=\"93\" cy=\"150\" r=\"17\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><path d=\"M143 143v14M136 150h14\" stroke=\"#72c4db\" stroke-width=\"3\"/></svg>"
+      }
+    ]
+  }
+}
