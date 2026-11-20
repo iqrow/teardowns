@@ -8,8 +8,8 @@ assembly:
     adds: [tile-grid, map-size, map-generation, fog-of-war, start-position, exploration-rewards]
     makes: map
   - title: Price expansion
-    text: Make a settler that costs something real, rules for city sites and borders, and a brake that grows with empire size.
-    adds: [settler, city-site, territory, expansion-brake, tall-vs-wide, empire-size-loop]
+    text: Make a settler that costs something real, rules for city sites and borders, a border-growth trigger, and a brake that grows with empire size.
+    adds: [settler, city-site, territory, border-growth-trigger, expansion-brake, tall-vs-wide, empire-size-loop]
     makes: expansion
   - title: Wire the economy
     text: Give tiles yields, let cities grow and build, add improvements, scarce resources and upkeep, and check how fast the snowball rolls.
